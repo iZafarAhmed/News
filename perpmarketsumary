@@ -1249,6 +1249,7 @@
     {
       "url": "https://www.nasdaq.com/market-activity",
       "title": "Market Activity",
-      "snippet": "symbol, activity, sentiment. NVDA, +8.03%, BUY +2. NVIDIA Corporation Common Stock. TSLA, -5.34%, SELL -5. Tesla, Inc. Common Stock. SPY, +2.64%, BUY +8.
+      "snippet": "symbol, activity, sentiment. NVDA, +8.03%, BUY +2. NVIDIA Corporation Common Stock. TSLA, -5.34%, SELL -5. Tesla, Inc. Common Stock. SPY, +2.64%, BUY +8..."
+    },
   ]
 }
