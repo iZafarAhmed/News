@@ -1,5 +1,180 @@
 [
   {
+    "title": "Adobe hit with proposed class-action, accused of misusing authors’ work in AI training",
+    "summary": "Adobe is facing a proposed class-action lawsuit alleging it misused authors' works for AI training.",
+    "category": "AI",
+    "publication_time": "26 minutes ago",
+    "link": "https://techcrunch.com/2025/12/17/adobe-hit-with-proposed-class-action-accused-of-misusing-authors-work-in-ai-training/"
+  },
+  {
+    "title": "Jared Isaacman confirmed as next head of NASA",
+    "summary": "Jared Isaacman has been confirmed as the next head of NASA.",
+    "category": "In Brief",
+    "publication_time": "3 hours ago",
+    "link": "https://techcrunch.com/2025/12/17/jared-isaacman-confirmed-as-next-head-of-nasa/"
+  },
+  {
+    "title": "YouTube to pull music data from Billboard’s charts because it doesn’t like its ranking formula",
+    "summary": "YouTube plans to stop providing music data to Billboard's charts due to dissatisfaction with its ranking formula.",
+    "category": "Media & Entertainment",
+    "publication_time": "4 hours ago",
+    "link": "https://techcrunch.com/2025/12/17/youtube-to-pull-music-data-from-billboards-charts-because-it-doesnt-like-its-ranking-formula/"
+  },
+  {
+    "title": "YouTube will stream the Oscars — exclusively — beginning in 2029",
+    "summary": "YouTube will exclusively stream the Oscars starting in 2029.",
+    "category": "Media & Entertainment",
+    "publication_time": "5 hours ago",
+    "link": "https://techcrunch.com/2025/12/17/youtube-will-stream-the-oscars-exclusively-beginning-in-2029/"
+  },
+  {
+    "title": "Meta is pausing its dream of sharing Quest’s Horizon OS with third-party headset makers",
+    "summary": "Meta is halting plans to share Quest’s Horizon OS with third-party headset makers.",
+    "category": "Hardware",
+    "publication_time": "6 hours ago",
+    "link": "https://techcrunch.com/2025/12/17/meta-is-pausing-its-dream-of-sharing-quests-horizon-os-with-third-party-headset-makers/"
+  },
+  {
+    "title": "Cisco says Chinese hackers are exploiting its customers with a new zero-day",
+    "summary": "Cisco reports that Chinese hackers are exploiting its customers using a new zero-day vulnerability.",
+    "category": "Security",
+    "publication_time": "6 hours ago",
+    "link": "https://techcrunch.com/2025/12/17/cisco-says-chinese-hackers-are-exploiting-its-customers-with-a-new-zero-day/"
+  },
+  {
+    "title": "Facebook is testing a link-posting limit for professional accounts and pages",
+    "summary": "Facebook is testing restrictions on link postings for professional accounts and pages.",
+    "category": "Social",
+    "publication_time": "7 hours ago",
+    "link": "https://techcrunch.com/2025/12/17/facebook-is-testing-a-link-posting-limit-for-professional-accounts-and-pages/"
+  },
+  {
+    "title": "Amazon appoints longtime AWS exec Peter DeSantis to lead new AI org",
+    "summary": "Amazon has appointed AWS executive Peter DeSantis to head its new AI organization.",
+    "category": "In Brief",
+    "publication_time": "7 hours ago",
+    "link": "https://techcrunch.com/2025/12/17/amazon-appoints-longtime-aws-exec-peter-desantis-to-lead-new-ai-org/"
+  },
+  {
+    "title": "Rad Power Bikes files for bankruptcy and is looking to sell the business",
+    "summary": "Rad Power Bikes has filed for bankruptcy and is seeking to sell the company.",
+    "category": "Transportation",
+    "publication_time": "8 hours ago",
+    "link": "https://techcrunch.com/2025/12/17/rad-power-bikes-files-for-bankruptcy-and-is-looking-to-sell-the-business/"
+  },
+  {
+    "title": "Google launches Gemini 3 Flash, makes it the default model in the Gemini app",
+    "summary": "Google has launched Gemini 3 Flash and set it as the default model in the Gemini app.",
+    "category": "AI",
+    "publication_time": "9 hours ago",
+    "link": "https://techcrunch.com/2025/12/17/google-launches-gemini-3-flash-makes-it-the-default-model-in-the-gemini-app/"
+  },
+  {
+    "title": "Coursera and Udemy enter a merger agreement valued at around $2.5B",
+    "summary": "Coursera and Udemy have agreed to merge in a deal valued at approximately $2.5 billion.",
+    "category": "Startups",
+    "publication_time": "9 hours ago",
+    "link": "https://techcrunch.com/2025/12/17/coursera-and-udemy-enter-a-merger-agreement-valued-at-around-2-5b/"
+  },
+  {
+    "title": "Skana Robotics helps fleets of underwater robots communicate with each other",
+    "summary": "Skana Robotics enables communication between fleets of underwater robots.",
+    "category": "Robotics",
+    "publication_time": "Recent",
+    "link": "https://techcrunch.com/2025/12/17/skana-robotics-helps-fleets-of-underwater-robots-communicate-with-each-other/"
+  },
+  {
+    "title": "Radiant Nuclear raises $300M for its semi-sized 1 MW reactor",
+    "summary": "Radiant Nuclear has secured $300 million for its small-scale 1 MW reactor.",
+    "category": "Climate",
+    "publication_time": "9 hours ago",
+    "link": "https://techcrunch.com/2025/12/17/radiant-nuclear-raises-300m-for-its-semi-sized-1-mw-reactor/"
+  },
+  {
+    "title": "Mozilla’s new CEO says AI is coming to Firefox, but will remain a choice",
+    "summary": "Mozilla's new CEO indicates AI will integrate into Firefox but user choice will be preserved.",
+    "category": "AI",
+    "publication_time": "10 hours ago",
+    "link": "https://techcrunch.com/2025/12/17/mozillas-new-ceo-says-ai-is-coming-to-firefox-but-will-remain-a-choice/"
+  },
+  {
+    "title": "Google’s vibe-coding tool Opal comes to Gemini",
+    "summary": "Google's Opal vibe-coding tool is now available in Gemini.",
+    "category": "AI",
+    "publication_time": "10 hours ago",
+    "link": "https://techcrunch.com/2025/12/17/googles-vibe-coding-tool-opal-comes-to-gemini/"
+  },
+  {
+    "title": "Bluesky launches a privacy-focused ‘Find Friends’ feature without invite spam",
+    "summary": "Bluesky has introduced a privacy-centric feature for finding friends without unsolicited invites.",
+    "category": "Social",
+    "publication_time": "9 hours ago",
+    "link": "https://techcrunch.com/2025/12/17/bluesky-launches-a-privacy-focused-find-friends-feature-without-invite-spam/"
+  },
+  {
+    "title": "Warner Bros. Discovery rejects Paramount’s hostile bid, calls offer ‘illusory’",
+    "summary": "Warner Bros. Discovery has turned down Paramount's hostile takeover attempt, deeming it illusory.",
+    "category": "In Brief",
+    "publication_time": "10 hours ago",
+    "link": "https://techcrunch.com/2025/12/17/warner-bros-discovery-rejects-paramounts-hostile-bid-calls-offer-illusory/"
+  },
+  {
+    "title": "Amazon reportedly in talks to invest $10B in OpenAI as circular deals stay popular",
+    "summary": "Amazon is reportedly negotiating a $10 billion investment in OpenAI amid ongoing circular deals.",
+    "category": "In Brief",
+    "publication_time": "13 hours ago",
+    "link": "https://techcrunch.com/2025/12/17/amazon-reportedly-in-talks-to-invest-10b-in-openai-as-circular-deals-stay-popular/"
+  },
+  {
+    "title": "Monzo board reportedly pushed out CEO Anil over IPO timing",
+    "summary": "Monzo's board has reportedly ousted CEO Anil due to disagreements on IPO timing.",
+    "category": "In Brief",
+    "publication_time": "22 hours ago",
+    "link": "https://techcrunch.com/2025/12/16/monzo-board-reportedly-pushed-out-ceo-anil-over-ipo-timing/"
+  },
+  {
+    "title": "Study shows Instacart may be charging some shoppers 20% more for the same product",
+    "summary": "A study suggests Instacart might be overcharging some shoppers by up to 20% for identical items.",
+    "category": "In Brief",
+    "publication_time": "1 day ago",
+    "link": "https://techcrunch.com/2025/12/16/study-shows-instacart-may-be-charging-some-shoppers-20-more-for-the-same-product/"
+  },
+  {
+    "title": "Tesla engaged in deceptive marketing for Autopilot and Full Self-Driving, judge rules",
+    "summary": "A judge has ruled that Tesla used deceptive marketing for Autopilot and Full Self-Driving features.",
+    "category": "Transportation",
+    "publication_time": "1 day ago",
+    "link": "https://techcrunch.com/2025/12/16/tesla-engaged-in-deceptive-marketing-for-autopilot-and-full-self-driving-judge-rules/"
+  },
+  {
+    "title": "How Luminar’s doomed Volvo deal helped drag the company into bankruptcy",
+    "summary": "Luminar's failed Volvo deal contributed to its bankruptcy filing.",
+    "category": "Transportation",
+    "publication_time": "1 day ago",
+    "link": "https://techcrunch.com/2025/12/16/how-luminars-doomed-volvo-deal-helped-drag-the-company-into-bankruptcy/"
+  },
+  {
+    "title": "Slate crosses 150,000 reservations despite waning EV truck enthusiasm",
+    "summary": "Slate has surpassed 150,000 reservations for its EV trucks amid declining interest in the sector.",
+    "category": "Transportation",
+    "publication_time": "1 day ago",
+    "link": "https://techcrunch.com/2025/12/16/slate-crosses-150000-reservations-despite-waning-ev-truck-enthusiasm/"
+  },
+  {
+    "title": "Weeks after raising $100M, investors pump another $180M into hot Indian startup MoEngage",
+    "summary": "MoEngage has secured an additional $180 million in funding shortly after a $100 million raise.",
+    "category": "Enterprise",
+    "publication_time": "20 hours ago",
+    "link": "https://techcrunch.com/2025/12/16/weeks-after-raising-100m-investors-pump-another-180m-into-hot-indian-startup-moengage/"
+  },
+  {
+    "title": "X updates its terms, files countersuit to lay claim to the ‘Twitter’ trademark after newcomer’s challenge",
+    "summary": "X has updated its terms and filed a countersuit to assert rights to the 'Twitter' trademark following a challenge.",
+    "category": "Social",
+    "publication_time": "1 day ago",
+    "link": "https://techcrunch.com/2025/12/16/x-updates-its-terms-files-countersuit-to-lay-claim-to-the-twitter-trademark-after-newcomers-challenge/"
+  },
+  {
     
     "title": "LG and Dolby partner to release the first FlexConnect soundbar",
     "summary": "LG and Dolby have partnered to release the first soundbar featuring Dolby's FlexConnect technology, announced ahead of CES 2026.",
@@ -158,7 +333,7 @@
     "category": "Tech",
     "publication_time": "Dec 15",
     "link": "https://www.theverge.com/tech/844964/how-irobot-invented-the-roomba-and-lost-the-future-of-home-robotics"
-  }
+  },
   {
     
     "title": "Jared Isaacman Confirmed as NASA's Next Administrator",
@@ -318,7 +493,7 @@
     "category": "Tech",
     "publication_time": "Recent",
     "link": "https://www.wired.com/story/google-opal-gemini/"
-  }
+  },
   {
     
     "title": "“A Band-Aid on a giant gash”: Trump’s attacks on science may ruin his AI moonshot",
@@ -478,7 +653,7 @@
     "category": "Cars",
     "publication_time": "12/16/2025",
     "link": "https://arstechnica.com/cars/2025/12/2026-mercedes-cla-first-drive-entry-level-doesnt-mean-basic/"
-  }
+  },
   {
     
     "title": "Amazon reportedly in talks to invest $10 billion in OpenAI",
@@ -638,7 +813,7 @@
     "category": "Entertainment",
     "publication_time": "20 hours ago",
     "link": "https://www.engadget.com/apple-tv-plus-announces-monarch-legacy-of-monsters-spinoff-starring-wyatt-russell-2025-12-17"
-  }
+  },
   {
     
     "title": "CES 2026: The Biggest Tech Show of the Year Is Back. Here's What to Expect",
@@ -798,7 +973,7 @@
     "category": "Home Entertainment",
     "publication_time": "Recent",
     "link": "https://www.cnet.com/tech/home-entertainment/best-tv/"
-  }
+  },
   {
     
     "title": "The Directors of 'Final Destination Bloodlines' May Have Their Next Sci-Fi Epic",
@@ -958,7 +1133,7 @@
     "category": "Entertainment",
     "publication_time": "Recent",
     "link": "https://gizmodo.com/youtube-oscars-2029"
-  }
+  },
   {
     
     "title": "Google's next experimental AI project is called CC, and there's already a waitlist to try it",
