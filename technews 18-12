@@ -861,5 +861,127 @@
     "category": "Gaming",
     "publication_time": "Recent",
     "link": "https://mashable.com/article/animal-crossing-nintendo-switch-2-mouse-controls"
+  },
+```json
+[
+  {
+    "title": "The subtle reason why the iPhone Air is a serious problem for Google",
+    "excerpt": "What came first, the iPhone Air or the Pixel 10?",
+    "url": "https://www.androidpolice.com/the-reason-why-the-iphone-air-is-a-problem-for-google/",
+    "time_ago": "9 hours ago"
+  },
+  {
+    "title": "Google restores the missing Play Store uninstall button for system apps",
+    "excerpt": "Less than a week after it first vanished",
+    "url": "https://www.androidpolice.com/google-play-store-gets-uninstall-button-back/",
+    "time_ago": "10 hours ago"
+  },
+  {
+    "title": "OnePlus just quietly released the only phone you'll need to buy in 2026",
+    "excerpt": "The OnePlus 15R reminds me of vintage OnePlus",
+    "url": "https://www.androidpolice.com/oneplus-15r-hands-on/",
+    "time_ago": "11 hours ago"
+  },
+  {
+    "title": "The OnePlus Watch Lite will do one thing most smartwatches can’t",
+    "excerpt": "Future feature could be an unusual winner",
+    "url": "https://www.androidpolice.com/the-oneplus-watch-lite-will-do-one-thing-most-smartwatches-cant/",
+    "time_ago": "11 hours ago"
+  },
+  {
+    "title": "The OnePlus Pad Go 2 is a cool upgrade, with one big selling point",
+    "excerpt": "So many Android tablets to choose from, why this one?",
+    "url": "https://www.androidpolice.com/the-oneplus-pad-go-2-is-a-cool-upgrade/",
+    "time_ago": "11 hours ago"
+  },
+  {
+    "title": "I always raved about this genius Google Messages feature — but I stopped using it",
+    "excerpt": "A smart feature with an unexpected cost",
+    "url": "https://www.androidpolice.com/i-raved-about-this-google-messages-feature-but-i-stopped-using-it/",
+    "time_ago": "12 hours ago"
+  },
+  {
+    "title": "The most exciting Galaxy phone sold out in minutes — but reality may not match the hype",
+    "excerpt": "Has Samsung learned the lessons of its earliest foldables?",
+    "url": "https://www.androidpolice.com/the-most-exciting-galaxy-phone-sold-out-in-minutes/",
+    "time_ago": "13 hours ago"
+  },
+  {
+    "title": "Samsung hints at new camera features with the next One UI 8.5 beta",
+    "excerpt": "And a comeback of the missing camera modes",
+    "url": "https://www.androidpolice.com/samsung-galaxy-camera-assistant-dual-recording-one-ui-8-5/",
+    "time_ago": "14 hours ago"
+  },
+  {
+    "title": "Retro mobile video shows how far we've come in 23 years, but also how things never change",
+    "excerpt": "The killer application still hasn't been found",
+    "url": "https://www.androidpolice.com/retro-mobile-video-shows-how-far-weve-come-in-23-years-but-also-how-things-never-change/",
+    "time_ago": "14 hours ago"
+  },
+  {
+    "title": "Google Maps isn't my navigator anymore, but I still can't remove it",
+    "excerpt": "Google Maps isn't my navigator anymore, and that's the point",
+    "url": "https://www.androidpolice.com/google-maps-is-always-essential/",
+    "time_ago": "15 hours ago"
+  },
+  {
+    "title": "NotebookLM’s most needed feature just finished rolling out",
+    "excerpt": "Chat history now available for all",
+    "url": "https://www.androidpolice.com/notebooklms-most-needed-feature-just-finished-rolling-out/",
+    "time_ago": "17 hours ago"
+  },
+  {
+    "title": "Google swaps Pixel Launcher search for something worse",
+    "excerpt": "All to push AI mode",
+    "url": "https://www.androidpolice.com/google-swaps-pixel-launcher-search-for-something-worse/",
+    "time_ago": "22 hours ago"
+  },
+  {
+    "title": "Smartphone shipments set to shrink in 2026 and it's not why you think",
+    "excerpt": "Tough times ahead",
+    "url": "https://www.androidpolice.com/smartphone-sales-set-to-shrink-in-2026-and-its-not-why-you-think/",
+    "time_ago": "1 day ago"
+  },
+  {
+    "title": "Gemini for Home update delivers a nasty surprise",
+    "excerpt": "A vital feature is now paywalled",
+    "url": "https://www.androidpolice.com/gemini-for-home-delivers-a-nasty-surprise/",
+    "time_ago": "1 day ago"
+  },
+  {
+    "title": "OnePlus confirmed that it's about to launch a gaming beast",
+    "excerpt": "\"Frighteningly strong\"",
+    "url": "https://www.androidpolice.com/oneplus-confirms-new-turbo-range/",
+    "time_ago": "1 day ago"
+  },
+  {
+    "title": "How to find downloads on your Android phone or tablet",
+    "excerpt": "Learn to manage your device's downloads folder",
+    "url": "https://www.androidpolice.com/find-downloads-android-phone-tablet/",
+    "time_ago": "1 day ago"
+  },
+  {
+    "title": "You can now force Google to prioritize your favorite tech sites globally",
+    "excerpt": "Preferred Sources rolling out worldwide",
+    "url": "https://www.androidpolice.com/googles-preferred-sources-rolling-out-globally-now/",
+    "time_ago": "1 day ago"
+  },
+  {
+    "title": "These 6 apps are keeping my anime culture alive – I haven't touched Crunchyroll in ages",
+    "excerpt": "An otaku shouldn't be without options",
+    "url": "https://www.androidpolice.com/crunchyroll-anime-alternative-apps/",
+    "time_ago": "2 days ago"
+  },
+  {
+    "title": "Google Gemini may streamline your creations with a design update",
+    "excerpt": "Along with a new 'Purchases' section",
+    "url": "https://www.androidpolice.com/google-gemini-android-my-stuff-media-purchases-documents/",
+    "time_ago": "2 days ago"
+  },
+  {
+    "title": "Two weeks with Character.AI pushed me into a strange kind of dread",
+    "excerpt": "I didn't realize how human-like an AI chatbot could end up being",
+    "url": "https://www.androidpolice.com/two-weeks-with-characterai-pushed-into-strange-dread/",
+    "time_ago": "2 days ago"
   }
 ]
