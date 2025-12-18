@@ -966,5 +966,145 @@
     "category": "OnePlus",
     "publication_date": "2025-12-16",
     "link": "https://www.androidpolice.com/oneplus-confirms-new-turbo-range/"
+  },
+  {
+    "title": "Home Assistant's music manager just got a big update",
+    "summary": "Home Assistant's music manager receives a significant update, improving functionality for smart home audio management.",
+    "category": "Smart Home",
+    "publication_date": "2025-12-18",
+    "link": "https://www.howtogeek.com/home-assistants-music-manager-just-got-a-big-update/"
+  },
+  {
+    "title": "ASUS and Lenovo won't build Meta Quest-like VR headsets after all",
+    "summary": "ASUS and Lenovo have backed out of plans to develop VR headsets competing with the Meta Quest series.",
+    "category": "Cutting Edge",
+    "publication_date": "2025-12-18",
+    "link": "https://www.howtogeek.com/asus-and-lenovo-wont-build-meta-quest-like-vr-headsets-after-all/"
+  },
+  {
+    "title": "You'll never guess how the original iPod stored files",
+    "summary": "The original iPod employed a surprising and unconventional file storage method that many users are unaware of.",
+    "category": "Apple",
+    "publication_date": "2025-12-18",
+    "link": "https://www.howtogeek.com/youll-never-guess-how-the-original-ipod-stored-files/"
+  },
+  {
+    "title": "Google made a new RSS reader, but it's not Google Reader",
+    "summary": "Google has launched a new RSS reader tool, separate from the discontinued Google Reader, for feed management.",
+    "category": "Google",
+    "publication_date": "2025-12-18",
+    "link": "https://www.howtogeek.com/google-made-a-new-rss-reader-but-its-not-google-reader/"
+  },
+  {
+    "title": "Luxury cars that feel like supercars without the supercar price",
+    "summary": "Explore luxury vehicles that deliver supercar-like performance and feel at a more accessible price point.",
+    "category": "Automotive",
+    "publication_date": "2025-12-18",
+    "link": "https://www.howtogeek.com/luxury-cars-supercar-feel/"
+  },
+  {
+    "title": "Your Google Wallet isn’t set up right—here’s what you’re missing",
+    "summary": "Many users miss key setup steps in Google Wallet that unlock additional useful features and conveniences.",
+    "category": "Android",
+    "publication_date": "2025-12-18",
+    "link": "https://www.howtogeek.com/your-google-wallet-isnt-set-up-right-heres-what-youre-missing/"
+  },
+  {
+    "title": "I'd never heard of this canceled detective thriller, and now I'm binging it on Netflix",
+    "summary": "A once-canceled detective thriller series is gaining new fans through its availability on Netflix.",
+    "category": "News",
+    "publication_date": "2025-12-18",
+    "link": "https://www.howtogeek.com/absentia-crime-thriller-netflix/"
+  },
+  {
+    "title": "This Christmas movie has 92% on Rotten Tomatoes and I bet you've never seen it",
+    "summary": "A highly-rated 2025 Christmas film on Disney+ with a 92% Rotten Tomatoes score that remains under the radar.",
+    "category": "News",
+    "publication_date": "2025-12-18",
+    "link": "https://www.howtogeek.com/christmas-movie-highly-rated-you-have-never-seen/"
+  },
+  {
+    "title": "Every Netflix subscriber should change these settings now",
+    "summary": "Essential Netflix settings adjustments that can significantly improve your streaming experience.",
+    "category": "News",
+    "publication_date": "2025-12-18",
+    "link": "https://www.howtogeek.com/netflix-change-these-settings/"
+  },
+  {
+    "title": "I made Excel’s doughnut chart change color automatically to track progress, here’s how",
+    "summary": "A guide to customizing Excel doughnut charts for dynamic color changes that visually track progress.",
+    "category": "How-To",
+    "publication_date": "2025-12-18",
+    "link": "https://www.howtogeek.com/microsoft-excel-customize-doughnut-chart-track-progress-dynamically/"
+  },
+  {
+    "title": "SUVs that rarely break down and are perfect for road trips",
+    "summary": "Reliable SUV recommendations known for durability and ideal for long-distance road trips.",
+    "category": "Reviews",
+    "publication_date": "2025-12-18",
+    "link": "https://www.howtogeek.com/reliable-suvs-for-road-trips/"
+  },
+  {
+    "title": "Stop downloading random .exe files, this is the safer way to install apps on Windows",
+    "summary": "Using package managers offers a secure alternative to downloading executable files on Windows.",
+    "category": "How-To",
+    "publication_date": "2025-12-18",
+    "link": "https://www.howtogeek.com/the-security-case-for-package-managers-on-windows/"
+  },
+  {
+    "title": "I set up a VLAN for my smart home and you should too",
+    "summary": "Setting up a VLAN improves security and organization for smart home devices on your network.",
+    "category": "How-To",
+    "publication_date": "2025-12-18",
+    "link": "https://www.howtogeek.com/i-set-up-a-vlan-for-my-smart-home-and-you-should-too/"
+  },
+  {
+    "title": "Stop buying expensive routers: Do this instead",
+    "summary": "Cost-effective alternatives and tips to avoid overspending on high-end Wi-Fi routers.",
+    "category": "How-To",
+    "publication_date": "2025-12-18",
+    "link": "https://www.howtogeek.com/please-stop-wasting-money-on-expensive-wi-fi-routers/"
+  },
+  {
+    "title": "How I forced Spotify to recommend better podcasts",
+    "summary": "Practical techniques to refine and improve Spotify's podcast recommendation algorithm.",
+    "category": "How-To",
+    "publication_date": "2025-12-18",
+    "link": "https://www.howtogeek.com/how-i-forced-spotify-to-recommend-better-podcasts/"
+  },
+  {
+    "title": "What an 'agentic OS' really means for Windows",
+    "summary": "An explanation of the agentic OS concept and its potential impact on future Windows versions.",
+    "category": "News",
+    "publication_date": "2025-12-18",
+    "link": "https://www.howtogeek.com/what-is-an-agentic-os-and-why-microsoft-thinks-windows-will-soon-do-your-work-for-you/"
+  },
+  {
+    "title": "6 surprising things you can measure with your Android phone",
+    "summary": "Discover unexpected measurement tools and sensors built into modern Android smartphones.",
+    "category": "Android",
+    "publication_date": "2025-12-18",
+    "link": "https://www.howtogeek.com/things-you-can-measure-with-android-phone/"
+  },
+  {
+    "title": "Ubuntu Studio is Linux's best-kept secret for creators",
+    "summary": "Ubuntu Studio provides pre-installed tools tailored for creators in art, music, and 3D design.",
+    "category": "Linux",
+    "publication_date": "2025-12-18",
+    "link": "https://www.howtogeek.com/ubuntu-studio-is-linuxs-best-kept-secret-for-creators/"
+  },
+  {
+    "title": "This festive smart home automation has become a family tradition",
+    "summary": "How smart home automations enhance and integrate into holiday family traditions.",
+    "category": "Smart Home",
+    "publication_date": "2025-12-18",
+    "link": "https://www.howtogeek.com/festive-smart-home-automation-is-a-family-tradition/"
+  },
+  {
+    "title": "Forget a Toyota RAV4: get this 576-HP hot hatch for under $30,000",
+    "summary": "A high-performance hot hatch alternative offering superior power at a budget-friendly price.",
+    "category": "Automotive",
+    "publication_date": "2025-12-18",
+    "link": "https://www.howtogeek.com/576-hp-hot-hatch-under-30000/"
   }
 ]
