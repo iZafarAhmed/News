@@ -504,115 +504,11 @@
   },
   {
     
-    "title": "Amazon reportedly in talks to invest $10 billion in OpenAI",
-    "summary": "Amazon is negotiating a massive investment in OpenAI to secure priority access to its AI chips and models, continuing the trend of circular AI deals.",
-    "category": "AI",
-    "publication_time": "1 hour ago",
-    "link": "https://www.engadget.com/amazon-reportedly-in-talks-to-invest-10-billion-in-openai-2025-12-17"
-  },
-  {
-    
-    "title": "Meta pauses plans to let third-party companies make Horizon OS headsets",
-    "summary": "Meta has temporarily halted its program to license Horizon OS to other VR/AR headset makers, citing a shift in strategic focus.",
-    "category": "VR / AR",
-    "publication_time": "2 hours ago",
-    "link": "https://www.engadget.com/meta-pauses-plans-to-let-third-party-companies-make-horizon-os-headsets-2025-12-17"
-  },
-  {
-    
-    "title": "YouTube will exclusively stream the Oscars starting in 2029",
-    "summary": "The Academy of Motion Picture Arts and Sciences has awarded YouTube exclusive streaming rights for the Oscars beginning in 2029.",
-    "category": "Entertainment",
-    "publication_time": "3 hours ago",
-    "link": "https://www.engadget.com/youtube-will-exclusively-stream-the-oscars-starting-in-2029-2025-12-17"
-  },
-  {
-    
-    "title": "Google launches Gemini 3 Flash as the new default model in the Gemini app",
-    "summary": "Google has rolled out the faster, more efficient Gemini 3 Flash model and made it the default in the Gemini app for all users.",
-    "category": "AI",
-    "publication_time": "4 hours ago",
-    "link": "https://www.engadget.com/google-launches-gemini-3-flash-as-the-new-default-model-in-the-gemini-app-2025-12-17"
-  },
-  {
-    
-    "title": "Jared Isaacman confirmed as next NASA administrator",
-    "summary": "Billionaire astronaut and SpaceX collaborator Jared Isaacman has been confirmed as the new head of NASA.",
-    "category": "Space",
-    "publication_time": "5 hours ago",
-    "link": "https://www.engadget.com/jared-isaacman-confirmed-as-next-nasa-administrator-2025-12-17"
-  },
-  {
-    
-    "title": "Adobe hit with proposed class-action lawsuit over AI training data",
-    "summary": "Authors allege Adobe used their copyrighted works without permission to train its Firefly AI models.",
-    "category": "AI",
-    "publication_time": "6 hours ago",
-    "link": "https://www.engadget.com/adobe-hit-with-proposed-class-action-lawsuit-over-ai-training-data-2025-12-17"
-  },
-  {
-    
-    "title": "Amazon appoints longtime AWS exec Peter DeSantis to lead its new AGI org",
-    "summary": "Peter DeSantis, former AWS infrastructure chief, will now lead Amazon’s artificial general intelligence division.",
-    "category": "AI",
-    "publication_time": "7 hours ago",
-    "link": "https://www.engadget.com/amazon-appoints-longtime-aws-exec-peter-desantis-to-lead-its-new-agi-org-2025-12-17"
-  },
-  {
-    
-    "title": "Rad Power Bikes files for bankruptcy, looking to sell the business",
-    "summary": "The popular e-bike maker has filed for Chapter 11 and is seeking a buyer amid financial difficulties.",
-    "category": "Transportation",
-    "publication_time": "8 hours ago",
-    "link": "https://www.engadget.com/rad-power-bikes-files-for-bankruptcy-looking-to-sell-the-business-2025-12-17"
-  },
-  {
-    
-    "title": "Coursera and Udemy agree to $2.5 billion merger",
-    "summary": "The two biggest online learning platforms have announced a blockbuster merger deal.",
-    "category": "Business",
-    "publication_time": "9 hours ago",
-    "link": "https://www.engadget.com/coursera-and-udemy-agree-to-25-billion-merger-2025-12-17"
-  },
-  {
-    
-    "title": "Snapchat launches Quick Cut, an AI video editing tool that stitches clips together",
-    "summary": "Snapchat’s new AI-powered feature automatically edits and combines video clips into a polished final product.",
-    "category": "Apps",
-    "publication_time": "10 hours ago",
-    "link": "https://www.engadget.com/snapchat-launches-quick-cut-ai-video-editing-tool-2025-12-17"
-  },
-  {
-    
-    "title": "Bluesky rolls out privacy-focused 'Find Friends' feature without invite spam",
-    "summary": "The social network introduces a new way to discover friends that respects privacy and avoids unsolicited invites.",
-    "category": "Social",
-    "publication_time": "11 hours ago",
-    "link": "https://www.engadget.com/bluesky-rolls-out-privacy-focused-find-friends-feature-without-invite-spam-2025-12-17"
-  },
-  {
-    
-    "title": "Meta’s AI glasses can now help you hear conversations better",
-    "summary": "The latest software update for Meta’s Ray-Ban smart glasses adds real-time conversation enhancement.",
-    "category": "Wearables",
-    "publication_time": "12 hours ago",
-    "link": "https://www.engadget.com/metas-ai-glasses-can-now-help-you-hear-conversations-better-2025-12-17"
-  },
-  {
-    
-    "title": "Video game hardware sales hit historic low in November",
-    "summary": "Circana reports the worst November ever for console and gaming hardware sales in the US.",
-    "category": "Gaming",
-    "publication_time": "13 hours ago",
-    "link": "https://www.engadget.com/video-game-hardware-sales-hit-historic-low-in-november-2025-12-17"
-  },
-  {
-    
-    "title": "LG and Dolby announce first FlexConnect soundbar ahead of CES 2026",
+    "title": "Dolby and LG introduce a modular home audio system for CES 2026",
     "summary": "The new soundbar uses Dolby FlexConnect to wirelessly pair with other speakers for immersive audio.",
     "category": "Audio",
     "publication_time": "14 hours ago",
-    "link": "https://www.engadget.com/lg-and-dolby-announce-first-flexconnect-soundbar-ahead-of-ces-2026-2025-12-17"
+    "link": "https://www.engadget.com/audio/speakers/dolby-and-lg-introduce-a-modular-home-audio-system-for-ces-2026-010000126.html"
   },
   {
     
@@ -620,47 +516,15 @@
     "summary": "Engadget’s hands-on review praises the phone’s exceptional battery but notes compromises elsewhere.",
     "category": "Mobile",
     "publication_time": "15 hours ago",
-    "link": "https://www.engadget.com/oneplus-15r-review-unbeatable-battery-life-beatable-value-2025-12-17"
+    "link": "https://www.engadget.com/mobile/smartphones/oneplus-15r-review-a-165hz-display-and-big-battery-for-700-150000340.html"
   },
   {
     
-    "title": "Trump admin threatens retaliation against Spotify and EU tech firms",
+    "title": "Big Tech bent the knee for Trump in 2025",
     "summary": "The incoming administration signals potential tariffs or restrictions over EU tech regulations.",
     "category": "Tech Policy",
     "publication_time": "16 hours ago",
-    "link": "https://www.engadget.com/trump-admin-threatens-retaliation-against-spotify-and-eu-tech-firms-2025-12-17"
-  },
-  {
-    
-    "title": "Tesla would face stricter FSD rules under proposed Democratic bill",
-    "summary": "A new bill would limit Level 2 autonomy features and require better safety oversight.",
-    "category": "Cars",
-    "publication_time": "17 hours ago",
-    "link": "https://www.engadget.com/tesla-would-face-stricter-fsd-rules-under-proposed-democratic-bill-2025-12-17"
-  },
-  {
-    
-    "title": "AI data centers driving up electricity costs for Americans, lawmakers warn",
-    "summary": "Democrats investigate how Big Tech data centers are increasing power bills for consumers.",
-    "category": "Tech Policy",
-    "publication_time": "18 hours ago",
-    "link": "https://www.engadget.com/ai-data-centers-driving-up-electricity-costs-for-americans-lawmakers-warn-2025-12-17"
-  },
-  {
-    
-    "title": "X sues Operation Bluebird over Twitter trademark infringement",
-    "summary": "Elon Musk’s X Corp is suing a new service attempting to revive the original Twitter name.",
-    "category": "Social",
-    "publication_time": "19 hours ago",
-    "link": "https://www.engadget.com/x-sues-operation-bluebird-over-twitter-trademark-infringement-2025-12-17"
-  },
-  {
-    
-    "title": "Apple TV+ announces Monarch: Legacy of Monsters spinoff starring Wyatt Russell",
-    "summary": "A new Monsterverse series is in the works, expanding the Godzilla franchise on streaming.",
-    "category": "Entertainment",
-    "publication_time": "20 hours ago",
-    "link": "https://www.engadget.com/apple-tv-plus-announces-monarch-legacy-of-monsters-spinoff-starring-wyatt-russell-2025-12-17"
+    "link": "https://www.engadget.com/general/big-tech-bent-the-knee-for-trump-in-2025-140000365.html"
   },
   {
     
