@@ -1106,5 +1106,110 @@
     "category": "Automotive",
     "publication_date": "2025-12-18",
     "link": "https://www.howtogeek.com/576-hp-hot-hatch-under-30000/"
+  },
+{
+    "title": "Another Starship Clone Pops Up In China",
+    "summary": "Chinese companies are increasingly mimicking SpaceX's Starship design, with Beijing Leading Rocket Technology unveiling a \"Starship-1\" rocket featuring AI enhancements and fully reusable capabilities. This follows shifts in China's government rocket plans and announcements from firms like Cosmoleap and Astronstone, aiming for chopstick-style recovery. The trend marks a departure from earlier Falcon 9-like copies, as China transitions to advanced reusable systems.",
+    "category": "Technology",
+    "publication_date": "2025-12-18",
+    "link": "https://science.slashdot.org/story/25/12/17/2322234/another-starship-clone-pops-up-in-china"
+  },
+  {
+    "title": "MIT Grieves Shooting Death of Renowned Director of Plasma Science Center",
+    "summary": "MIT is mourning the killing of plasma science and fusion center director Nuno FG Loureiro, 47, who was shot multiple times at his home in Brookline, Massachusetts. Police responded to gunshots, and he died in hospital. The investigation continues without details on suspects or motives. MIT president Sally Kornbluth expressed sadness amid recent violence, offering mental health resources. Loureiro, originally from Portugal, left a wife as a survivor.",
+    "category": "Technology",
+    "publication_date": "2025-12-18",
+    "link": "https://news.slashdot.org/story/25/12/17/2315236/mit-grieves-shooting-death-of-renowned-director-of-plasma-science-center"
+  },
+  {
+    "title": "Senate Confirms Billionaire Entrepreneur Jared Isaacman As New NASA Chief",
+    "summary": "The Senate confirmed Jared Isaacman as NASA administrator in a 67-30 vote, after President Trump renominated him following an initial withdrawal over Isaacman's SpaceX ties. Isaacman supports NASA's Artemis program and aims to counter China's space efforts with urgency. His background as a private astronaut and entrepreneur marked this comeback, backed by Trump's circle.",
+    "category": "Technology",
+    "publication_date": "2025-12-18",
+    "link": "https://science.slashdot.org/story/25/12/17/2240200/senate-confirms-billionaire-entrepreneur-jared-isaacman-as-new-nasa-chief"
+  },
+  {
+    "title": "The Oscars Will Abandon Broadcast TV For YouTube In 2029",
+    "summary": "The Oscars will move to YouTube in 2029 under a multi-year deal, ending ABC broadcasts and offering free global streaming with exclusive rights. This includes red carpet and bonus content, aiming for broader access via captions and multilingual tracks. The deal outbid competitors like NBCUniversal, allowing flexible formats without broadcast limits.",
+    "category": "Technology",
+    "publication_date": "2025-12-18",
+    "link": "https://news.slashdot.org/story/25/12/17/210247/the-oscars-will-abandon-broadcast-tv-for-youtube-in-2029"
+  },
+  {
+    "title": "Meta 'Pauses' Third-Party Headset Program",
+    "summary": "Meta has paused its Horizon OS third-party headset initiative, halting planned devices from Asus and Lenovo to prioritize first-party hardware and software for VR advancement. Announced over a year ago, the program aimed at partners building Quest-like headsets for gaming and mixed reality, but Meta cites a focus on core development.",
+    "category": "Technology",
+    "publication_date": "2025-12-17",
+    "link": "https://hardware.slashdot.org/story/25/12/17/2053256/meta-pauses-third-party-headset-program"
+  },
+  {
+    "title": "Netflix To Add Soccer Video Game Based On FIFA World Cup Next Year",
+    "summary": "Netflix will launch a soccer simulation game developed by Delphi Interactive in partnership with FIFA, timed for the 2026 World Cup in the U.S. The title expands Netflix's gaming portfolio, alongside a James Bond game, targeting fans with this new entry.",
+    "category": "Technology",
+    "publication_date": "2025-12-17",
+    "link": "https://games.slashdot.org/story/25/12/17/2049252/netflix-to-add-soccer-video-game-based-on-fifa-world-cup-next-year"
+  },
+  {
+    "title": "GitHub Is Going To Start Charging You For Using Your Own Hardware",
+    "summary": "GitHub will charge $0.002 per minute for self-hosted Actions runners on private repositories from March, while cutting hosted runner prices. This aligns costs, as self-hosted use was subsidized; public repos remain free. Most users see no increase, with a median $13 monthly rise for affected parties.",
+    "category": "Technology",
+    "publication_date": "2025-12-17",
+    "link": "https://hardware.slashdot.org/story/25/12/17/2042247/github-is-going-to-start-charging-you-for-using-your-own-hardware"
+  },
+  {
+    "title": "Linux Kernel Rust Code Sees Its First CVE Vulnerability",
+    "summary": "The Linux kernel's Rust code, specifically the Android Binder rewrite, has its first CVE (CVE-2025-68260) due to a race condition in unsafe Rust, risking memory corruption and crashes in versions 6.18+. It's a system crash issue, not remote execution.",
+    "category": "Technology",
+    "publication_date": "2025-12-17",
+    "link": "https://it.slashdot.org/story/25/12/17/2034233/linux-kernel-rust-code-sees-its-first-cve-vulnerability
+  },
+  {
+    "title": "Google Releases Gemini 3 Flash, Promising Improved Intelligence and Efficiency",
+    "summary": "Google launched Gemini 3 Flash, a faster, more capable AI model outperforming predecessors in benchmarks like HLE (33.7%) and factual accuracy (68.7%). It's default for Google Search AI mode, available via apps, API, and tools, suiting real-time workloads.",
+    "category": "Technology",
+    "publication_date": "2025-12-17",
+    "link": "https://tech.slashdot.org/story/25/12/17/2028231/google-releases-gemini-3-flash-promising-improved-intelligence-and-efficiency"
+  },
+  {
+    "title": "Browser Extensions With 8 Million Users Collect Extended AI Conversations",
+    "summary": "Eight browser extensions, with over 8 million installs and \"Featured\" badges on Google and Microsoft stores, harvest full AI chats for marketing sales. They claim anonymity but collect data via VPN and ad-blocking features.",
+    "category": "Technology",
+    "publication_date": "2025-12-17",
+    "link": "https://tech.slashdot.org/story/25/12/17/198250/browser-extensions-with-8-million-users-collect-extended-ai-conversations"
+  },
+  {
+    "title": "English Has Become Easier To Read",
+    "summary": "English readability improved not from shorter sentences but from 1500s-1600s Bible translations using plain, logical syntax over rhythmic structures. Modern punctuation shifts, like fewer semicolons, explain perceived simplicity, as seen in popular books with varied sentence lengths.",
+    "category": "Technology",
+    "publication_date": "2025-12-17",
+    "link": "https://news.slashdot.org/story/25/12/17/1849246/english-has-become-easier-to-read"
+  },
+  {
+    "title": "FCC Chair Suggests Agency Isn't Independent, Word Cut From Mission Statement",
+    "summary": "FCC Chairman Brendan Carr stated the agency isn't independent, leading to its mission statement change on the website. This reflects executive influence trends, with Carr avoiding direct answers on presidential power or media pressures.",
+    "category": "Technology",
+    "publication_date": "2025-12-17",
+    "link": "https://yro.slashdot.org/story/25/12/17/1817255/fcc-chair-suggests-agency-isnt-independent-word-cut-from-mission-statement"
+  },
+  {
+    "title": "How We Ingest Plastic Chemicals While Consuming Food",
+    "summary": "A database lists 16,000 plastic-linked chemicals, with over 5,400 hazardous; they enter food via utensils, pans, and packaging like PFAS and phthalates. Most Americans have detectable levels, linked to health issues like IQ drops in children.",
+    "category": "Technology",
+    "publication_date": "2025-12-17",
+    "link": "https://science.slashdot.org/story/25/12/17/1738215/how-we-ingest-plastic-chemicals-while-consuming-food"
+  },
+  {
+    "title": "Coursera Acquires Udemy For $930 Million",
+    "summary": "Coursera acquired Udemy for $930 million in stock, valuing the combined firm at $2.5 billion to target corporate AI and tech training. Udemy shareholders get 0.8 Coursera shares, a 18.3% premium; the deal closes mid-2026 amid sector challenges.",
+    "category": "Technology",
+    "publication_date": "2025-12-17",
+    "link": "https://news.slashdot.org/story/25/12/17/1650219/coursera-acquires-udemy-for-930-million"
+  },
+  {
+    "title": "Google Sues Alleged Chinese Scam Group Behind Massive US Text Message Phishing Ring",
+    "summary": "Google sued the Darcula group for scam texts impersonating IRS and others via Magic Cat software, aiming to seize sites. The tools enable easy phishing for credit cards, targeting millions in the U.S.",
+    "category": "Technology",
+    "publication_date": "2025-12-17",
+    "link": "https://tech.slashdot.org/story/25/12/17/1613200/google-sues-alleged-chinese-scam-group-behind-massive-us-text-message-phishing-ring"
   }
 ]
