@@ -1211,5 +1211,133 @@
     "category": "Technology",
     "publication_date": "2025-12-17",
     "link": "https://tech.slashdot.org/story/25/12/17/1613200/google-sues-alleged-chinese-scam-group-behind-massive-us-text-message-phishing-ring/"
+  },
+  {
+    "title": "TikTok agrees to deal to cede control of US business to American investor group",
+    "date": "December 18, 2025",
+    "author": "Lucas Ropek",
+    "summary": "TikTok has agreed to a deal that will transfer control of its US operations to an American investor group.",
+    "url": "https://techcrunch.com/2025/12/18/tiktok-agrees-to-deal-to-cede-control-of-u-s-business-to-american-investor-group/",
+    "category": "Social"
+  },
+  {
+    "title": "Apple becomes a debt collector with its new developer agreement",
+    "date": "December 18, 2025",
+    "author": "Sarah Perez",
+    "summary": "Apple is now acting as a debt collector through its updated developer agreement.",
+    "url": "https://techcrunch.com/2025/12/18/apple-becomes-a-debt-collector-with-its-new-developer-agreement/",
+    "category": "Apps"
+  },
+  {
+    "title": "Instacart to pay $60M to settle FTC claims it deceived consumers",
+    "date": "December 18, 2025",
+    "author": "Aisha Malik",
+    "summary": "Instacart has agreed to a $60 million settlement with the FTC over allegations of misleading consumers.",
+    "url": "https://techcrunch.com/2025/12/18/instacart-to-pay-60m-to-settle-ftc-claims-it-deceived-consumers/",
+    "category": "Government & Policy"
+  },
+  {
+    "title": "ChatGPT launches an app store, lets developers know it’s open for business",
+    "date": "December 18, 2025",
+    "author": "Lucas Ropek",
+    "summary": "ChatGPT has launched its own app store and is inviting developers to join.",
+    "url": "https://techcrunch.com/2025/12/18/chatgpt-launches-an-app-store-lets-developers-know-its-open-for-business/",
+    "category": "AI"
+  },
+  {
+    "title": "Pickle Robot adds Tesla veteran as first CFO",
+    "date": "December 18, 2025",
+    "author": "Rebecca Szkutak",
+    "summary": "Pickle Robot has appointed a former Tesla executive as its inaugural chief financial officer.",
+    "url": "https://techcrunch.com/2025/12/18/pickle-robot-adds-tesla-veteran-as-first-cfo/",
+    "category": "Startups"
+  },
+  {
+    "title": "Why British politicians are flocking to American tech giants",
+    "date": "December 18, 2025",
+    "author": "Anna Heim",
+    "summary": "British politicians are increasingly joining American tech companies.",
+    "url": "https://techcrunch.com/2025/12/18/why-british-politicians-are-flocking-to-american-tech-giants/",
+    "category": "Government & Policy"
+  },
+  {
+    "title": "ChatGPT’s mobile app hits new milestone of $3B in consumer spending",
+    "date": "December 18, 2025",
+    "author": "Sarah Perez",
+    "summary": "The ChatGPT mobile app has reached $3 billion in consumer spending.",
+    "url": "https://techcrunch.com/2025/12/18/chatgpts-mobile-app-hits-new-milestone-of-3b-in-consumer-spending/",
+    "category": "Apps"
+  },
+  {
+    "title": "LinkedIn’s profile verification push is accelerating — and India is leading the charge in 2025",
+    "date": "December 18, 2025",
+    "author": "Jagmeet Singh",
+    "summary": "LinkedIn is ramping up its profile verification efforts, with India at the forefront in 2025.",
+    "url": "https://techcrunch.com/2025/12/18/linkedins-profile-verification-push-is-accelerating-and-india-is-leading-the-charge-in-2025/",
+    "category": "Social"
+  },
+  {
+    "title": "These 21-year-old dropouts raised $2M to build Givefront, a fintech for nonprofits",
+    "date": "December 18, 2025",
+    "author": "Tage Kene-Okafor",
+    "summary": "Two 21-year-old college dropouts have secured $2 million to launch Givefront, a financial technology platform for nonprofits.",
+    "url": "https://techcrunch.com/2025/12/18/these-21-year-old-dropouts-raised-2m-to-build-givefront-a-fintech-for-nonprofits/",
+    "category": "Fintech"
+  },
+  {
+    "title": "Peripheral Labs taps into self-driving car sensors to bring sports fans right into the game",
+    "date": "December 18, 2025",
+    "author": "Ivan Mehta",
+    "summary": "Peripheral Labs is using sensors from autonomous vehicles to enhance the sports viewing experience.",
+    "url": "https://techcrunch.com/2025/12/18/peripheral-labs-taps-into-self-driving-car-sensors-to-bring-sports-fans-right-into-the-game/",
+    "category": "AI"
+  },
+  {
+    "title": "Trump Media is merging with fusion power company TAE Technologies in $6B+ deal",
+    "date": "December 18, 2025",
+    "author": null,
+    "summary": "Trump Media is combining with TAE Technologies, a fusion energy firm, in a deal valued over $6 billion.",
+    "url": "https://techcrunch.com/2025/12/18/trump-media-is-merging-with-fusion-power-company-tae-technologies-in-6b-deal/",
+    "category": "Climate"
+  },
+  {
+    "title": "TDK Ventures, Accel set to back India’s EtherealX in reusable launch vehicle push: Sources",
+    "date": "December 18, 2025",
+    "author": "Jagmeet Singh",
+    "summary": "TDK Ventures and Accel are reportedly investing in EtherealX to advance reusable launch vehicles in India.",
+    "url": "https://techcrunch.com/2025/12/18/tdk-ventures-accel-set-to-back-indias-etherealx-in-reusable-launch-vehicle-push-sources/",
+    "category": "Space"
+  },
+  {
+    "title": "No keynotes, no BS — why this year’s best tech talks happened over cocktails at StrictlyVC",
+    "date": "December 18, 2025",
+    "author": "TechCrunch Events",
+    "summary": "The most impactful tech discussions of the year took place informally at StrictlyVC events.",
+    "url": "https://techcrunch.com/2025/12/18/no-keynotes-no-bs-why-this-years-best-tech-talks-happened-over-cocktails-at-strictlyvc/",
+    "category": "Venture"
+  },
+  {
+    "title": "Rivian rolls out new ‘Universal Hands-Free’ driving feature",
+    "date": "December 18, 2025",
+    "author": "Sean O'Kane",
+    "summary": "Rivian has introduced a new hands-free driving capability called Universal Hands-Free.",
+    "url": "https://techcrunch.com/2025/12/18/rivian-rolls-out-new-universal-hands-free-driving-feature/",
+    "category": "Transportation"
+  },
+  {
+    "title": "Apple opens up its App Store to competition in Japan",
+    "date": "December 18, 2025",
+    "author": "Sarah Perez",
+    "summary": "Apple is allowing alternative app stores in Japan as part of new regulations.",
+    "url": "https://techcrunch.com/2025/12/18/apple-opens-up-its-app-store-to-competition-in-japan/",
+    "category": "Apps"
+  },
+  {
+    "title": "Amazon’s new Alexa+ feature adds conversational AI to Ring doorbells",
+    "date": "December 18, 2025",
+    "author": "Ivan Mehta",
+    "summary": "Amazon has integrated its Alexa+ AI into Ring doorbells for more natural conversations.",
+    "url": "https://techcrunch.com/2025/12/18/amazons-new-alexa-feature-adds-conversational-ai-to-ring-doorbells/",
+    "category": "AI"
   }
 ]
