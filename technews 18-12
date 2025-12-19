@@ -1339,5 +1339,165 @@
     "summary": "Amazon has integrated its Alexa+ AI into Ring doorbells for more natural conversations.",
     "url": "https://techcrunch.com/2025/12/18/amazons-new-alexa-feature-adds-conversational-ai-to-ring-doorbells/",
     "category": "AI"
+  },
+  {
+    "title": "HTG Wrapped 2025: 24 days of tech",
+    "date": "December 19, 2025",
+    "author": "Will Verduzco",
+    "summary": "A countdown of the best hardware, gadgets, and tech products that defined 2025, revealed daily throughout December.",
+    "url": "https://www.howtogeek.com/htg-wrapped-2025/",
+    "category": "Featured"
+  },
+  {
+    "title": "Tribit’s PocketGO packs huge sound into a tiny package",
+    "date": "December 19, 2025",
+    "author": "Sponsored",
+    "summary": "Review highlighting the impressive audio performance of the compact Tribit PocketGO speaker.",
+    "url": "https://www.howtogeek.com/tribits-pocketgo-packs-huge-sound-into-a-tiny-package/",
+    "category": "Audio"
+  },
+  {
+    "title": "Everything coming to Prime Video in January 2026",
+    "date": "December 19, 2025",
+    "author": "Derek Malcolm",
+    "summary": "Comprehensive list of new shows, movies, and content arriving on Amazon Prime Video next month.",
+    "url": "https://www.howtogeek.com/everything-coming-to-prime-video-in-january-2026/",
+    "category": "Streaming"
+  },
+  {
+    "title": "Firefox will make an 'AI kill switch' to address complaints",
+    "date": "December 19, 2025",
+    "author": "Jorge A. Aguilar",
+    "summary": "Mozilla plans to introduce a feature allowing users to easily disable AI integrations in Firefox.",
+    "url": "https://www.howtogeek.com/firefox-will-make-an-ai-kill-switch-to-address-complaints/",
+    "category": "Browsers"
+  },
+  {
+    "title": "Everything leaving Netflix in January 2026—watch them before they're gone",
+    "date": "December 19, 2025",
+    "author": "Derek Malcolm",
+    "summary": "List of movies and shows departing Netflix at the end of January 2026.",
+    "url": "https://www.howtogeek.com/everything-leaving-netflix-january-2026/",
+    "category": "Streaming"
+  },
+  {
+    "title": "I 3D printed these games to play with family at Christmas",
+    "date": "December 19, 2025",
+    "author": "Patrick Campanale",
+    "summary": "Personal experience 3D printing board games and accessories for holiday family fun.",
+    "url": "https://www.howtogeek.com/i-3d-printed-these-games-to-play-with-family-at-christmas/",
+    "category": "3D Printing"
+  },
+  {
+    "title": "Someone made a Wrapped-style recap for neighborhood complaints in your city",
+    "date": "December 19, 2025",
+    "author": "Joe Fedewa",
+    "summary": "A tool that generates Spotify Wrapped-like summaries of local neighborhood complaints.",
+    "url": "https://www.howtogeek.com/someone-made-a-wrapped-style-recap-for-neighborhood-complaints-in-cities/",
+    "category": "Apps"
+  },
+  {
+    "title": "Europe ditches its 2035 engine ban, will the U.S. follow?",
+    "date": "December 19, 2025",
+    "author": "Tyler Dupont",
+    "summary": "Analysis of Europe's reversal on the 2035 combustion engine ban and potential U.S. implications.",
+    "url": "https://www.howtogeek.com/europe-ditches-2035-engine-ban-will-us-follow/",
+    "category": "Electric Vehicles"
+  },
+  {
+    "title": "6 Christmas movies on Netflix that are actually worth watching",
+    "date": "December 19, 2025",
+    "author": "T.M. Amrita",
+    "summary": "Curated recommendations for quality holiday films available on Netflix.",
+    "url": "https://www.howtogeek.com/netflix-christmas-movies-actually-worth-watching/",
+    "category": "Streaming"
+  },
+  {
+    "title": "Stop judging CPUs by clock speed: It's the wrong metric",
+    "date": "December 19, 2025",
+    "author": "Timothy Jacob Hudson",
+    "summary": "Explanation why CPU clock speed is no longer the primary performance indicator.",
+    "url": "https://www.howtogeek.com/you-dont-need-to-worry-about-this-spec-when-building-a-pc/",
+    "category": "PC Hardware"
+  },
+  {
+    "title": "Stop buying new RAM: Here's how to safely buy used instead",
+    "date": "December 19, 2025",
+    "author": "Nick Lewis",
+    "summary": "Guide to purchasing used RAM safely amid falling prices.",
+    "url": "https://www.howtogeek.com/ram-pocalypse-is-here-buy-cheap-ram/",
+    "category": "PC Hardware"
+  },
+  {
+    "title": "This one Wi-Fi setting might be why your smart TV is buffering",
+    "date": "December 19, 2025",
+    "author": "Sydney Butler",
+    "summary": "Common Wi-Fi configuration issue causing streaming problems on smart TVs.",
+    "url": "https://www.howtogeek.com/your-smart-tv-might-be-on-the-wrong-wi-fi-network/",
+    "category": "Networking"
+  },
+  {
+    "title": "5 ways to use a Raspberry Pi with Home Assistant (aside from running your server)",
+    "date": "December 19, 2025",
+    "author": "Adam Davidson",
+    "summary": "Creative alternative projects integrating Raspberry Pi with Home Assistant.",
+    "url": "https://www.howtogeek.com/ways-to-repurpose-your-raspberry-pi-for-home-assistant/",
+    "category": "Smart Home"
+  },
+  {
+    "title": "6 useful parts you can salvage from a broken old printer",
+    "date": "December 19, 2025",
+    "author": "Jorge A. Aguilar",
+    "summary": "Components worth recovering from non-functional printers for DIY projects.",
+    "url": "https://www.howtogeek.com/useful-parts-salvage-broken-old-printer/",
+    "category": "DIY"
+  },
+  {
+    "title": "I ran the one command in Linux you should never run. Here's what happened",
+    "date": "December 19, 2025",
+    "author": "David Delony",
+    "summary": "First-hand account of executing a notoriously dangerous Linux command.",
+    "url": "https://www.howtogeek.com/i-ran-the-one-command-in-linux-you-should-never-run-heres-what-happened/",
+    "category": "Linux"
+  },
+  {
+    "title": "The surprisingly reliable SUV you’ve been overlooking",
+    "date": "December 19, 2025",
+    "author": "Adam Gray",
+    "summary": "Highlighting an underrated SUV model known for exceptional reliability.",
+    "url": "https://www.howtogeek.com/surprisingly-reliable-suv/",
+    "category": "Automotive"
+  },
+  {
+    "title": "10 mistakes to avoid when setting up a Wi-Fi network",
+    "date": "December 19, 2025",
+    "author": "Gaurav Sharma",
+    "summary": "Essential tips to prevent common errors in home Wi-Fi configuration.",
+    "url": "https://www.howtogeek.com/the-mistakes-to-avoid-when-setting-up-a-wi-fi-network/",
+    "category": "Networking"
+  },
+  {
+    "title": "I use Peacock every day for a feature most people overlook",
+    "date": "December 19, 2025",
+    "author": "Sarah Little",
+    "summary": "Exploring an underappreciated gaming feature on the Peacock streaming service.",
+    "url": "https://www.howtogeek.com/peacock-find-play-mobile-games/",
+    "category": "Streaming"
+  },
+  {
+    "title": "How I used Android Studio and Antigravity to make my first app",
+    "date": "December 19, 2025",
+    "author": "Patrick Campanale",
+    "summary": "Step-by-step experience developing a debut Android application.",
+    "url": "https://www.howtogeek.com/how-i-used-android-studio-and-antigravity-to-make-my-first-app/",
+    "category": "Android Development"
+  },
+  {
+    "title": "5 ways Google revolutionized Android in 2025: AirDrop, MagSafe, and more",
+    "date": "December 19, 2025",
+    "author": "Dibakar Ghosh",
+    "summary": "Overview of major Android enhancements introduced by Google throughout 2025.",
+    "url": "https://www.howtogeek.com/ways-google-revolutionized-android-in-2025/",
+    "category": "Android"
   }
 ]
