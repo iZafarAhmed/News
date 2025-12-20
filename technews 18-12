@@ -1300,5 +1300,53 @@
     "publication_date": "2025-12-19",
     "link": "https://techcrunch.com/2025/12/19/hundreds-of-cisco-customers-are-vulnerable-to-new-chinese-hacking-campaign-researchers-say/",
     "author": "Lorenzo Franceschi-Bicchierai"
+  },
+{
+    "title": "Communities are rising up against data centers — and winning",
+    "summary": "Local fights against new data centers are gaining bipartisan support across the US.",
+    "category": "Science",
+    "publication_date": "2025-12-19",
+    "link": "https://www.theverge.com/science/841169/ai-data-center-opposition",
+    "author": "Justine Calma"
+  },
+  {
+    "title": "Phones were fashionable again in 2025",
+    "summary": "Smartphones in 2025 embraced design, color, and fashion trends, marking a shift in the industry.",
+    "category": "Tech",
+    "publication_date": "2025-12-19",
+    "link": "https://www.theverge.com/tech/842190/2025-smartphones-design-color-fashion",
+    "author": "Allison Johnson"
+  },
+  {
+    "title": "Who owns Trump Mobile?",
+    "summary": "Examination of the ownership structure and licensing behind Trump Mobile.",
+    "category": "Tech",
+    "publication_date": "2025-12-19",
+    "link": "https://www.theverge.com/tech/848029/trump-mobile-ownership-structure-licensing",
+    "author": "Dominic Preston"
+  },
+  {
+    "title": "Don’t expect Trump Media’s nuclear fusion power plant to generate electricity soon",
+    "summary": "Report on Trump Media's involvement in a nuclear fusion power plant project that is not expected to produce electricity anytime soon.",
+    "category": "Report",
+    "publication_date": "2025-12-19",
+    "link": "https://www.theverge.com/report/848205/nuclear-fusion-energy-trump-media-tae",
+    "author": "Justine Calma"
+  },
+  {
+    "title": "The RAM shortage is here to stay, raising prices on PCs and phones",
+    "summary": "The global RAM shortage is about to raise the prices of smartphones and PCs, with the crunch expected to persist well into 2027.",
+    "category": "News",
+    "publication_date": "2025-12-19",
+    "link": "https://www.theverge.com/news/848199/ram-shortage-pc-phone-price-increases",
+    "author": "Emma Roth"
+  },
+  {
+    "title": "Want to link from Google’s app store to your app? That’ll be $2–4 per install",
+    "summary": "Google is introducing fees for external link downloads and alternative payment methods in its app store.",
+    "category": "News",
+    "publication_date": "2025-12-19",
+    "link": "https://www.theverge.com/news/848540/google-app-fees-external-link-downloads-alternative-payments",
+    "author": "Sean Hollister"
   }
 ]
