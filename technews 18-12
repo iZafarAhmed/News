@@ -1868,5 +1868,77 @@
     "publication_date": "2025-12-19",
     "link": "https://www.theverge.com/news/848435/openai-chatgpt-characteristics-update-warmth-enthusiasm",
     "author": "Emma Roth"
+  },
+{
+    "title": "Archival Cassini Data May Erase Titan's Subterranean Ocean",
+    "summary": "Reanalysis of old mission data challenges assumptions about Saturn's moon.",
+    "category": "Science",
+    "publication_date": "2025-12-20",
+    "link": "https://www.extremetech.com/science/archival-cassini-data-may-erase-titans-subterranean-ocean",
+    "author": "ExtremeTech Staff"
+  },
+  {
+    "title": "NASA Certifies Perseverance for Many More Years (and Miles)",
+    "summary": "The rover gets extended mission approval with upgrades for longevity.",
+    "category": "Aerospace",
+    "publication_date": "2025-12-20",
+    "link": "https://www.extremetech.com/aerospace/nasa-certifies-perseverance-for-many-more-years-and-miles",
+    "author": "ExtremeTech Staff"
+  },
+  {
+    "title": "Google Releases Gemini 3 Flash With Improved Speed and Reasoning",
+    "summary": "Gemini 3 Flash uses 30% fewer tokens on average than 2.5 Pro.",
+    "category": "Computing",
+    "publication_date": "2025-12-20",
+    "link": "https://www.extremetech.com/computing/google-releases-gemini-3-flash-with-improved-speed-and-reasoning",
+    "author": "ExtremeTech Staff"
+  },
+  {
+    "title": "November Console Sales Hit 30-Year Low as Price Hikes Backfire",
+    "summary": "The Xbox Series S is now $150 more than it cost at launch.",
+    "category": "Gaming",
+    "publication_date": "2025-12-20",
+    "link": "https://www.extremetech.com/gaming/november-console-sales-hit-30-year-low-as-price-hikes-backfire",
+    "author": "ExtremeTech Staff"
+  },
+  {
+    "title": "Texas Instruments Fab Begins Production of 300mm Wafers",
+    "summary": "The plant is the first of four in Sherman, Texas.",
+    "category": "Computing",
+    "publication_date": "2025-12-19",
+    "link": "https://www.extremetech.com/computing/texas-instruments-fab-begins-production-of-300mm-wafers",
+    "author": "Josh Gulick"
+  },
+  {
+    "title": "Apple Simplifies Battery Replacement on the 14-Inch M5 MacBook Pro",
+    "summary": "iFixit rated the M5 MacBook Pro a 4 out of 10 for repairability.",
+    "category": "Computing",
+    "publication_date": "2025-12-19",
+    "link": "https://www.extremetech.com/computing/apple-simplifies-battery-replacement-on-the-14-inch-m5-macbook-pro",
+    "author": "Devesh Beri"
+  },
+  {
+    "title": "Best Gaming Desktop PC Deals for December 2025",
+    "summary": "Getting last-minute holiday shopping done? Prebuilt gaming PCs are seeing some decent discounts.",
+    "category": "Deals",
+    "publication_date": "2025-12-19",
+    "link": "https://www.extremetech.com/deals/best-gaming-desktop-pc-deals",
+    "author": "K. Thor Jensen"
+  },
+  {
+    "title": "Best SSD and Hard Drive Deals for December 2025",
+    "summary": "Filling up your storage space with digital data? Make room for games, memories, and more with nice discounts.",
+    "category": "Deals",
+    "publication_date": "2025-12-19",
+    "link": "https://www.extremetech.com/deals/best-ssd-and-hard-drive-deals",
+    "author": "K. Thor Jensen"
+  },
+  {
+    "title": "Best Graphics Card (GPU) Deals for December 2025",
+    "summary": "Prices are starting to rocket up on RAM, which affects GPUs. Grab your next-generation card at a discount while you can.",
+    "category": "Deals",
+    "publication_date": "2025-12-19",
+    "link": "https://www.extremetech.com/deals/best-graphics-card-gpu-deals",
+    "author": "K. Thor Jensen"
   }
 ]
