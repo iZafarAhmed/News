@@ -1940,5 +1940,109 @@
     "publication_date": "2025-12-19",
     "link": "https://www.extremetech.com/deals/best-graphics-card-gpu-deals",
     "author": "K. Thor Jensen"
-  }
+  },
+{
+"title": "Daily Tech Insider Breaks Down the Surge in Factory Robots, Flash Models, and Hyperscale Funding",
+"summary": "Dec. 15–19 recap: This week, software learned new tricks, hardware sprouted extra limbs, and investors rushed to fund both before the coffee cooled.",
+"category": "Artificial Intelligence",
+"publication_date": "Dec 19, 2025",
+"link": "https://www.techrepublic.com/article/news-best-of-dti-dec-15-19/",
+"author": "Justin Meyers"
+},
+{
+"title": "Palo Alto Networks, Google Cloud Expand Partnership in Multibillion-Dollar Deal",
+"summary": "Palo Alto Networks and Google Cloud expand their partnership in a multibillion-dollar deal to secure AI workloads as attacks on AI infrastructure surge.",
+"category": "Artificial Intelligence",
+"publication_date": "Dec 19, 2025",
+"link": "https://www.techrepublic.com/article/news-palo-alto-google-cloud-multibillion-dollar-deal/",
+"author": "Aminu Abdullahi"
+},
+{
+"title": "AI Chip Shortage Could Raise Smartphone Prices in 2026",
+"summary": "Rising AI demand is driving up DRAM prices, pushing smartphone costs higher and reducing supply as early as 2026, according to new Counterpoint research.",
+"category": "Artificial Intelligence",
+"publication_date": "Dec 19, 2025",
+"link": "https://www.techrepublic.com/article/news-ai-chip-shortage-rising-smartphone-prices-2026/",
+"author": "Joseph Ofonagoro"
+},
+{
+"title": "Trump Media Announces $6 Billion Merger With Fusion Power Developer TAE",
+"summary": "Trump Media announces a $6 billion merger with fusion startup TAE Technologies, signaling a pivot from social media to clean energy and AI infrastructure.",
+"category": "Artificial Intelligence",
+"publication_date": "Dec 19, 2025",
+"link": "https://www.techrepublic.com/article/news-trump-media-tae-6b-merger/",
+"author": "Aminu Abdullahi"
+},
+{
+"title": "OWASP Drops First AI Agent Risk List",
+"summary": "These aren't simple chatbots anymore—these AI agents access data and tools and carry out tasks, making them infinitely more capable and dangerous.",
+"category": "Artificial Intelligence",
+"publication_date": "Dec 19, 2025",
+"link": "https://www.techrepublic.com/article/news-owasp-ai-agent-risk-list/",
+"author": ""
+},
+{
+"title": "UK Foreign Office Cyber Breach Exposed Diplomatic Secrets",
+"summary": "The government stopped short of directly attributing the attack to Chinese operatives or the Chinese state.",
+"category": "Security",
+"publication_date": "Dec 19, 2025",
+"link": "https://www.techrepublic.com/article/news-uk-foreign-office-cyber-breach/",
+"author": ""
+},
+{
+"title": "Nvidia and Google Back $6.6B AI Startup Lovable",
+"summary": "Vibe coding firm has closed a $330 million Series B funding round, catapulting the Swedish company to a $6.6 billion valuation.",
+"category": "Artificial Intelligence",
+"publication_date": "Dec 19, 2025",
+"link": "https://www.techrepublic.com/article/news-nvidia-google-ai-funding-lovable/",
+"author": ""
+},
+{
+"title": "TikTok Strikes Deal to Offload US Operations",
+"summary": "Oracle, Silver Lake, and MGX each secured 15% stakes in the newly formed JV, while ByteDance retains 19.9% ownership of what was once their crown jewel.",
+"category": "Social Media",
+"publication_date": "Dec 19, 2025",
+"link": "https://www.techrepublic.com/article/news-tiktok-us-deal/",
+"author": ""
+},
+{
+"title": "Italian Ferry Malware Attack Sparks International Probe",
+"summary": "French intelligence agencies uncovered what appears to be a coordinated foreign interference operation targeting the GNV Fantastic.",
+"category": "Security",
+"publication_date": "Dec 19, 2025",
+"link": "https://www.techrepublic.com/article/news-italian-ferry-malware-attack/",
+"author": ""
+},
+{
+"title": "How Smartphones Stole Christmas (And What Parents Can Do About It)",
+"summary": "Evidence in the UK suggests the biggest distraction from the Christmas togetherness won’t be toys, television, or even work emails, it will be smartphone.",
+"category": "Mobile",
+"publication_date": "Dec 19, 2025",
+"link": "https://www.techrepublic.com/article/news-smartphone-usage-christmas/",
+"author": ""
+},
+{
+"title": "Inside China’s ‘Manhattan Project’: China Moves Closer to Chip Self-Reliance With Secret EUV Prototype",
+"summary": "China is testing a secret EUV lithography prototype, a step toward chip self-reliance amid tightening export controls and surging AI demand.",
+"category": "Artificial Intelligence",
+"publication_date": "Dec 19, 2025",
+"link": "https://www.techrepublic.com/article/news-china-euv-prototype/",
+"author": ""
+},
+{
+"title": "5 Signals That May Shape APAC Enterprise Technology in 2026",
+"summary": "APAC technology leaders may face new expectations in 2026. This article explores the emerging signals shaping AI governance, cloud strategy, resilience and data control.",
+"category": "News",
+"publication_date": "Dec 19, 2025",
+"link": "https://www.techrepublic.com/article/news-tr-apac-tech-trends-2026/",
+"author": ""
+},
+{
+"title": "Last-Minute Amazon Prime Deals for Holiday Shopping",
+"summary": "Five standout last-minute Amazon Prime deals for holiday shopping: Echo Show 8, Kindle Paperwhite, Fire TV Stick 4K Max, Belkin charger, and smart home essentials.",
+"category": "News",
+"publication_date": "Dec 19, 2025",
+"link": "https://www.techrepublic.com/article/news-last-minute-amazon-prime-deals-holiday-shopping-2025/",
+"author": ""
+}
 ]
