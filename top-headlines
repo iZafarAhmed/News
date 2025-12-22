@@ -1,6 +1,5 @@
 [
   {
-    "country": "Middle East",
     "category": "Israel-Gaza Conflict",
     "headline": "Israeli strikes continue amid fragile ceasefire, killing Palestinians in shelters and schools",
     "description": "Israeli forces accused of ceasefire violations, including attacks on shelters; mediators (US, Qatar, Egypt, Turkey) urge restraint to advance to phase two of the October deal.",
@@ -54,7 +53,6 @@
     ]
   },
 {
-    "country": "Europe",
     "category": "Ukraine Support",
     "headline": "EU agrees to €90 billion loan to Ukraine amid divisions over frozen Russian assets",
     "description": "European Union leaders approved a €90 billion interest-free loan to support Ukraine's defense and economy for 2026-2027, after failing to reach consensus on using frozen Russian assets. Hungary, Slovakia, and Czech Republic secured exemptions.",
@@ -111,6 +109,67 @@
     "description": "Croatia's capital pushes its festive market with attractions to attract visitors and boost tourism.",
     "sources": [
       {"name": "BBC", "url": "https://www.bbc.com/news/articles/c8dy5m56477o"}
+    ]
+  },
+{
+    "category": "Politics",
+    "headline": "Justice Department restores Epstein files photo containing image of Trump after controversy",
+    "description": "The DoJ defended redactions and reposted documents, including one with President Trump, amid accusations of violations of transparency laws.",
+    "sources": [
+      {"name": "CNN", "url": "https://edition.cnn.com/"},
+      {"name": "NPR", "url": "https://www.npr.org/sections/national/"},
+      {"name": "The New York Times", "url": "https://www.nytimes.com/live/2025/12/21/us/trump-news"}
+    ]
+  },
+  {
+    "category": "Foreign Policy",
+    "headline": "US pursuing third sanctioned oil tanker off Venezuela coast",
+    "description": "The US Coast Guard is intercepting vessels carrying Venezuelan oil as part of ongoing sanctions enforcement against the Maduro regime; recent seizures include multiple tankers.",
+    "sources": [
+      {"name": "Reuters", "url": "https://www.reuters.com/world/americas/us-intercepts-another-vessel-near-venezuela-officials-say-2025-12-21/"},
+      {"name": "NPR", "url": "https://www.npr.org/sections/national/"},
+      {"name": "Reuters", "url": "https://www.reuters.com/world/americas/us-interdicting-sanctioned-vessel-off-venezuelan-coast-officials-say-2025-12-20/"}
+    ]
+  },
+  {
+    "category": "Politics",
+    "headline": "Nicki Minaj praises Trump and Vance at Turning Point USA event",
+    "description": "The rapper expressed strong support for President Trump and Vice President JD Vance during the conservative youth conference, amid discussions of 2028 succession.",
+    "sources": [
+      {"name": "USA Today", "url": "https://www.usatoday.com/"},
+      {"name": "Axios", "url": "https://www.axios.com"}
+    ]
+  },
+  {
+    "category": "Immigration",
+    "headline": "Trump administration pauses diversity visa lottery program",
+    "description": "Homeland Security Secretary Kristi Noem announced the pause, citing its alleged use by suspects in recent incidents.",
+    "sources": [
+      {"name": "NPR", "url": "https://www.npr.org/sections/national/"}
+    ]
+  },
+  {
+    "category": "Politics",
+    "headline": "Trump highlights economic comeback in year-end address",
+    "description": "President Trump touted record investments and recovery efforts in a primetime speech, contrasting with previous administration.",
+    "sources": [
+      {"name": "The White House", "url": "https://www.whitehouse.gov/articles/2025/12/president-trump-highlights-americas-historic-comeback-in-year-end-address/"}
+    ]
+  },
+  {
+    "category": "Justice",
+    "headline": "Federal judge orders special elections for Mississippi Supreme Court",
+    "description": "Ruling finds current electoral map dilutes Black voters' power, requiring redrawn districts.",
+    "sources": [
+      {"name": "NPR", "url": "https://www.npr.org/sections/national/"}
+    ]
+  },
+  {
+    "category": "International Relations",
+    "headline": "US-China hold defense policy coordination talks in Washington",
+    "description": "Deputy officials met for the 19th round of talks amid ongoing tensions.",
+    "sources": [
+      {"name": "Department of Defense", "url": "https://www.war.gov/News/Releases/Release/Article/4361903/readout-of-december-2025-us-china-defense-policy-coordination-talks/"}
     ]
   }
 ]
