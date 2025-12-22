@@ -1,23 +1,89 @@
-Top Headlines on December 22, 2025
-Here are some of the major news stories making headlines today and in recent days:
-World News
-
-Mass shooting in South Africa: At least nine people were killed and 10 injured in a shooting at a pub in Bekkersdal township near Johannesburg. Police are hunting for the suspects.
-US military action in Syria: The United States conducted large-scale airstrikes on dozens of ISIS targets in central Syria under "Operation Hawkeye Strike," in retaliation for an ISIS-affiliated attack that killed two US soldiers and a civilian interpreter in Palmyra earlier this month.
-US intercepts oil tankers off Venezuela: The US Coast Guard is pursuing multiple sanctioned vessels carrying Venezuelan oil, with recent interceptions aimed at enforcing sanctions. China remains a major buyer of Venezuelan crude.
-Ongoing Russia-Ukraine developments: US intelligence indicates Russian President Vladimir Putin's war aims remain unchanged, despite recent talks. Putin signaled no compromises in his recent news conference, while US negotiators continue efforts toward peace.
-
-Other International
-
-Violence and incidents: Reports of deadly fires in China, a Russian military plane crash, and targeted shootings in Peru highlight ongoing global safety concerns.
-Middle East: Continued tensions, including Israeli actions in the West Bank and Gaza, with reports of ceasefire violations.
-
-US and Politics
-
-Epstein files controversy: The US Department of Justice defended redactions and the temporary removal of certain Jeffrey Epstein-related documents from its website, including one featuring a photo of President Trump. The files were later reposted.
-Economy and markets: Stocks rallied last week led by tech and AI shares, with a shortened trading week ahead due to Christmas. Upcoming data includes GDP revisions and durable goods orders.
-
-Sports and Culture
-
-Cricket: India and Pakistan are set for a high-stakes final in the U19 Asia Cup 2025 in Dubai.
-Football: Paris Saint-Germain's Ousmane Dembélé was named the 2025 FIFA Men's Player of the Year.
+{
+  "date": "December 22, 2025",
+  "summary": "Top headlines from around the world on December 22, 2025, covering conflicts, violence, diplomacy, sports, and other events.",
+  "headlines": [
+    {
+      "category": "World Conflicts",
+      "items": [
+        {
+          "title": "US conducts large-scale airstrikes on ISIS targets in Syria",
+          "description": "Under Operation Hawkeye Strike, the US hit dozens of ISIS sites in retaliation for an attack that killed two US soldiers and a civilian in Palmyra."
+        },
+        {
+          "title": "Russia-Ukraine war developments",
+          "description": "US intelligence reports Putin's war aims unchanged; ongoing talks between US and Russia for peace, with recent missile strikes reported."
+        },
+        {
+          "title": "US intercepts sanctioned Venezuelan oil tankers",
+          "description": "US forces pursuing vessels carrying Venezuelan crude, enforcing sanctions; China remains primary buyer."
+        }
+      ]
+    },
+    {
+      "category": "Violence and Incidents",
+      "items": [
+        {
+          "title": "Mass shooting at South African pub",
+          "description": "Nine killed and at least 10 injured in Bekkersdal township near Johannesburg; police hunting suspects."
+        },
+        {
+          "title": "Targeted shooting in Peru",
+          "description": "Councilwoman assassinated at Christmas event in Chicama, injuring several including children."
+        },
+        {
+          "title": "Deadly fire in China",
+          "description": "Twelve killed in building fire in Shantou, Guangdong."
+        },
+        {
+          "title": "Russian military plane crash",
+          "description": "Seven killed in Antonov An-22 crash during test flight."
+        }
+      ]
+    },
+    {
+      "category": "Sports",
+      "items": [
+        {
+          "title": "Ousmane Dembélé named FIFA Men's Player of the Year 2025",
+          "description": "Paris Saint-Germain forward receives the award."
+        },
+        {
+          "title": "India vs Pakistan U19 Asia Cup 2025 final",
+          "description": "High-stakes cricket match set in Dubai."
+        }
+      ]
+    },
+    {
+      "category": "Politics and Diplomacy",
+      "items": [
+        {
+          "title": "Indian Visa Centre in Chattogram suspends services",
+          "description": "Due to security concerns in Bangladesh."
+        },
+        {
+          "title": "BJP leads in Maharashtra local body polls",
+          "description": "Election results show strong performance."
+        }
+      ]
+    },
+    {
+      "category": "Economy and Markets",
+      "items": [
+        {
+          "title": "Stocks rally amid shortened holiday week",
+          "description": "Tech and AI shares lead gains; upcoming US economic data releases."
+        }
+      ]
+    },
+    {
+      "category": "Other",
+      "items": [
+        {
+          "title": "ISRO conducts parachute tests",
+          "description": "For astronaut safety in space missions."
+        }
+      ]
+    }
+  ],
+  "note": "News is based on reports as of December 22, 2025, and events are evolving rapidly."
+}
