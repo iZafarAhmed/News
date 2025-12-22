@@ -1,5 +1,6 @@
 [
   {
+    "country": "Middle East",
     "category": "Israel-Gaza Conflict",
     "headline": "Israeli strikes continue amid fragile ceasefire, killing Palestinians in shelters and schools",
     "description": "Israeli forces accused of ceasefire violations, including attacks on shelters; mediators (US, Qatar, Egypt, Turkey) urge restraint to advance to phase two of the October deal.",
@@ -53,6 +54,7 @@
     ]
   },
 {
+    "country": "Europe",
     "category": "Ukraine Support",
     "headline": "EU agrees to €90 billion loan to Ukraine amid divisions over frozen Russian assets",
     "description": "European Union leaders approved a €90 billion interest-free loan to support Ukraine's defense and economy for 2026-2027, after failing to reach consensus on using frozen Russian assets. Hungary, Slovakia, and Czech Republic secured exemptions.",
