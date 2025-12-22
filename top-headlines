@@ -1,5 +1,6 @@
 [
   {
+    "region": "Middle East",
     "category": "Israel-Gaza Conflict",
     "headline": "Israeli strikes continue amid fragile ceasefire, killing Palestinians in shelters and schools",
     "description": "Israeli forces accused of ceasefire violations, including attacks on shelters; mediators (US, Qatar, Egypt, Turkey) urge restraint to advance to phase two of the October deal.",
@@ -10,6 +11,7 @@
     ]
   },
   {
+    "region": "Middle East",
     "category": "Israel-Gaza Conflict",
     "headline": "Violence escalates in occupied West Bank; Israel approves new settlements",
     "description": "Israeli forces kill Palestinians, including a child; cabinet approves 19 new settlements amid record expansion.",
@@ -19,6 +21,7 @@
     ]
   },
   {
+    "region": "Middle East",
     "category": "Israel-Gaza Conflict",
     "headline": "Gaza faces severe humanitarian crisis with low medicine stocks and aid restrictions",
     "description": "Israeli restrictions cause medicine shortages; hunger critical despite no full famine.",
@@ -27,6 +30,7 @@
     ]
   },
   {
+    "region": "Middle East",
     "category": "Syria",
     "headline": "US launches large-scale 'Operation Hawkeye Strike' on dozens of ISIS targets",
     "description": "Retaliatory airstrikes on December 19 hit over 70 ISIS sites in central Syria after attack killing two US soldiers and a civilian interpreter in Palmyra.",
@@ -37,6 +41,7 @@
     ]
   },
   {
+    "region": "Middle East",
     "category": "Lebanon",
     "headline": "Lebanon nearing completion of Hezbollah disarmament south of Litani River",
     "description": "Progress under ceasefire terms as deadline approaches.",
@@ -45,6 +50,7 @@
     ]
   },
   {
+    "region": "Middle East",
     "category": "Iran and Regional Tensions",
     "headline": "Netanyahu plans to brief Trump on potential new strikes against Iran",
     "description": "Discussions focus on Iran's ballistic missile program.",
@@ -53,6 +59,7 @@
     ]
   },
 {
+    "region": "Europe",
     "category": "Ukraine Support",
     "headline": "EU agrees to €90 billion loan to Ukraine amid divisions over frozen Russian assets",
     "description": "European Union leaders approved a €90 billion interest-free loan to support Ukraine's defense and economy for 2026-2027, after failing to reach consensus on using frozen Russian assets. Hungary, Slovakia, and Czech Republic secured exemptions.",
@@ -63,6 +70,7 @@
     ]
   },
   {
+    "region": "Europe",
     "category": "Ukraine-Russia War",
     "headline": "US intelligence: Putin's war aims in Ukraine remain unchanged",
     "description": "US reports indicate Vladimir Putin has not altered his goals of capturing all of Ukraine and reclaiming former Soviet territories, contradicting recent statements suggesting flexibility in peace talks.",
@@ -71,6 +79,7 @@
     ]
   },
   {
+    "region": "Europe",
     "category": "Ukraine-Russia War",
     "headline": "Kremlin criticizes European amendments to US Ukraine peace proposals",
     "description": "Russia claims changes by Europe and Ukraine to US peace initiatives could prolong the conflict, as separate talks continue with US negotiators.",
@@ -80,6 +89,7 @@
     ]
   },
   {
+    "region": "Europe",
     "category": "EU Policy",
     "headline": "EU advances new health and biotech measures",
     "description": "The European Commission proposes initiatives including a biotech act, a Safe Hearts plan for cardiovascular diseases, and simplified medical device rules to boost Europe's healthcare sector.",
@@ -88,6 +98,7 @@
     ]
   },
   {
+    "region": "Europe",
     "category": "Trade",
     "headline": "China imposes duties on EU dairy products in retaliation",
     "description": "China announces provisional tariffs up to 42.7% on certain EU dairy imports, seen as response to EU electric vehicle tariffs.",
@@ -96,6 +107,7 @@
     ]
   },
   {
+    "region": "Europe",
     "category": "Travel Disruptions",
     "headline": "Holiday travel chaos across Europe due to strikes and new biometric system",
     "description": "Strikes and the rollout of the EU Entry/Exit System cause severe delays at airports in France, Germany, Italy, Spain, UK, and others during the holiday season.",
@@ -104,6 +116,7 @@
     ]
   },
   {
+    "region": "Europe",
     "category": "Culture",
     "headline": "Zagreb's Christmas market aims for Europe's best title",
     "description": "Croatia's capital pushes its festive market with attractions to attract visitors and boost tourism.",
@@ -112,6 +125,7 @@
     ]
   },
 {
+    "region": "USA",
     "category": "Politics",
     "headline": "Justice Department restores Epstein files photo containing image of Trump after controversy",
     "description": "The DoJ defended redactions and reposted documents, including one with President Trump, amid accusations of violations of transparency laws.",
@@ -122,6 +136,7 @@
     ]
   },
   {
+    "region": "USA",
     "category": "Foreign Policy",
     "headline": "US pursuing third sanctioned oil tanker off Venezuela coast",
     "description": "The US Coast Guard is intercepting vessels carrying Venezuelan oil as part of ongoing sanctions enforcement against the Maduro regime; recent seizures include multiple tankers.",
@@ -132,6 +147,7 @@
     ]
   },
   {
+    "region": "USA",
     "category": "Politics",
     "headline": "Nicki Minaj praises Trump and Vance at Turning Point USA event",
     "description": "The rapper expressed strong support for President Trump and Vice President JD Vance during the conservative youth conference, amid discussions of 2028 succession.",
@@ -141,6 +157,7 @@
     ]
   },
   {
+    "region": "USA",
     "category": "Immigration",
     "headline": "Trump administration pauses diversity visa lottery program",
     "description": "Homeland Security Secretary Kristi Noem announced the pause, citing its alleged use by suspects in recent incidents.",
@@ -149,6 +166,7 @@
     ]
   },
   {
+    "region": "USA",
     "category": "Politics",
     "headline": "Trump highlights economic comeback in year-end address",
     "description": "President Trump touted record investments and recovery efforts in a primetime speech, contrasting with previous administration.",
@@ -157,6 +175,7 @@
     ]
   },
   {
+    "region": "USA",
     "category": "Justice",
     "headline": "Federal judge orders special elections for Mississippi Supreme Court",
     "description": "Ruling finds current electoral map dilutes Black voters' power, requiring redrawn districts.",
@@ -165,6 +184,7 @@
     ]
   },
   {
+    "region": "USA",
     "category": "International Relations",
     "headline": "US-China hold defense policy coordination talks in Washington",
     "description": "Deputy officials met for the 19th round of talks amid ongoing tensions.",
