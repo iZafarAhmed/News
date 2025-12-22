@@ -1,48 +1,55 @@
-### Latest Middle East Headlines (as of December 22, 2025)
-
-Here are the top recent headlines from the Middle East, focusing on key developments in ongoing conflicts and regional tensions:
-
-#### Israel-Gaza Conflict
-- **Israeli strikes continue amid fragile ceasefire**: Israeli forces killed several Palestinians in Gaza, including in attacks on shelters and a wedding gathering in a school-turned-shelter, described as ceasefire violations. Mediators (US, Qatar, Egypt, Turkey) met to push for phase two of the October ceasefire deal, urging restraint.  
-  Sources:  
-  - [Al Jazeera](https://www.aljazeera.com/news/liveblog/2025/12/21/live-israel-continues-ceasefire-violations-1-palestinian-killed-in-gaza)  
-  - [The Guardian](https://www.theguardian.com/world/2025/dec/20/israeli-troops-kill-palestinians-sheltering-in-gaza-school-hospital-chiefs)  
-  - [Reuters](https://archive.is/dcOw9)
-
-- **Violence in West Bank escalates**: Israeli forces killed two Palestinians, including a 16-year-old, in the occupied West Bank; cabinet approved 19 new settlements.  
-  Sources:  
-  - [Al Jazeera](https://www.aljazeera.com/news/2025/12/21/israel-kills-two-palestinians-including-16-year-old-in-west-bank)  
-  - [ABC News](https://abcnews.go.com/International/live-updates/israel-gaza-live-updates-idf-claims-killing-3/?id=128407548)
-
-- **Aid restrictions and humanitarian crisis**: Gaza faces low medicine stocks due to Israeli restrictions; hunger remains critical despite no full famine.  
-  Sources:  
-  - [Al Jazeera](https://www.aljazeera.com/news/2025/12/20/us-qatar-egypt-turkey-urge-gaza-restraint-as-israeli-strikes-continue)
-
-#### Syria
-- **US launches large-scale strikes on ISIS**: In "Operation Hawkeye Strike," the US hit dozens of ISIS targets in central Syria on December 19, retaliating for an attack killing two US soldiers and a civilian interpreter in Palmyra.  
-  Sources:  
-  - [Reuters](https://www.reuters.com/world/middle-east/us-strikes-islamic-state-targets-syria-new-york-times-reports-2025-12-19/)  
-  - [BBC](https://www.bbc.com/news/articles/c5yq7zzw618o)  
-  - [The New York Times](https://www.nytimes.com/2025/12/19/us/politics/us-islamic-state-strikes-syria.html)
-
-#### Lebanon
-- **Hezbollah disarmament progresses**: Lebanon reports nearing completion of Hezbollah disarmament south of the Litani River under ceasefire terms.  
-  Sources:  
-  - [Reuters](https://www.reuters.com/world/middle-east/netanyahu-plans-brief-trump-possible-new-iran-strikes-nbc-news-reports-2025-12-20/)
-
-#### Iran and Regional Tensions
-- **Netanyahu to brief Trump on potential Iran strikes**: Israeli PM plans discussions on new strikes amid concerns over Iran's ballistic missile program reconstitution.  
-  Sources:  
-  - [NBC News](https://www.nbcnews.com/politics/white-house/netanyahu-plans-brief-trump-possible-new-iran-strikes-rcna250112)  
-  - [Reuters](https://www.reuters.com/world/middle-east/netanyahu-plans-brief-trump-possible-new-iran-strikes-nbc-news-reports-2025-12-20/)
-
-#### Yemen
-- **Houthis detain more UN staff**: Houthis arrested 10 additional UN personnel, bringing the total to 69; UN condemns the detentions.  
-  Sources:  
-  - [Al Jazeera](https://www.aljazeera.com/news/2025/12/18/houthis-detain-10-more-united-nations-staff-in-yemen-bringing-total-to-69)
-
-- **Southern separatists expand control**: Southern Transitional Council (STC) advances in Hadhramaut and other areas, shifting power dynamics in non-Houthi regions.  
-  Sources:  
-  - [House of Commons Library](https://commonslibrary.parliament.uk/research-briefings/cbp-10427/)
-
-Events are fast-moving, particularly around ceasefires and military actions. Check multiple sources like Reuters, Al Jazeera, BBC, and AP for real-time updates and diverse perspectives.
+[
+  {
+    "category": "Israel-Gaza Conflict",
+    "headline": "Israeli strikes continue amid fragile ceasefire, killing Palestinians in shelters and schools",
+    "description": "Israeli forces accused of ceasefire violations, including attacks on shelters; mediators (US, Qatar, Egypt, Turkey) urge restraint to advance to phase two of the October deal.",
+    "sources": [
+      {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/liveblog/2025/12/21/live-israel-continues-ceasefire-violations-1-palestinian-killed-in-gaza"},
+      {"name": "The Guardian", "url": "https://www.theguardian.com/world/2025/dec/20/israeli-troops-kill-palestinians-sheltering-in-gaza-school-hospital-chiefs"},
+      {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2025/12/20/us-qatar-egypt-turkey-urge-gaza-restraint-as-israeli-strikes-continue"}
+    ]
+  },
+  {
+    "category": "Israel-Gaza Conflict",
+    "headline": "Violence escalates in occupied West Bank; Israel approves new settlements",
+    "description": "Israeli forces kill Palestinians, including a child; cabinet approves 19 new settlements amid record expansion.",
+    "sources": [
+      {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2025/12/21/israel-kills-two-palestinians-including-16-year-old-in-west-bank"},
+      {"name": "ABC News", "url": "https://abcnews.go.com/International/live-updates/israel-gaza-live-updates-idf-claims-killing-3/?id=128407548"}
+    ]
+  },
+  {
+    "category": "Israel-Gaza Conflict",
+    "headline": "Gaza faces severe humanitarian crisis with low medicine stocks and aid restrictions",
+    "description": "Israeli restrictions cause medicine shortages; hunger critical despite no full famine.",
+    "sources": [
+      {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/liveblog/2025/12/21/live-israel-continues-ceasefire-violations-1-palestinian-killed-in-gaza"}
+    ]
+  },
+  {
+    "category": "Syria",
+    "headline": "US launches large-scale 'Operation Hawkeye Strike' on dozens of ISIS targets",
+    "description": "Retaliatory airstrikes on December 19 hit over 70 ISIS sites in central Syria after attack killing two US soldiers and a civilian interpreter in Palmyra.",
+    "sources": [
+      {"name": "Reuters", "url": "https://www.reuters.com/world/middle-east/us-strikes-islamic-state-targets-syria-new-york-times-reports-2025-12-19/"},
+      {"name": "BBC", "url": "https://www.bbc.com/news/articles/c5yq7zzw618o"},
+      {"name": "The New York Times", "url": "https://www.nytimes.com/2025/12/19/us/politics/us-islamic-state-strikes-syria.html"}
+    ]
+  },
+  {
+    "category": "Lebanon",
+    "headline": "Lebanon nearing completion of Hezbollah disarmament south of Litani River",
+    "description": "Progress under ceasefire terms as deadline approaches.",
+    "sources": [
+      {"name": "Reuters", "url": "https://www.reuters.com/world/middle-east/lebanon-close-completing-disarmament-hezbollah-south-litani-river-says-pm-2025-12-20/"}
+    ]
+  },
+  {
+    "category": "Iran and Regional Tensions",
+    "headline": "Netanyahu plans to brief Trump on potential new strikes against Iran",
+    "description": "Discussions focus on Iran's ballistic missile program.",
+    "sources": [
+      {"name": "Reuters", "url": "https://www.reuters.com/world/middle-east/netanyahu-plans-brief-trump-possible-new-iran-strikes-nbc-news-reports-2025-12-20/"}
+    ]
+  }
+]
