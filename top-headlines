@@ -51,5 +51,64 @@
     "sources": [
       {"name": "Reuters", "url": "https://www.reuters.com/world/middle-east/netanyahu-plans-brief-trump-possible-new-iran-strikes-nbc-news-reports-2025-12-20/"}
     ]
+  },
+{
+    "category": "Ukraine Support",
+    "headline": "EU agrees to €90 billion loan to Ukraine amid divisions over frozen Russian assets",
+    "description": "European Union leaders approved a €90 billion interest-free loan to support Ukraine's defense and economy for 2026-2027, after failing to reach consensus on using frozen Russian assets. Hungary, Slovakia, and Czech Republic secured exemptions.",
+    "sources": [
+      {"name": "Reuters", "url": "https://www.reuters.com/world/europe/eu-leaders-agree-ukraine-financing-2026-27-belgiums-approval-key-2025-12-18/"},
+      {"name": "BBC", "url": "https://www.bbc.com/news/articles/cjezpd95v71o"},
+      {"name": "The Washington Post", "url": "https://en.wikipedia.org/wiki/Portal:Current_events/December_2025"} 
+    ]
+  },
+  {
+    "category": "Ukraine-Russia War",
+    "headline": "US intelligence: Putin's war aims in Ukraine remain unchanged",
+    "description": "US reports indicate Vladimir Putin has not altered his goals of capturing all of Ukraine and reclaiming former Soviet territories, contradicting recent statements suggesting flexibility in peace talks.",
+    "sources": [
+      {"name": "Reuters", "url": "https://www.reuters.com/world/europe/us-intelligence-indicates-putins-war-aims-ukraine-are-unchanged-2025-12-19/"}
+    ]
+  },
+  {
+    "category": "Ukraine-Russia War",
+    "headline": "Kremlin criticizes European amendments to US Ukraine peace proposals",
+    "description": "Russia claims changes by Europe and Ukraine to US peace initiatives could prolong the conflict, as separate talks continue with US negotiators.",
+    "sources": [
+      {"name": "The Guardian", "url": "https://www.theguardian.com/world/2025/dec/21/kremlin-russia-ukraine-war-end-changes-europe-miami-talks"},
+      {"name": "Reuters", "url": "https://www.reuters.com/world/europe/kremlin-says-chances-peace-not-improved-by-european-ukrainian-changes-us-2025-12-21/"}
+    ]
+  },
+  {
+    "category": "EU Policy",
+    "headline": "EU advances new health and biotech measures",
+    "description": "The European Commission proposes initiatives including a biotech act, a Safe Hearts plan for cardiovascular diseases, and simplified medical device rules to boost Europe's healthcare sector.",
+    "sources": [
+      {"name": "European Union", "url": "https://european-union.europa.eu/news-and-events_en"}
+    ]
+  },
+  {
+    "category": "Trade",
+    "headline": "China imposes duties on EU dairy products in retaliation",
+    "description": "China announces provisional tariffs up to 42.7% on certain EU dairy imports, seen as response to EU electric vehicle tariffs.",
+    "sources": [
+      {"name": "Reuters", "url": "https://www.reuters.com/"}
+    ]
+  },
+  {
+    "category": "Travel Disruptions",
+    "headline": "Holiday travel chaos across Europe due to strikes and new biometric system",
+    "description": "Strikes and the rollout of the EU Entry/Exit System cause severe delays at airports in France, Germany, Italy, Spain, UK, and others during the holiday season.",
+    "sources": [
+      {"name": "Travel And Tour World", "url": "https://www.travelandtourworld.com/news/article/uk-and-france-join-spain-italy-germany-greece-portugal-and-others-in-facing-severe-holiday-travel-disruptions-across-europe-due-to-strikes-and-new-border-system-everything-you-need-to-know/"}
+    ]
+  },
+  {
+    "category": "Culture",
+    "headline": "Zagreb's Christmas market aims for Europe's best title",
+    "description": "Croatia's capital pushes its festive market with attractions to attract visitors and boost tourism.",
+    "sources": [
+      {"name": "BBC", "url": "https://www.bbc.com/news/articles/c8dy5m56477o"}
+    ]
   }
 ]
