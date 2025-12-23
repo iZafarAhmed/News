@@ -262,5 +262,80 @@
 "sources": [
 {"name": "Reuters", "url": "https://www.reuters.com/world/europe/sovereignty-kingdom-denmark-must-be-preserved-eu-spokesperson-says-2025-12-22/"}
 ]
+},
+{
+    "region": "USA",
+"category": "Trump Administration - Defense",
+"date": "2025-12-23",
+"headline": "President Trump announces new 'Trump Class' battleships as part of Navy modernization",
+"description": "Trump unveils plans for advanced warships described as the fastest and most powerful ever built; Huntington Ingalls selected for design and construction amid rising global tensions.",
+"sources": [
+{"name": "The New York Times", "url": "https://www.nytimes.com/live/2025/12/22/us/trump-news"},
+{"name": "CNN", "url": "https://www.cnn.com/2025/12/22/politics/trump-shipbuilding-venezuela-tensions"}
+]
+},
+{
+    "region": "USA",
+"category": "Immigration Policy",
+"date": "2025-12-23",
+"headline": "Justice Department sues Illinois over law limiting federal immigration enforcement",
+"description": "DOJ challenges new state law preventing arrests outside courthouses and allowing lawsuits against agents; part of broader push against sanctuary policies.",
+"sources": [
+{"name": "The New York Times", "url": "https://www.nytimes.com/live/2025/12/22/us/trump-news"},
+{"name": "NPR", "url": "https://www.npr.org/sections/news/"}
+]
+},
+{
+    "region": "USA",
+"category": "Energy Policy",
+"date": "2025-12-23",
+"headline": "Trump administration suspends major offshore wind projects citing national security risks",
+"description": "Interior Department halts five large wind farms under construction, impacting jobs and renewable energy goals; critics warn of higher electricity costs.",
+"sources": [
+{"name": "CNN", "url": "https://www.cnn.com/2025/12/22/climate/trump-offshore-wind-suspension-virginia"},
+{"name": "The Guardian", "url": "https://www.theguardian.com/us-news/2025/dec/23/donald-trump-administration-news-updates-today-latest"}
+]
+},
+{
+    "region": "USA",
+"category": "Foreign Policy - Greenland",
+"date": "2025-12-23",
+"headline": "Trump appoints special envoy to Greenland, reaffirms need for US control over national security",
+"description": "President insists on Greenland's importance for security; Denmark and Greenland demand respect for sovereignty.",
+"sources": [
+{"name": "Reuters", "url": "https://www.reuters.com/world/us/trump-announces-louisiana-governor-greenland-special-envoy-2025-12-22/"},
+{"name": "Reuters", "url": "https://www.reuters.com/world/us/trump-says-us-needs-greenland-security-taps-envoy-lead-charge-2025-12-22/"}
+]
+},
+{
+    "region": "USA",
+"category": "Stock Market",
+"date": "2025-12-23",
+"headline": "US stocks rise with tech rebound; S&P 500 nears record high",
+"description": "Major indexes post gains in shortened holiday week; broad advance led by technology sector amid year-end rally.",
+"sources": [
+{"name": "Reuters", "url": "https://www.reuters.com/business/us-stock-futures-rise-ahead-shortened-trading-week-2025-12-22/"},
+{"name": "Yahoo Finance", "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-steady-with-sp-eyeing-fresh-record-233402636.html"}
+]
+},
+{
+    "region": "USA",
+"category": "Crime & Local News",
+"date": "2025-12-23",
+"headline": "Los Angeles mother rams SUV into robbers attempting home invasion",
+"description": "Surveillance video captures woman protecting her children by driving into gang of would-be burglars.",
+"sources": [
+{"name": "ABC News", "url": "https://abcnews.go.com/US"}
+]
+},
+{
+    "region": "USA",
+"category": "Weather",
+"date": "2025-12-23",
+"headline": "Pre-Christmas snow forecast for New York City and Tri-State area",
+"description": "Winter weather advisories issued as snow and rain expected before and after Christmas in Northeast.",
+"sources": [
+{"name": "CBS New York", "url": "https://www.cbsnews.com/newyork/news/snow-nyc-new-jersey-connecticut-tuesday-december-23-2025/"}
+]
 }
 ]
