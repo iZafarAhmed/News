@@ -2,6 +2,7 @@
   {
     "region": "Middle East",
     "category": "Israel-Gaza Conflict",
+    "date": "2025-12-22",
     "headline": "Israeli aid restrictions cause severe medicine shortages in Gaza amid ongoing ceasefire violations",
     "description": "Gaza faces dangerously low medicine stocks and critical hunger levels due to Israeli restrictions; multiple Palestinians killed in recent strikes and shootings despite October ceasefire.",
     "sources": [
@@ -12,6 +13,7 @@
   {
     "region": "Middle East",
     "category": "Israel-Lebanon/Hezbollah",
+   "date": "2025-12-22",
     "headline": "Lebanon nears completion of Hezbollah disarmament south of Litani River amid continued Israeli strikes",
     "description": "Prime Minister announces progress on disarmament deadline; Israeli forces conduct strikes targeting Hezbollah operatives in southern Lebanon despite ceasefire.",
     "sources": [
@@ -32,6 +34,7 @@
   {
     "region": "Middle East",
     "category": "Yemen Civil War",
+   "date": "2025-12-22",
     "headline": "Houthis detain additional UN staff; Southern separatists expand control in eastern Yemen",
     "description": "Houthis arrest 10 more UN workers, totaling 69 detained; Southern Transitional Council seizes key regions, shifting power balance in south.",
     "sources": [
@@ -42,6 +45,7 @@
   {
     "region": "Middle East",
     "category": "Iran-Israel Tensions",
+   "date": "2025-12-22",
     "headline": "Netanyahu prepares to discuss potential new strikes on Iran with Trump amid missile program concerns",
     "description": "Israel warns of Iranian military exercises and ballistic missile reconstitution post-June war; plans briefed to US on possible actions.",
     "sources": [
@@ -52,6 +56,7 @@
   {
     "region": "Europe",
     "category": "Ukraine Support",
+   "date": "2025-12-22",
     "headline": "EU agrees to €90 billion loan to Ukraine amid divisions over frozen Russian assets",
     "description": "European Union leaders approved a €90 billion interest-free loan to support Ukraine's defense and economy for 2026-2027, after failing to reach consensus on using frozen Russian assets. Hungary, Slovakia, and Czech Republic secured exemptions.",
     "sources": [
@@ -63,6 +68,7 @@
   {
     "region": "Europe",
     "category": "Ukraine-Russia War",
+   "date": "2025-12-22",
     "headline": "US intelligence: Putin's war aims in Ukraine remain unchanged",
     "description": "US reports indicate Vladimir Putin has not altered his goals of capturing all of Ukraine and reclaiming former Soviet territories, contradicting recent statements suggesting flexibility in peace talks.",
     "sources": [
@@ -72,6 +78,7 @@
   {
     "region": "Europe",
     "category": "Ukraine-Russia War",
+   "date": "2025-12-22",
     "headline": "Kremlin criticizes European amendments to US Ukraine peace proposals",
     "description": "Russia claims changes by Europe and Ukraine to US peace initiatives could prolong the conflict, as separate talks continue with US negotiators.",
     "sources": [
@@ -82,6 +89,7 @@
   {
     "region": "Europe",
     "category": "EU Policy",
+   "date": "2025-12-22",
     "headline": "EU advances new health and biotech measures",
     "description": "The European Commission proposes initiatives including a biotech act, a Safe Hearts plan for cardiovascular diseases, and simplified medical device rules to boost Europe's healthcare sector.",
     "sources": [
@@ -91,6 +99,7 @@
   {
     "region": "Europe",
     "category": "Trade",
+   "date": "2025-12-22",
     "headline": "China imposes duties on EU dairy products in retaliation",
     "description": "China announces provisional tariffs up to 42.7% on certain EU dairy imports, seen as response to EU electric vehicle tariffs.",
     "sources": [
@@ -100,6 +109,7 @@
   {
     "region": "Europe",
     "category": "Travel Disruptions",
+   "date": "2025-12-22",
     "headline": "Holiday travel chaos across Europe due to strikes and new biometric system",
     "description": "Strikes and the rollout of the EU Entry/Exit System cause severe delays at airports in France, Germany, Italy, Spain, UK, and others during the holiday season.",
     "sources": [
@@ -109,6 +119,7 @@
   {
     "region": "Europe",
     "category": "Culture",
+   "date": "2025-12-22",
     "headline": "Zagreb's Christmas market aims for Europe's best title",
     "description": "Croatia's capital pushes its festive market with attractions to attract visitors and boost tourism.",
     "sources": [
@@ -118,6 +129,7 @@
 {
     "region": "USA",
     "category": "Politics",
+   "date": "2025-12-22",
     "headline": "Justice Department restores Epstein files photo containing image of Trump after controversy",
     "description": "The DoJ defended redactions and reposted documents, including one with President Trump, amid accusations of violations of transparency laws.",
     "sources": [
@@ -129,6 +141,7 @@
   {
     "region": "USA",
     "category": "Foreign Policy",
+   "date": "2025-12-22",
     "headline": "US pursuing third sanctioned oil tanker off Venezuela coast",
     "description": "The US Coast Guard is intercepting vessels carrying Venezuelan oil as part of ongoing sanctions enforcement against the Maduro regime; recent seizures include multiple tankers.",
     "sources": [
@@ -140,6 +153,7 @@
   {
     "region": "USA",
     "category": "Politics",
+   "date": "2025-12-22",
     "headline": "Nicki Minaj praises Trump and Vance at Turning Point USA event",
     "description": "The rapper expressed strong support for President Trump and Vice President JD Vance during the conservative youth conference, amid discussions of 2028 succession.",
     "sources": [
@@ -150,6 +164,7 @@
   {
     "region": "USA",
     "category": "Immigration",
+   "date": "2025-12-22",
     "headline": "Trump administration pauses diversity visa lottery program",
     "description": "Homeland Security Secretary Kristi Noem announced the pause, citing its alleged use by suspects in recent incidents.",
     "sources": [
@@ -159,6 +174,7 @@
   {
     "region": "USA",
     "category": "Politics",
+   "date": "2025-12-22",
     "headline": "Trump highlights economic comeback in year-end address",
     "description": "President Trump touted record investments and recovery efforts in a primetime speech, contrasting with previous administration.",
     "sources": [
@@ -168,6 +184,7 @@
   {
     "region": "USA",
     "category": "Justice",
+   "date": "2025-12-22",
     "headline": "Federal judge orders special elections for Mississippi Supreme Court",
     "description": "Ruling finds current electoral map dilutes Black voters' power, requiring redrawn districts.",
     "sources": [
@@ -177,6 +194,7 @@
   {
     "region": "USA",
     "category": "International Relations",
+   "date": "2025-12-22",
     "headline": "US-China hold defense policy coordination talks in Washington",
     "description": "Deputy officials met for the 19th round of talks amid ongoing tensions.",
     "sources": [
@@ -186,6 +204,7 @@
 {
     "region": "Europe",
 "category": "EU-China Trade Tensions",
+   "date": "2025-12-23",
 "headline": "China imposes provisional tariffs up to 42.7% on EU dairy products",
 "description": "The move broadens trade conflict, seen as retaliation for EU tariffs on Chinese electric vehicles; European Commission calls measures unjustified.",
 "sources": [
@@ -195,6 +214,7 @@
 {
     "region": "Europe",
 "category": "EU Economy & Environment",
+"date": "2025-12-23",
 "headline": "EU plans checks on imported plastics to support domestic recycling industry",
 "description": "European Union prepares measures against cheap plastic imports amid efforts to bolster recycling sector.",
 "sources": [
@@ -205,6 +225,7 @@
 {
     "region": "Europe",
 "category": "Russia-Ukraine War",
+"date": "2025-12-23",
 "headline": "Kremlin downplays US-Russia Ukraine peace talks as no breakthrough",
 "description": "Recent Miami discussions described as ongoing working process; Russia seeks details on US coordination with Europe and Ukraine.",
 "sources": [
@@ -214,6 +235,7 @@
 {
     "region": "Europe",
 "category": "EU-Ukraine Support",
+"date": "2025-12-23",
 "headline": "EU agrees to €90 billion loan for Ukraine after failing to use frozen Russian assets",
 "description": "Leaders provide financing for 2026-2027 via EU budget-backed borrowing; reinforces Europe's independent support amid ongoing conflict.",
 "sources": [
@@ -224,6 +246,7 @@
 {
     "region": "Europe",
 "category": "European Automotive Sector",
+"date": "2025-12-23",
 "headline": "New car sales in Europe rise for fifth consecutive month, boosted by EVs",
 "description": "November registrations up 2.4%, driven by electric vehicle growth in key markets like Germany, Italy, and Spain.",
 "sources": [
@@ -233,6 +256,7 @@
 {
     "region": "Europe",
 "category": "EU Geopolitics",
+"date": "2025-12-23",
 "headline": "EU reaffirms sovereignty of Denmark including Greenland amid US interests",
 "description": "Spokesperson stresses preservation of territorial integrity in response to recent US appointments and statements.",
 "sources": [
