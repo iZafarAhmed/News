@@ -1,55 +1,5 @@
 [
   {
-    "region": "Middle East",
-    "category": "Israel-Gaza Conflict",
-    "headline": "Israeli aid restrictions cause severe medicine shortages in Gaza amid ongoing ceasefire violations",
-    "description": "Gaza faces dangerously low medicine stocks and critical hunger levels due to Israeli restrictions; multiple Palestinians killed in recent strikes and shootings despite October ceasefire.",
-    "sources": [
-      {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/liveblog/2025/12/21/live-israel-continues-ceasefire-violations-1-palestinian-killed-in-gaza"},
-      {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/liveblog/2025/12/22/live-israel-escalates-strikes-on-lebanon-displaces-dozens-in-jerusalem"}
-    ]
-  },
-  {
-    "region": "Middle East",
-    "category": "Israel-Lebanon/Hezbollah",
-    "headline": "Lebanon nears completion of Hezbollah disarmament south of Litani River amid continued Israeli strikes",
-    "description": "Prime Minister announces progress on disarmament deadline; Israeli forces conduct strikes targeting Hezbollah operatives in southern Lebanon despite ceasefire.",
-    "sources": [
-      {"name": "Reuters", "url": "https://www.reuters.com/world/middle-east/lebanon-close-completing-disarmament-hezbollah-south-litani-river-says-pm-2025-12-20/"},
-      {"name": "ABC News", "url": "https://abcnews.go.com/International/live-updates/israel-gaza-live-updates-idf-strike-kills-1/?id=128612306"}
-    ]
-  },
-  {
-    "region": "Middle East",
-    "category": "Syria Internal Conflicts",
-    "headline": "Clashes erupt between Syrian army and Kurdish-led SDF in Aleppo; US launches large-scale strikes on ISIS",
-    "description": "Violence in Aleppo amid talks on SDF integration; US retaliatory airstrikes target dozens of ISIS sites following attack killing American personnel.",
-    "sources": [
-      {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2025/12/22/clashes-between-syrian-army-kurdish-led-sdf-break-out-in-aleppo"},
-      {"name": "Reuters", "url": "https://www.reuters.com/world/middle-east/us-strikes-islamic-state-targets-syria-new-york-times-reports-2025-12-19/"}
-    ]
-  },
-  {
-    "region": "Middle East",
-    "category": "Yemen Civil War",
-    "headline": "Houthis detain additional UN staff; Southern separatists expand control in eastern Yemen",
-    "description": "Houthis arrest 10 more UN workers, totaling 69 detained; Southern Transitional Council seizes key regions, shifting power balance in south.",
-    "sources": [
-      {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2025/12/18/houthis-detain-10-more-united-nations-staff-in-yemen-bringing-total-to-69"},
-      {"name": "House of Commons Library", "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10427/"}
-    ]
-  },
-  {
-    "region": "Middle East",
-    "category": "Iran-Israel Tensions",
-    "headline": "Netanyahu prepares to discuss potential new strikes on Iran with Trump amid missile program concerns",
-    "description": "Israel warns of Iranian military exercises and ballistic missile reconstitution post-June war; plans briefed to US on possible actions.",
-    "sources": [
-      {"name": "Reuters", "url": "https://www.reuters.com/world/middle-east/netanyahu-plans-brief-trump-possible-new-iran-strikes-nbc-news-reports-2025-12-20/"},
-      {"name": "Haaretz", "url": "https://www.haaretz.com/israel-news/2025-12-22/ty-article-live/.premium/report-israel-warns-u-s-iranian-exercise-could-indicate-a-planned-attack/0000019b-4438-dbc2-adbb-cfbbed960000"}
-    ]
-  },
-  {
     "region": "Europe",
     "category": "Ukraine Support",
     "headline": "EU agrees to €90 billion loan to Ukraine amid divisions over frozen Russian assets",
