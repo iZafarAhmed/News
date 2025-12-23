@@ -248,5 +248,50 @@
       {"name": "Reuters", "url": "https://www.reuters.com/world/middle-east/netanyahu-plans-brief-trump-possible-new-iran-strikes-nbc-news-reports-2025-12-20/"},
       {"name": "Haaretz", "url": "https://www.haaretz.com/israel-news/2025-12-22/ty-article-live/.premium/report-israel-warns-u-s-iranian-exercise-could-indicate-a-planned-attack/0000019b-4438-dbc2-adbb-cfbbed960000"}
     ]
+  },
+  {
+
+    "category": "Geopolitics / Security",
+    "headline": "EU Extends Russia Sanctions and Approves €90bn Ukraine Loan",
+    "description": "The Council of the EU has extended economic sanctions against Russia until July 31, 2026. Separately, the bloc confirmed a 90 billion-euro loan package to support Ukraine's military and economic needs over the next two years amidst ongoing peace negotiations in Miami.",
+    "sources": "https://www.aa.com.tr/en/europe/eu-extends-sanctions-on-russia-for-6-more-months-over-ukraine-war/3777599"
+  },
+  {
+    "region": "Europe",
+    "category": "Conflict / War",
+    "headline": "Russian General Fanil Sarvarov Killed in Moscow Car Bombing",
+    "description": "Lt. Gen. Fanil Sarvarov, head of the Russian General Staff's operational training, was killed after an explosive device detonated under his car in Moscow. Russian investigators are currently probing if Ukrainian intelligence services orchestrated the hit.",
+    "sources": "https://www.theguardian.com/world/2025/dec/22/russian-general-fanil-sarvarov-killed-car-bomb-moscow-investigators-say"
+  },
+  {
+    "region": "Europe",
+    "category": "Diplomacy",
+    "headline": "Denmark Summons US Ambassador Over Trump's Greenland Envoy",
+    "description": "Following President Trump's appointment of Jeff Landry as 'special envoy to Greenland' with the stated goal of annexation, Denmark has summoned the US ambassador to express deep anger, stating 'you cannot annex another country.'",
+    "sources": [ 
+    {"name": "The journal", "https://www.thejournal.ie/trump-renews-push-annex-greenland-denmark-6911480-Dec2025/"
+    ]
+  },
+  {
+    "region": "Europe",
+    "category": "Science / Innovation",
+    "headline": "Japan to Join Horizon Europe in Landmark €93.5bn Research Deal",
+    "description": "The European Commission and Japan have concluded negotiations for Japan's association with the Horizon Europe research program. Japanese researchers can now lead projects on an equal footing with EU states, a move seen as a strategic pivot away from declining US science cooperation.",
+    "sources": "https://sciencebusiness.net/news/horizon-europe/japan-join-horizon-europe-strengthening-eu-role-global-science"
+  },
+  {
+    "region": "Europe",
+    "category": "Business / Transport",
+    "headline": "Italy Fines Ryanair €255m for Abuse of Dominant Market Position",
+    "description": "Italy's competition authority (AGCM) has imposed a 255 million-euro fine on Ryanair. The regulator found that the airline blocked travel agencies from offering its flights in combination with other services, stifling competition.",
+    "sources": "https://www.globalbankingandfinance.com/ryanair-italy-antitrust/"
+  },
+  {
+    "region": "Europe",
+    "category": "Business / Automotive",
+    "headline": "Tesla Sales Plummet in Europe as BYD Market Share Triples",
+    "description": "New data from the ACEA shows Tesla registrations in the EU fell by nearly a third in November, dropping to 12,130 units. Meanwhile, Chinese rival BYD saw its sales nearly triple year-on-year, highlighting a major shift in the European EV landscape.",
+    "sources": "https://www.theguardian.com/technology/2025/dec/23/tesla-eu-sales-slump-continues-as-chinese-rival-thrive"
   }
+]
 ]
