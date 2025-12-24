@@ -394,5 +394,202 @@
 {"name": "House of Commons Library", "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10427/"},
 {"name": "The New York Times", "url": "https://www.nytimes.com/2025/12/10/world/middleeast/yemen-separatists.html"}
 ]
-}
+},
+  {
+    "region": "Middle East",
+    "category": "Israel-West Bank Settlements",
+"date": "2025-12-23",
+    "headline": "Israeli settlers coordinate attacks to expand outposts and expel Palestinians in West Bank",
+    "description": "Investigation reveals organized settler violence from hilltop outposts; record 80 new outposts built in 2025, with cabinet approving 19 more settlements.",
+    "sources": [
+      {"name": "Reuters", "url": "https://www.reuters.com/world/middle-east/how-israels-hilltop-settlers-coordinate-attacks-expel-palestinians-2025-12-24/"}
+    ]
+  },
+  {
+    "region": "Middle East",
+    "category": "Israel-Gaza Conflict",
+"date": "2025-12-23",
+    "headline": "Israeli defense minister denies plans to resettle Gaza despite earlier hints of permanent military presence",
+    "description": "Israel Katz clarifies no civilian resettlement but vows military units will remain; contradicts US-backed ceasefire plan requiring full withdrawal.",
+    "sources": [
+      {"name": "Reuters", "url": "https://www.reuters.com/business/aerospace-defense/israeli-defence-minister-vows-military-remain-gaza-2025-12-23/"},
+      {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2025/12/23/israel-will-never-fully-withdraw-from-gaza-defence-minister-says"}
+    ]
+  },
+  {
+    "region": "Middle East",
+    "category": "Yemen Civil War",
+"date": "2025-12-23",
+    "headline": "Yemen government and Houthis agree to largest prisoner exchange in a decade",
+    "description": "Deal brokered by UN and Red Cross to free around 2,900 detainees; comes amid ongoing stalemate and Houthi detentions of aid workers.",
+    "sources": [
+      {"name": "The New York Times", "url": "https://www.nytimes.com/2025/12/23/world/middleeast/yemen-houthis-prisoner-exchange.html"},
+      {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2025/12/23/yemen-government-houthis-agree-to-exchange-thousands-of-prisoners"}
+    ]
+  },
+  {
+    "region": "Middle East",
+    "category": "Southern Yemen Separatists",
+"date": "2025-12-23",
+    "headline": "Southern Transitional Council expands control, sets sights on Houthi-held Sanaa",
+    "description": "STC advances in southern provinces including Hadhramaut; leader declares next goal is capital Sanaa, threatening renewed civil war intensity.",
+    "sources": [
+      {"name": "House of Commons Library", "url": "https://commonslibrary.parliament.uk/research-briefings/CBP-10427/"},
+      {"name": "The New York Times", "url": "https://www.nytimes.com/2025/12/10/world/middleeast/yemen-separatists.html"}
+    ]
+  },
+  {
+    "region": "Middle East",
+    "category": "Iran-Israel Tensions",
+"date": "2025-12-23",
+    "headline": "Netanyahu warns of harsh response to Iranian missile drills amid reconstitution concerns",
+    "description": "Israel monitors IRGC exercises and rapid missile program rebuild post-June war; plans to brief Trump on potential new strikes.",
+    "sources": [
+      {"name": "Iran International", "url": "https://www.iranintl.com/en/202512224488"},
+      {"name": "Axios", "url": "https://www.axios.com/2025/12/21/israel-iran-missile-drill-trump-warning"}
+    ]
+  },
+  {
+    "region": "Middle East",
+    "category": "Gulf Economies",
+"date": "2025-12-23",
+    "headline": "Most Gulf stock markets rise on higher oil prices and strong US growth data",
+    "description": "Early trading gains in major Gulf indexes supported by oil rebound and positive American economic indicators.",
+    "sources": [
+      {"name": "Reuters", "url": "https://www.reuters.com/world/middle-east/most-gulf-markets-gain-oil-price-rise-strong-us-growth-2025-12-24/"}
+    ]
+  },
+  {
+    "region": "Europe",
+    "category": "US-EU Relations",
+    "date": "2025-12-24",
+    "headline": "US imposes visa bans on five Europeans accused of censoring American viewpoints online",
+    "description": "Targets include former EU commissioner Thierry Breton and leaders of anti-hate organizations; move escalates tensions over EU's Digital Services Act seen by US as suppressing free speech.",
+    "sources": [
+      {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2025/12/24/us-bars-five-europeans-over-efforts-to-censor-american-viewpoints"},
+      {"name": "The Guardian", "url": "https://www.theguardian.com/technology/2025/dec/24/us-state-department-visa-ban-former-eu-commissioner-europe"},
+      {"name": "Reuters", "url": "https://www.reuters.com/world/europe/"}
+    ]
+  },
+  {
+    "region": "Europe",
+    "category": "Russia Internal Security",
+    "date": "2025-12-23",
+    "headline": "Bomb explosion in Moscow kills two police officers near site of recent general's assassination",
+    "description": "Blast in southern Moscow claims lives of traffic officers and another person; incident follows killing of Lt Gen Fanil Sarvarov, raising concerns over security.",
+    "sources": [
+      {"name": "Reuters", "url": "https://www.reuters.com/world/europe/explosions-heard-southern-moscow-site-generals-killing-russias-telegram-channels-2025-12-23/"}
+    ]
+  },
+  {
+    "region": "Europe",
+    "category": "EU Climate & Industry Policy",
+    "date": "2025-12-23",
+    "headline": "EU expands compensation for industries affected by emissions trading costs",
+    "description": "Commission adds 20 new sectors eligible for offsets to prevent carbon leakage and maintain competitiveness amid climate regulations.",
+    "sources": [
+      {"name": "Reuters", "url": "https://www.reuters.com/sustainability/boards-policy-regulation/eu-broadens-industry-compensation-emissions-regulation-costs-2025-12-23/"}
+    ]
+  },
+  {
+    "region": "Europe",
+    "category": "Russia-Ukraine War",
+    "date": "2025-12-23",
+    "headline": "Russia launches massive drone and missile strikes on Ukraine, causing widespread power outages",
+    "description": "Over 650 drones and 30 missiles target energy infrastructure, killing three and prompting emergency cuts ahead of Christmas; seen as signal against peace talks.",
+    "sources": [
+      {"name": "Reuters", "url": "https://www.reuters.com/world/russia-launches-air-attack-kyiv-ukraines-military-says-2025-12-23/"},
+      {"name": "The Guardian", "url": "https://www.theguardian.com/world/2025/dec/24/ukraine-war-briefing-pope-leo-expresses-great-sadness-at-russian-rejection-of-truce-calls"}
+    ]
+  },
+  {
+    "region": "Europe",
+    "category": "EU-Russia Sanctions",
+    "date": "2025-12-22",
+    "headline": "EU extends economic sanctions against Russia for another six months",
+    "description": "Measures include oil import bans and banking restrictions in response to ongoing aggression in Ukraine; readiness for further actions affirmed.",
+    "sources": [
+      {"name": "Consilium", "url": "https://www.consilium.europa.eu/en/press/press-releases/2025/12/22/russia-s-war-of-aggression-against-ukraine-council-extends-economic-sanctions-for-a-further-6-months/"}
+    ]
+  },
+  {
+    "region": "Europe",
+    "category": "Travel Disruptions",
+    "date": "2025-12-24",
+    "headline": "Airport strikes threaten major European hubs during Christmas period",
+    "description": "Industrial actions expected to impact travel at key airports, complicating holiday plans across the continent.",
+    "sources": [
+      {"name": "Euronews", "url": "https://www.euronews.com/video/2025/12/24/latest-news-bulletin-december-24th-2025-morning"}
+    ]
+  },
+  {
+    "region": "USA",
+    "category": "Trump Administration - Holidays",
+   "date": "2025-12-24",
+    "headline": "President Trump declares Christmas Eve and day after Christmas as federal holidays for 2025",
+    "description": "Executive order closes most federal offices on December 24 and 26, granting employees a five-day weekend; essential services like Social Security and IRS remain open.",
+    "sources": [
+      {"name": "White House", "url": "https://www.whitehouse.gov/presidential-actions/2025/12/providing-for-the-closure-of-executive-departments-and-agencies-of-the-federal-government-on-december-24-2025-and-december-26-2025/"},
+      {"name": "Fortune", "url": "https://fortune.com/2025/12/24/open-closed-december-24-new-holiday-grocery-stores-retailers-restaurants-banks-wall-street/"},
+      {"name": "USA Today", "url": "https://www.usatoday.com/story/news/politics/2025/12/22/donald-trump-federal-holidays-christmas-eve-26/87880609007/"}
+    ]
+  },
+  {
+    "region": "USA",
+    "category": "Economy",
+   "date": "2025-12-24",
+    "headline": "US GDP surges 4.3% in third quarter, fastest growth in two years",
+    "description": "Strong consumer and business spending drive robust economic expansion; Trump credits tariffs, though consumer confidence falls for fifth straight month.",
+    "sources": [
+      {"name": "The New York Times", "url": "https://www.nytimes.com/2025/12/23/business/us-economy-consumer-spending.html"},
+      {"name": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2025-12-23/us-economy-expanded-at-4-3-pace-fastest-in-two-years"},
+      {"name": "The Guardian", "url": "https://www.theguardian.com/business/2025/dec/23/us-economy-gdp-third-quarter"}
+    ]
+  },
+  {
+    "region": "USA",
+    "category": "Stock Market",
+   "date": "2025-12-24",
+    "headline": "S&P 500 closes at record high; markets open with early close on Christmas Eve",
+    "description": "Major indexes rise amid year-end rally hopes; NYSE and Nasdaq close at 1 p.m. ET on December 24, fully closed on Christmas Day.",
+    "sources": [
+      {"name": "Reuters", "url": "https://www.reuters.com/business/aerospace-defense/wall-st-futures-tick-higher-ahead-gdp-data-2025-12-23/"},
+      {"name": "CNBC", "url": "https://www.cnbc.com/2025/12/23/stock-market-today-live-updates.html"},
+      {"name": "USA Today", "url": "https://www.usatoday.com/story/money/investing/2025/12/24/stock-market-open-closed-christmas-day-2025/87830091007/"}
+    ]
+  },
+  {
+    "region": "USA",
+    "category": "Defense Policy",
+   "date": "2025-12-22",
+    "headline": "Trump announces plans for new 'Trump Class' warships and Golden Fleet modernization",
+    "description": "President unveils advanced battleships claimed to be fastest and most powerful ever; part of broader Navy buildup amid global tensions.",
+    "sources": [
+      {"name": "The New York Times", "url": "https://www.nytimes.com/live/2025/12/22/us/trump-news"},
+      {"name": "NPR", "url": "https://www.npr.org/sections/national/"}
+    ]
+  },
+  {
+    "region": "USA",
+    "category": "Immigration Policy",
+   "date": "2025-12-23",
+    "headline": "Trump administration seeks to cancel thousands of active asylum cases",
+    "description": "Justice Department pushes to void claims and deport applicants to third countries; part of aggressive immigration enforcement push.",
+    "sources": [
+      {"name": "Reuters", "url": "https://www.reuters.com/world/us/trump-administration-seeks-cancel-thousands-asylum-cases-cbs-news-reports-2025-12-23/"},
+      {"name": "The New York Times", "url": "https://www.nytimes.com/live/2025/12/23/us/trump-news"}
+    ]
+  },
+  {
+    "region": "USA",
+    "category": "Weather - Holiday Travel",
+   "date": "2025-12-23",
+    "headline": "Major storm brings life-threatening flooding and heavy rain to California on Christmas Eve",
+    "description": "Atmospheric rivers target West Coast with 4-9 inches of rain, mudslides and road closures; calm conditions elsewhere but warm temperatures melt potential white Christmas snow.",
+    "sources": [
+      {"name": "ABC News", "url": "https://abcnews.go.com/US/holiday-weather-forecast-white-christmas/story?id=128615555"},
+      {"name": "The New York Times", "url": "https://www.nytimes.com/2025/12/23/weather/rain-los-angeles-california.html"},
+      {"name": "Weather.com", "url": "https://weather.com/forecast/national/news/2025-12-22-christmas-holiday-travel-weather-forecast"}
+    ]
+  }
 ]
