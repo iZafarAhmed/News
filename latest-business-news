@@ -822,5 +822,85 @@
     "publication_date": "Dec. 20, 2025",
     "link": "https://www.wsj.com/finance/stocks/makers-of-everyday-essentials-once-offered-investors-safety-do-they-still-b4132195",
     "author": "David Wainer"
+  },
+{
+    "title": "Alphabet-Backed Waymo Issues Software Update For Fleet Following PG&E San Francisco Outage",
+    "summary": "Alphabet-backed Waymo announces fleet-wide software updates after a power outage in San Francisco impacted operations, amid reaching 14 million paid Robotaxi rides in 2025.",
+    "category": "Tech",
+    "publication_date": "December 24, 2025",
+    "link": "https://www.benzinga.com/markets/tech/25/12/49579986/alphabet-backed-waymo-issues-software-update-for-fleet-following-pge-san-francisco-outage",
+    "author": ""
+  },
+  {
+    "title": "Tulsi Gabbard Backs State Department Sanctions On Foreign Nations, NGOs Targeting American Free Speech",
+    "summary": "Tulsi Gabbard supports visa restrictions on five Europeans accused of pressuring U.S. platforms to censor content, emphasizing protection of American free speech.",
+    "category": "Politics",
+    "publication_date": "December 24, 2025",
+    "link": "https://www.benzinga.com/news/politics/25/12/49579878/tulsi-gabbard-backs-state-department-sanctions-on-foreign-nations-ngos-targeting-american-free-spee",
+    "author": ""
+  },
+  {
+    "title": "Former EU Commissioner Thierry Breton Barred From US Over Alleged Social Media Censorship",
+    "summary": "Thierry Breton criticizes the Trump administration for visa restrictions linked to alleged social media censorship efforts, with accusations from Marco Rubio.",
+    "category": "Politics",
+    "publication_date": "December 24, 2025",
+    "link": "https://www.benzinga.com/news/politics/25/12/49579792/former-eu-commissioner-thierry-breton-barred-from-us-over-alleged-social-media-censorship-says-censorship-isnt-where-you-think-it-is",
+    "author": ""
+  },
+  {
+    "title": "Pentagon Expands Lockheed Martin Contract To $25 Billion, Taps Boeing For Another $2 Billion Engine Replacement Program",
+    "summary": "The Pentagon increases a Lockheed Martin contract and awards Boeing a new engine replacement deal amid developments in aerospace and defense.",
+    "category": "Politics",
+    "publication_date": "December 24, 2025",
+    "link": "https://www.benzinga.com/news/politics/25/12/49579393/pentagon-expands-lockheed-martin-contract-o-25-billion-taps-boeing-for-another-2-billion-engine-replacement-program",
+    "author": ""
+  },
+  {
+    "title": "Scott Bessent Confirms Search For Fed Chair Who Will Shrink Institution, End Perpetual QE",
+    "summary": "Scott Bessent confirms the administration's search for a Federal Reserve Chair focused on reducing the central bank's size and ending ongoing quantitative easing.",
+    "category": "Politics",
+    "publication_date": "December 24, 2025",
+    "link": "https://www.benzinga.com/news/politics/25/12/49579320/scott-bessent-confirms-search-for-fed-chair-who-will-shrink-the-institution-end-perpetual-qe",
+    "author": ""
+  },
+  {
+    "title": "Elon Musk Says Former AI Head Andrej Karpathy's Understanding Of Company Software Is 'Dated'",
+    "summary": "Elon Musk responds that former Tesla AI lead Andrej Karpathy's view of the company's software is outdated, praising Tesla's superior intelligence density.",
+    "category_ports": "Tech",
+    "publication_date": "December 24, 2025",
+    "link": "https://www.benzinga.com/markets/tech/25/12/49579265/elon-musk-says-former-ai-head-andrej-karpathys-understanding-of-company-software-is-dated-says-tslas-intelligence-density-better-than-rivals",
+    "author": ""
+  },
+  {
+    "title": "Elizabeth Warren Warns Trump's Fed Pick Will Be A 'Puppet'",
+    "summary": "Senator Elizabeth Warren criticizes President Trump's comments on the next Fed Chair, warning any nominee will face scrutiny over independence.",
+    "category": "Macro Economic Events",
+    "publication_date": "December 23, 2025",
+    "link": "https://www.benzinga.com/markets/macro-economic-events/25/12/49579186/elizabeth-warren-warns-trumps-fed-pick-will-be-a-puppet-says-presidents-recent-words-will-haunt-any-nominee",
+    "author": ""
+  },
+  {
+    "title": "Federal Judge Dismisses Chamber Of Commerce's Lawsuit Over Trump's $100,000 H-1B Visa Fee",
+    "summary": "A federal judge dismisses the U.S. Chamber of Commerce's challenge to the $100,000 fee on new H-1B visas imposed by President Trump.",
+    "category": "Legal",
+    "publication_date": "December 23, 2025",
+    "link": "https://www.benzinga.com/news/legal/25/12/49579164/federal-judge-dismisses-chamber-of-commerces-lawsuit-over-trumps-100000-h-1b-visa-fee",
+    "author": ""
+  },
+  {
+    "title": "Gary Black Reveals Why He Thinks Elon Musk's Tesla Keeps Going Higher",
+    "summary": "Investor Gary Black expresses strong support for Tesla's business model, production plans, and Elon Musk's leadership amid the stock's surge.",
+    "category": "Tech",
+    "publication_date": "December 23, 2025",
+    "link": "https://www.benzinga.com/markets/tech/25/12/49578551/gary-black-reveals-why-he-thinks-elon-musks-tesla-keeps-going-higher-i-love-the-tsla-story",
+    "author": ""
+  },
+  {
+    "title": "Scott Bessent Says Private Economy 'Booming' Under Trump",
+    "summary": "Treasury Secretary Scott Bessent highlights strong private-sector growth under President Trump, contrasting it with the previous administration.",
+    "category": "Macro Economic Events",
+    "publication_date": "December 23, 2025",
+    "link": "https://www.benzinga.com/markets/macro-economic-events/25/12/49578453/scott-bessent-says-private-economy-booming-under-trump-this-is-the-exact-opposite-of-what-happened-under-biden",
+    "author": ""
   }
 ]
