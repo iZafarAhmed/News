@@ -1,5 +1,829 @@
 [
   {
+    "websiteName": "The New York Times",
+    "title": "Trump Upended the Federal Government. The Full Scope of the Impact Is Still Unclear.",
+    "url": "https://www.nytimes.com/2025/12/30/us/politics/trump-federal-government-fallout.html",
+    "date": "2025-12-30T16:58:03.608Z",
+    "imageUrl": "https://static01.nyt.com/images/2025/12/19/multimedia/dc-federal-government-changes-2-wpqb/dc-federal-government-changes-2-wpqb-mediumSquareAt3X.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "FOX",
+    "title": "Victor Davis Hanson to undergo ‘major operation’ after 9-month health odyssey reveals ‘major problem’",
+    "url": "https://www.foxnews.com/media/victor-davis-hanson-undergo-major-operation-after-9-month-health-odyssey-reveals-major-problem",
+    "date": "2025-12-30T14:25:03.609Z",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/10/931/523/Davis-Hanson-.png?ve=1&tl=1",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Tom's",
+    "title": "This compact juicer is the ideal way to start your 2026 health kick, and it's under $40 in the end-of-year sales",
+    "url": "https://www.tomsguide.com/home/kitchen-dining/this-compact-juicer-is-the-ideal-way-to-start-your-2026-health-kick-and-its-under-usd40-in-the-end-of-year-sales",
+    "date": "2025-12-30T14:25:03.610Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/TefJiYdtayhym4PwNQxMLX-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "FOX",
+    "title": "Bijan Robinson's 93-yard touchdown run stuns Rams as Falcons star leads way to upset win",
+    "url": "https://www.foxnews.com/sports/bijan-robinsons-93-yard-touchdown-run-stuns-rams-falcons-star-leads-way-upset-win",
+    "date": "2025-12-30T14:25:03.610Z",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/bijan-robinson-falcons-rams.jpg?ve=1&tl=1",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "CNET",
+    "title": "Google Hints at Letting You Change Your Gmail Address Without Losing Your Data",
+    "url": "https://www.cnet.com/tech/services-and-software/google-gmail-address-change-without-losing-your-data/#ftag=CAD590a51e",
+    "date": "2025-12-29T18:25:03.610Z",
+    "imageUrl": "https://www.cnet.com/a/img/resize/74c681bb8093944c5e7d2ed86eb07bf515ece10c/hub/2024/05/15/42d48dc2-8bd1-4f06-8caa-c5d9b6b311fe/google-gmail-email-2134.jpg?auto=webp&fit=crop&height=614&width=1092",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Nature",
+    "title": "Mummies give up their secrets — but not their mystery",
+    "url": "https://www.nature.com/articles/d41586-025-04103-3",
+    "date": "2025-12-29T23:25:03.610Z",
+    "imageUrl": "https://media.nature.com/lw1200/magazine-assets/d41586-025-04103-3/d41586-025-04103-3_51836352.jpg",
+    "category": "Science"
+  },
+  {
+    "websiteName": "The",
+    "title": "Gone in 2025: A Yearlong Procession of Giants",
+    "url": "https://www.nytimes.com/2025/12/29/obituaries/2025-deaths-obituaries.html",
+    "date": "2025-12-30T14:25:03.610Z",
+    "imageUrl": "https://pcdn.brave.com/brave-today/cache/b5ee6e911d62d617e5e97f90df08f8f3530b7c9c8fe9a45c0683754291036f14.jpg.pad",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "The New York Times",
+    "title": "Can a Corporation Be Complicit in War Crimes? Sweden Is Trying to Find Out.",
+    "url": "https://www.nytimes.com/2025/12/30/opinion/the-oil-company-drilled-government-slaughter-guilty.html",
+    "date": "2025-12-30T16:51:03.610Z",
+    "imageUrl": "https://pcdn.brave.com/brave-today/cache/868715ede7be2778fab6269795b7be88495d8618ae6fca5e17f9f169928ff051.jpg.pad",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Smithsonian",
+    "title": "After Living Alongside Humans for Millennia, These Italian Brown Bears Have Evolved to Become Less Aggressive",
+    "url": "https://www.smithsonianmag.com/smart-news/after-living-alongside-humans-for-millennia-these-italian-brown-bears-have-evolved-to-become-less-aggressive-180987929/",
+    "date": "2025-12-30T14:25:03.610Z",
+    "imageUrl": "chrome-extension://bocjkpoianmfiofedeffajbgbhgjhhng/&target_size=96x64",
+    "category": "Science"
+  },
+  {
+    "websiteName": "The New York Times",
+    "title": "How Russia and Ukraine Are Fighting to Shape Trump’s View of the War",
+    "url": "https://www.nytimes.com/2025/12/30/world/europe/russia-ukraine-trump-influence.html",
+    "date": "2025-12-30T13:25:03.611Z",
+    "imageUrl": "https://static01.nyt.com/images/2025/12/30/multimedia/30int0ukraine-assess-top-jtlb/30int0ukraine-assess-top-jtlb-mediumSquareAt3X.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Scientific",
+    "title": "15 Million Years before the Megalodon, This Giant Ancient Shark Prowled the Oceans",
+    "url": "https://www.scientificamerican.com/article/15-million-years-before-the-megalodon-this-giant-ancient-shark-prowled-the/",
+    "date": "2025-12-29T17:25:03.611Z",
+    "imageUrl": "https://static.scientificamerican.com/dam/m/3decce6751396fbe/original/sharks-2.jpg?m=1767031480.455&w=1200",
+    "category": "Science"
+  },
+  {
+    "websiteName": "ESPN",
+    "title": "Riley won't return as Clemson OC after 7-6 season",
+    "url": "https://www.espn.com/college-football/story/_/id/47448661/clemson-offensive-coordinator-garrett-riley-not-return",
+    "date": "2025-12-30T16:54:03.611Z",
+    "imageUrl": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1229%2Fr1594862_1296x729_16%2D9.jpg",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "Inverse",
+    "title": "Hands Down, the 65 Weirdest, Most Clever Things With Near-Perfect Amazon Reviews",
+    "url": "https://www.inverse.com/shopping/hands-down-the-weirdest-most-clever-things-with-near-perfect-amazon-reviews",
+    "date": "2025-12-28T17:25:03.611Z",
+    "imageUrl": "https://imgix.bustle.com/uploads/image/2024/12/13/9e13a883/hero-imafaes-before-afters.jpg?w=500&fit=max",
+    "category": "Science"
+  },
+  {
+    "websiteName": "Healthline",
+    "title": "What Foods Make You Happiest? Hint: It’s Not What You Think",
+    "url": "https://www.healthline.com/health-news/mood-boosting-happiness-foods",
+    "date": "2025-12-30T16:47:03.611Z",
+    "imageUrl": "https://media.post.rvohealth.io/wp-content/uploads/2025/12/foods-holiday-Stocksy_txpf65b009668D400_Medium_2507945-Header.jpg",
+    "category": "Health"
+  },
+  {
+    "websiteName": "The New York Times",
+    "title": "Katherine Maher of NPR Has Come Out on Top Despite Battles With Trump and the CPB",
+    "url": "https://www.nytimes.com/2025/12/30/business/npr-katherine-maher.html",
+    "date": "2025-12-30T09:25:03.611Z",
+    "imageUrl": "https://static01.nyt.com/images/2026/01/04/multimedia/NPR-maher-2-wkpv/NPR-maher-2-wkpv-mediumSquareAt3X.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Healthline",
+    "title": "'Winter Vomiting Disease’ Cases Surging in U.S. — How to Protect Yourself",
+    "url": "https://www.healthline.com/health-news/norovirus-cases-rising-winter-vomiting-disease",
+    "date": "2025-12-30T16:47:03.611Z",
+    "imageUrl": "https://media.post.rvohealth.io/wp-content/uploads/2025/12/Winter-Vomiting-Stocksy_txp2de3eff2SLD400_Medium_2969328-Header.jpg",
+    "category": "Health"
+  },
+  {
+    "websiteName": "FOX",
+    "title": "Chicago Mayor Brandon Johnson endorses 'Abolish ICE' for name of new snowplow",
+    "url": "https://www.foxnews.com/media/chicago-mayor-brandon-johnson-endorses-abolish-ice-name-new-snowplow-name",
+    "date": "2025-12-30T13:25:03.611Z",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/abolish-ice-sign.jpg?ve=1&tl=1",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "CoinDesk",
+    "title": "CoinDesk 20 Performance Update: Ethereum (ETH) Gains 1.8% as Index Moves Higher",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/12/30/coindesk-20-performance-update-ethereum-eth-gains-1-8-as-index-moves-higher",
+    "date": "2025-12-30T13:25:03.611Z",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/dd5fcfdca07aa665a99c54d369352863b274c3ca-480x360.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "category": "Crypto"
+  },
+  {
+    "websiteName": "CoinDesk",
+    "title": "As Democrats gain in odds to take U.S. House, Waters bashes SEC chair on crypto",
+    "url": "https://www.coindesk.com/policy/2025/12/29/as-democrats-gain-in-odds-to-take-u-s-house-waters-bashes-sec-chair-on-crypto",
+    "date": "2025-12-29T20:25:03.611Z",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/4cfee4f8fa2e4c4d42c0f96767ab56a5f1e019fa-1441x811.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "category": "Crypto"
+  },
+  {
+    "websiteName": "CoinDesk",
+    "title": "Grayscale files for first U.S. Bittensor ETP as decentralized AI gains momentum",
+    "url": "https://www.coindesk.com/business/2025/12/30/grayscale-files-for-first-u-s-bittensor-etp-as-decentralized-ai-gains-momentum",
+    "date": "2025-12-30T16:51:03.611Z",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/b026b9c5faaa8762017c067c09982780b8b94ec1-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "category": "Crypto"
+  },
+  {
+    "websiteName": "Polygon",
+    "title": "Stranger Things X TMNT is still an underrated crossover event",
+    "url": "https://www.polygon.com/stranger-things-tmnt-comic-crossover/",
+    "date": "2025-12-30T14:25:03.611Z",
+    "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/screen-shot-2025-12-29-at-12-55-59-pm.jpg",
+    "category": "Gaming"
+  },
+  {
+    "websiteName": "FOX",
+    "title": "NYT columnist Ezra Klein roasted for 'laughable' $70K speaking fee",
+    "url": "https://www.foxnews.com/media/nyt-columnist-ezra-klein-roasted-laughable-70k-speaking-fee",
+    "date": "2025-12-30T15:25:03.611Z",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/03/931/523/ezraklein2.jpg?ve=1&tl=1",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "CNET",
+    "title": "The Only Way to Stop AI 'Art' in 2026 Is to Make It Uncool",
+    "url": "https://www.cnet.com/tech/services-and-software/ai-image-video-slop-2026-commentary/#ftag=CAD590a51e",
+    "date": "2025-12-30T12:25:03.611Z",
+    "imageUrl": "https://www.cnet.com/a/img/resize/1f5f2ec17566d9a41a7dce9b868488ec313987a4/hub/2025/11/14/ec8f2552-bac8-4a00-ae94-c3bb74e5d280/ai-generative-photovideo-cnet3.png?auto=webp&fit=crop&height=614&width=1092",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "FOX",
+    "title": "Florida runner spreads 'pure joy' carrying American flag to inspire unity and wellness",
+    "url": "https://www.foxnews.com/media/florida-runner-spreads-pure-joy-carrying-american-flag-inspire-unity-wellness",
+    "date": "2025-12-30T16:35:03.611Z",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/patriotic-runner-vows-50-state-half-marathon-tour-in-2026-fox-news.jpg?ve=1&tl=1",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "FOX",
+    "title": "Eurostar forced to cancel all services to and from London after 'major disruption' in Channel Tunnel",
+    "url": "https://www.foxnews.com/world/eurostar-forced-cancel-all-services-from-london-after-major-disruption-channel-tunnel",
+    "date": "2025-12-30T15:25:03.611Z",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/travelers-stranded-st-pancras.jpg?ve=1&tl=1",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "CoinDesk",
+    "title": "In 2025, bitcoin showed how spectacularly wrong price forecasts can be",
+    "url": "https://www.coindesk.com/markets/2025/12/30/in-2025-bitcoin-showed-how-spectacularly-wrong-price-forecasts-can-be",
+    "date": "2025-12-30T11:25:03.611Z",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/ce6e5878a3bba05bcb92f58c5d32dad187180ea3-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "category": "Crypto"
+  },
+  {
+    "websiteName": "The",
+    "title": "Death at a Mississippi Jail: Brutal Beating or a Fall From Bed?",
+    "url": "https://www.nytimes.com/2025/12/30/us/mississippi-jail-death-rankin-county.html",
+    "date": "2025-12-30T09:25:03.611Z",
+    "imageUrl": "chrome-extension://bocjkpoianmfiofedeffajbgbhgjhhng/&target_size=96x64",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Healthline",
+    "title": "Your Favorite Holiday Beverage May Weaken Your Bones, Experts Say",
+    "url": "https://www.healthline.com/health-news/favorite-holiday-beverage-bone-health-damage",
+    "date": "2025-12-30T16:47:03.612Z",
+    "imageUrl": "https://media.post.rvohealth.io/wp-content/uploads/2025/12/Holiday-Beverage-Stocksy_txp83d421d6GQD400_Medium_1482312-Header.jpg",
+    "category": "Health"
+  },
+  {
+    "websiteName": "ZDNet",
+    "title": "Ready for a Linux laptop? I found one that competes with my MacBook Pro",
+    "url": "https://www.zdnet.com/article/tuxedo-computers-infinitybook-14-pro-review/",
+    "date": "2025-12-30T14:25:03.612Z",
+    "imageUrl": "https://www.zdnet.com/a/img/resize/2f8de164e55c4bc410c524bdb247f0af26ffc46c/2025/12/29/d31f9e22-8a29-4a25-8fc4-e08b08cf94fc/ibookkeyboard.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Medscape",
+    "title": "Treating Gum Disease Improves Heart Disease Markers",
+    "url": "https://www.medscape.com/viewarticle/treating-gum-disease-improves-markers-associated-heart-2025a10010o8?src=rss",
+    "date": "2025-12-30T10:25:03.612Z",
+    "imageUrl": "https://img.medscapestatic.com/vim/live/professional_assets/medscape/images/thumbnail_library/dt_230706_senior_man_brushing_teeth_800x450.jpg",
+    "category": "Health"
+  },
+  {
+    "websiteName": "TechRadar",
+    "title": "Hackers are targeting taxpayers as they file - here's what to look for",
+    "url": "https://www.techradar.com/pro/security/hackers-are-targeting-taxpayers-as-they-file-heres-what-to-look-for",
+    "date": "2025-12-30T12:25:03.612Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/5rDPr5xYvLwnkP7ZvpR2w3-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "FOX",
+    "title": "Deal-making clemency: Inside Trump’s most disputed pardons of 2025",
+    "url": "https://www.foxnews.com/politics/deal-making-clemency-inside-trumps-most-disputed-pardons-2025",
+    "date": "2025-12-30T14:25:03.612Z",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/01/931/523/january-6-capitol-riot.jpg?ve=1&tl=1",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "The New York Times",
+    "title": "How the Assad Regime Covered Up Its Crimes: Key Takeaways",
+    "url": "https://www.nytimes.com/2025/12/30/world/middleeast/assad-regime-crimes-syria-documents-takeaways.html",
+    "date": "2025-12-30T14:25:03.612Z",
+    "imageUrl": "https://static01.nyt.com/images/2025/12/29/multimedia/00int-syria-docs-takeaways01-photo-gtjw/00int-syria-docs-takeaways01-photo-gtjw-mediumSquareAt3X.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "ESPN",
+    "title": "🏆 Tracking the NFL playoff picture and draft order",
+    "url": "https://www.espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios",
+    "date": "2025-12-30T16:54:03.612Z",
+    "imageUrl": "https://pcdn.brave.com/brave-today/cache/b493c96aceeebec921dfab4a3c04c723a226b7f34e8578103d59c593102ff197.jpg.pad",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "The New York Times",
+    "title": "George and Amal Clooney Become French Citizens",
+    "url": "https://www.nytimes.com/2025/12/30/world/europe/george-clooney-amal-french-citizenship.html",
+    "date": "2025-12-30T13:25:03.612Z",
+    "imageUrl": "https://static01.nyt.com/images/2025/12/30/multimedia/30xp-clooney-czwg/30xp-clooney-czwg-mediumSquareAt3X.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "The New York Times",
+    "title": "Saudis Say Airstrike in Yemen Targeted Arms From U.A.E.",
+    "url": "https://www.nytimes.com/2025/12/30/world/middleeast/yemen-saudi-strike-uae.html",
+    "date": "2025-12-30T16:53:03.612Z",
+    "imageUrl": "https://static01.nyt.com/images/2025/12/30/multimedia/30int-yemen-strike-lkbc/30int-yemen-strike-lkbc-mediumSquareAt3X.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Space.com",
+    "title": "Lego U.S.S. Enterprise NCC-1701-D review",
+    "url": "https://www.space.com/entertainment/space-toys-lego/lego-u-s-s-enterprise-ncc-1701-d-review",
+    "date": "2025-12-30T15:25:03.612Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/qZUncHC88CWNTXRskcbKFh-1280-80.jpg",
+    "category": "Science"
+  },
+  {
+    "websiteName": "Zerohedge",
+    "title": "Meta \"Joining Forces\" With China-Founded Manus AI In $2 Billion Deal",
+    "url": "https://www.zerohedge.com/ai/meta-joining-forces-asia-based-manus-ai-2-billion-deal",
+    "date": "2025-12-30T13:25:03.612Z",
+    "imageUrl": "https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/2025-12-30_08-45-40.png?itok=J-g-KMjz",
+    "category": "Business"
+  },
+  {
+    "websiteName": "FOX",
+    "title": "Rebecca Gayheart steps up as caregiver for estranged husband Eric Dane as ALS demands 24-hour care",
+    "url": "https://www.foxnews.com/entertainment/rebecca-gayheart-caregiver-estranged-husband-eric-dane-als-24-hour-care",
+    "date": "2025-12-30T16:45:03.612Z",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/rebecca-gayheart-eric-dane.jpg?ve=1&tl=1",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "ZDNet",
+    "title": "Samsung's rumored 'Brain Health' feature could alert you to early signs of dementia. Here's how",
+    "url": "https://www.zdnet.com/article/samsung-brain-health-dementia-tracking/",
+    "date": "2025-12-30T16:31:03.612Z",
+    "imageUrl": "https://www.zdnet.com/a/img/resize/1e3c67d0132c4d8ed51362ff1ca6d447fa3cc3f8/2025/07/08/7636f10a-0f77-4f75-b78e-da990ea74d9f/dsc06429.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Healthline",
+    "title": "FDA Says It's Time to Ease Restrictions on Testosterone Replacement Therapy",
+    "url": "https://www.healthline.com/health-news/fda-panel-restrictions-testosterone-replacement-therapy",
+    "date": "2025-12-30T16:47:03.612Z",
+    "imageUrl": "https://media.post.rvohealth.io/wp-content/uploads/2025/12/FDA-Testosterone-Medication-Pharmacy-Shelves-1296x728-header.jpg",
+    "category": "Health"
+  },
+  {
+    "websiteName": "CBSSports",
+    "title": "Week 18 NFL picks, odds, best bets from proven model: This 5-leg parlay pays nearly 25-1",
+    "url": "https://www.cbssports.com/nfl/news/week-18-nfl-picks-odds-best-bets-parlay/",
+    "date": "2025-12-30T14:25:03.612Z",
+    "imageUrl": "https://sportshub.cbsistatic.com/i/2025/12/18/3d8f67a6-0da0-4ab4-8815-cec9b63c539b/jaxon-smith-njigba.jpg",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "Scientific",
+    "title": "Could Next-Generation Medicines Help Solve the Opioid Crisis?",
+    "url": "https://www.scientificamerican.com/article/could-next-generation-medicines-help-solve-the-opioid-crisis/",
+    "date": "2025-12-30T11:25:03.612Z",
+    "imageUrl": "https://static.scientificamerican.com/dam/m/1b5d57e5d4e66314/original/GettyImages-1812244974-addiction-medicines.jpeg?m=1766510879.887&w=1200",
+    "category": "Science"
+  },
+  {
+    "websiteName": "The",
+    "title": "C.I.A. Conducted Drone Strike on Port in Venezuela",
+    "url": "https://www.nytimes.com/2025/12/29/us/politics/cia-drone-strike-venezuela.html",
+    "date": "2025-12-30T03:25:03.612Z",
+    "imageUrl": "https://static01.nyt.com/images/2025/12/29/multimedia/29dc-intel-fplb/29dc-intel-fplb-mediumSquareAt3X.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "CoinDesk",
+    "title": "Lighter DEX launches LIT token with 25% airdrop",
+    "url": "https://www.coindesk.com/markets/2025/12/30/lighter-dex-launches-lit-token-with-25-airdrop",
+    "date": "2025-12-30T07:25:03.612Z",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/6663164a2c4316ca5e37fe6a3dd82831a6345f8f-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "category": "Crypto"
+  },
+  {
+    "websiteName": "The New York Times",
+    "title": "How America Loses Vaccine Access",
+    "url": "https://www.nytimes.com/2025/12/30/opinion/kennedy-vaccines-hhs-cdc.html",
+    "date": "2025-12-30T09:25:03.613Z",
+    "imageUrl": "https://static01.nyt.com/images/2025/12/26/multimedia/00interlandi-tkbm/00interlandi-tkbm-mediumSquareAt3X.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Scientific",
+    "title": "What Makes Ultraprocessed Foods Addictive?",
+    "url": "https://www.scientificamerican.com/article/what-makes-ultraprocessed-foods-addictive/",
+    "date": "2025-12-30T12:25:03.613Z",
+    "imageUrl": "https://static.scientificamerican.com/dam/m/798d17cc8af33347/original/GettyImages-2159024500-ultraprocessed-food-addiction.jpeg?m=1766518565.906&w=1200",
+    "category": "Science"
+  },
+  {
+    "websiteName": "FOX",
+    "title": "House GOP whip urges citizenship revocations tied to Minnesota fraud schemes",
+    "url": "https://www.foxnews.com/politics/house-gop-whip-urges-citizenship-revocations-tied-minnesota-fraud-schemes",
+    "date": "2025-12-30T14:25:03.613Z",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/tom-emmer-somali-fraud.jpg?ve=1&tl=1",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Nature",
+    "title": "Science in 2050: the future breakthroughs that will shape our world — and beyond",
+    "url": "https://www.nature.com/articles/d41586-025-04100-6",
+    "date": "2025-12-29T23:25:03.613Z",
+    "imageUrl": "https://media.nature.com/lw1200/magazine-assets/d41586-025-04100-6/d41586-025-04100-6_51843060.jpg",
+    "category": "Science"
+  },
+  {
+    "websiteName": "Healthline",
+    "title": "4 Weeks of Alternate-Day Fasting Aids Weight Loss, but Reduces Muscle",
+    "url": "https://www.healthline.com/health-news/alternate-day-fasting-fat-loss-muscle-loss-study",
+    "date": "2025-12-30T16:47:03.613Z",
+    "imageUrl": "https://media.post.rvohealth.io/wp-content/uploads/2025/12/Alternate-Day-Fasting-calander-1296x728-header-1.jpg",
+    "category": "Health"
+  },
+  {
+    "websiteName": "FOX",
+    "title": "What to know about a beer so strong it's banned in 15 states",
+    "url": "https://www.foxnews.com/lifestyle/what-know-about-beer-so-strong-its-banned-15-states",
+    "date": "2025-12-30T14:25:03.613Z",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/524/sam-adams-new-beer-high-abv-what-to-know-illegal-in-15-states-2.jpg?ve=1&tl=1",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "CoinDesk",
+    "title": "Bitcoin rises above $89,000, showing rare gain in U.S. trading",
+    "url": "https://www.coindesk.com/markets/2025/12/30/bitcoin-rises-above-usd89-000-showing-rare-gain-in-u-s-trading",
+    "date": "2025-12-30T15:25:03.613Z",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/5866fb8dc8fac5ef0e162bf56bcd35c47629eb19-2562x1712.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "category": "Crypto"
+  },
+  {
+    "websiteName": "Space.com",
+    "title": "How NASA changed in 2025 — possibly forever",
+    "url": "https://www.space.com/space-exploration/how-nasa-changed-in-2025-possibly-forever",
+    "date": "2025-12-30T14:25:03.613Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/oV3TewAkEiVvrjST8uHAQ6-1280-80.jpg",
+    "category": "Science"
+  },
+  {
+    "websiteName": "FOX",
+    "title": "Nuggets star Nikola Jokic suffers knee injury, misses entire second half in loss to Miami Heat",
+    "url": "https://www.foxnews.com/sports/nuggets-star-nikola-jokic-suffers-knee-injury-misses-entire-second-half-loss-miami-heat",
+    "date": "2025-12-30T16:46:03.613Z",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/nuggets-nikola-jokic-003.jpg?ve=1&tl=1",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "ESPN",
+    "title": "Brees, Fitzgerald lead Pro Football HOF finalists",
+    "url": "https://www.espn.com/nfl/story/_/id/47453655/brees-fitzgerald-lead-pro-football-hall-fame-finalists",
+    "date": "2025-12-30T16:54:03.613Z",
+    "imageUrl": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0924%2Fr1550388_1296x729_16%2D9.jpg",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "FOX",
+    "title": "Chappell Roan retracts Brigitte Bardot tribute after discovering late actress' 'very disappointing' views",
+    "url": "https://www.foxnews.com/media/chappell-roan-retracts-brigitte-bardot-tribute-after-discovering-late-actress-very-disappointing-views",
+    "date": "2025-12-30T14:25:03.613Z",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/chappell-roan-brigitte-bardot-split.jpg?ve=1&tl=1",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Reader's",
+    "title": "This Is the Most Common Zodiac Sign—See How Yours Ranks",
+    "url": "https://www.rd.com/article/most-common-zodiac-sign/",
+    "date": "2025-12-30T06:25:03.613Z",
+    "imageUrl": "https://www.rd.com/wp-content/uploads/2025/12/This-Is-the-Most-Common-Zodiac-Sign.-See-How-Yours-Ranks_ft.jpg?fit=700,1024",
+    "category": "Health"
+  },
+  {
+    "websiteName": "What",
+    "title": "Seeking new speakers in 2026? These refined, full-bodied Focal floorstanders have sunk to a new low price",
+    "url": "https://www.whathifi.com/speakers/hi-fi-speakers/seeking-new-floorstanders-in-2026-these-refined-full-bodied-focal-floorstanders-have-sunk-to-a-new-low",
+    "date": "2025-12-28T17:25:03.615Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/44LobsNKQJL2fK6QL6qqcN-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Tom's",
+    "title": "TSMC begins quietly volume production of 2nm-class chips — first GAA transistor for TSMC claims up to 15% improvement at ISO power",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-begins-quietly-volume-production-of-2nm-class-chips-first-gaa-transistor-for-tsmc-claims-up-to-15-percent-improvement-at-iso-power",
+    "date": "2025-12-29T17:25:03.615Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/YAQU3zRSbuCHbUYm5L4oD4-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Healthline",
+    "title": "How Nick Jonas' Diabetes Management Has Changed Over 20 Years",
+    "url": "https://www.healthline.com/health-news/nick-jonas-type-1-diabetes-disease-management-20-years-later",
+    "date": "2025-12-30T16:47:03.615Z",
+    "imageUrl": "https://media.post.rvohealth.io/wp-content/uploads/2025/12/Nick-Jonas-1296x728-header.jpg",
+    "category": "Health"
+  },
+  {
+    "websiteName": "The New York Times",
+    "title": "Decoding the A.I.-Driven Tech Lingo From 2025",
+    "url": "https://www.nytimes.com/2025/12/30/technology/personaltech/tech-jargon-ai.html",
+    "date": "2025-12-30T09:25:03.615Z",
+    "imageUrl": "https://static01.nyt.com/images/2025/12/30/business/00techfix/00techfix-mediumSquareAt3X.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Tom's",
+    "title": "MSI B850 MPower Motherboard Review: Micro ATX made for overclocking memory",
+    "url": "https://www.tomshardware.com/pc-components/motherboards/msi-b850-mpower-motherboard-review",
+    "date": "2025-12-30T15:25:03.615Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/87n8B2EsUqbonPThUNEttn-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "ScienceDaily",
+    "title": "Scientists found a dangerous feedback loop accelerating Arctic warming",
+    "url": "https://www.sciencedaily.com/releases/2025/12/251228020008.htm",
+    "date": "2025-12-29T21:25:03.615Z",
+    "imageUrl": "https://www.sciencedaily.com/images/1920/dry-arctic-air.webp",
+    "category": "Science"
+  },
+  {
+    "websiteName": "Tom's",
+    "title": "The best way to store your Christmas lights? Experts recommend this 'pool noodle' technique, and I think it's genius",
+    "url": "https://www.tomsguide.com/home/the-best-way-to-store-your-christmas-lights-experts-recommend-this-pool-noodle-technique-and-i-think-its-genius",
+    "date": "2025-12-30T15:25:03.615Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/HcKALcwK5MWh2X2ccCCNbD-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "FOX",
+    "title": "U.S. announces more military actions against ISIS: 'We will not relent'",
+    "url": "https://www.foxnews.com/world/u-s-announces-more-military-actions-against-isis-we-not-relent",
+    "date": "2025-12-30T14:25:03.615Z",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/trump-hegseth-december-2025.jpg?ve=1&tl=1",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Cointelegraph",
+    "title": "Bitcoin long-term hodlers finally halt selloff as ETH whales accumulate",
+    "url": "https://cointelegraph.com/news/bitcoin-long-term-holders-halt-selloff-ether-whales-accumula?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "2025-12-30T05:25:03.615Z",
+    "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjZkNTQtMGVkMC03ZDY0LTkzNjctMjc3ZmMyMjg4ZmE2LmpwZw==.jpg",
+    "category": "Crypto"
+  },
+  {
+    "websiteName": "The",
+    "title": "Conor Gallagher faces Man Utd transfer dilemma as ex-Chelsea star eyes World Cup spot",
+    "url": "https://www.mirror.co.uk/sport/football/news/conor-gallagher-england-tuchel-transfer-36474782",
+    "date": "2025-12-30T16:38:03.615Z",
+    "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article36455428.ece/ALTERNATES/s615/0_Conor-Gallagher.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Space.com",
+    "title": "Golden satellite insulation sparkles during test | Space photo of the day for Dec. 30, 2025",
+    "url": "https://www.space.com/space-exploration/satellites/golden-satellite-insulation-sparkles-during-test-space-photo-of-the-day-for-dec-30-2025",
+    "date": "2025-12-30T14:25:03.615Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/mXMSDNbd8C7q8YsYRsWUtV-1280-80.jpg",
+    "category": "Science"
+  },
+  {
+    "websiteName": "The New York Times",
+    "title": "The Cover-Up: Inside the Plot to Conceal Assad’s Crimes",
+    "url": "https://www.nytimes.com/2025/12/30/world/middleeast/assad-regime-crimes-syria-documents.html",
+    "date": "2025-12-30T16:47:03.615Z",
+    "imageUrl": "chrome-extension://bocjkpoianmfiofedeffajbgbhgjhhng/&target_size=96x64",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Nature",
+    "title": "Can boomerangs bounce?",
+    "url": "https://www.nature.com/articles/d41586-025-03989-3",
+    "date": "2025-12-29T23:25:03.615Z",
+    "imageUrl": "https://media.nature.com/lw1200/magazine-assets/d41586-025-03989-3/d41586-025-03989-3_15948436.jpg",
+    "category": "Science"
+  },
+  {
+    "websiteName": "Healthline",
+    "title": "FDA OKs Addyi, a Libido-Enhancing Drug for Women After Menopause",
+    "url": "https://www.healthline.com/health-news/fda-approves-addyi-postmenopausal-women",
+    "date": "2025-12-30T16:47:03.615Z",
+    "imageUrl": "https://media.post.rvohealth.io/wp-content/uploads/2025/12/senior-couple-embracing-1296x728-header.jpg",
+    "category": "Health"
+  },
+  {
+    "websiteName": "BBC",
+    "title": "Mum and children who died in Boxing Day fire named",
+    "url": "https://www.bbc.com/news/articles/cvg13333lvko?at_medium=RSS&at_campaign=rss",
+    "date": "2025-12-30T16:50:03.616Z",
+    "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f1af/live/34784f00-e58b-11f0-818a-7bc86385bd86.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "FOX",
+    "title": "Missing Camila Mendoz Olmos: Dashcam captures last sighting of Texas teen who vanished Christmas Eve",
+    "url": "https://www.foxnews.com/us/missing-camila-mendoz-olmos-dashcam-captures-last-sighting-texas-teen-who-vanished-christmas-eve",
+    "date": "2025-12-30T14:25:03.616Z",
+    "imageUrl": "https://pcdn.brave.com/brave-today/cache/b844a1f51c8c4f05e50eed3bb31d514223405135dcfcd6a402e5b247b8540d18.jpg.pad",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Healthline",
+    "title": "How the 'Portfolio Diet' May Help Lower Cholesterol, Heart Disease Risk",
+    "url": "https://www.healthline.com/health-news/portfolio-diet-improve-heart-health-lower-cholesterol",
+    "date": "2025-12-30T16:47:03.616Z",
+    "imageUrl": "https://media.post.rvohealth.io/wp-content/uploads/2025/12/Portfolio-Diet-Stocksy_txp395ca629ewC400_Medium_1764645-Header.jpg",
+    "category": "Health"
+  },
+  {
+    "websiteName": "Cointelegraph",
+    "title": "How Strategy keeps buying Bitcoin during market downturns",
+    "url": "https://cointelegraph.com/news/how-strategy-keeps-buying-bitcoin-during-market-downturns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "2025-12-30T14:25:03.616Z",
+    "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjZmNjQtNmYxMy03ZDYxLWFmOWItZGU1NTg5NmU3Mzk3LmpwZw==.jpg",
+    "category": "Crypto"
+  },
+  {
+    "websiteName": "CoinGecko",
+    "title": "What Is Arc? The Stablechain Built by USDC Issuer Circle",
+    "url": "https://www.coingecko.com/learn/what-is-arc-stablechain?locale=en",
+    "date": "2025-12-30T09:25:03.616Z",
+    "imageUrl": "https://assets.coingecko.com/coingecko/public/ckeditor_assets/pictures/34586/content_arc_cover.webp",
+    "category": "Crypto"
+  },
+  {
+    "websiteName": "FOX",
+    "title": "Microsoft typosquatting scam swaps letters to steal logins",
+    "url": "https://www.foxnews.com/tech/microsoft-typosquatting-scam-swaps-letters-steal-logins",
+    "date": "2025-12-30T15:25:03.616Z",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/typosquatting-scam-photo-2.jpg?ve=1&tl=1",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "CoinDesk",
+    "title": "Unleash Protocol hit by $3.9 million exploit with funds routed through Tornado Cash",
+    "url": "https://www.coindesk.com/business/2025/12/30/unleash-protocol-hit-by-usd3-9-million-exploit-with-funds-routed-through-tornado-cash",
+    "date": "2025-12-30T11:25:03.616Z",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/0def2dd62439d45a4e84704644add73b1a01ed9f-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "category": "Crypto"
+  },
+  {
+    "websiteName": "Metro",
+    "title": "Hospital in lockdown after man, 20, injures five in crowbar attack",
+    "url": "https://metro.co.uk/2025/12/30/hospital-lockdown-man-20-injures-five-crowbar-attack-25932435/",
+    "date": "2025-12-30T15:25:03.616Z",
+    "imageUrl": "https://metro.co.uk/wp-content/uploads/2025/12/SEI_279240182-751e.jpg?quality=90&strip=all&w=646",
+    "category": "Other"
+  },
+  {
+    "websiteName": "NBC",
+    "title": "Second pilot dies days after helicopters collide midair",
+    "url": "https://www.nbcnews.com/video/shorts/second-pilot-dies-days-after-helicopters-collide-midair-255175749557",
+    "date": "2025-12-30T14:25:03.616Z",
+    "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2025_12/1767104800410_f_vert_brk_second_pilot_collison_251230_720x1280-p7lxpq.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "WSJ",
+    "title": "Listen to This: Some Audiobooks Are Outselling Hardcovers",
+    "url": "https://www.wsj.com/tech/personal-tech/listen-to-this-some-audiobooks-are-outselling-hardcovers-179ed593?mod=rss_Technology",
+    "date": "2025-12-28T17:25:03.616Z",
+    "imageUrl": "https://images.wsj.net/im-69107910",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Wikihow",
+    "title": "How Long Would You Survive In A Zombie Apocalypse?",
+    "url": "https://www.wikihow.com/Zombie-Apocalypse-Quiz",
+    "date": "2025-12-30T15:25:03.616Z",
+    "imageUrl": "https://pcdn.brave.com/brave-today/cache/0d9234dcbcb49f83a51c6d5ca7682b5524f30b9597209d3513cd0fb7cb19b642.jpg.pad",
+    "category": "Culture"
+  },
+  {
+    "websiteName": "The Points Guy ",
+    "title": "12 New Year's travel resolutions to make in 2026",
+    "url": "https://thepointsguy.com/travel/new-years-travel-resolutions/",
+    "date": "2025-12-27T17:25:03.616Z",
+    "imageUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2024/02/A-tuk-tuk-taxi-passes-in-front-of-the-Arch-of-Santa-Catalina-in-Antigua-Guatemala_-THEPALMER.jpg",
+    "category": "Travel"
+  },
+  {
+    "websiteName": "Healthline",
+    "title": "Does Medical Cannabis Really Have Any Benefit? Experts Discuss",
+    "url": "https://www.healthline.com/health-news/does-medical-cannabis-really-have-any-benefit-experts-discuss",
+    "date": "2025-12-30T16:47:03.616Z",
+    "imageUrl": "https://media.post.rvohealth.io/wp-content/uploads/2025/12/holding-Medical-Cannabis-1296x728-header.jpg",
+    "category": "Health"
+  },
+  {
+    "websiteName": "The New York Times",
+    "title": "Overlooked Stories",
+    "url": "https://www.nytimes.com/2025/12/30/briefing/overlooked-stories.html",
+    "date": "2025-12-30T11:25:03.616Z",
+    "imageUrl": "https://static01.nyt.com/images/2025/10/12/multimedia/30themorning-streamer/30themorning-streamer-mediumSquareAt3X-v2.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Cointelegraph",
+    "title": "Binance confirms Visa, Mastercard withdrawal pause for Ukrainian users",
+    "url": "https://cointelegraph.com/news/binance-suspends-visa-mastercard-withdrawals-ukraine?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "2025-12-30T12:25:03.616Z",
+    "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjZmMTUtYzg2MC03ZmVlLWE2ZDgtMGNjYTBjNzVhMDRhLmpwZw==.jpg",
+    "category": "Crypto"
+  },
+  {
+    "websiteName": "Cointelegraph",
+    "title": "Metaplanet adds $450M in late-December buys, ending 2025 above 35,000 BTC",
+    "url": "https://cointelegraph.com/news/metaplanet-adds-450m-in-late-december-buys-ending-2025-above-35-000-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "2025-12-30T08:25:03.616Z",
+    "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjZlNDgtMmJmNy03OTFkLWI4ZTktYzU3ZDYwMzhmMzk5LmpwZw==.jpg",
+    "category": "Crypto"
+  },
+  {
+    "websiteName": "The New York Times",
+    "title": "Trump and Netanyahu Praise Each Other After Meeting, Despite Differences Over Gaza",
+    "url": "https://www.nytimes.com/2025/12/29/us/politics/trump-netanyahu-israel-meeting.html",
+    "date": "2025-12-30T03:25:03.616Z",
+    "imageUrl": "https://static01.nyt.com/images/2025/12/29/multimedia/29dc-prexy1-fmjw/29dc-prexy1-fmjw-mediumSquareAt3X.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "ScienceDaily",
+    "title": "Losing weight in midlife may have a hidden brain cost",
+    "url": "https://www.sciencedaily.com/releases/2025/12/251228020004.htm",
+    "date": "2025-12-27T17:25:03.616Z",
+    "imageUrl": "https://www.sciencedaily.com/images/1920/human-brain-inflammation-stress-injury-damage.webp",
+    "category": "Science"
+  },
+  {
+    "websiteName": "ZDNet",
+    "title": "I ran a battery test with the best Samsung, Google, and OnePlus phones - the winner surprised me",
+    "url": "https://www.zdnet.com/article/samsung-google-oneplus-phone-battery-comparison/",
+    "date": "2025-12-30T15:25:03.616Z",
+    "imageUrl": "https://www.zdnet.com/a/img/resize/62a7db777db6db86772382f8a41e9ca9905e4631/2025/12/18/d73089ff-2f0e-406f-aced-e027c1ce5eeb/img-20251217-161941.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "FOX",
+    "title": "Dr Drew says addicts must 'surrender' as trendy resets mask bigger addiction problems",
+    "url": "https://www.foxnews.com/entertainment/dr-drew-addicts-surrender-trendy-resets-mask-bigger-addiction-problems",
+    "date": "2025-12-30T13:25:03.616Z",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/dr.drew-pinsky.jpg?ve=1&tl=1",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "TMZ",
+    "title": "Texas Teen Who Vanished on Christmas Eve Seen in New Video, Investigators Say",
+    "url": "https://www.tmz.com/2025/12/30/new-video-missing-texas-teen-christmas-eve-camila-olmos/",
+    "date": "2025-12-30T16:25:03.616Z",
+    "imageUrl": "https://imagez.tmz.com/image/bf/16by9/2025/12/30/bf18daa9a45945178d86dee732f6827a_xl.jpg",
+    "category": "Entertainment"
+  },
+  {
+    "websiteName": "Smithsonian",
+    "title": "Archaeologists Are Using Lasers to Clean Decades of Grime Off a Towering 1,800-Year-Old Marble Column in Rome",
+    "url": "https://www.smithsonianmag.com/smart-news/archaeologists-are-using-lasers-to-clean-decades-of-grime-off-a-towering-1800-year-old-marble-column-in-rome-180987926/",
+    "date": "2025-12-29T18:25:03.616Z",
+    "imageUrl": "chrome-extension://bocjkpoianmfiofedeffajbgbhgjhhng/&target_size=96x64",
+    "category": "Science"
+  },
+  {
+    "websiteName": "CoinDesk",
+    "title": "Dogecoin breaks support as year-end selling drags DOGE to $0.123",
+    "url": "https://www.coindesk.com/markets/2025/12/30/dogecoin-breaks-support-as-year-end-selling-drags-doge-to-usd0-123",
+    "date": "2025-12-30T04:25:03.616Z",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/6c78e5ebd785b96574b45e39c35f8f2cec60662c-1196x734.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "category": "Crypto"
+  },
+  {
+    "websiteName": "Healthline",
+    "title": "7 Ways to Improve Heart Health for Longevity After Cancer Diagnosis",
+    "url": "https://www.healthline.com/health-news/heart-healthy-strategies-longevity-after-cancer",
+    "date": "2025-12-30T16:47:03.616Z",
+    "imageUrl": "https://media.post.rvohealth.io/wp-content/uploads/2025/12/senior-woman-exercise-park-1296x728-header.jpg",
+    "category": "Health"
+  },
+  {
+    "websiteName": "FOX",
+    "title": "Republicans eye Iowa Senate supermajority in Tuesday special election",
+    "url": "https://www.foxnews.com/politics/republicans-eye-iowa-senate-supermajority-tuesday-special-election",
+    "date": "2025-12-30T15:25:03.616Z",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/iowa-state-capitol-ahead-of-special-election.jpg?ve=1&tl=1",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Women's",
+    "title": "Dermatologists Explain Why Your Nails Are Yellowing—And How To Fix It",
+    "url": "https://www.womenshealthmag.com/beauty/a69887279/what-causes-yellow-nails/",
+    "date": "2025-12-30T15:25:03.617Z",
+    "imageUrl": "https://pcdn.brave.com/brave-today/cache/c293cd64ad9460c348d1b3cec43d7e527cdd9683ecf7dbb87da64c08a240ca2c.jpg.pad",
+    "category": "Health"
+  },
+  {
+    "websiteName": "Techspot",
+    "title": "LG unveils Gallery TV, a canvas-style rival to Samsung's The Frame",
+    "url": "https://www.techspot.com/news/110756-lg-unveils-gallery-tv-canvas-style-rival-samsung.html",
+    "date": "2025-12-30T11:25:03.617Z",
+    "imageUrl": "https://www.techspot.com/images2/news/ts3_thumbs/2025/12/2025-12-30-ts3_thumbs-287.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Screenrant",
+    "title": "Stranger Things Season 5 Doubles Down On A Harsh Truth Surrounding The Wheeler Family",
+    "url": "https://screenrant.com/stranger-things-season-5-nobody-cares-about-ted-wheeler/",
+    "date": "2025-12-30T15:25:03.617Z",
+    "imageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/12/nancy-looks-behind-her-in-stranger-things-season-5.jpg",
+    "category": "Entertainment"
+  },
+  {
+    "websiteName": "CBR",
+    "title": "Ryan Coogler: Black Panther 2 Scrapped Script Reveals Major New Marvel, MCU Character",
+    "url": "https://www.cbr.com/black-panther-2-scrapped-script-major-new-character-marvel-mcu/",
+    "date": "2025-12-30T16:42:03.617Z",
+    "imageUrl": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/11/black-panther-t-challa.jpg",
+    "category": "Entertainment"
+  },
+  {
+    "websiteName": "Gizmodo",
+    "title": "‘Predator: Badlands’ Is Coming Home Next Week",
+    "url": "https://gizmodo.com/predator-badlands-home-release-date-blu-ray-digital-streaming-2000704279",
+    "date": "2025-12-30T15:25:03.617Z",
+    "imageUrl": "https://gizmodo.com/app/uploads/2025/12/predator-badlands-dek-thia-1280x853.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "The Atlantic",
+    "title": "The Problem With Letting AI Do the Grunt Work",
+    "url": "https://www.theatlantic.com/ideas/2025/12/ai-entry-level-creative-jobs/685297/?utm_source=feed",
+    "date": "2025-12-30T13:25:03.617Z",
+    "imageUrl": "https://cdn.theatlantic.com/thumbor/wR86DJ5t_14f_pU3XUWstwRr3YU=/media/img/mt/2025/12/TheAtlantic10/original.jpg",
+    "category": "Culture"
+  },
+  {
+    "websiteName": "Inverse",
+    "title": "20 Years Later, A Misunderstood Marvel Hero Could Finally Get His Due",
+    "url": "https://www.inverse.com/entertainment/cyclops-avengers-doomsday-trailer",
+    "date": "2025-12-29T20:25:03.617Z",
+    "imageUrl": "https://imgix.bustle.com/uploads/shutterstock/2025/12/29/c21b587c/shutterstock-5886206at.jpg?w=500&fit=max",
+    "category": "Science"
+  },
+  {
     "websiteName": "Screenrant",
     "title": "Power Rangers' New Show Can Officially Fix A 32-Year Franchise Problem",
     "url": "https://screenrant.com/power-rangers-new-show-sixth-ranger-fix/",
