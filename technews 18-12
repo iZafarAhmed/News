@@ -1,2048 +1,650 @@
 [
   {
-    
-    "title": "How Roomba invented the home robot — and lost the future",
-    "summary": "iRobot co-founder reflects on the company's pioneering role and its recent collapse.",
-    "category": "Tech",
-    "publication_date": "2025-12-15",
-    "link": "https://www.theverge.com/tech/844964/how-irobot-invented-the-roomba-and-lost-the-future-of-home-robotics"
+    "title": "The Good Lock module I forced myself to learn — and now can't use a Galaxy without",
+    "summary": "The author shares their experience with a Samsung Good Lock module that has become essential for customizing gesture navigation on Galaxy devices.",
+    "category": "Samsung",
+    "publication_date": "December 30, 2025",
+    "link": "https://www.androidpolice.com/good-lock-module-i-cant-quit/",
+    "author": ""
   },
   {
-    
-    "title": "“A Band-Aid on a giant gash”: Trump’s attacks on science may ruin his AI moonshot",
-    "summary": "Trump’s AI “Manhattan Project” will fail if DOGE cuts are kept, critics say, after revoking federal grants and impacting scientific talent pipelines.",
+    "title": "I'm sorry — Google had a better year than you're willing to admit",
+    "summary": "A reflective piece arguing that Google made significant improvements in 2025, particularly with Pixel devices, despite common criticisms.",
+    "category": "Google",
+    "publication_date": "December 30, 2025",
+    "link": "https://www.androidpolice.com/google-pixel-2025-review/",
+    "author": ""
+  },
+  {
+    "title": "Samsung's supercharged Bixby with Perplexity AI gets an early preview",
+    "summary": "Samsung is testing an enhanced version of Bixby integrated with Perplexity AI in the One UI 8.5 beta.",
+    "category": "Samsung",
+    "publication_date": "December 30, 2025",
+    "link": "https://www.androidpolice.com/samsung-galaxy-bixby-perplexity-ai-one-ui-8-5/",
+    "author": ""
+  },
+  {
+    "title": "Google Pixel 4 gets Android 16 thanks to LineageOS 23",
+    "summary": "The aging Google Pixel 4 receives unofficial support for Android 16 via the custom ROM LineageOS 23, extending its lifespan.",
+    "category": "Custom ROMs",
+    "publication_date": "December 30, 2025",
+    "link": "https://www.androidpolice.com/google-pixel-4-gets-android-16-thanks-to-lineageos-23/",
+    "author": ""
+  },
+  {
+    "title": "Samsung brings Google Photos to the biggest screen in your home",
+    "summary": "Samsung announces integration of Google Photos features on its upcoming 2026 TVs for enhanced photo viewing.",
+    "category": "Samsung",
+    "publication_date": "December 30, 2025",
+    "link": "https://www.androidpolice.com/samsung-brings-google-photos-biggest-screen-home/",
+    "author": ""
+  },
+  {
+    "title": "Samsung's 2026 audio lineup delivers both style and substance",
+    "summary": "Preview of Samsung's new audio products set to be unveiled at CES 2026, focusing on design and performance.",
+    "category": "Audio",
+    "publication_date": "December 29, 2025",
+    "link": "https://www.androidpolice.com/samsungs-2026-audio-lineup/",
+    "author": ""
+  },
+  {
+    "title": "Big Tech basically took Trump’s unpredictable trade war lying down",
+    "summary": "Big Tech companies largely accepted Trump's trade policies and tariffs without strong resistance, with some making concessions like Apple and Intel deals.",
     "category": "Tech Policy",
-    "publication_date": "2025-12-17",
-    "link": "https://arstechnica.com/tech-policy/2025/12/trump-spent-2025-attacking-science-that-could-set-back-his-genesis-mission/"
+    "publication_date": "December 29, 2025",
+    "link": "https://arstechnica.com/tech-policy/2025/12/big-tech-basically-took-trumps-unpredictable-trade-war-lying-down/",
+    "author": "Ashley Belanger"
   },
   {
-    
-    "title": "NASA finally—and we really do mean it this time—has a full-time leader",
-    "summary": "Jared Isaacman has been confirmed as NASA's new administrator, becoming the youngest person to lead the agency amid challenges like layoffs and competition with China.",
-    "category": "Space",
-    "publication_date": "2025-12-17",
-    "link": "https://arstechnica.com/space/2025/12/nasa-finally-and-we-really-do-mean-it-this-time-has-a-full-time-leader/"
+    "title": "US can’t deport hate speech researcher for protected speech, lawsuit says",
+    "summary": "A lawsuit challenges US efforts to deport a researcher, arguing that visa bans violate protected speech rights, with officials required to explain actions.",
+    "category": "Tech Policy",
+    "publication_date": "December 29, 2025",
+    "link": "https://arstechnica.com/tech-policy/2025/12/us-cant-deport-hate-speech-researcher-for-protected-speech-lawsuit-says/",
+    "author": "Ashley Belanger"
   },
   {
-    
-    "title": "Physicists 3D-printed a Christmas tree of ice",
-    "summary": "A new method creates ice structures using only water and a vacuum, without freezing technology or refrigeration.",
+    "title": "Leonardo’s wood charring method predates Japanese practice",
+    "summary": "Evidence suggests Leonardo da Vinci described a wood charring technique similar to the Japanese yakisugi centuries earlier.",
     "category": "Science",
-    "publication_date": "2025-12-17",
-    "link": "https://arstechnica.com/science/2025/12/physicists-3d-printed-a-christmas-tree-of-ice/"
+    "publication_date": "December 29, 2025",
+    "link": "https://arstechnica.com/science/2025/12/did-one-line-in-a-leonardo-codex-anticipate-yakisugi/",
+    "author": "Jennifer Ouellette"
   },
   {
-    
-    "title": "OpenAI’s new ChatGPT image generator makes faking photos easy",
-    "summary": "The new GPT Image 1.5 enables detailed conversational image editing, raising concerns about misuse.",
-    "category": "AI",
-    "publication_date": "2025-12-17",
-    "link": "https://arstechnica.com/ai/2025/12/openais-new-chatgpt-image-generator-makes-faking-photos-easy/"
-  },
-  {
-    
-    "title": "Man sues cops who jailed him for 37 days for trolling a Charlie Kirk vigil",
-    "summary": "A man is suing police for allegedly violating his rights by jailing him over satirical Facebook posts.",
-    "category": "Tech Policy",
-    "publication_date": "2025-12-17",
-    "link": "https://arstechnica.com/tech-policy/2025/12/man-sues-cops-who-jailed-him-for-37-days-for-trolling-a-charlie-kirk-vigil/"
-  },
-  {
-    
-    "title": "FCC chair scrubs website after learning it called FCC an “independent agency”",
-    "summary": "The incoming FCC chair defends allegiance to Trump while restricting power over broadcasters.",
-    "category": "Tech Policy",
-    "publication_date": "2025-12-17",
-    "link": "https://arstechnica.com/tech-policy/2025/12/fcc-deletes-independent-agency-from-website-as-carr-defends-allegiance-to-trump/"
-  },
-  {
-    
-    "title": "Donut Lab’s hub motor meets WATT’s battery to create new EV skateboard",
-    "summary": "A new EV platform prototype combining hub motors and advanced batteries will debut at CES.",
-    "category": "Cars",
-    "publication_date": "2025-12-17",
-    "link": "https://arstechnica.com/cars/2025/12/donut-labs-hub-motor-meets-watts-battery-to-create-new-ev-skateboard/"
-  },
-  {
-    
-    "title": "Bursting AI bubble may be EU’s “secret weapon” in clash with Trump, expert says",
-    "summary": "Trump threatens crackdown on EU firms amid intensifying clash over tech regulations affecting Spotify and others.",
-    "category": "Tech Policy",
-    "publication_date": "2025-12-17",
-    "link": "https://arstechnica.com/tech-policy/2025/12/us-threatens-crackdown-on-eu-firms-as-clash-over-tech-regulations-intensifies/"
-  },
-  {
-    
-    "title": "Trump admin threatens to break up major climate research center",
-    "summary": "A key research institution is targeted as a source of “climate alarmism.”",
+    "title": "Researchers make “neuromorphic” artificial skin for robots",
+    "summary": "Scientists developed artificial skin that processes sensory information using spike-based neural signals, mimicking biological systems.",
     "category": "Science",
-    "publication_date": "2025-12-17",
-    "link": "https://arstechnica.com/science/2025/12/trump-admin-threatens-to-break-up-major-climate-research-center/"
+    "publication_date": "December 29, 2025",
+    "link": "https://arstechnica.com/science/2025/12/researchers-make-neuromorphic-artificial-skin-for-robots/",
+    "author": "John Timmer"
   },
   {
-    
-    "title": "Google releases Gemini 3 Flash, promising improved intelligence and efficiency",
-    "summary": "Google completes the Gemini 3 family with the release of the faster and more efficient Gemini 3 Flash model.",
-    "category": "AI",
-    "publication_date": "2025-12-17",
-    "link": "https://arstechnica.com/google/2025/12/google-releases-gemini-3-flash-promising-improved-intelligence-and-efficiency/"
-  },
-  {
-    
-    "title": "Electric vehicles cause tension in the automotive aftermarket",
-    "summary": "EV technology adoption in the aftermarket faces challenges amid shifting regulations.",
-    "category": "Cars",
-    "publication_date": "2025-12-17",
-    "link": "https://arstechnica.com/cars/2025/12/how-is-ev-technology-being-accepted-by-the-aftermarket/"
-  },
-  {
-    
-    "title": "Twitter comeback bid draws lawsuit from Elon Musk’s X Corp",
-    "summary": "X Corp sues over attempts to revive and use the Twitter trademark.",
+    "title": "China drafts world’s strictest rules to end AI-encouraged suicide, violence",
+    "summary": "China proposes regulations requiring human intervention in AI chats mentioning suicide or violence, including notifying guardians.",
     "category": "Tech Policy",
-    "publication_date": "2025-12-17",
-    "link": "https://arstechnica.com/tech-policy/2025/12/twitter-comeback-bid-draws-lawsuit-from-elon-musks-x-corp/"
+    "publication_date": "December 29, 2025",
+    "link": "https://arstechnica.com/tech-policy/2025/12/china-drafts-worlds-strictest-rules-to-end-ai-encouraged-suicide-violence/",
+    "author": "Ashley Belanger"
   },
   {
-    
-    "title": "US oil industry doesn’t see profit in Trump’s “pro-petroleum” moves",
-    "summary": "Financial realities counter the administration’s push for increased drilling.",
+    "title": "A quirky guide to myths and lore based in actual science",
+    "summary": "Interview and review of Adrienne Mayor's book exploring natural history lore rooted in real scientific observations from ancient times.",
     "category": "Science",
-    "publication_date": "2025-12-17",
-    "link": "https://arstechnica.com/science/2025/12/us-oil-industry-doesnt-see-profit-in-trumps-pro-petroleum-moves/"
+    "publication_date": "December 29, 2025",
+    "link": "https://arstechnica.com/science/2025/12/a-quirky-guide-to-myths-and-lore-based-in-actual-science/",
+    "author": "Jennifer Ouellette"
   },
   {
-    
-    "title": "Texas sues biggest TV makers, alleging smart TVs spy on users without consent",
-    "summary": "Lawsuits claim Automated Content Recognition enables mass surveillance in homes.",
-    "category": "Tech Policy",
-    "publication_date": "2025-12-16",
-    "link": "https://arstechnica.com/tech-policy/2025/12/texas-sues-biggest-tv-makers-alleging-smart-tvs-spy-on-users-without-consent/"
-  },
-  {
-    
-    "title": "The $4.3 billion space telescope Trump tried to cancel is now complete",
-    "summary": "The Nancy Grace Roman Space Telescope is finished and promises groundbreaking Milky Way observations.",
-    "category": "Space",
-    "publication_date": "2025-12-16",
-    "link": "https://arstechnica.com/space/2025/12/the-4-3-billion-space-telescope-trump-tried-to-cancel-is-now-complete/"
-  },
-  {
-    
-    "title": "Senators count the shady ways data centers pass energy costs on to Americans",
-    "summary": "Lawmakers demand Big Tech cover upfront costs for electricity spikes caused by AI data centers.",
-    "category": "Tech Policy",
-    "publication_date": "2025-12-16",
-    "link": "https://arstechnica.com/tech-policy/2025/12/shady-data-center-deals-doom-americans-to-higher-energy-bills-senators-say/"
-  },
-  {
-    
-    "title": "Software leaks point to the first Apple Silicon “iMac Pro,” among other devices",
-    "summary": "Leaks suggest Apple is testing a high-end iMac Pro and various M5-equipped devices.",
+    "title": "I switched to eSIM in 2025, and I am full of regret",
+    "summary": "The author shares frustrations with transitioning to eSIM-only devices like the Pixel 10 series, highlighting inconveniences compared to physical SIMs.",
     "category": "Gadgets",
-    "publication_date": "2025-12-16",
-    "link": "https://arstechnica.com/gadgets/2025/12/leaked-debug-kit-suggests-apple-is-testing-a-new-imac-pro-among-many-other-macs/"
-  },
-  {
-    
-    "title": "Reporter suggests Half-Life 3 will be a Steam Machine launch title",
-    "summary": "Persistent rumors claim Half-Life 3 could launch with a new Steam Machine in 2026.",
-    "category": "Gaming",
-    "publication_date": "2025-12-16",
-    "link": "https://arstechnica.com/gaming/2025/12/journalist-insists-half-life-3-will-launch-with-steam-machine-in-spring-2026/"
-  },
-  {
-    
-    "title": "Utah leaders hinder efforts to develop solar energy supply",
-    "summary": "State policies slow solar projects despite high demand for grid connections.",
-    "category": "Science",
-    "publication_date": "2025-12-16",
-    "link": "https://arstechnica.com/science/2025/12/utah-leaders-hinder-efforts-to-develop-solar-energy-supply/"
-  },
-  {
-    
-    "title": "2026 Mercedes CLA first drive: Entry level doesn’t mean basic",
-    "summary": "Mercedes' new electric sedan offers compelling performance starting at $47,250.",
-    "category": "Cars",
-    "publication_date": "2025-12-16",
-    "link": "https://arstechnica.com/cars/2025/12/2026-mercedes-cla-first-drive-entry-level-doesnt-mean-basic/"
-  },
-  {
-    
-    "title": "Dolby and LG introduce a modular home audio system for CES 2026",
-    "summary": "The new soundbar uses Dolby FlexConnect to wirelessly pair with other speakers for immersive audio.",
-    "category": "Audio",
-    "publication_date": "2025-12-18",
-    "link": "https://www.engadget.com/audio/speakers/dolby-and-lg-introduce-a-modular-home-audio-system-for-ces-2026-010000126.html"
-  },
-  {
-    
-    "title": "OnePlus 15R review: unbeatable battery life, beatable value",
-    "summary": "Engadget’s hands-on review praises the phone’s exceptional battery but notes compromises elsewhere.",
-    "category": "Mobile",
-    "publication_date": "2025-12-18",
-    "link": "https://www.engadget.com/mobile/smartphones/oneplus-15r-review-a-165hz-display-and-big-battery-for-700-150000340.html"
-  },
-  {
-    
-    "title": "Big Tech bent the knee for Trump in 2025",
-    "summary": "The incoming administration signals potential tariffs or restrictions over EU tech regulations.",
-    "category": "Tech Policy",
-    "publication_date": "2025-12-18",
-    "link": "https://www.engadget.com/general/big-tech-bent-the-knee-for-trump-in-2025-140000365.html"
-  },
-  {
-    
-    "title": "CES 2026: The Biggest Tech Show of the Year Is Back. Here's What to Expect",
-    "summary": "CNET previews CES 2026, expecting heavy AI integration across TVs, robots, and more innovations from major brands like Samsung, LG, and Sony in Las Vegas.",
-    "category": "Tech",
-    "publication_date": "2025-12-17",
-    "link": "https://www.cnet.com/tech/ces-2026-preview-expectations/"
-  },
-  {
-    
-    "title": "Today's NYT Connections Hints and Answers for Dec. 17 #920",
-    "summary": "Hints and full answers for the New York Times Connections puzzle #920 on 2025-12-17.",
-    "category": "Gaming",
-    "publication_date": "2025-12-17",
-    "link": "https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-17-920/"
-  },
-  {
-    
-    "title": "Today's NYT Connections: Sports Edition Hints and Answers for Dec. 17 #450",
-    "summary": "Hints and answers for the NYT Connections Sports Edition puzzle on 2025-12-17.",
-    "category": "Gaming",
-    "publication_date": "2025-12-17",
-    "link": "https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-17-450/"
-  },
-  {
-    
-    "title": "Today's NYT Wordle Hints, Answer and Help for Dec. 17 #1642",
-    "summary": "Spoiler-free hints and the full answer for Wordle #1642 on 2025-12-17.",
-    "category": "Gaming",
-    "publication_date": "2025-12-17",
-    "link": "https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-17-1642/"
-  },
-  {
-    
-    "title": "Today's NYT Strands Hints, Answer and Help for Dec. 17 #654",
-    "summary": "Hints and answers for the NYT Strands word puzzle on 2025-12-17.",
-    "category": "Gaming",
-    "publication_date": "2025-12-16",
-    "link": "https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-17-654/"
-  },
-  {
-    
-    "title": "Today's NYT Mini Crossword Answers for Dec. 17",
-    "summary": "Complete answers for the New York Times Mini Crossword puzzle on 2025-12-17.",
-    "category": "Gaming",
-    "publication_date": "2025-12-16",
-    "link": "https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-dec-17/"
-  },
-  {
-    
-    "title": "HBO Max: The 30 Absolute Best TV Shows to Watch",
-    "summary": "CNET's picks for the top series on HBO Max, including new December 2025 additions like The Pitt and other acclaimed dramas.",
-    "category": "Entertainment",
-    "publication_date": "2025-12-16",
-    "link": "https://www.cnet.com/culture/entertainment/best-shows-to-watch-on-hbo-max/"
-  },
-  {
-    
-    "title": "Top 25 Best PC Games - December 2025",
-    "summary": "Uppublication_dated list of the best PC games, featuring new 2025 releases and classics across genres.",
-    "category": "Gaming",
-    "publication_date": "2025-12-15",
-    "link": "https://www.cnet.com/tech/gaming/best-pc-games-right-now/"
-  },
-  {
-    
-    "title": "These 8 New Phone Features Were the Best and Weirdest of 2025",
-    "summary": "CNET highlights standout smartphone innovations from 2025, including battery breakthroughs and unique designs.",
-    "category": "Mobile",
-    "publication_date": "2025-12-15",
-    "link": "https://www.cnet.com/tech/mobile/these-8-new-phone-features-were-the-best-and-weirdest-of-2025/"
-  },
-  {
-    
-    "title": "Top 25 Best Nintendo Switch Games - December 2025",
-    "summary": "CNET's uppublication_dated ranking of the best Switch games, adding titles like Pokemon Legends: Z-A and Hollow Knight: Silksong.",
-    "category": "Gaming",
-    "publication_date": "2025-12-15",
-    "link": "https://www.cnet.com/tech/gaming/top-best-nintendo-switch-games/"
-  },
-  {
-    
-    "title": "The Best Christmas Movies to Watch on Netflix That Aren't Holiday Rom-Coms",
-    "summary": "Alternative holiday movie recommendations on Netflix beyond the usual rom-coms.",
-    "category": "Entertainment",
-    "publication_date": "2025-12-15",
-    "link": "https://www.cnet.com/culture/entertainment/the-best-christmas-movies-to-watch-on-netflix"
-  },
-  {
-    
-    "title": "Walmart Deals of the Day: The Top Bluetooth Speaker of 2025 Just Dropped by $70",
-    "summary": "Daily deals highlight including discounts on Bose speakers, Fitbit, and Xbox controllers.",
-    "category": "Deals",
-    "publication_date": "2025-12-15",
-    "link": "https://www.cnet.com/deals/walmart-deals-of-the-day-december-15/"
-  },
-  {
-    
-    "title": "New 2025 Christmas Movies on Prime Video, Netflix and More",
-    "summary": "Guide to new holiday films arriving on streaming services in December 2025.",
-    "category": "Entertainment",
-    "publication_date": "2025-12-13",
-    "link": "https://www.cnet.com/tech/services-and-software/new-2025-christmas-movies/"
-  },
-  {
-    
-    "title": "Prime Video: The 30 Absolute Best Shows to Watch",
-    "summary": "Top recommendations for series on Prime Video, with new December 2025 premieres.",
-    "category": "Entertainment",
-    "publication_date": "2025-12-07",
-    "link": "https://www.cnet.com/tech/services-and-software/best-shows-on-prime-video-dec-2025/"
-  },
-  {
-    
-    "title": "HBO Max: The 25 Absolute Best Movies to Watch",
-    "summary": "CNET's selection of top films on HBO Max, including December 2025 additions.",
-    "category": "Entertainment",
-    "publication_date": "2025-12-05",
-    "link": "https://www.cnet.com/tech/services-and-software/best-movies-on-hbo-max-dec-2025/"
-  },
-  {
-    
-    "title": "The Final Supermoon of 2025 Is Tonight: What Time to See the Cold Moon",
-    "summary": "Viewing guide for the last supermoon of 2025, the December Cold Moon.",
-    "category": "Science",
-    "publication_date": "2025-12-04",
-    "link": "https://www.cnet.com/science/space/the-final-supermoon-of-2025-is-this-week-when-to-see-the-cold-moon/"
-  },
-  {
-    
-    "title": "Amazon Cyber Monday Sale 2025: 50+ Deals Still Live",
-    "summary": "Lingering post-Cyber Monday discounts on tech like AirPods, PS5, and Dyson products.",
-    "category": "Deals",
-    "publication_date": "2025-12-03",
-    "link": "https://www.cnet.com/deals/best-cyber-monday-amazon-deals-2025-12-03/"
-  },
-  {
-    
-    "title": "Best Headphones We've Tested in 2025",
-    "summary": "CNET's top-rated headphones roundup for 2025.",
-    "category": "Audio",
-    "publication_date": "2025-12-18",
-    "link": "https://www.cnet.com/tech/mobile/best-headphones/"
-  },
-  {
-    
-    "title": "Best Laptops for 2025",
-    "summary": "Recommendations for the top laptops available in 2025.",
-    "category": "Computing",
-    "publication_date": "2025-12-18",
-    "link": "https://www.cnet.com/tech/computing/best-laptop/"
-  },
-  {
-    
-    "title": "Best TVs in 2025",
-    "summary": "CNET's picks for the best televisions of 2025.",
-    "category": "Home Entertainment",
-    "publication_date": "2025-12-18",
-    "link": "https://www.cnet.com/tech/home-entertainment/best-tv/"
-  },
-  {
-    
-    "title": "The Directors of 'Final Destination Bloodlines' May Have Their Next Sci-Fi Epic",
-    "summary": "Zach Lipovsky and Adam Stein, directors of Final Destination Bloodlines, are reportedly attached to direct an adaptation of the sci-fi novel 'The Traveler.'",
-    "category": "Movies",
-    "publication_date": "2025-12-17",
-    "link": "https://gizmodo.com/the-traveler-directors-final-destination-2000700586"
-  },
-  {
-    
-    "title": "The Weirdest Medical Cases of 2025",
-    "summary": "A roundup of bizarre medical cases from 2025, including a stroke likely caused by excessive energy drink consumption and other unusual incidents.",
-    "category": "Science",
-    "publication_date": "2025-12-17",
-    "link": "https://gizmodo.com/the-weirdest-medical-cases-of-2025-2000699833"
-  },
-  {
-    
-    "title": "Emerging 'Super Flu' Strain Is Spreading Fast",
-    "summary": "A concerning new flu strain is rising, with cases increasing across the country.",
-    "category": "Health",
-    "publication_date": "2025-12-15",
-    "link": "https://gizmodo.com/emerging-super-flu-strain-is-spreading-fast-heres-what-you-need-to-know-2000699701"
-  },
-  {
-    "title": "The subtle reason why the iPhone Air is a serious problem for Google",
-    "summary": "What came first, the iPhone Air or the Pixel 10? Apple's rumored ultra-thin iPhone could force Google to rethink its Pixel strategy.",
-    "category": "Android News",
-    "publication_date": "2025-12-17",
-    "link": "https://www.androidpolice.com/the-reason-why-the-iphone-air-is-a-problem-for-google/"
-  },
-  {
-    "title": "Google restores the missing Play Store uninstall button for system apps",
-    "summary": "Less than a week after it first vanished, Google has brought back the uninstall option for system apps in the Play Store.",
-    "category": "Google",
-    "publication_date": "2025-12-17",
-    "link": "https://www.androidpolice.com/google-play-store-gets-uninstall-button-back/"
-  },
-  {
-    "title": "OnePlus just quietly released the only phone you'll need to buy in 2026",
-    "summary": "The OnePlus 15R reminds me of vintage OnePlus with its impressive specs and value proposition.",
-    "category": "OnePlus",
-    "publication_date": "2025-12-17",
-    "link": "https://www.androidpolice.com/oneplus-15r-hands-on/"
-  },
-  {
-    "title": "The OnePlus Watch Lite will do one thing most smartwatches can’t",
-    "summary": "The upcoming OnePlus Watch Lite is rumored to offer a unique feature that sets it apart from most smartwatches.",
-    "category": "Wearables",
-    "publication_date": "2025-12-17",
-    "link": "https://www.androidpolice.com/the-oneplus-watch-lite-will-do-one-thing-most-smartwatches-cant/"
-  },
-  {
-    "title": "The OnePlus Pad Go 2 is a cool upgrade, with one big selling point",
-    "summary": "The new OnePlus Pad Go 2 brings meaningful upgrades and stands out in the crowded Android tablet market.",
-    "category": "Tablets",
-    "publication_date": "2025-12-17",
-    "link": "https://www.androidpolice.com/the-oneplus-pad-go-2-is-a-cool-upgrade/"
-  },
-  {
-    "title": "I always raved about this genius Google Messages feature — but I stopped using it",
-    "summary": "A smart Google Messages feature that once seemed perfect now has an unexpected downside.",
-    "category": "Google",
-    "publication_date": "2025-12-17",
-    "link": "https://www.androidpolice.com/i-raved-about-this-google-messages-feature-but-i-stopped-using-it/"
-  },
-  {
-    "title": "The most exciting Galaxy phone sold out in minutes — but reality may not match the hype",
-    "summary": "Samsung's latest foldable sold out quickly, but questions remain about whether it lives up to expectations.",
-    "category": "Samsung",
-    "publication_date": "2025-12-17",
-    "link": "https://www.androidpolice.com/the-most-exciting-galaxy-phone-sold-out-in-minutes/"
-  },
-  {
-    "title": "Samsung hints at new camera features with the next One UI 8.5 beta",
-    "summary": "One UI 8.5 beta brings back missing camera modes and adds new features via Camera Assistant.",
-    "category": "Samsung",
-    "publication_date": "2025-12-17",
-    "link": "https://www.androidpolice.com/samsung-galaxy-camera-assistant-dual-recording-one-ui-8-5/"
-  },
-  {
-    "title": "Retro mobile video shows how far we've come in 23 years, but also how things never change",
-    "summary": "A look back at early mobile video reveals both progress and persistent issues.",
-    "category": "Opinion",
-    "publication_date": "2025-12-17",
-    "link": "https://www.androidpolice.com/retro-mobile-video-shows-how-far-weve-come-in-23-years-but-also-how-things-never-change/"
-  },
-  {
-    "title": "Google Maps isn't my navigator anymore, but I still can't remove it",
-    "summary": "Even though other apps have taken over navigation duties, Google Maps remains essential.",
-    "category": "Google",
-    "publication_date": "2025-12-17",
-    "link": "https://www.androidpolice.com/google-maps-is-always-essential/"
-  },
-  {
-    "title": "NotebookLM’s most needed feature just finished rolling out",
-    "summary": "Chat history is now available for all NotebookLM users after a long wait.",
-    "category": "Google",
-    "publication_date": "2025-12-16",
-    "link": "https://www.androidpolice.com/notebooklms-most-needed-feature-just-finished-rolling-out/"
-  },
-  {
-    "title": "Google swaps Pixel Launcher search for something worse",
-    "summary": "Pixel Launcher search bar is being replaced to push Google's AI mode.",
-    "category": "Google",
-    "publication_date": "2025-12-16",
-    "link": "https://www.androidpolice.com/google-swaps-pixel-launcher-search-for-something-worse/"
-  },
-  {
-    "title": "Smartphone shipments set to shrink in 2026 and it's not why you think",
-    "summary": "Analysts predict a decline in global smartphone sales in 2026 due to market saturation.",
-    "category": "Industry",
-    "publication_date": "2025-12-16",
-    "link": "https://www.androidpolice.com/smartphone-sales-set-to-shrink-in-2026-and-its-not-why-you-think/"
-  },
-  {
-    "title": "Gemini for Home uppublication_date delivers a nasty surprise",
-    "summary": "A previously free feature in Gemini for Home is now behind a paywall.",
-    "category": "Google",
-    "publication_date": "2025-12-16",
-    "link": "https://www.androidpolice.com/gemini-for-home-delivers-a-nasty-surprise/"
-  },
-  {
-    "title": "OnePlus confirmed that it's about to launch a gaming beast",
-    "summary": "OnePlus has teased a new \"frighteningly strong\" gaming-focused device in the Turbo lineup.",
-    "category": "OnePlus",
-    "publication_date": "2025-12-16",
-    "link": "https://www.androidpolice.com/oneplus-confirms-new-turbo-range/"
-  },
-  {
-    "title": "Home Assistant's music manager just got a big uppublication_date",
-    "summary": "Home Assistant's music manager receives a significant uppublication_date, improving functionality for smart home audio management.",
-    "category": "Smart Home",
-    "publication_date": "2025-12-18",
-    "link": "https://www.howtogeek.com/home-assistants-music-manager-just-got-a-big-uppublication_date/"
-  },
-  {
-    "title": "ASUS and Lenovo won't build Meta Quest-like VR headsets after all",
-    "summary": "ASUS and Lenovo have backed out of plans to develop VR headsets competing with the Meta Quest series.",
-    "category": "Cutting Edge",
-    "publication_date": "2025-12-18",
-    "link": "https://www.howtogeek.com/asus-and-lenovo-wont-build-meta-quest-like-vr-headsets-after-all/"
-  },
-  {
-    "title": "You'll never guess how the original iPod stored files",
-    "summary": "The original iPod employed a surprising and unconventional file storage method that many users are unaware of.",
-    "category": "Apple",
-    "publication_date": "2025-12-18",
-    "link": "https://www.howtogeek.com/youll-never-guess-how-the-original-ipod-stored-files/"
-  },
-  {
-    "title": "Google made a new RSS reader, but it's not Google Reader",
-    "summary": "Google has launched a new RSS reader tool, separate from the discontinued Google Reader, for feed management.",
-    "category": "Google",
-    "publication_date": "2025-12-18",
-    "link": "https://www.howtogeek.com/google-made-a-new-rss-reader-but-its-not-google-reader/"
-  },
-  {
-    "title": "Luxury cars that feel like supercars without the supercar price",
-    "summary": "Explore luxury vehicles that deliver supercar-like performance and feel at a more accessible price point.",
-    "category": "Automotive",
-    "publication_date": "2025-12-18",
-    "link": "https://www.howtogeek.com/luxury-cars-supercar-feel/"
-  },
-  {
-    "title": "Your Google Wallet isn’t set up right—here’s what you’re missing",
-    "summary": "Many users miss key setup steps in Google Wallet that unlock additional useful features and conveniences.",
-    "category": "Android",
-    "publication_date": "2025-12-18",
-    "link": "https://www.howtogeek.com/your-google-wallet-isnt-set-up-right-heres-what-youre-missing/"
-  },
-  {
-    "title": "I'd never heard of this canceled detective thriller, and now I'm binging it on Netflix",
-    "summary": "A once-canceled detective thriller series is gaining new fans through its availability on Netflix.",
-    "category": "News",
-    "publication_date": "2025-12-18",
-    "link": "https://www.howtogeek.com/absentia-crime-thriller-netflix/"
-  },
-  {
-    "title": "This Christmas movie has 92% on Rotten Tomatoes and I bet you've never seen it",
-    "summary": "A highly-rated 2025 Christmas film on Disney+ with a 92% Rotten Tomatoes score that remains under the radar.",
-    "category": "News",
-    "publication_date": "2025-12-18",
-    "link": "https://www.howtogeek.com/christmas-movie-highly-rated-you-have-never-seen/"
-  },
-  {
-    "title": "Every Netflix subscriber should change these settings now",
-    "summary": "Essential Netflix settings adjustments that can significantly improve your streaming experience.",
-    "category": "News",
-    "publication_date": "2025-12-18",
-    "link": "https://www.howtogeek.com/netflix-change-these-settings/"
-  },
-  {
-    "title": "I made Excel’s doughnut chart change color automatically to track progress, here’s how",
-    "summary": "A guide to customizing Excel doughnut charts for dynamic color changes that visually track progress.",
-    "category": "How-To",
-    "publication_date": "2025-12-18",
-    "link": "https://www.howtogeek.com/microsoft-excel-customize-doughnut-chart-track-progress-dynamically/"
-  },
-  {
-    "title": "SUVs that rarely break down and are perfect for road trips",
-    "summary": "Reliable SUV recommendations known for durability and ideal for long-distance road trips.",
-    "category": "Reviews",
-    "publication_date": "2025-12-18",
-    "link": "https://www.howtogeek.com/reliable-suvs-for-road-trips/"
-  },
-  {
-    "title": "Stop downloading random .exe files, this is the safer way to install apps on Windows",
-    "summary": "Using package managers offers a secure alternative to downloading executable files on Windows.",
-    "category": "How-To",
-    "publication_date": "2025-12-18",
-    "link": "https://www.howtogeek.com/the-security-case-for-package-managers-on-windows/"
-  },
-  {
-    "title": "I set up a VLAN for my smart home and you should too",
-    "summary": "Setting up a VLAN improves security and organization for smart home devices on your network.",
-    "category": "How-To",
-    "publication_date": "2025-12-18",
-    "link": "https://www.howtogeek.com/i-set-up-a-vlan-for-my-smart-home-and-you-should-too/"
-  },
-  {
-    "title": "Stop buying expensive routers: Do this instead",
-    "summary": "Cost-effective alternatives and tips to avoid overspending on high-end Wi-Fi routers.",
-    "category": "How-To",
-    "publication_date": "2025-12-18",
-    "link": "https://www.howtogeek.com/please-stop-wasting-money-on-expensive-wi-fi-routers/"
-  },
-  {
-    "title": "How I forced Spotify to recommend better podcasts",
-    "summary": "Practical techniques to refine and improve Spotify's podcast recommendation algorithm.",
-    "category": "How-To",
-    "publication_date": "2025-12-18",
-    "link": "https://www.howtogeek.com/how-i-forced-spotify-to-recommend-better-podcasts/"
-  },
-  {
-    "title": "What an 'agentic OS' really means for Windows",
-    "summary": "An explanation of the agentic OS concept and its potential impact on future Windows versions.",
-    "category": "News",
-    "publication_date": "2025-12-18",
-    "link": "https://www.howtogeek.com/what-is-an-agentic-os-and-why-microsoft-thinks-windows-will-soon-do-your-work-for-you/"
-  },
-  {
-    "title": "6 surprising things you can measure with your Android phone",
-    "summary": "Discover unexpected measurement tools and sensors built into modern Android smartphones.",
-    "category": "Android",
-    "publication_date": "2025-12-18",
-    "link": "https://www.howtogeek.com/things-you-can-measure-with-android-phone/"
-  },
-  {
-    "title": "Ubuntu Studio is Linux's best-kept secret for creators",
-    "summary": "Ubuntu Studio provides pre-installed tools tailored for creators in art, music, and 3D design.",
-    "category": "Linux",
-    "publication_date": "2025-12-18",
-    "link": "https://www.howtogeek.com/ubuntu-studio-is-linuxs-best-kept-secret-for-creators/"
-  },
-  {
-    "title": "This festive smart home automation has become a family tradition",
-    "summary": "How smart home automations enhance and integrate into holiday family traditions.",
-    "category": "Smart Home",
-    "publication_date": "2025-12-18",
-    "link": "https://www.howtogeek.com/festive-smart-home-automation-is-a-family-tradition/"
-  },
-  {
-    "title": "Forget a Toyota RAV4: get this 576-HP hot hatch for under $30,000",
-    "summary": "A high-performance hot hatch alternative offering superior power at a budget-friendly price.",
-    "category": "Automotive",
-    "publication_date": "2025-12-18",
-    "link": "https://www.howtogeek.com/576-hp-hot-hatch-under-30000/"
-  },
-  {
-    "title": "Another Starship Clone Pops Up In China",
-    "summary": "Chinese companies are increasingly mimicking SpaceX's Starship design, with Beijing Leading Rocket Technology unveiling a \"Starship-1\" rocket featuring AI enhancements and fully reusable capabilities. This follows shifts in China's government rocket plans and announcements from firms like Cosmoleap and Astronstone, aiming for chopstick-style recovery. The trend marks a departure from earlier Falcon 9-like copies, as China transitions to advanced reusable systems.",
-    "category": "Technology",
-    "publication_date": "2025-12-18",
-    "link": "https://science.slashdot.org/story/25/12/17/2322234/another-starship-clone-pops-up-in-china/"
-  },
-  {
-    "title": "MIT Grieves Shooting Death of Renowned Director of Plasma Science Center",
-    "summary": "MIT is mourning the killing of plasma science and fusion center director Nuno FG Loureiro, 47, who was shot multiple times at his home in Brookline, Massachusetts. Police responded to gunshots, and he died in hospital. The investigation continues without details on suspects or motives. MIT president Sally Kornbluth expressed sadness amid recent violence, offering mental health resources. Loureiro, originally from Portugal, left a wife as a survivor.",
-    "category": "Technology",
-    "publication_date": "2025-12-18",
-    "link": "https://news.slashdot.org/story/25/12/17/2315236/mit-grieves-shooting-death-of-renowned-director-of-plasma-science-center/"
-  },
-  {
-    "title": "Senate Confirms Billionaire Entrepreneur Jared Isaacman As New NASA Chief",
-    "summary": "The Senate confirmed Jared Isaacman as NASA administrator in a 67-30 vote, after President Trump renominated him following an initial withdrawal over Isaacman's SpaceX ties. Isaacman supports NASA's Artemis program and aims to counter China's space efforts with urgency. His background as a private astronaut and entrepreneur marked this comeback, backed by Trump's circle.",
-    "category": "Technology",
-    "publication_date": "2025-12-18",
-    "link": "https://science.slashdot.org/story/25/12/17/2240200/senate-confirms-billionaire-entrepreneur-jared-isaacman-as-new-nasa-chief/"
-  },
-  {
-    "title": "The Oscars Will Abandon Broadcast TV For YouTube In 2029",
-    "summary": "The Oscars will move to YouTube in 2029 under a multi-year deal, ending ABC broadcasts and offering free global streaming with exclusive rights. This includes red carpet and bonus content, aiming for broader access via captions and multilingual tracks. The deal outbid competitors like NBCUniversal, allowing flexible formats without broadcast limits.",
-    "category": "Technology",
-    "publication_date": "2025-12-18",
-    "link": "https://news.slashdot.org/story/25/12/17/210247/the-oscars-will-abandon-broadcast-tv-for-youtube-in-2029/"
-  },
-  {
-    "title": "Meta 'Pauses' Third-Party Headset Program",
-    "summary": "Meta has paused its Horizon OS third-party headset initiative, halting planned devices from Asus and Lenovo to prioritize first-party hardware and software for VR advancement. Announced over a year ago, the program aimed at partners building Quest-like headsets for gaming and mixed reality, but Meta cites a focus on core development.",
-    "category": "Technology",
-    "publication_date": "2025-12-17",
-    "link": "https://hardware.slashdot.org/story/25/12/17/2053256/meta-pauses-third-party-headset-program/"
-  },
-  {
-    "title": "Netflix To Add Soccer Video Game Based On FIFA World Cup Next Year",
-    "summary": "Netflix will launch a soccer simulation game developed by Delphi Interactive in partnership with FIFA, timed for the 2026 World Cup in the U.S. The title expands Netflix's gaming portfolio, alongside a James Bond game, targeting fans with this new entry.",
-    "category": "Technology",
-    "publication_date": "2025-12-17",
-    "link": "https://games.slashdot.org/story/25/12/17/2049252/netflix-to-add-soccer-video-game-based-on-fifa-world-cup-next-year/"
-  },
-  {
-    "title": "GitHub Is Going To Start Charging You For Using Your Own Hardware",
-    "summary": "GitHub will charge $0.002 per minute for self-hosted Actions runners on private repositories from March, while cutting hosted runner prices. This aligns costs, as self-hosted use was subsidized; public repos remain free. Most users see no increase, with a median $13 monthly rise for affected parties.",
-    "category": "Technology",
-    "publication_date": "2025-12-17",
-    "link": "https://hardware.slashdot.org/story/25/12/17/2042247/github-is-going-to-start-charging-you-for-using-your-own-hardware/"
-  },
-  {
-    "title": "Linux Kernel Rust Code Sees Its First CVE Vulnerability",
-    "summary": "The Linux kernel's Rust code, specifically the Android Binder rewrite, has its first CVE (CVE-2025-68260) due to a race condition in unsafe Rust, risking memory corruption and crashes in versions 6.18+. It's a system crash issue, not remote execution.",
-    "category": "Technology",
-    "publication_date": "2025-12-17",
-    "link": "https://it.slashdot.org/story/25/12/17/2034233/linux-kernel-rust-code-sees-its-first-cve-vulnerability/"
-  },
-  {
-    "title": "Google Releases Gemini 3 Flash, Promising Improved Intelligence and Efficiency",
-    "summary": "Google launched Gemini 3 Flash, a faster, more capable AI model outperforming predecessors in benchmarks like HLE (33.7%) and factual accuracy (68.7%). It's default for Google Search AI mode, available via apps, API, and tools, suiting real-time workloads.",
-    "category": "Technology",
-    "publication_date": "2025-12-17",
-    "link": "https://tech.slashdot.org/story/25/12/17/2028231/google-releases-gemini-3-flash-promising-improved-intelligence-and-efficiency/"
-  },
-  {
-    "title": "Browser Extensions With 8 Million Users Collect Extended AI Conversations",
-    "summary": "Eight browser extensions, with over 8 million installs and \"Featured\" badges on Google and Microsoft stores, harvest full AI chats for marketing sales. They claim anonymity but collect data via VPN and ad-blocking features",
-    "category": "Technology",
-    "publication_date": "2025-12-17",
-    "link": "https://tech.slashdot.org/story/25/12/17/198250/browser-extensions-with-8-million-users-collect-extended-ai-conversations/"
-  },
-  {
-    "title": "English Has Become Easier To Read",
-    "summary": "English readability improved not from shorter sentences but from 1500s-1600s Bible translations using plain, logical syntax over rhythmic structures. Modern punctuation shifts, like fewer semicolons, explain perceived simplicity, as seen in popular books with varied sentence lengths.",
-    "category": "Technology",
-    "publication_date": "2025-12-17",
-    "link": "https://news.slashdot.org/story/25/12/17/1849246/english-has-become-easier-to-read/"
-  },
-  {
-    "title": "FCC Chair Suggests Agency Isn't Independent, Word Cut From Mission Statement",
-    "summary": "FCC Chairman Brendan Carr stated the agency isn't independent, leading to its mission statement change on the website. This reflects executive influence trends, with Carr avoiding direct answers on presidential power or media pressures",
-    "category": "Technology",
-    "publication_date": "2025-12-17",
-    "link": "https://yro.slashdot.org/story/25/12/17/1817255/fcc-chair-suggests-agency-isnt-independent-word-cut-from-mission-statement/"
-  },
-  {
-    "title": "How We Ingest Plastic Chemicals While Consuming Food",
-    "summary": "A database lists 16,000 plastic-linked chemicals, with over 5,400 hazardous; they enter food via utensils, pans, and packaging like PFAS and phthalates. Most Americans have detectable levels, linked to health issues like IQ drops in children",
-    "category": "Technology",
-    "publication_date": "2025-12-17",
-    "link": "https://science.slashdot.org/story/25/12/17/1738215/how-we-ingest-plastic-chemicals-while-consuming-food/"
-  },
-  {
-    "title": "Coursera Acquires Udemy For $930 Million",
-    "summary": "Coursera acquired Udemy for $930 million in stock, valuing the combined firm at $2.5 billion to target corporate AI and tech training. Udemy shareholders get 0.8 Coursera shares, a 18.3% premium; the deal closes mid-2026 amid sector challenges.",
-    "category": "Technology",
-    "publication_date": "2025-12-17",
-    "link": "https://news.slashdot.org/story/25/12/17/1650219/coursera-acquires-udemy-for-930-million/"
-  },
-  {
-    "title": "Google Sues Alleged Chinese Scam Group Behind Massive US Text Message Phishing Ring",
-    "summary": "Google sued the Darcula group for scam texts impersonating IRS and others via Magic Cat software, aiming to seize sites. The tools enable easy phishing for credit cards, targeting millions in the U.S.",
-    "category": "Technology",
-    "publication_date": "2025-12-17",
-    "link": "https://tech.slashdot.org/story/25/12/17/1613200/google-sues-alleged-chinese-scam-group-behind-massive-us-text-message-phishing-ring/"
-  },
-  {
-    "title": "TikTok agrees to deal to cede control of US business to American investor group",
-    "summary": "TikTok has agreed to a deal that will transfer control of its US operations to an American investor group.",
-    "category": "Social",
-    "publication_date": "2025-12-18",
-    "link": "https://techcrunch.com/2025/12/18/tiktok-agrees-to-deal-to-cede-control-of-u-s-business-to-american-investor-group/",
-    "author": "Lucas Ropek"
-  },
-  {
-    "title": "Apple becomes a debt collector with its new developer agreement",
-    "summary": "Apple is now acting as a debt collector through its updated developer agreement.",
-    "category": "Apps",
-    "publication_date": "2025-12-18",
-    "link": "https://techcrunch.com/2025/12/18/apple-becomes-a-debt-collector-with-its-new-developer-agreement/",
-    "author": "Sarah Perez"
-  },
-  {
-    "title": "Instacart to pay $60M to settle FTC claims it deceived consumers",
-    "summary": "Instacart has agreed to a $60 million settlement with the FTC over allegations of misleading consumers.",
-    "category": "Government & Policy",
-    "publication_date": "2025-12-18",
-    "link": "https://techcrunch.com/2025/12/18/instacart-to-pay-60m-to-settle-ftc-claims-it-deceived-consumers/",
-    "author": "Aisha Malik"
-  },
-  {
-    "title": "ChatGPT launches an app store, lets developers know it’s open for business",
-    "summary": "ChatGPT has launched its own app store and is inviting developers to join.",
-    "category": "AI",
-    "publication_date": "2025-12-18",
-    "link": "https://techcrunch.com/2025/12/18/chatgpt-launches-an-app-store-lets-developers-know-its-open-for-business/",
-    "author": "Lucas Ropek"
-  },
-  {
-    "title": "Pickle Robot adds Tesla veteran as first CFO",
-    "summary": "Pickle Robot has appointed a former Tesla executive as its inaugural chief financial officer.",
-    "category": "Startups",
-    "publication_date": "2025-12-18",
-    "link": "https://techcrunch.com/2025/12/18/pickle-robot-adds-tesla-veteran-as-first-cfo/",
-    "author": "Rebecca Szkutak"
-  },
-  {
-    "title": "Why British politicians are flocking to American tech giants",
-    "summary": "British politicians are increasingly joining American tech companies.",
-    "category": "Government & Policy",
-    "publication_date": "2025-12-18",
-    "link": "https://techcrunch.com/2025/12/18/why-british-politicians-are-flocking-to-american-tech-giants/",
-    "author": "Anna Heim"
-  },
-  {
-    "title": "ChatGPT’s mobile app hits new milestone of $3B in consumer spending",
-    "summary": "The ChatGPT mobile app has reached $3 billion in consumer spending.",
-    "category": "Apps",
-    "publication_date": "2025-12-18",
-    "link": "https://techcrunch.com/2025/12/18/chatgpts-mobile-app-hits-new-milestone-of-3b-in-consumer-spending/",
-    "author": "Sarah Perez"
-  },
-  {
-    "title": "LinkedIn’s profile verification push is accelerating — and India is leading the charge in 2025",
-    "summary": "LinkedIn is ramping up its profile verification efforts, with India at the forefront in 2025.",
-    "category": "Social",
-    "publication_date": "2025-12-18",
-    "link": "https://techcrunch.com/2025/12/18/linkedins-profile-verification-push-is-accelerating-and-india-is-leading-the-charge-in-2025/",
-    "author": "Jagmeet Singh"
-  },
-  {
-    "title": "These 21-year-old dropouts raised $2M to build Givefront, a fintech for nonprofits",
-    "summary": "Two 21-year-old college dropouts have secured $2 million to launch Givefront, a financial technology platform for nonprofits.",
-    "category": "Fintech",
-    "publication_date": "2025-12-18",
-    "link": "https://techcrunch.com/2025/12/18/these-21-year-old-dropouts-raised-2m-to-build-givefront-a-fintech-for-nonprofits/",
-    "author": "Tage Kene-Okafor"
-  },
-  {
-    "title": "Peripheral Labs taps into self-driving car sensors to bring sports fans right into the game",
-    "summary": "Peripheral Labs is using sensors from autonomous vehicles to enhance the sports viewing experience.",
-    "category": "AI",
-    "publication_date": "2025-12-18",
-    "link": "https://techcrunch.com/2025/12/18/peripheral-labs-taps-into-self-driving-car-sensors-to-bring-sports-fans-right-into-the-game/",
-    "author": "Ivan Mehta"
-  },
-  {
-    "title": "Trump Media is merging with fusion power company TAE Technologies in $6B+ deal",
-    "summary": "Trump Media is combining with TAE Technologies, a fusion energy firm, in a deal valued over $6 billion.",
-    "category": "Climate",
-    "publication_date": "2025-12-18",
-    "link": "https://techcrunch.com/2025/12/18/trump-media-is-merging-with-fusion-power-company-tae-technologies-in-6b-deal/",
-    "author": null
-  },
-  {
-    "title": "TDK Ventures, Accel set to back India’s EtherealX in reusable launch vehicle push: Sources",
-    "summary": "TDK Ventures and Accel are reportedly investing in EtherealX to advance reusable launch vehicles in India.",
-    "category": "Space",
-    "publication_date": "2025-12-18",
-    "link": "https://techcrunch.com/2025/12/18/tdk-ventures-accel-set-to-back-indias-etherealx-in-reusable-launch-vehicle-push-sources/",
-    "author": "Jagmeet Singh"
-  },
-  {
-    "title": "No keynotes, no BS — why this year’s best tech talks happened over cocktails at StrictlyVC",
-    "summary": "The most impactful tech discussions of the year took place informally at StrictlyVC events.",
-    "category": "Venture",
-    "publication_date": "2025-12-18",
-    "link": "https://techcrunch.com/2025/12/18/no-keynotes-no-bs-why-this-years-best-tech-talks-happened-over-cocktails-at-strictlyvc/",
-    "author": "TechCrunch Events"
-  },
-  {
-    "title": "Rivian rolls out new ‘Universal Hands-Free’ driving feature",
-    "summary": "Rivian has introduced a new hands-free driving capability called Universal Hands-Free.",
-    "category": "Transportation",
-    "publication_date": "2025-12-18",
-    "link": "https://techcrunch.com/2025/12/18/rivian-rolls-out-new-universal-hands-free-driving-feature/",
-    "author": "Sean O'Kane"
-  },
-  {
-    "title": "Apple opens up its App Store to competition in Japan",
-    "summary": "Apple is allowing alternative app stores in Japan as part of new regulations.",
-    "category": "Apps",
-    "publication_date": "2025-12-18",
-    "link": "https://techcrunch.com/2025/12/18/apple-opens-up-its-app-store-to-competition-in-japan/",
-    "author": "Sarah Perez"
-  },
-  {
-    "title": "Amazon’s new Alexa+ feature adds conversational AI to Ring doorbells",
-    "summary": "Amazon has integrated its Alexa+ AI into Ring doorbells for more natural conversations.",
-    "category": "AI",
-    "publication_date": "2025-12-18",
-    "link": "https://techcrunch.com/2025/12/18/amazons-new-alexa-feature-adds-conversational-ai-to-ring-doorbells/",
-    "author": "Ivan Mehta"
-  },
-  {
-    "title": "HTG Wrapped 2025: 24 days of tech",
-    "summary": "A countdown of the best hardware, gadgets, and tech products that defined 2025, revealed daily throughout December.",
-    "category": "Featured",
-    "publication_date": "2025-12-19",
-    "link": "https://www.howtogeek.com/htg-wrapped-2025/",
-    "author": "Will Verduzco"
-  },
-  {
-    "title": "Tribit’s PocketGO packs huge sound into a tiny package",
-    "summary": "Review highlighting the impressive audio performance of the compact Tribit PocketGO speaker.",
-    "category": "Audio",
-    "publication_date": "2025-12-19",
-    "link": "https://www.howtogeek.com/tribits-pocketgo-packs-huge-sound-into-a-tiny-package/",
-    "author": "Sponsored"
-  },
-  {
-    "title": "Everything coming to Prime Video in January 2026",
-    "summary": "Comprehensive list of new shows, movies, and content arriving on Amazon Prime Video next month.",
-    "category": "Streaming",
-    "publication_date": "2025-12-19",
-    "link": "https://www.howtogeek.com/everything-coming-to-prime-video-in-january-2026/",
-    "author": "Derek Malcolm"
-  },
-  {
-    "title": "Firefox will make an 'AI kill switch' to address complaints",
-    "summary": "Mozilla plans to introduce a feature allowing users to easily disable AI integrations in Firefox.",
-    "category": "Browsers",
-    "publication_date": "2025-12-19",
-    "link": "https://www.howtogeek.com/firefox-will-make-an-ai-kill-switch-to-address-complaints/",
-    "author": "Jorge A. Aguilar"
-  },
-  {
-    "title": "Everything leaving Netflix in January 2026—watch them before they're gone",
-    "summary": "List of movies and shows departing Netflix at the end of January 2026.",
-    "category": "Streaming",
-    "publication_date": "2025-12-19",
-    "link": "https://www.howtogeek.com/everything-leaving-netflix-january-2026/",
-    "author": "Derek Malcolm"
-  },
-  {
-    "title": "I 3D printed these games to play with family at Christmas",
-    "summary": "Personal experience 3D printing board games and accessories for holiday family fun.",
-    "category": "3D Printing",
-    "publication_date": "2025-12-19",
-    "link": "https://www.howtogeek.com/i-3d-printed-these-games-to-play-with-family-at-christmas/",
-    "author": "Patrick Campanale"
-  },
-  {
-    "title": "Someone made a Wrapped-style recap for neighborhood complaints in your city",
-    "summary": "A tool that generates Spotify Wrapped-like summaries of local neighborhood complaints.",
-    "category": "Apps",
-    "publication_date": "2025-12-19",
-    "link": "https://www.howtogeek.com/someone-made-a-wrapped-style-recap-for-neighborhood-complaints-in-cities/",
-    "author": "Joe Fedewa"
-  },
-  {
-    "title": "Europe ditches its 2035 engine ban, will the U.S. follow?",
-    "summary": "Analysis of Europe's reversal on the 2035 combustion engine ban and potential U.S. implications.",
-    "category": "Electric Vehicles",
-    "publication_date": "2025-12-19",
-    "link": "https://www.howtogeek.com/europe-ditches-2035-engine-ban-will-us-follow/",
-    "author": "Tyler Dupont"
-  },
-  {
-    "title": "6 Christmas movies on Netflix that are actually worth watching",
-    "summary": "Curated recommendations for quality holiday films available on Netflix.",
-    "category": "Streaming",
-    "publication_date": "2025-12-19",
-    "link": "https://www.howtogeek.com/netflix-christmas-movies-actually-worth-watching/",
-    "author": "T.M. Amrita"
-  },
-  {
-    "title": "Stop judging CPUs by clock speed: It's the wrong metric",
-    "summary": "Explanation why CPU clock speed is no longer the primary performance indicator.",
-    "category": "PC Hardware",
-    "publication_date": "2025-12-19",
-    "link": "https://www.howtogeek.com/you-dont-need-to-worry-about-this-spec-when-building-a-pc/",
-    "author": "Timothy Jacob Hudson"
-  },
-  {
-    "title": "Stop buying new RAM: Here's how to safely buy used instead",
-    "summary": "Guide to purchasing used RAM safely amid falling prices.",
-    "category": "PC Hardware",
-    "publication_date": "2025-12-19",
-    "link": "https://www.howtogeek.com/ram-pocalypse-is-here-buy-cheap-ram/",
-    "author": "Nick Lewis"
-  },
-  {
-    "title": "This one Wi-Fi setting might be why your smart TV is buffering",
-    "summary": "Common Wi-Fi configuration issue causing streaming problems on smart TVs.",
-    "category": "Networking",
-    "publication_date": "2025-12-19",
-    "link": "https://www.howtogeek.com/your-smart-tv-might-be-on-the-wrong-wi-fi-network/",
-    "author": "Sydney Butler"
-  },
-  {
-    "title": "5 ways to use a Raspberry Pi with Home Assistant (aside from running your server)",
-    "summary": "Creative alternative projects integrating Raspberry Pi with Home Assistant.",
-    "category": "Smart Home",
-    "publication_date": "2025-12-19",
-    "link": "https://www.howtogeek.com/ways-to-repurpose-your-raspberry-pi-for-home-assistant/",
-    "author": "Adam Davidson"
-  },
-  {
-    "title": "6 useful parts you can salvage from a broken old printer",
-    "summary": "Components worth recovering from non-functional printers for DIY projects.",
-    "category": "DIY",
-    "publication_date": "2025-12-19",
-    "link": "https://www.howtogeek.com/useful-parts-salvage-broken-old-printer/",
-    "author": "Jorge A. Aguilar"
-  },
-  {
-    "title": "I ran the one command in Linux you should never run. Here's what happened",
-    "summary": "First-hand account of executing a notoriously dangerous Linux command.",
-    "category": "Linux",
-    "publication_date": "2025-12-19",
-    "link": "https://www.howtogeek.com/i-ran-the-one-command-in-linux-you-should-never-run-heres-what-happened/",
-    "author": "David Delony"
-  },
-  {
-    "title": "The surprisingly reliable SUV you’ve been overlooking",
-    "summary": "Highlighting an underrated SUV model known for exceptional reliability.",
-    "category": "Automotive",
-    "publication_date": "2025-12-19",
-    "link": "https://www.howtogeek.com/surprisingly-reliable-suv/",
-    "author": "Adam Gray"
-  },
-  {
-    "title": "10 mistakes to avoid when setting up a Wi-Fi network",
-    "summary": "Essential tips to prevent common errors in home Wi-Fi configuration.",
-    "category": "Networking",
-    "publication_date": "2025-12-19",
-    "link": "https://www.howtogeek.com/the-mistakes-to-avoid-when-setting-up-a-wi-fi-network/",
-    "author": "Gaurav Sharma"
-  },
-  {
-    "title": "I use Peacock every day for a feature most people overlook",
-    "summary": "Exploring an underappreciated gaming feature on the Peacock streaming service.",
-    "category": "Streaming",
-    "publication_date": "2025-12-19",
-    "link": "https://www.howtogeek.com/peacock-find-play-mobile-games/",
-    "author": "Sarah Little"
-  },
-  {
-    "title": "How I used Android Studio and Antigravity to make my first app",
-    "summary": "Step-by-step experience developing a debut Android application.",
-    "category": "Android Development",
-    "publication_date": "2025-12-19",
-    "link": "https://www.howtogeek.com/how-i-used-android-studio-and-antigravity-to-make-my-first-app/",
-    "author": "Patrick Campanale"
-  },
-  {
-    "title": "5 ways Google revolutionized Android in 2025: AirDrop, MagSafe, and more",
-    "summary": "Overview of major Android enhancements introduced by Google throughout 2025.",
-    "category": "Android",
-    "publication_date": "2025-12-19",
-    "link": "https://www.howtogeek.com/ways-google-revolutionized-android-in-2025/",
-    "author": "Dibakar Ghosh"
-  },
-  {
-    "title": "The 12 best last-minute Christmas gifts for 2025 that will arrive by December 24",
-    "summary": "These gadgets are small and affordable, and should ship quickly in a pinch.",
-    "category": "Gifts",
-    "publication_date": "2025-12-18",
-    "link": "https://www.engadget.com/the-12-best-last-minute-christmas-gifts-for-2025-that-will-arrive-by-december-24-140037753.html",
-    "author": "Engadget"
-  },
-  {
-    "title": "A total League of Legends revamp is coming in 2027",
-    "summary": "Riot Games has confirmed that it’s working on a massive update for League of Legends.",
-    "category": "Gaming",
-    "publication_date": "2025-12-18",
-    "link": "https://www.engadget.com/gaming/a-total-league-of-legends-revamp-is-coming-in-2027-130000644.html",
-    "author": "Mariella Moon"
-  },
-  {
-    "title": "Pick up the Samsung P9 microSD Express card for Switch 2 while it's down to a record low",
-    "summary": "Grab one for $33 on Amazon.",
-    "category": "Deals",
-    "publication_date": "2025-12-18",
-    "link": "https://www.engadget.com/deals/pick-up-the-samsung-p9-microsd-express-card-for-switch-2-while-its-down-to-a-record-low-141947013.html",
-    "author": "Sarah Fielding"
-  },
-  {
-    "title": "The Morning After: The highest rated tech of 2025",
-    "summary": "The biggest news stories this morning: Avatar Fire and Ash review, Big Tech bent the knee for Trump in 2025, OnePlus 15R review.",
-    "category": "General",
-    "publication_date": "2025-12-18",
-    "link": "https://www.engadget.com/general/the-morning-after-engadget-newsletter-121536612.html",
-    "author": "Mat Smith"
-  },
-  {
-    "title": "A Starlink satellite just exploded and left 'trackable' debris",
-    "summary": "SpaceX said it experienced an anomaly with one of its Starlink satellites that sounds like a small explosion.",
-    "category": "Science",
-    "publication_date": "2025-12-18",
-    "link": "https://www.engadget.com/science/space/a-starlink-satellite-just-exploded-and-left-trackable-debris-120002814.html",
-    "author": "Steve Dent"
-  },
-  {
-    "title": "The best DACs for Apple Music Lossless in 2026",
-    "summary": "All the equipment you need to listen to hifi audio wherever you are.",
-    "category": "Audio",
-    "publication_date": "2025-12-18",
-    "link": "https://www.engadget.com/audio/the-best-dac-for-lossless-high-resolution-music-iphone-android-160056147.html",
-    "author": "James Trew"
-  },
-  {
-    "title": "Sony is buying Peanuts",
-    "summary": "Sony is buying an additional 41 percent stake in Peanuts. It has owned 39 percent of the franchise since 2018.",
-    "category": "Big Tech",
-    "publication_date": "2025-12-18",
-    "link": "https://www.engadget.com/big-tech/sony-is-buying-peanuts-022341467.html",
-    "author": "Mariella Moon"
-  },
-  {
-    "title": "Trump's TikTok deal is another step closer to finally actually happening",
-    "summary": "TikTok's CEO reportedly told employees the company had signed off on an agreement announced in September.",
-    "category": "Social Media",
-    "publication_date": "2025-12-18",
-    "link": "https://www.engadget.com/social-media/trumps-tiktok-deal-is-another-step-closer-to-finally-actually-happening-001813404.html",
-    "author": "Karissa Bell"
-  },
-  {
-    "title": "Steam Winter Sale discounts Clair Obscur, Silent Hill f and more",
-    "summary": "Valve is running a Steam Winter Sale from 2025-12-18, through January 5, 2026, with discounts on hit games.",
-    "category": "Gaming",
-    "publication_date": "2025-12-18",
-    "link": "https://www.engadget.com/gaming/pc/steam-winter-sale-discounts-clair-obscur-silent-hill-f-and-more-230834279.html",
-    "author": "Ian Carlos Campbell"
-  },
-  {
-    "title": "Google’s NotebookLM introduces Data Tables feature",
-    "summary": "Google's latest addition to its NotebookLM artificial intelligence research platform is a feature called Data Tables.",
-    "category": "AI",
-    "publication_date": "2025-12-18",
-    "link": "https://www.engadget.com/ai/googles-notebooklm-introduces-data-tables-feature-225548565.html",
-    "author": "Anna Washenko"
-  },
-  {
-    "title": "LG will let you delete the previously unremovable Microsoft Copilot shortcut on its smart TVs",
-    "summary": "A rep from LG said that the company 'will take steps to allow users to delete the shortcut icon if they wish.'",
-    "category": "AI",
-    "publication_date": "2025-12-18",
-    "link": "https://www.engadget.com/ai/lg-will-let-you-delete-the-previously-unremovable-microsoft-copilot-shortcut-on-its-smart-tvs-215352944.html",
-    "author": "Anna Washenko"
-  },
-  {
-    "title": "AirTags are back on sale, with a four-pack retailing for $65",
-    "summary": "Amazon is currently selling a four-pack of AirTags for $65, or about 30 percent off the regular price tag.",
-    "category": "Deals",
-    "publication_date": "2025-12-18",
-    "link": "https://www.engadget.com/deals/airtags-are-back-on-sale-with-a-four-pack-retailing-for-65-202333979.html",
-    "author": "Anna Washenko"
-  },
-  {
-    "title": "Auto chip shortage: Honda will pause production in Japan and China",
-    "summary": "It plans to close factories in Japan on January 5 and 6, and in China from December 29 to January 2.",
-    "category": "Transportation",
-    "publication_date": "2025-12-18",
-    "link": "https://www.engadget.com/transportation/auto-chip-shortage-honda-will-pause-production-in-japan-and-china-200857591.html",
-    "author": "Will Shanklin"
-  },
-  {
-    "title": "The Displace Hub can make your normal TV wireless",
-    "summary": "Displace is introducing a wall-mounting system at CES that can make the TV you already own wireless.",
-    "category": "Home",
-    "publication_date": "2025-12-18",
-    "link": "https://www.engadget.com/home/home-theater/the-displace-hub-can-make-your-normal-tv-wireless-193837460.html",
-    "author": "Ian Carlos Campbell"
-  },
-  {
-    "title": "Apple is bringing even more ads to the App Store",
-    "summary": "Apple just announced it will be integrating more ads into the App Store. This will primarily impact search results.",
-    "category": "Apps",
-    "publication_date": "2025-12-18",
-    "link": "https://www.engadget.com/apps/apple-is-bringing-even-more-ads-to-the-app-store-193416921.html",
-    "author": "Lawrence Bonk"
-  },
-  {
-    "title": "Your Android phone is not losing Google Assistant this year",
-    "summary": "Google has delayed the full transition from Google Assistant to Gemini on Android phones until 2026.",
-    "category": "Google",
-    "publication_date": "2025-12-19",
-    "link": "https://www.androidpolice.com/google-assistant-gemini-transition-2026/",
-    "author": "Karandeep Singh Oberoi"
-  },
-  {
-    "title": "Samsung didn't reinvent itself in 2025 — but it got a lot right",
-    "summary": "Samsung made smarter decisions and improved its flagship phones in 2025 without major reinvention.",
-    "category": "Samsung",
-    "publication_date": "2025-12-19",
-    "link": "https://www.androidpolice.com/samsung-didnt-reinvent-itself-in-2025-but-it-got-a-lot-right/",
-    "author": ""
-  },
-  {
-    "title": "Samsung's Galaxy S26 may arrive much later than we expected",
-    "summary": "A leak suggests the Samsung Galaxy S26 series could launch in February 2026 instead of January.",
-    "category": "Phones",
-    "publication_date": "2025-12-19",
-    "link": "https://www.androidpolice.com/samsung-galaxy-s26-launch-date-leak-02/",
-    "author": ""
-  },
-  {
-    "title": "You'll want to get this last-minute Pixel update that fixes some big issues",
-    "summary": "Google is rolling out an additional update for Pixel 8, 9, and 10 series devices addressing several significant bugs.",
-    "category": "Google Pixel",
-    "publication_date": "2025-12-18",
-    "link": "https://www.androidpolice.com/last-minute-pixel-update-that-fixes-some-big-issues/",
-    "author": ""
-  },
-  {
-    "title": "Google Pixel 10 finally gets a GPU driver upgrade",
-    "summary": "The Pixel 10 series receives a long-overdue GPU driver update with Android 16 QPR3 Beta 1.",
-    "category": "Google Pixel",
-    "publication_date": "2025-12-17",
-    "link": "https://www.androidpolice.com/google-pixel-10-gets-a-long-overdue-gpu-driver-upgrade/",
-    "author": "Rajesh Pandey"
-  },
-  {
-    "title": "Where is the ROG Phone 10? Watch out, as a newcomer is about to steal its thunder",
-    "summary": "The Ayaneo Pocket Play is emerging as a potential competitor in the gaming phone market amid delays for the ASUS ROG Phone 10.",
-    "category": "Phones",
-    "publication_date": "2025-12-20",
-    "link": "https://www.androidpolice.com/where-is-the-rog-phone-10-watch-out-as-a-newcomer-is-about-to-steal-its-thunder/",
-    "author": ""
-  },
-  {
-    "title": "Google lobs lawsuit at search result scraping firm SerpApi",
-    "summary": "Google says the lawsuit is its last resort against the firm scraping search results.",
-    "category": "Tech",
-    "publication_date": "2025-12-20",
-    "link": "https://arstechnica.com/google/2025/12/google-lobs-lawsuit-at-search-result-scraping-firm-serpapi/",
+    "publication_date": "December 29, 2025",
+    "link": "https://arstechnica.com/gadgets/2025/12/i-switched-to-esim-in-2025-and-i-am-full-of-regret/",
     "author": "Ryan Whitwam"
   },
   {
-    "title": "The evolution of expendability: Why some ants traded armor for numbers",
-    "summary": "Ants with lots of workers tend to put less energy into making them armored.",
-    "category": "Science",
-    "publication_date": "2025-12-20",
-    "link": "https://arstechnica.com/science/2025/12/the-evolution-of-expendability-why-some-ants-traded-armor-for-numbers/",
-    "author": "Jacek Krywko"
-  },
-  {
-    "title": "Switch 2 pub backs off Game Key Cards after leaking lower-cost cartridge options",
-    "summary": "Inin suggests new low-cost options allowed it to “recalculate production” for full cartridge.",
-    "category": "Gaming",
-    "publication_date": "2025-12-20",
-    "link": "https://arstechnica.com/gaming/2025/12/cheaper-lower-capacity-switch-2-cartridges-could-mean-fewer-game-key-cards/",
-    "author": "Kyle Orland"
-  },
-  {
-    "title": "LG TVs’ unremovable Copilot shortcut is the least of smart TVs’ AI problems",
-    "summary": "LG says it’ll let people delete the Copilot icon. But TV chatbots aren’t going away.",
-    "category": "Gadgets",
-    "publication_date": "2025-12-20",
-    "link": "https://arstechnica.com/gadgets/2025/12/lg-tvs-unremovable-copilot-shortcut-is-the-least-of-smart-tvs-ai-problems/",
-    "author": "Scharon Harding"
-  },
-  {
-    "title": "Riot Games is making an anti-cheat change that could be rough on older PCs",
-    "summary": "BIOS checks will only affect a limited subset of Valorant players for now.",
-    "category": "Gadgets",
-    "publication_date": "2025-12-20",
-    "link": "https://arstechnica.com/gadgets/2025/12/some-valorant-players-need-to-update-their-pc-bios-to-keep-anti-cheat-software-happy/",
-    "author": "Andrew Cunningham"
-  },
-  {
-    "title": "Not too big, not too expensive: The Chevrolet Equinox EV",
-    "summary": "You get quite a lot of EV for the Equinox’s sub-$35,000 starting price.",
-    "category": "Cars",
-    "publication_date": "2025-12-20",
-    "link": "https://arstechnica.com/cars/2025/12/the-chevrolet-equinox-ev-is-high-on-comfort-and-convenience/",
-    "author": "Jonathan M. Gitlin"
-  },
-  {
-    "title": "Trump’s energy secretary orders a Washington state coal plant to remain open",
-    "summary": "Chris Wright declared an energy “emergency” in the Pacific Northwest.",
-    "category": "Science",
-    "publication_date": "2025-12-19",
-    "link": "https://arstechnica.com/science/2025/12/trumps-energy-secretary-orders-a-washington-state-coal-plant-to-remain-open/",
-    "author": "Blaine Harden, Inside Climate News"
-  },
-{
-    "title": "Ex-Splunk execs’ startup Resolve AI hits $1 billion valuation with Series A",
-    "summary": "Resolve AI, founded by former Splunk executives, has achieved a $1 billion valuation following its Series A funding round.",
+    "title": "Forget the Chatbots. AI's True Potential Is Cheap, Fast and on Your Devices",
+    "summary": "The article argues that the real power of AI lies in on-device processing for speed, privacy, and efficiency, rather than cloud-based chatbots.",
     "category": "AI",
-    "publication_date": "2025-12-19",
-    "link": "https://techcrunch.com/2025/12/19/ex-splunk-execs-startup-resolve-ai-hits-1-billion-valuation-with-series-a/",
-    "author": "Marina Temkin"
+    "publication_date": "December 29, 2025",
+    "link": "https://www.cnet.com/tech/services-and-software/forget-the-chatbots-ais-true-potential-is-cheap-fast-and-on-your-devices/",
+    "author": "Jon Reed"
   },
   {
-    "title": "Sequoia partner spreads debunked Brown shooting theory, testing new leadership",
-    "summary": "A Sequoia partner has spread a debunked theory about the Brown shooting, raising questions about leadership under new management.",
-    "category": "Venture",
-    "publication_date": "2025-12-19",
-    "link": "https://techcrunch.com/2025/12/19/sequoia-partner-spreads-debunked-brown-shooting-theory-testing-new-leadership/",
-    "author": "Connie Loizos"
+    "title": "CES 2026: The Biggest Tech Show of the Year Is Back. Here's What to Expect",
+    "summary": "Preview of CES 2026, highlighting expectations for AI integrations, new laptops, TVs, and major announcements from tech giants.",
+    "category": "Tech Events",
+    "publication_date": "December 29, 2025",
+    "link": "https://www.cnet.com/tech/ces-2026-preview-expectations/",
+    "author": "Katie Collins"
   },
   {
-    "title": "Building venture-backable companies in heavily regulated spaces",
-    "summary": "This article discusses strategies for building companies in regulated industries that can attract venture capital investment.",
-    "category": "Startups",
-    "publication_date": "2025-12-19",
-    "link": "https://techcrunch.com/2025/12/19/building-venture-backable-companies-in-heavily-regulated-spaces/",
-    "author": ""
-  },
-  {
-    "title": "Former Patagonia CEO Rose Marcario resigns from Rivian’s board",
-    "summary": "Rose Marcario, former CEO of Patagonia, has stepped down from Rivian's board of directors.",
-    "category": "Transportation",
-    "publication_date": "2025-12-19",
-    "link": "https://techcrunch.com/2025/12/19/former-patagonia-ceo-rose-marcario-resigns-from-rivians-board/",
-    "author": "Sean O'Kane"
-  },
-  {
-    "title": "Where are investors placing their bets next year? AI, AI, AI.",
-    "summary": "Investors are heavily focusing on AI as their primary bet for the upcoming year, according to this report.",
-    "category": "Venture",
-    "publication_date": "2025-12-19",
-    "link": "https://techcrunch.com/2025/12/19/where-are-investors-placing-their-bets-next-year-ai-ai-ai/",
-    "author": "Dominic-Madori Davis"
-  },
-  {
-    "title": "Anonymous messaging app NGL was acquired by ‘EarnPhone’ startup Mode Mobile",
-    "summary": "The anonymous messaging app NGL has been acquired by Mode Mobile, a startup known for its 'EarnPhone'.",
-    "category": "Apps",
-    "publication_date": "2025-12-19",
-    "link": "https://techcrunch.com/2025/12/19/anonymous-messaging-app-ngl-was-acquired-by-earnphone-startup-mode-mobile/",
-    "author": "Amanda Silberling"
-  },
-  {
-    "title": "Hundreds of Cisco customers are vulnerable to new Chinese hacking campaign, researchers say",
-    "summary": "Researchers warn that hundreds of Cisco customers are at risk from a new hacking campaign attributed to Chinese actors.",
-    "category": "Security",
-    "publication_date": "2025-12-19",
-    "link": "https://techcrunch.com/2025/12/19/hundreds-of-cisco-customers-are-vulnerable-to-new-chinese-hacking-campaign-researchers-say/",
-    "author": "Lorenzo Franceschi-Bicchierai"
-  },
-{
-    "title": "Communities are rising up against data centers — and winning",
-    "summary": "Local fights against new data centers are gaining bipartisan support across the US.",
-    "category": "Science",
-    "publication_date": "2025-12-19",
-    "link": "https://www.theverge.com/science/841169/ai-data-center-opposition",
-    "author": "Justine Calma"
-  },
-  {
-    "title": "Phones were fashionable again in 2025",
-    "summary": "Smartphones in 2025 embraced design, color, and fashion trends, marking a shift in the industry.",
-    "category": "Tech",
-    "publication_date": "2025-12-19",
-    "link": "https://www.theverge.com/tech/842190/2025-smartphones-design-color-fashion",
-    "author": "Allison Johnson"
-  },
-  {
-    "title": "Who owns Trump Mobile?",
-    "summary": "Examination of the ownership structure and licensing behind Trump Mobile.",
-    "category": "Tech",
-    "publication_date": "2025-12-19",
-    "link": "https://www.theverge.com/tech/848029/trump-mobile-ownership-structure-licensing",
-    "author": "Dominic Preston"
-  },
-  {
-    "title": "Don’t expect Trump Media’s nuclear fusion power plant to generate electricity soon",
-    "summary": "Report on Trump Media's involvement in a nuclear fusion power plant project that is not expected to produce electricity anytime soon.",
-    "category": "Report",
-    "publication_date": "2025-12-19",
-    "link": "https://www.theverge.com/report/848205/nuclear-fusion-energy-trump-media-tae",
-    "author": "Justine Calma"
-  },
-  {
-    "title": "The RAM shortage is here to stay, raising prices on PCs and phones",
-    "summary": "The global RAM shortage is about to raise the prices of smartphones and PCs, with the crunch expected to persist well into 2027.",
-    "category": "News",
-    "publication_date": "2025-12-19",
-    "link": "https://www.theverge.com/news/848199/ram-shortage-pc-phone-price-increases",
-    "author": "Emma Roth"
-  },
-  {
-    "title": "Want to link from Google’s app store to your app? That’ll be $2–4 per install",
-    "summary": "Google is introducing fees for external link downloads and alternative payment methods in its app store.",
-    "category": "News",
-    "publication_date": "2025-12-19",
-    "link": "https://www.theverge.com/news/848540/google-app-fees-external-link-downloads-alternative-payments",
-    "author": "Sean Hollister"
-  },
-  {
-    "title": "What Is a Micro RGB TV and Why You’re Gonna See Them Everywhere",
-    "summary": "The nascent 'micro RGB' TV technology is set to flood showrooms starting in 2026, offering better color control and competing with OLED displays.",
-    "category": "Tech",
-    "publication_date": "2025-12-19",
-    "link": "https://gizmodo.com/what-is-a-micro-rgb-tv-and-why-youre-gonna-see-them-everywhere-2000700764",
-    "author": ""
-  },
-  {
-    "title": "Logitech G305 Gaming Mouse Almost 50% Off on Amazon, Now Cheaper Than Generic Wired Mouse",
-    "summary": "The popular wireless gaming mouse is on a major discount, offering high performance at a budget price point.",
-    "category": "Gadgets",
-    "publication_date": "2025-12-19",
-    "link": "https://gizmodo.com/logitech-g305-gaming-mouse-almost-50-off-on-amazon-now-cheaper-than-generic-wired-mouse-2000701964",
-    "author": ""
-  },
-  {
-    "title": "Gizmodo's Best Tech of 2025 Awards: Meet the Winners",
-    "summary": "Gizmodo's consumer tech team highlights the most innovative hardware across categories like smartphones and headphones.",
-    "category": "Reviews",
-    "publication_date": "2025-12-19",
-    "link": "https://gizmodo.com/gizmodo-best-tech-of-2025-awards-2000676084",
-    "author": "Gizmodo Staff"
-  },
-  {
-    "title": "The Trump Phone Delivers on Its Promise of Being Complete and Utter Bullshit",
-    "summary": "The marketed Trump phone turns out to be refurbished older models sold at inflated prices.",
-    "category": "Tech",
-    "publication_date": "2025-12-18",
-    "link": "https://gizmodo.com/the-trump-phone-delivers-on-its-promise-of-being-complete-and-utter-bullshit-2000701261",
-    "author": ""
-  },
-  {
-    "title": "‘It felt so wrong’: Colin Angle on iRobot, the FTC, and the Amazon deal that never was",
-    "summary": "Colin Angle discusses his experience with the failed Amazon acquisition of iRobot and the FTC's intervention.",
-    "category": "Robotics",
-    "publication_date": "2025-12-20",
-    "link": "https://techcrunch.com/2025/12/20/it-felt-so-wrong-colin-angle-on-irobot-the-ftc-and-the-amazon-deal-that-never-was/",
-    "author": "Connie Loizos"
-  },
-  {
-    "title": "New York Governor Kathy Hochul signs RAISE Act to regulate AI safety",
-    "summary": "New York Governor Kathy Hochul has signed the RAISE Act to establish safeguards for artificial intelligence.",
-    "category": "Government & Policy",
-    "publication_date": "2025-12-20",
-    "link": "https://techcrunch.com/2025/12/20/new-york-governor-kathy-hochul-signs-raise-act-to-regulate-ai-safety/",
-    "author": "Anthony Ha"
-  },
-  {
-    "title": "Google and Apple reportedly warn employees on visas to avoid international travel",
-    "summary": "Google and Apple have reportedly advised employees on visas to refrain from overseas trips due to immigration concerns.",
-    "category": "General",
-    "publication_date": "2025-12-20",
-    "link": "https://techcrunch.com/2025/12/20/google-and-apple-reportedly-warn-employees-on-visas-to-avoid-international-travel/",
-    "author": "Anthony Ha"
-  },
-  {
-    "title": "OpenAI allows users to directly adjust ChatGPT’s enthusiasm level",
-    "summary": "OpenAI has introduced a feature enabling users to customize the enthusiasm and warmth in ChatGPT responses.",
-    "category": "AI",
-    "publication_date": "2025-12-20",
-    "link": "https://techcrunch.com/2025/12/20/openai-allows-users-to-directly-adjust-chatgpts-warmth-and-enthusiasm/",
-    "author": "Anthony Ha"
-  },
-  {
-    "title": "Sequoia partner spreads debunked Brown shooting theory, testing new leadership",
-    "summary": "A Sequoia partner has shared a discredited theory about a shooting involving Brown, amid scrutiny of the firm's new leadership.",
-    "category": "Venture",
-    "publication_date": "2025-12-19",
-    "link": "https://techcrunch.com/2025/12/19/sequoia-partner-spreads-debunked-brown-shooting-theory-testing-new-leadership/",
-    "author": "Connie Loizos"
-  },
-  {
-    "title": "Elon Musk’s $56B Tesla pay package restored by Delaware Supreme Court",
-    "summary": "The Delaware Supreme Court has reinstated Elon Musk's $56 billion compensation package from Tesla.",
-    "category": "Transportation",
-    "publication_date": "2025-12-19",
-    "link": "https://techcrunch.com/2025/12/19/elon-musks-56b-tesla-pay-package-restored-by-delaware-supreme-court/",
-    "author": "Sean O'Kane"
-  },
-  {
-    "title": "Where are investors placing their bets next year? AI, AI, AI.",
-    "summary": "Investors are heavily favoring AI-related ventures for the upcoming year.",
-    "category": "Venture",
-    "publication_date": "2025-12-19",
-    "link": "https://techcrunch.com/2025/12/19/where-are-investors-placing-their-bets-next-year-ai-ai-ai/",
-    "author": "Dominic-Madori Davis"
-  },
-  {
-    "title": "Cursor continues acquisition spree with Graphite deal",
-    "summary": "Cursor has acquired Graphite as part of its ongoing series of purchases.",
-    "category": "Startups",
-    "publication_date": "2025-12-19",
-    "link": "https://techcrunch.com/2025/12/19/cursor-continues-acquisition-spree-with-graphite-deal/",
-    "author": "Marina Temkin"
-  },
-  {
-    "title": "Yann LeCun confirms his new ‘world model’ startup, reportedly seeks $5B+ valuation",
-    "summary": "Yann LeCun has verified the launch of his new startup focused on world models, aiming for a valuation over $5 billion.",
-    "category": "Startups",
-    "publication_date": "2025-12-19",
-    "link": "https://techcrunch.com/2025/12/19/yann-lecun-confirms-his-new-world-model-startup-reportedly-seeks-5b-valuation/",
-    "author": "Julie Bort"
-  },
-  {
-    "title": "Hundreds of Cisco customers are vulnerable to new Chinese hacking campaign, researchers say",
-    "summary": "Researchers indicate that hundreds of Cisco clients are at risk from a recent Chinese cyberattack.",
-    "category": "Security",
-    "publication_date": "2025-12-19",
-    "link": "https://techcrunch.com/2025/12/19/hundreds-of-cisco-customers-are-vulnerable-to-new-chinese-hacking-campaign-researchers-say/",
-    "author": "Lorenzo Franceschi-Bicchierai"
-  },
-  {
-    "title": "Anonymous messaging app NGL was acquired by ‘EarnPhone’ startup Mode Mobile",
-    "summary": "Mode Mobile, known for its EarnPhone, has acquired the anonymous messaging application NGL.",
-    "category": "Apps",
-    "publication_date": "2025-12-19",
-    "link": "https://techcrunch.com/2025/12/19/anonymous-messaging-app-ngl-was-acquired-by-earnphone-startup-mode-mobile/",
-    "author": "Amanda Silberling"
-  },
-  {
-    "title": "NotebookLM’s most needed feature just finished rolling out",
-    "summary": "NotebookLM’s most needed feature just finished rolling out.",
-    "category": "Applications",
-    "publication_date": "December 17, 2025",
-    "link": "https://www.androidpolice.com/notebooklms-most-needed-feature-just-finished-rolling-out/",
-    "author": "Rajesh Pandey"
-  },
-  {
-    "title": "7 NotebookLM tricks that kept my 2025 from spinning out",
-    "summary": "Here's how it helped me stay organized and in control in 2025.",
-    "category": "AI & Machine Learning",
-    "publication_date": "December 21, 2025",
-    "link": "https://www.androidpolice.com/notebooklm-tricks-that-kept-my-2025-from-spinning-out/",
-    "author": "Android Police Staff"
-  },
-  {
-    "title": "YouTube Premium Lite isn't what people think it's for",
-    "summary": "The real target lies elsewhere.",
-    "category": "YouTube Premium",
-    "publication_date": "December 21, 2025",
-    "link": "https://www.androidpolice.com/youtube-premium-lite-isnt-what-people-think-its-for/",
-    "author": "Android Police Staff"
-},
-{
-"title": "RayNeo X3 Pro review: The future is bright, but you'll look silly waiting for it",
-"summary": "Stunning screen, silly looks.",
-"category": "Smartwatches & Wearables",
-"publication_date": "December 21, 2025",
-"link": "https://www.androidpolice.com/rayneo-x3-pro-review/",
-"author": "Android Police Staff"
-},
-{
-"title": "These 5 Good Lock modules feel too essential to stay optional on Samsung phones",
-"summary": "They should be built into One UI.",
-"category": "Good Lock",
-"publication_date": "December 21, 2025",
-"link": "https://www.androidpolice.com/good-lock-modules-feel-too-essential-to-stay-optional-samsung-phones/",
-"author": "Android Police Staff"
-},
-{
-"title": "Samsung's 2025 problem wasn't innovation — it was hesitation",
-"summary": "When playing safe stopped being enough.",
-"category": "Samsung",
-"publication_date": "December 21, 2025",
-"link": "https://www.androidpolice.com/samsungs-2025-problem-wasnt-innovation-it-was-hesitation/",
-"author": "Android Police Staff"
-},
-{
-"title": "I finally got a 5G signal at home. It wasn't worth the 6-year wait",
-"summary": "5G and 4G speed tests reveal the painful truth.",
-"category": "5G",
-"publication_date": "December 20, 2025",
-"link": "https://www.androidpolice.com/i-finally-got-a-5g-signal-at-home-it-wasnt-worth-the-six-year-wait/",
-"author": "Android Police Staff"
-},
-{
-"title": "I finally removed that annoying blur effect on my Pixel 10 Pro",
-"summary": "I can see clearly now the blur is gone.",
-"category": "Phones",
-"publication_date": "December 21, 2025",
-"link": "https://www.androidpolice.com/finally-removed-annoying-blur-effect-pixel-10-pro/",
-"author": "Android Police Staff"
-},
-{
-"title": "6 reasons YouTube Premium is worth the monthly fee",
-"summary": "YouTube Premium's primary perk is the lack of ads, but it has other features.",
-"category": "YouTube Premium",
-"publication_date": "December 20, 2025",
-"link": "https://www.androidpolice.com/6-reasons-youtube-premium-is-worth-the-monthly-fee/",
-"author": "Android Police Staff"
-},
-{
-"title": "Samsung didn't reinvent itself in 2025 — but it got a lot right",
-"summary": "Smarter decisions, better phones.",
-"category": "Samsung",
-"publication_date": "December 19, 2025",
-"link": "https://www.androidpolice.com/samsung-didnt-reinvent-itself-in-2025-but-it-got-a-lot-right/",
-"author": "Android Police Staff"
-},
-{
-    "title": "How Europe’s new carbon tax on imported goods will change global trade",
-    "summary": "The new regulation arrives on New Year’s Day.",
-    "category": "Tech Policy",
-    "publication_date": "2025-12-20",
-    "link": "https://arstechnica.com/tech-policy/2025/12/how-europes-new-carbon-tax-on-imported-goods-will-change-global-trade/",
-    "author": "The Conversation"
-  },
-{
-    "title": "The Roku Pro Is a User-Friendly TV and a Notable Step-Up",
-    "summary": "Though definitely not perfect, it could be Roku's best TV yet. The Pro Series (2025) has big usability wins and meaningful improvements.",
-    "category": "TVs",
-    "publication_date": "December 21, 2025",
-    "link": "https://www.cnet.com/tech/home-entertainment/roku-pro-series-2025-tv-review-great-usability-improved-contrast/",
-    "author": "Ty Pendlebury"
-},
-{
-    "title": "Forgot Your Mac Password? 4 Ways to Reset Your Password",
-    "summary": "Provides methods to reset a forgotten Mac password.",
-    "category": "Tech Tips",
-    "publication_date": "December 21, 2025",
-    "link": "https://www.cnet.com/tech/computing/forgot-your-mac-password-4-ways-to-reset-your-password/",
-    "author": "Jason Cipriani"
-},
-{
-    "title": "'Landman' Season 2, Episode 6: Streaming Release Date and Time",
-    "summary": "Details streaming release for 'Landman' Season 2, Episode 6.",
-    "category": "What's Streaming",
-    "publication_date": "December 21, 2025",
-    "link": "https://www.cnet.com/tech/services-and-software/landman-season-2-release-schedule/",
-    "author": "Meara Isenberg"
-},
-{
-    "title": "Today's NYT Connections Hints, Answers and Help for Dec. 21, #924",
-    "summary": "Offers hints, answers, and help for NYT Connections puzzle #924.",
-    "category": "Daily Puzzle Answers",
-    "publication_date": "December 21, 2025",
-    "link": "https://www.cnet.com/tech/todays-nyt-connections-hints-answers-and-help-for-dec-21-924/",
-    "author": "Gael Cooper"
-},
-{
-    "title": "Today's Wordle Hints, Answer and Help for Dec. 21, #1646",
-    "summary": "Gives hints, answer, and help for Wordle #1646.",
-    "category": "Daily Puzzle Answers",
-    "publication_date": "December 21, 2025",
-    "link": "https://www.cnet.com/tech/todays-wordle-hints-answer-and-help-for-dec-21-1646/",
-    "author": "Gael Cooper"
-},
-{
-    "title": "NFL Week 16: How to Watch Packers vs. Bears, Bills vs. Browns and More Games From Anywhere",
-    "summary": "Explains how to watch NFL Week 16 games from anywhere.",
-    "category": "What's Streaming",
-    "publication_date": "December 21, 2025",
-    "link": "https://www.cnet.com/tech/services-and-software/nfl-week-16-how-to-watch-bills-vs-browns-steelers-vs-lions-and-other-games-from-anywhere/",
-    "author": "Matt Elliott"
-},
-{
-    "title": "Act Fast to Snag a $40 Discount on DirecTV's Signature Entertainment Package With Its First-Ever Flash Sale",
-    "summary": "Highlights a flash sale discount on DirecTV's package.",
-    "category": "Deals",
-    "publication_date": "December 21, 2025",
-    "link": "https://www.cnet.com/deals/act-fast-to-snag-a-40-discount-on-directvs-signature-entertainment-package-with-its-first-ever-flash-sale/",
-    "author": ""
-},
-{
-    "title": "My Holiday Home Movies Look Amazing When I Do This With My Phone",
-    "summary": "Shares a phone technique for improving holiday home movies.",
-    "category": "Tech Tips",
-    "publication_date": "December 21, 2025",
-    "link": "https://www.cnet.com/tech/mobile/i-love-using-my-phone-to-shoot-stunning-holiday-videos-heres-how-you-can-too/",
-    "author": "Andrew Lanxon"
-},
-{
-    "title": "I Bought a Used iPhone 13 Mini and Learned a Hard Lesson",
-    "summary": "Discusses lessons learned from purchasing a used iPhone 13 Mini.",
+    "title": "From the iPhone Fold to Samsung Galaxy S26 Ultra: All the Phones We Expect in 2026",
+    "summary": "Rumors and expectations for upcoming smartphones in 2026, including foldables from Apple and Samsung's flagship lineup.",
     "category": "Mobile",
-    "publication_date": "12/20/2025",
-    "link": "https://www.cnet.com/tech/mobile/i-bought-a-used-iphone-13-mini-and-learned-a-hard-lesson/",
+    "publication_date": "December 29, 2025",
+    "link": "https://www.cnet.com/tech/mobile/comparing-the-2026-phone-lineups-from-apple-samsung-google-and-everyone-else/",
+    "author": "Prakhar Khanna"
+  },
+  {
+    "title": "There's Only a Few Days Left in 2025, but You Can Still Make Changes to Boost Your 2026 Tax Refund",
+    "summary": "Last-minute tax strategies for 2025, including contributions and loss harvesting to maximize refunds.",
+    "category": "Personal Finance",
+    "publication_date": "December 29, 2025",
+    "link": "https://www.cnet.com/tech/services-and-software/end-year-tax-checklist-maximize-tax-refund/",
+    "author": "Peter Butler"
+  },
+  {
+    "title": "Goodbye, Human Programming. Smart Home Housekeepers That Learn on Their Own Are Here",
+    "summary": "Predictions for smart home devices in 2026 that use AI to automate and learn user preferences without manual setup.",
+    "category": "Smart Home",
+    "publication_date": "December 29, 2025",
+    "link": "https://www.cnet.com/home/smart-home/ces-2026-predictions-smart-home/",
+    "author": "Tyler Lacoma"
+  },
+  {
+    "title": "Inbox Zero for 2026: Free Up 15GB of Gmail Storage Without Deleting a Thing",
+    "summary": "A guide to archiving old emails to a new account to reclaim Gmail storage space ahead of the new year.",
+    "category": "Tech Tips",
+    "publication_date": "December 29, 2025",
+    "link": "https://www.cnet.com/tech/services-and-software/gmail-inbox-zero-15gb-free-storage-space/",
     "author": ""
-},
-{
-"title": "Governor Hochul signs New York's AI safety act",
-"summary": "The RAISE Act requires large AI developers to be more transparent about their safety protocols and incidents.",
-"category": "AI",
-"publication_date": "2025-12-21",
-"link": "https://www.engadget.com/ai/governor-hochul-signs-new-yorks-ai-safety-act-220503930.html",
-"author": "Cheyenne MacDonald"
-},
-{
-"title": "Sony's first EV with Honda will let you remotely play PS5 in your car",
-"summary": "Sony Honda Mobility announced that its EVs will support PS Remote Play.",
-"category": "Transportation",
-"publication_date": "2025-12-21",
-"link": "https://www.engadget.com/transportation/evs/sonys-first-ev-with-honda-will-let-you-remotely-play-ps5-in-your-car-202359091.html",
-"author": "Jackson Chen"
-},
-{
-"title": "Game publisher says cheaper Switch 2 cartridges are coming in since-deleted post",
-"summary": "A post from ININ Games, which is no longer available, mentioned that Nintendo announced two new cartridges with less storage capacity.",
-"category": "Gaming",
-"publication_date": "2025-12-21",
-"link": "https://www.engadget.com/gaming/nintendo/game-publisher-says-cheaper-switch-2-cartridges-are-coming-in-since-deleted-post-191145230.html",
-"author": "Jackson Chen"
-},
-{
-"title": "Valve discontinued the last remaining LCD model of the Steam Deck",
-"summary": "The entry-level Steam Deck LCD, which started at $399, is gone for good.",
-"category": "Gaming",
-"publication_date": "2025-12-21",
-"link": "https://www.engadget.com/gaming/valve-discontinued-the-last-remaining-lcd-model-of-the-steam-deck-171548195.html",
-"author": "Jackson Chen"
-},
-{
-"title": "The 10 best white elephant gifts worth fighting over for 2025",
-"summary": "They're a bit more complex than gag gifts.",
-"category": "General",
-"publication_date": "2025-12-20",
-"link": "https://www.engadget.com/the-10-best-white-elephant-gifts-worth-fighting-over-for-2025-150516281.html",
-"author": "Engadget"
-},
-{
-"title": "The best Christmas gift ideas everyone on your 2025 holiday shopping list will love",
-"summary": "Our favorite gift ideas this year come from Apple, Lego, Sony, Nintendo, Ninja and others.",
-"category": "General",
-"publication_date": "2025-12-20",
-"link": "https://www.engadget.com/the-best-christmas-gift-ideas-everyone-on-your-2025-holiday-shopping-list-will-love-170018978.html",
-"author": "Engadget"
-},
-{
-"title": "AirTags are back on sale for $65 for a four-pack",
-"summary": "Amazon can most likely get you a set before Christmas.",
-"category": "Deals",
-"publication_date": "2025-12-20",
-"link": "https://www.engadget.com/deals/airtags-are-back-on-sale-for-65-for-a-four-pack-202333618.html",
-"author": "Anna Washenko"
-},
-  {
-    "title": "Enjoy faster and smarter EV charging at home with the MSI EV Life charger",
-    "summary": "Sponsored content highlighting a home EV charger that provides faster and smarter charging options.",
-    "category": "Electric Vehicles",
-    "publication_date": "December 21, 2025",
-    "link": "https://www.howtogeek.com/enjoy-faster-and-smarter-ev-charging-at-home-with-the-msi-ev-life-charger/",
-    "author": "Sponsored"
   },
   {
-    "title": "This classic Christmas movie is a must-watch—but its sequel is even better",
-    "summary": "A review discussing Home Alone as a Christmas classic and arguing why its sequel surpasses the original.",
-    "category": "Streaming",
-    "publication_date": "December 21, 2025",
-    "link": "https://www.howtogeek.com/home-alone-christmas-classic-movie-sequel-better/",
-    "author": "Sarah Little"
+    "title": "LG to unveil a canvas-style TV at CES 2026",
+    "summary": "LG will unveil an art-focused TV at CES 2026.",
+    "category": "Home",
+    "publication_date": "December 30, 2025",
+    "link": "https://www.engadget.com/home/home-theater/lg-to-unveil-a-canvas-style-tv-at-ces-2026-010024691.html",
+    "author": "Andre Revilla"
   },
   {
-    "title": "Target's system collapse was the Grinch that (almost) stole Christmas",
-    "summary": "Analysis of a recent Target system outage and its impact on holiday shopping.",
-    "category": "Cloud & Internet",
-    "publication_date": "December 21, 2025",
-    "link": "https://www.howtogeek.com/targets-outage-was-the-grinch-that-stole-christmas/",
+    "title": "How to watch the LG CES 2026 press conference",
+    "summary": "The Korean electronics giant will showcase new TVs and plenty of AI-powered products when it kicks off press day in Las Vegas.",
+    "category": "Home",
+    "publication_date": "December 30, 2025",
+    "link": "https://www.engadget.com/home/how-to-watch-the-lg-ces-2026-press-conference-190159378.html",
+    "author": "Katie Teague"
+  },
+  {
+    "title": "Co-founder of CD Projekt Michał Kiciński has acquired GOG, the company's game storefront",
+    "summary": "A CD Projekt co-founder has acquired its game storefront, GOG.",
+    "category": "Gaming",
+    "publication_date": "December 30, 2025",
+    "link": "https://www.engadget.com/gaming/pc/co-founder-of-cd-projekt-micha%C5%82-kicinski-has-acquired-gog-the-companys-game-storefront-174853415.html",
+    "author": "Andre Revilla"
+  },
+  {
+    "title": "1Password deal: Get 50 percent off plans for the holiday season",
+    "summary": "The sale brings the price of the Individual plan down to $24 for a year.",
+    "category": "Deals",
+    "publication_date": "December 30, 2025",
+    "link": "https://www.engadget.com/deals/1password-deal-get-50-percent-off-plans-for-the-holiday-season-162844584.html",
+    "author": "Lawrence Bonk"
+  },
+  {
+    "title": "CES 2026: What to expect from tech’s biggest conference in January",
+    "summary": "CES 2026 will feature the latest and greatest in TVs, robotics and AI. Here's what we know so far.",
+    "category": "Big Tech",
+    "publication_date": "December 30, 2025",
+    "link": "https://www.engadget.com/big-tech/ces-2026-what-to-expect-from-techs-biggest-conference-in-january-120000369.html",
+    "author": "I. Campbell and C. Low"
+  },
+  {
+    "title": "Rainbow Six Siege servers are back online after shutting down in response to Marketplace hacks",
+    "summary": "Rainbow Six Siege players will have to wait until Ubisoft resolves this major breach that led to a complete server shutdown.",
+    "category": "Gaming",
+    "publication_date": "December 29, 2025",
+    "link": "https://www.engadget.com/gaming/rainbow-six-siege-servers-are-back-online-after-shutting-down-in-response-to-marketplace-hacks-191049079.html",
+    "author": "Jackson Chen"
+  },
+  {
+    "title": "Samsung plans to integrate Google Photos into its TVs",
+    "summary": "Samsung is working on integrating Google Photos with Samsung TVs.",
+    "category": "Home",
+    "publication_date": "December 29, 2025",
+    "link": "https://www.engadget.com/home/samsung-plans-to-integrate-google-photos-into-its-tvs-132739713.html",
+    "author": "Andre Revilla"
+  },
+  {
+    "title": "Chinese Reusable Long March 12A Made it to Orbit, But Booster Recovery Failed",
+    "summary": "China's Long March 12A reusable rocket successfully reached orbit on its first launch but failed to recover the booster, showing progress in catching up to reusable rocket technology.",
+    "category": "Aerospace",
+    "publication_date": "December 23, 2025",
+    "link": "https://www.extremetech.com/aerospace/chinese-reusable-long-march-12a-made-it-to-orbit-but-booster-recovery-failed",
+    "author": "Jon Martindale"
+  },
+  {
+    "title": "Nvidia GeForce Now Gets 100-Hour Cap",
+    "summary": "Nvidia has introduced a 100-hour monthly playtime limit on its GeForce Now cloud gaming service, requiring users to pay extra to exceed it.",
+    "category": "Gaming",
+    "publication_date": "December 23, 2025",
+    "link": "https://www.extremetech.com/gaming/nvidia-geforce-now-gets-100-hour-cap",
+    "author": "Josh Gulick"
+  },
+  {
+    "title": "OpenAI Now Lets Developers Create Mini Apps Inside ChatGPT",
+    "summary": "OpenAI is allowing developers to build and submit mini apps that integrate directly into ChatGPT for enhanced functionality.",
+    "category": "Computing",
+    "publication_date": "December 23, 2025",
+    "link": "https://www.extremetech.com/computing/openai-now-lets-developers-create-mini-apps-inside-chatgpt",
+    "author": "Devesh Beri"
+  },
+  {
+    "title": "Boost Your Windows SSD Performance by up to 85% With This Server Driver Trick",
+    "summary": "A simple driver tweak using server-oriented storage drivers can significantly improve SSD speeds on consumer Windows systems.",
+    "category": "Computing",
+    "publication_date": "December 23, 2025",
+    "link": "https://www.extremetech.com/computing/boost-your-windows-ssd-performance-by-up-to-85-with-this-server-driver",
+    "author": "Jon Martindale"
+  },
+  {
+    "title": "Gemini’s New Drawing Tool Lets You Point to Exactly What You Want Edited in a Photo",
+    "summary": "Google's Gemini AI now supports a drawing markup tool to precisely indicate areas for photo editing, improving user control.",
+    "category": "Computing",
+    "publication_date": "December 23, 2025",
+    "link": "https://www.extremetech.com/computing/geminis-new-drawing-tool-lets-you-point-to-exactly-what-you-want-edited",
+    "author": "Devesh Beri"
+  },
+  {
+    "title": "Firefox Developer Says AI ‘Kill Switch’ Will Let Users Turn Off All AI Tools in the Browser",
+    "summary": "A proposed 'AI kill switch' in Firefox would allow users to disable all AI features amid privacy concerns and community backlash.",
+    "category": "Computing",
+    "publication_date": "December 22, 2025",
+    "link": "https://www.extremetech.com/computing/firefox-developer-says-ai-kill-switch-will-let-users-turn-off-all-ai-tools",
+    "author": "Devesh Beri"
+  },
+  {
+    "title": "Silverstone's Retro-Inspired FLP02 Case Takes Us Back to the Beige Era",
+    "summary": "Silverstone's new FLP02 PC case features a nostalgic beige design reminiscent of classic 1990s computers.",
+    "category": "Computing",
+    "publication_date": "December 22, 2025",
+    "link": "https://www.extremetech.com/computing/silverstones-retro-inspired-flp02-case-takes-us-back-to-the-beige-era",
+    "author": "Jon Martindale"
+  },
+  {
+    "title": "2025 Was the Year Ninja Games Made a Comeback",
+    "summary": "2025 saw a surprising resurgence of ninja-themed video games with major releases from Ubisoft, Sucker Punch, Sega, and Team Ninja.",
+    "category": "Gaming",
+    "publication_date": "December 29, 2025",
+    "link": "https://gizmodo.com/2025-was-the-year-ninja-games-made-a-comeback-2000696867",
+    "author": ""
+  },
+  {
+    "title": "2025 Was the Year the Vibes Were Off",
+    "summary": "Reflecting on 2025 as a year marked by increasing disconnection from collective reality in a post-pandemic world.",
+    "category": "Culture",
+    "publication_date": "December 29, 2025",
+    "link": "https://gizmodo.com/2025-was-the-year-the-vibes-were-off-2000702368",
+    "author": ""
+  },
+  {
+    "title": "'This Will Be a Stressful Job': OpenAI Is Hiring for a Position That Sounds Horrifying",
+    "summary": "OpenAI is recruiting for a high-pressure role overseeing AI safety and mitigation amid ongoing issues with model behavior.",
+    "category": "AI",
+    "publication_date": "December 28, 2025",
+    "link": "https://gizmodo.com/this-will-be-a-stressful-job-openai-is-hiring-for-a-position-that-sounds-horrifying-2000703759",
+    "author": ""
+  },
+  {
+    "title": "More Than 50 People Became AI Billionaires in 2025",
+    "summary": "Forbes reports over 50 new billionaires emerged in 2025 due to the AI boom, shifting hype from AGI to massive financial gains.",
+    "category": "AI",
+    "publication_date": "December 26, 2025",
+    "link": "https://gizmodo.com/more-than-50-people-became-ai-billionaires-in-2025-2000703396",
+    "author": ""
+  },
+  {
+    "title": "Deepfakes Leveled up in 2025—Here’s What’s Coming Next",
+    "summary": "Deepfake technology advanced significantly in 2025, crossing into indistinguishability with explosive growth in volume.",
+    "category": "Tech",
+    "publication_date": "December 26, 2025",
+    "link": "https://gizmodo.com/deepfakes-leveled-up-in-2025-heres-whats-coming-next-2000703649",
+    "author": "Siwei Lyu"
+  },
+  {
+    "title": "The Creative, Inspiring People We Lost in 2025",
+    "summary": "A tribute to notable figures in art, film, television, and music who passed away during 2025.",
+    "category": "Culture",
+    "publication_date": "December 26, 2025",
+    "link": "https://gizmodo.com/the-creative-inspiring-people-we-lost-in-2025-2000702157",
+    "author": ""
+  },
+  {
+    "title": "The Science That Will Shape 2026",
+    "summary": "Preview of major scientific advancements expected in 2026, including quantum computing, CRISPR therapies, and new vaccines.",
+    "category": "Science",
+    "publication_date": "December 23, 2025",
+    "link": "https://gizmodo.com/the-science-that-will-shape-2026-2000701509",
+    "author": ""
+  },
+  {
+    "title": "Stop paying for gigabit internet if you keep making these 4 mistakes",
+    "summary": "Common bad habits are slowing down your internet connection despite paying for gigabit speeds.",
+    "category": "PC Optimization",
+    "publication_date": "December 30, 2025",
+    "link": "https://www.howtogeek.com/these-bad-habits-are-slowing-down-your-internet-connection/",
     "author": "Sydney Butler"
   },
   {
-    "title": "This 3-year-old sedan outperforms most new cars in reliability",
-    "summary": "Discussion on a specific 3-year-old sedan model that excels in reliability compared to newer vehicles.",
-    "category": "Automotive",
-    "publication_date": "December 21, 2025",
-    "link": "https://www.howtogeek.com/3-year-old-sedan-reliability/",
-    "author": "Adam Gray"
+    "title": "I was sick of the Windows performance rollercoaster until I made these changes",
+    "summary": "The author shares changes made to stabilize Windows performance after dealing with inconsistent speeds.",
+    "category": "Maintenance & Optimization",
+    "publication_date": "December 30, 2025",
+    "link": "https://www.howtogeek.com/i-was-sick-of-the-windows-performance-rollercoaster-until-i-made-these-changes/",
+    "author": "Sydney Butler"
   },
   {
-    "title": "3 reasons I regret buying a cheap power supply",
-    "summary": "Personal insights into why skimping on a PC power supply can lead to regrets and issues.",
-    "category": "Desktop",
-    "publication_date": "December 21, 2025",
-    "link": "https://www.howtogeek.com/i-love-my-pc-but-theres-one-component-i-regret/",
-    "author": "Ismar Hrnjicevic"
-  },
-  {
-    "title": "Gaming phones never took off (and it's probably for the best)",
-    "summary": "Explanation of why dedicated gaming smartphones failed to gain traction and the benefits of that outcome.",
-    "category": "Android",
-    "publication_date": "December 21, 2025",
-    "link": "https://www.howtogeek.com/gaming-phones-never-took-off-and-its-probably-for-the-best/",
-    "author": "Arol Wright"
-  },
-  {
-    "title": "5 ways your Home Assistant server can use an air quality monitor",
-    "summary": "Practical ways to integrate and utilize air quality monitors within a Home Assistant smart home setup.",
-    "category": "Smart Home",
-    "publication_date": "December 21, 2025",
-    "link": "https://www.howtogeek.com/ways-your-home-assistant-server-can-use-an-air-quality-monitor/",
-    "author": "Tim Brookes"
-  },
-  {
-    "title": "5 Husky tools from Home Depot you'll love",
-    "summary": "Recommendations for five useful Husky tools available at Home Depot.",
+    "title": "Ryobi 18V, 40V, and 80V tools: Explained",
+    "summary": "An explanation of Ryobi's different battery voltage platforms for their power tools.",
     "category": "Hobbies",
-    "publication_date": "December 21, 2025",
-    "link": "https://www.howtogeek.com/husky-tools-from-home-depot-youll-love/",
+    "publication_date": "December 30, 2025",
+    "link": "https://www.howtogeek.com/ryobi-18v-40v-and-80v-tools-explained/",
     "author": "Cory Gunther"
   },
   {
-    "title": "Side projects aren’t required, here’s what makes you a \"real\" developer",
-    "summary": "Argument that side projects are not necessary to be considered a legitimate developer.",
-    "category": "Programming",
-    "publication_date": "December 21, 2025",
-    "link": "https://www.howtogeek.com/why-you-dont-need-a-side-project-to-be-a-real-dev/",
-    "author": "Patrick Campanale"
+    "title": "Your laptop has a 'hidden mileage' limit: Here is when it will die",
+    "summary": "Laptops have a finite lifespan based on usage cycles, and the article explains signs of impending failure.",
+    "category": "Maintenance & Optimization",
+    "publication_date": "December 30, 2025",
+    "link": "https://www.howtogeek.com/your-laptop-is-a-ticking-timebomb-but-how-much-is-left-on-the-clock/",
+    "author": "Sydney Butler"
   },
   {
-    "title": "This hidden sensor lets my Pixel phone do things no other phone can",
-    "summary": "Exploration of a unique hidden sensor in Google Pixel phones enabling exclusive features.",
-    "category": "Android",
-    "publication_date": "December 21, 2025",
-    "link": "https://www.howtogeek.com/hidden-sensor-lets-my-pixel-phone-do-things-no-other-phone-can-do/",
-    "author": "Joe Fedewa"
-  },
-{
-    "title": "The sold-out Nex Playground made my kids laugh and cry",
-    "summary": "The Nex Playground is a motion-tracking camera system that fills the gap left by Nintendo Wii and Microsoft Kinect, bringing laughter and tears to kids through interactive play.",
+    "title": "The GOG games store has a new owner",
+    "summary": "Announcement of a new owner for the GOG digital games storefront.",
     "category": "Games",
-    "publication_date": "2025-12-20",
-    "link": "https://www.theverge.com/games/848449/nex-playground-review-nintendo-wii-microsoft-kinect-motion-tracking-camera",
-    "author": "Sean Hollister"
+    "publication_date": "December 30, 2025",
+    "link": "https://www.howtogeek.com/the-gog-games-store-has-a-new-owner/",
+    "author": "Jorge A. Aguilar"
   },
   {
-    "title": "Phones were fashionable again in 2025",
-    "summary": "Smartphones in 2025 saw a resurgence in design, color, and fashion elements, making them stylish accessories once more.",
-    "category": "Tech",
-    "publication_date": "2025-12-19",
-    "link": "https://www.theverge.com/tech/842190/2025-smartphones-design-color-fashion",
-    "author": "Allison Johnson"
+    "title": "LibreOffice has officially entered virtual reality",
+    "summary": "LibreOffice office suite has been ported to run natively on Meta Quest VR headsets.",
+    "category": "Cutting Edge",
+    "publication_date": "December 30, 2025",
+    "link": "https://www.howtogeek.com/libreoffice-enters-virtual-reality-with-new-meta-quest-port/",
+    "author": "Corbin Davenport"
   },
   {
-    "title": "Rivian’s AI pivot is about more than chasing Tesla",
-    "summary": "Rivian's focus on AI and autonomy, including self-driving tech and lidar chips, extends beyond competing with Tesla.",
-    "category": "Transportation",
-    "publication_date": "2025-12-20",
-    "link": "https://www.theverge.com/transportation/846783/rivian-ai-autonomy-day-self-driving-lidar-chip-tesla",
-    "author": "Andrew J. Hawkins"
+    "title": "Slash your fuel bill by $750 a year with this Japanese hybrid",
+    "summary": "EPA estimates show significant fuel savings possible with a specific Japanese hybrid vehicle model.",
+    "category": "Hybrid Cars",
+    "publication_date": "December 30, 2025",
+    "link": "https://www.howtogeek.com/slash-your-fuel-bill-by-750-a-year-with-this-japanese-hybrid/",
+    "author": "Tyler Dupont"
   },
   {
-    "title": "Dogpile’s puzzles mix Balatro, Tetris, and a pile of puppies",
-    "summary": "Dogpile is an indie game available on Steam that combines elements of Balatro, Tetris, and puppy-themed puzzles.",
-    "category": "Entertainment",
-    "publication_date": "2025-12-20",
-    "link": "https://www.theverge.com/entertainment/848041/dogpile-review-inde-game-steam-balatro-puppies",
-    "author": "Ash Parrish"
+    "title": "China Drafts World's Strictest Rules To End AI-Encouraged Suicide, Violence",
+    "summary": "China has proposed landmark regulations requiring human intervention in AI conversations mentioning suicide or violence, along with strict audits for large AI services.",
+    "category": "AI/Safety",
+    "publication_date": "December 29, 2025",
+    "link": "https://slashdot.org/story/25/12/29/2127224/china-drafts-worlds-strictest-rules-to-end-ai-encouraged-suicide-violence",
+    "author": "BeauHD"
   },
   {
-    "title": "‘Friend slop’ made co-op gaming goofier than ever in 2025",
-    "summary": "Co-op games in 2025 embraced chaotic and humorous 'friend slop' elements, enhancing goofiness in multiplayer experiences.",
-    "category": "Entertainment",
-    "publication_date": "2025-12-20",
-    "link": "https://www.theverge.com/entertainment/845347/friend-slop-co-op-games-2025",
-    "author": "Stevie Bonifield"
-  },
-  {
-    "title": "Communities are rising up against data centers — and winning",
-    "summary": "Local communities across the US are successfully opposing new data centers through bipartisan efforts.",
+    "title": "Stingless Bees From the Amazon Granted Legal Rights in World First",
+    "summary": "Stingless bees in the Peruvian Amazon have been granted legal rights to exist and flourish, recognizing their role as key pollinators.",
     "category": "Science",
-    "publication_date": "2025-12-19",
-    "link": "https://www.theverge.com/science/841169/ai-data-center-opposition",
-    "author": "Justine Calma"
+    "publication_date": "December 29, 2025",
+    "link": "https://science.slashdot.org/story/25/12/29/1956236/stingless-bees-from-the-amazon-granted-legal-rights-in-world-first",
+    "author": "msmash"
+  },
+  {
+    "title": "After a Decade of Dead Ends, $70 Million Rides on Locating Flight MH370",
+    "summary": "Ocean Infinity resumes the search for missing flight MH370 under a no-find-no-fee deal, using advanced underwater vehicles.",
+    "category": "News",
+    "publication_date": "December 29, 2025",
+    "link": "https://news.slashdot.org/story/25/12/29/1952225/after-a-decade-of-dead-ends-70-million-rides-on-locating-flight-mh370",
+    "author": "msmash"
+  },
+  {
+    "title": "How Windows 10 Earned Its Good Reputation While Planting the Seeds of Windows 11's Problems",
+    "summary": "Windows 10 is remembered fondly, but many criticized features in Windows 11, like ads and telemetry, originated during its era.",
+    "category": "Technology",
+    "publication_date": "December 29, 2025",
+    "link": "https://tech.slashdot.org/story/25/12/29/1928221/how-windows-10-earned-its-good-reputation-while-planting-the-seeds-of-windows-11s-problems",
+    "author": "msmash"
+  },
+  {
+    "title": "Americans Are Watching Fewer New TV Shows and More Free TV",
+    "summary": "No new original series cracked the top 10 most-watched in 2025; free ad-supported services like YouTube are growing fastest.",
+    "category": "Entertainment",
+    "publication_date": "December 29, 2025",
+    "link": "https://entertainment.slashdot.org/story/25/12/29/1842200/americans-are-watching-fewer-new-tv-shows-and-more-free-tv",
+    "author": "msmash"
+  },
+  {
+    "title": "GOG and CD Projekt Founder Acquires 100% Ownership of GOG",
+    "summary": "Co-founder Michał Kiciński has bought back full ownership of the DRM-free gaming platform GOG from CD Projekt.",
+    "category": "Games",
+    "publication_date": "December 29, 2025",
+    "link": "https://games.slashdot.org/story/25/12/29/1810221/gog-and-cd-projekt-founder-acquires-100-ownership-of-gog",
+    "author": "msmash"
+  },
+  {
+    "title": "VC Sees AI-generated Video Gutting the Creator Economy",
+    "summary": "A venture capitalist predicts AI video tools will reduce the value of individual creators as platforms shift to personalized algorithmic content.",
+    "category": "News",
+    "publication_date": "December 29, 2025",
+    "link": "https://news.slashdot.org/story/25/12/29/186242/vc-sees-ai-generated-video-gutting-the-creator-economy",
+    "author": "msmash"
+  },
+  {
+    "title": "Meta just bought Manus, an AI startup everyone has been talking about",
+    "summary": "Meta has acquired Manus, an AI startup that has generated significant buzz in the industry.",
+    "category": "AI",
+    "publication_date": "December 29, 2025",
+    "link": "https://techcrunch.com/2025/12/29/meta-just-bought-manus-an-ai-startup-everyone-has-been-talking-about/",
+    "author": "Connie Loizos"
+  },
+  {
+    "title": "How to make your startup stand out in a crowded market, according to investors",
+    "summary": "Investors provide insights on crafting pitches that help startups differentiate in highly competitive markets.",
+    "category": "Venture",
+    "publication_date": "December 29, 2025",
+    "link": "https://techcrunch.com/2025/12/29/vcs-spill-what-they-really-want-to-hear-in-a-founder-pitch/",
+    "author": "Dominic-Madori Davis"
+  },
+  {
+    "title": "Social media follower counts have never mattered less, creator economy execs say",
+    "summary": "Executives in the creator economy explain why traditional follower metrics are becoming less relevant.",
+    "category": "Social",
+    "publication_date": "December 29, 2025",
+    "link": "https://techcrunch.com/2025/12/29/social-media-follower-counts-have-never-mattered-less-creator-economy-execs-say/",
+    "author": "Amanda Silberling"
+  },
+  {
+    "title": "2025 was the year AI got a vibe check",
+    "summary": "A retrospective on how AI technologies and companies faced increased scrutiny and reality checks in 2025.",
+    "category": "AI",
+    "publication_date": "December 29, 2025",
+    "link": "https://techcrunch.com/2025/12/29/2025-was-the-year-ai-got-a-vibe-check/",
+    "author": "Rebecca Bellan"
+  },
+  {
+    "title": "Plaud Note Pro is an excellent AI-powered recorder that I carry everywhere",
+    "summary": "Hands-on review praising the Plaud Note Pro as a highly portable and effective AI-powered voice recorder.",
+    "category": "Gadgets",
+    "publication_date": "December 29, 2025",
+    "link": "https://techcrunch.com/2025/12/29/plaud-note-pro-is-an-excellent-ai-powered-recorder-that-i-carry-everywhere/",
+    "author": "Ivan Mehta"
+  },
+  {
+    "title": "Why the electrical grid needs more software",
+    "summary": "Exploration of how software innovations can help modernize and optimize the aging electrical grid infrastructure.",
+    "category": "Climate",
+    "publication_date": "December 29, 2025",
+    "link": "https://techcrunch.com/2025/12/29/why-the-electrical-grid-needs-more-software/",
+    "author": "Tim De Chant"
+  },
+  {
+    "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+    "summary": "Step-by-step guide to using ChatGPT's new third-party app integrations for services like food delivery, music, and rides.",
+    "category": "AI",
+    "publication_date": "December 29, 2025",
+    "link": "https://techcrunch.com/2025/12/29/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
+    "author": "Lauren Forristal"
+  },
+  {
+    "title": "MiniMax Unveils M2.1 to Bring Multilingual Programming Gains to Open AI Models",
+    "summary": "Chinese AI startup MiniMax releases a major update to its open-source model series, focusing on multi-language programming and office automation capabilities.",
+    "category": "AI",
+    "publication_date": "December 24, 2025",
+    "link": "https://www.techrepublic.com/article/news-minimax-m2-release/",
+    "author": ""
+  },
+  {
+    "title": "OpenAI Launches ChatGPT Training Certifications",
+    "summary": "OpenAI debuts its first certification program with ChatGPT-based courses targeted at workers and K-12 teachers, starting with AI Foundations pilots.",
+    "category": "AI",
+    "publication_date": "December 22, 2025",
+    "link": "https://www.techrepublic.com/article/news-openai-chatgpt-training-certifications/",
+    "author": "Liz Ticong"
+  },
+  {
+    "title": "This Week in Tech News: Robots, Silicon, and Space",
+    "summary": "Weekly recap highlighting advancements in software, hardware innovations like extra robotic limbs, and rapid investor funding in AI and related tech.",
+    "category": "News",
+    "publication_date": "December 19, 2025",
+    "link": "https://www.techrepublic.com/article/news-best-of-dti-dec-15-19/",
+    "author": "Justin Meyers"
+  },
+  {
+    "title": "Google Pushes Pixel Update That Could Affect Millions of Users",
+    "summary": "Google rolls out an unexpected second software update for Pixel phones in December, sparking speculation about critical fixes and upcoming features like pocket dial prevention.",
+    "category": "Mobile",
+    "publication_date": "December 18, 2025",
+    "link": "https://www.techrepublic.com/article/news-google-surprise-pixel-update-december-2025/",
+    "author": "Aminu Abdullahi"
+  },
+  {
+    "title": "Microsoft 2026 Product Plans and AI Strategy",
+    "summary": "Microsoft details agentic AI tools and integrations across Azure following Ignite 2025, aimed at helping developers and IT teams build and manage AI agents.",
+    "category": "Microsoft",
+    "publication_date": "December 18, 2025",
+    "link": "https://www.techrepublic.com/article/news-microsoft-2026-product-plans/",
+    "author": ""
+  },
+  {
+    "title": "7 Tech Predictions Enterprise Leaders Are Watching in 2026",
+    "summary": "Industry experts share predictions for 2026, including AI at scale, cloud autonomy, heightened security risks, observability, governance, and operational pressures.",
+    "category": "Enterprise",
+    "publication_date": "December 12, 2025",
+    "link": "https://www.techrepublic.com/article/news-2026-tech-predictions-industry-experts/",
+    "author": "Liz Ticong"
+  },
+  {
+    "title": "2025 in Tech: A Year of Outages, AI Races, and Power Plays",
+    "summary": "Retrospective on the biggest tech stories of 2025, covering massive data centers, AI infrastructure battles, outages, breaches, and satellite developments.",
+    "category": "News",
+    "publication_date": "December 11, 2025",
+    "link": "https://www.techrepublic.com/article/news-top-10-tech-stories-of-2025/",
+    "author": ""
+  },
+  {
+    "title": "Sam Altman is hiring someone to worry about the dangers of AI",
+    "summary": "OpenAI is seeking a 'Head of Preparedness' to focus on AI safety risks and mitigation strategies.",
+    "category": "AI",
+    "publication_date": "December 27, 2025",
+    "link": "https://www.theverge.com/news/850537/sam-altman-openai-head-of-preparedness",
+    "author": "Terrence O'Brien"
+  },
+  {
+    "title": "The annual app recaps for 2025: all Wrapped up",
+    "summary": "A roundup of end-of-year user recaps from apps like Spotify Wrapped, YouTube Recap, ChatGPT Year in Review, and New York Times Games.",
+    "category": "Apps",
+    "publication_date": "December 23, 2025",
+    "link": "https://www.theverge.com/news/837280/spotify-wrapped-2025-recap-annual-best-of-data",
+    "author": "Jess Weatherbed"
+  },
+  {
+    "title": "Semi-solid state MagSafe power banks arrive from the founder of Hyper",
+    "summary": "BMX launches safer, longer-lasting semi-solid state power banks with MagSafe compatibility.",
+    "category": "Gadgets",
+    "publication_date": "December 19, 2025",
+    "link": "https://www.theverge.com/news/847925/bmx-hyper-semi-solid-state-power-banks",
+    "author": ""
   },
   {
     "title": "2025 was the beginning of the end of the TV brightness war",
-    "summary": "The intense competition over TV brightness and HDR in 2025 is easing, allowing eyes a much-needed rest.",
+    "summary": "Review of 2025 TV advancements, highlighting Primary RGB Tandem panels and the shift in brightness competition.",
     "category": "Tech",
-    "publication_date": "2025-12-18",
+    "publication_date": "December 18, 2025",
     "link": "https://www.theverge.com/tech/841054/tv-brightness-hdr-2025",
     "author": "John Higgins"
   },
   {
-    "title": "The LCD Steam Deck is done",
-    "summary": "Valve has discontinued the LCD version of the Steam Deck.",
-    "category": "News",
-    "publication_date": "2025-12-20",
-    "link": "https://www.theverge.com/news/848595/the-lcd-steam-deck-is-done",
-    "author": "Terrence O'Brien"
+    "title": "New Samsung Micro RGB TVs are sized for your living room",
+    "summary": "Samsung announces more accessible sizes for its advanced Micro RGB LED TVs ahead of CES 2026.",
+    "category": "Tech",
+    "publication_date": "December 16, 2025",
+    "link": "https://www.theverge.com/news/845760/samsung-micro-rgb-led-ces-2026",
+    "author": "John Higgins"
   },
   {
-    "title": "Want to link from Google’s app store to your app? That’ll be $2–4 per install",
-    "summary": "Google is charging $2–4 for external links from its app store to apps.",
-    "category": "News",
-    "publication_date": "Dec 20",
-    "link": "https://www.theverge.com/news/848540/google-app-fees-external-link-downloads-alternative-payments",
-    "author": "Sean Hollister"
+    "title": "LG announces the 2026 release of its Micro RGB evo TV",
+    "summary": "LG teases its upcoming Micro RGB evo TV technology for 2026, building on RGB advancements.",
+    "category": "Tech",
+    "publication_date": "December 15, 2025",
+    "link": "https://www.theverge.com/news/844885/lg-micro-rgb-evo-led-tv-ces-2026",
+    "author": "John Higgins"
   },
   {
-    "title": "Google sues web scraper for sucking up search results ‘at an astonishing scale’",
-    "summary": "Google has filed a lawsuit against a web scraper, Serpapi, for extracting search results on a massive scale.",
-    "category": "News",
-    "publication_date": "2025-12-19",
-    "link": "https://www.theverge.com/news/848365/google-scraper-lawsuit-serpapi",
-    "author": "Emma Roth"
+    "title": "Downtime caused historic issues in 2025 - but who lost out most?",
+    "summary": "A look back at the major outages in 2025 and their impacts on businesses and users.",
+    "category": "Security",
+    "publication_date": "December 29, 2025",
+    "link": "https://www.techradar.com/pro/security/downtime-caused-historic-issues-in-2025-but-who-lost-out-most",
+    "author": "Sead Fadilpašić"
   },
   {
-    "title": "You can buy your Xbox Ally an official pair of anti-drift joysticks",
-    "summary": "Gulikit TMR joysticks are available as an official anti-drift option for the Xbox Ally handheld.",
-    "category": "Games",
-    "publication_date": "2025-12-20",
-    "link": "https://www.theverge.com/games/848568/xbox-ally-gulikit-tmr-joysticks",
-    "author": "Sean Hollister"
+    "title": "Watch out, Sonos — Samsung's new wireless speakers look very cool, and directly challenge the Era models",
+    "summary": "Samsung introduces new Music Studio wireless speakers with a fresh design aimed at competing with Sonos Era models.",
+    "category": "Audio",
+    "publication_date": "December 29, 2025",
+    "link": "https://www.techradar.com/audio/multi-room/watch-out-sonos-samsungs-new-wireless-speakers-look-very-cool-and-directly-challenge-the-era-models",
+    "author": ""
   },
   {
-    "title": "Did a publisher’s slip-up reveal smaller Switch 2 cartridges?",
-    "summary": "A publisher error may have accidentally revealed details about smaller cartridges for the Nintendo Switch 2.",
-    "category": "News",
-    "publication_date": "2025-12-19",
-    "link": "https://www.theverge.com/news/848462/nintendo-switch-2-smaller-cartridges-inin-games",
-    "author": "Jay Peters"
+    "title": "Samsung takes on the Sonos Arc Ultra with a powerful all-in-one Dolby Atmos soundbar — and upgrades the best soundbar on the planet too",
+    "summary": "Samsung announces two new flagship Dolby Atmos soundbars ahead of CES 2026.",
+    "category": "Televisions/Soundbars",
+    "publication_date": "December 29, 2025",
+    "link": "https://www.techradar.com/televisions/soundbars/samsung-takes-on-the-sonos-arc-ultra-with-a-powerful-all-in-one-dolby-atmos-soundbar-and-upgrades-the-best-soundbar-on-the-planet-too-for-good-measure",
+    "author": ""
   },
   {
-    "title": "Gemini isn’t replacing Google Assistant on Android just yet",
-    "summary": "Google Assistant on Android will not be immediately replaced by Gemini, with an upgrade planned for 2026.",
-    "category": "News",
-    "publication_date": "2025-12-19",
-    "link": "https://www.theverge.com/news/848455/google-assistant-gemini-upgrade-2026",
-    "author": "Emma Roth"
+    "title": "Samsung may be testing the giant phone battery upgrade of your dreams — but don't expect much of a boost for the Galaxy S26 Ultra",
+    "summary": "Leaks suggest Samsung is exploring major battery improvements for future phones.",
+    "category": "Phones",
+    "publication_date": "December 29, 2025",
+    "link": "https://www.techradar.com/phones/samsung-galaxy-phones/samsung-may-be-testing-the-giant-phone-battery-upgrade-of-your-dreams-but-dont-expect-much-of-a-boost-for-the-galaxy-s26-ultra",
+    "author": ""
   },
   {
-    "title": "ChatGPT will now let you pick how nice it is",
-    "summary": "OpenAI has updated ChatGPT to allow users to select the warmth and enthusiasm level of its responses.",
-    "category": "News",
-    "publication_date": "2025-12-19",
-    "link": "https://www.theverge.com/news/848435/openai-chatgpt-characteristics-update-warmth-enthusiasm",
-    "author": "Emma Roth"
-  },
-{
-    "title": "Archival Cassini Data May Erase Titan's Subterranean Ocean",
-    "summary": "Reanalysis of old mission data challenges assumptions about Saturn's moon.",
-    "category": "Science",
-    "publication_date": "2025-12-20",
-    "link": "https://www.extremetech.com/science/archival-cassini-data-may-erase-titans-subterranean-ocean",
-    "author": "ExtremeTech Staff"
+    "title": "'Stranger Things' season 5 finale release date: when will it be out on Netflix?",
+    "summary": "Details on the release timing for the final episode of Stranger Things season 5.",
+    "category": "Streaming",
+    "publication_date": "December 29, 2025",
+    "link": "https://www.techradar.com/streaming/netflix/what-is-the-release-date-for-the-stranger-things-season-5-finale",
+    "author": "Tom Power"
   },
   {
-    "title": "NASA Certifies Perseverance for Many More Years (and Miles)",
-    "summary": "The rover gets extended mission approval with upgrades for longevity.",
-    "category": "Aerospace",
-    "publication_date": "2025-12-20",
-    "link": "https://www.extremetech.com/aerospace/nasa-certifies-perseverance-for-many-more-years-and-miles",
-    "author": "ExtremeTech Staff"
+    "title": "What is the release date for Fallout season 2 episode 3 on Prime Video?",
+    "summary": "Information on when the next episode of Fallout season 2 will arrive on Prime Video.",
+    "category": "Streaming",
+    "publication_date": "December 29, 2025",
+    "link": "https://www.techradar.com/streaming/amazon-prime-video/what-is-the-release-date-for-fallout-season-2-episode-3-on-prime-video",
+    "author": "Tom Power"
   },
   {
-    "title": "Google Releases Gemini 3 Flash With Improved Speed and Reasoning",
-    "summary": "Gemini 3 Flash uses 30% fewer tokens on average than 2.5 Pro.",
-    "category": "Computing",
-    "publication_date": "2025-12-20",
-    "link": "https://www.extremetech.com/computing/google-releases-gemini-3-flash-with-improved-speed-and-reasoning",
-    "author": "ExtremeTech Staff"
-  },
-  {
-    "title": "November Console Sales Hit 30-Year Low as Price Hikes Backfire",
-    "summary": "The Xbox Series S is now $150 more than it cost at launch.",
-    "category": "Gaming",
-    "publication_date": "2025-12-20",
-    "link": "https://www.extremetech.com/gaming/november-console-sales-hit-30-year-low-as-price-hikes-backfire",
-    "author": "ExtremeTech Staff"
-  },
-  {
-    "title": "Texas Instruments Fab Begins Production of 300mm Wafers",
-    "summary": "The plant is the first of four in Sherman, Texas.",
-    "category": "Computing",
-    "publication_date": "2025-12-19",
-    "link": "https://www.extremetech.com/computing/texas-instruments-fab-begins-production-of-300mm-wafers",
-    "author": "Josh Gulick"
-  },
-  {
-    "title": "Apple Simplifies Battery Replacement on the 14-Inch M5 MacBook Pro",
-    "summary": "iFixit rated the M5 MacBook Pro a 4 out of 10 for repairability.",
-    "category": "Computing",
-    "publication_date": "2025-12-19",
-    "link": "https://www.extremetech.com/computing/apple-simplifies-battery-replacement-on-the-14-inch-m5-macbook-pro",
-    "author": "Devesh Beri"
-  },
-  {
-    "title": "Best Gaming Desktop PC Deals for December 2025",
-    "summary": "Getting last-minute holiday shopping done? Prebuilt gaming PCs are seeing some decent discounts.",
-    "category": "Deals",
-    "publication_date": "2025-12-19",
-    "link": "https://www.extremetech.com/deals/best-gaming-desktop-pc-deals",
-    "author": "K. Thor Jensen"
-  },
-  {
-    "title": "Best SSD and Hard Drive Deals for December 2025",
-    "summary": "Filling up your storage space with digital data? Make room for games, memories, and more with nice discounts.",
-    "category": "Deals",
-    "publication_date": "2025-12-19",
-    "link": "https://www.extremetech.com/deals/best-ssd-and-hard-drive-deals",
-    "author": "K. Thor Jensen"
-  },
-  {
-    "title": "Best Graphics Card (GPU) Deals for December 2025",
-    "summary": "Prices are starting to rocket up on RAM, which affects GPUs. Grab your next-generation card at a discount while you can.",
-    "category": "Deals",
-    "publication_date": "2025-12-19",
-    "link": "https://www.extremetech.com/deals/best-graphics-card-gpu-deals",
-    "author": "K. Thor Jensen"
-  },
-{
-"title": "Daily Tech Insider Breaks Down the Surge in Factory Robots, Flash Models, and Hyperscale Funding",
-"summary": "Dec. 15–19 recap: This week, software learned new tricks, hardware sprouted extra limbs, and investors rushed to fund both before the coffee cooled.",
-"category": "Artificial Intelligence",
-"publication_date": "Dec 19, 2025",
-"link": "https://www.techrepublic.com/article/news-best-of-dti-dec-15-19/",
-"author": "Justin Meyers"
-},
-{
-"title": "Palo Alto Networks, Google Cloud Expand Partnership in Multibillion-Dollar Deal",
-"summary": "Palo Alto Networks and Google Cloud expand their partnership in a multibillion-dollar deal to secure AI workloads as attacks on AI infrastructure surge.",
-"category": "Artificial Intelligence",
-"publication_date": "Dec 19, 2025",
-"link": "https://www.techrepublic.com/article/news-palo-alto-google-cloud-multibillion-dollar-deal/",
-"author": "Aminu Abdullahi"
-},
-{
-"title": "AI Chip Shortage Could Raise Smartphone Prices in 2026",
-"summary": "Rising AI demand is driving up DRAM prices, pushing smartphone costs higher and reducing supply as early as 2026, according to new Counterpoint research.",
-"category": "Artificial Intelligence",
-"publication_date": "Dec 19, 2025",
-"link": "https://www.techrepublic.com/article/news-ai-chip-shortage-rising-smartphone-prices-2026/",
-"author": "Joseph Ofonagoro"
-},
-{
-"title": "Trump Media Announces $6 Billion Merger With Fusion Power Developer TAE",
-"summary": "Trump Media announces a $6 billion merger with fusion startup TAE Technologies, signaling a pivot from social media to clean energy and AI infrastructure.",
-"category": "Artificial Intelligence",
-"publication_date": "Dec 19, 2025",
-"link": "https://www.techrepublic.com/article/news-trump-media-tae-6b-merger/",
-"author": "Aminu Abdullahi"
-},
-{
-"title": "OWASP Drops First AI Agent Risk List",
-"summary": "These aren't simple chatbots anymore—these AI agents access data and tools and carry out tasks, making them infinitely more capable and dangerous.",
-"category": "Artificial Intelligence",
-"publication_date": "Dec 19, 2025",
-"link": "https://www.techrepublic.com/article/news-owasp-ai-agent-risk-list/",
-"author": ""
-},
-{
-"title": "UK Foreign Office Cyber Breach Exposed Diplomatic Secrets",
-"summary": "The government stopped short of directly attributing the attack to Chinese operatives or the Chinese state.",
-"category": "Security",
-"publication_date": "Dec 19, 2025",
-"link": "https://www.techrepublic.com/article/news-uk-foreign-office-cyber-breach/",
-"author": ""
-},
-{
-"title": "Nvidia and Google Back $6.6B AI Startup Lovable",
-"summary": "Vibe coding firm has closed a $330 million Series B funding round, catapulting the Swedish company to a $6.6 billion valuation.",
-"category": "Artificial Intelligence",
-"publication_date": "Dec 19, 2025",
-"link": "https://www.techrepublic.com/article/news-nvidia-google-ai-funding-lovable/",
-"author": ""
-},
-{
-"title": "TikTok Strikes Deal to Offload US Operations",
-"summary": "Oracle, Silver Lake, and MGX each secured 15% stakes in the newly formed JV, while ByteDance retains 19.9% ownership of what was once their crown jewel.",
-"category": "Social Media",
-"publication_date": "Dec 19, 2025",
-"link": "https://www.techrepublic.com/article/news-tiktok-us-deal/",
-"author": ""
-},
-{
-"title": "Italian Ferry Malware Attack Sparks International Probe",
-"summary": "French intelligence agencies uncovered what appears to be a coordinated foreign interference operation targeting the GNV Fantastic.",
-"category": "Security",
-"publication_date": "Dec 19, 2025",
-"link": "https://www.techrepublic.com/article/news-italian-ferry-malware-attack/",
-"author": ""
-},
-{
-"title": "How Smartphones Stole Christmas (And What Parents Can Do About It)",
-"summary": "Evidence in the UK suggests the biggest distraction from the Christmas togetherness won’t be toys, television, or even work emails, it will be smartphone.",
-"category": "Mobile",
-"publication_date": "Dec 19, 2025",
-"link": "https://www.techrepublic.com/article/news-smartphone-usage-christmas/",
-"author": ""
-},
-{
-"title": "Inside China’s ‘Manhattan Project’: China Moves Closer to Chip Self-Reliance With Secret EUV Prototype",
-"summary": "China is testing a secret EUV lithography prototype, a step toward chip self-reliance amid tightening export controls and surging AI demand.",
-"category": "Artificial Intelligence",
-"publication_date": "Dec 19, 2025",
-"link": "https://www.techrepublic.com/article/news-china-euv-prototype/",
-"author": ""
-},
-{
-"title": "5 Signals That May Shape APAC Enterprise Technology in 2026",
-"summary": "APAC technology leaders may face new expectations in 2026. This article explores the emerging signals shaping AI governance, cloud strategy, resilience and data control.",
-"category": "News",
-"publication_date": "Dec 19, 2025",
-"link": "https://www.techrepublic.com/article/news-tr-apac-tech-trends-2026/",
-"author": ""
-},
-{
-"title": "Last-Minute Amazon Prime Deals for Holiday Shopping",
-"summary": "Five standout last-minute Amazon Prime deals for holiday shopping: Echo Show 8, Kindle Paperwhite, Fire TV Stick 4K Max, Belkin charger, and smart home essentials.",
-"category": "News",
-"publication_date": "Dec 19, 2025",
-"link": "https://www.techrepublic.com/article/news-last-minute-amazon-prime-deals-holiday-shopping-2025/",
-"author": ""
-}
+    "title": "CES 2026 — What to expect",
+    "summary": "Preview of major announcements and trends expected at CES 2026.",
+    "category": "Tech Events",
+    "publication_date": "December 29, 2025",
+    "link": "https://www.techradar.com/tech-events/ces-2026-what-to-expect",
+    "author": ""
+  }
 ]
