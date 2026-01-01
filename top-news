@@ -1,5 +1,397 @@
 [
   {
+    "websiteName": "BBC",
+    "title": "Community key to good healthcare, says incoming Archbishop of Canterbury",
+    "url": "https://www.bbc.com/news/articles/ckgk1m5zkm6o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-01-01T05:42:15.019Z",
+    "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0d9f/live/557dbac0-e6ce-11f0-aae2-2191c0e48a3b.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Good",
+    "title": "101 New Year Wishes, Messages, and Quotes to Welcome 2026",
+    "url": "https://www.goodhousekeeping.com/holidays/a34898345/new-years-wishes/",
+    "date": "2025-12-31T15:42:15.021Z",
+    "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/cheers-to-new-beginnings-royalty-free-image-1765986681.pjpeg",
+    "category": "Home"
+  },
+  {
+    "websiteName": "The",
+    "title": "How to fix Misplaced Sections in OneNote",
+    "url": "https://www.thewindowsclub.com/how-to-fix-misplaced-sections-in-onenote",
+    "date": "2025-12-30T07:42:15.021Z",
+    "imageUrl": "chrome-extension://bocjkpoianmfiofedeffajbgbhgjhhng/&target_size=96x64",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Zerohedge",
+    "title": "The Trump Administration's Fight To Fund Scientists",
+    "url": "https://www.zerohedge.com/political/trump-administrations-fight-fund-scientists",
+    "date": "2025-12-31T17:42:15.021Z",
+    "imageUrl": "https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/705824_80.jpg?itok=s6JQsPgR",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Al",
+    "title": "Finland seizes ship sailing from Russia after suspected cable sabotage",
+    "url": "https://www.aljazeera.com/news/2025/12/31/police-investigating-damage-to-undersea-telecom-cable-in-gulf-of-finland?traffic_source=rss",
+    "date": "2025-12-31T18:42:15.021Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2025/12/reuters_69553bf7-1767193591.jpg?resize=1920%2C1440",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Billboard",
+    "title": "Stephen Wilson Jr. Recaps His 2025 Career Surge in New Video: ‘A Lot Can Happen in a Year’",
+    "url": "https://www.billboard.com/music/country/stephen-wilson-jr-2025-recap-video-1236147830/",
+    "date": "2025-12-31T22:42:15.021Z",
+    "imageUrl": "https://www.billboard.com/wp-content/uploads/2025/11/Stephen-Wilson-Jr-2025-cr-Acacia-Evans-billboard-1800.jpg?w=1024",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Quartz",
+    "title": "How AI will change work for managers in 2026",
+    "url": "https://qz.com/ai-workplace-managers-2026",
+    "date": "2026-01-01T04:42:15.021Z",
+    "imageUrl": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2203057927.jpg",
+    "category": "Business"
+  },
+  {
+    "websiteName": "NBC",
+    "title": "Inside the chaotic first hours of the Brown University shooting that left 2 dead",
+    "url": "https://www.nbcnews.com/news/us-news/brown-university-shooting-fire-police-logs-rcna251728",
+    "date": "2025-12-31T21:42:15.021Z",
+    "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251214-providence-bus-cc-1204a-9a20d2.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "The",
+    "title": "Trump Abandons Efforts to Deploy National Guard to 3 Major Cities",
+    "url": "https://www.nytimes.com/2025/12/31/us/politics/trump-national-guard.html",
+    "date": "2026-01-01T00:42:15.022Z",
+    "imageUrl": "https://static01.nyt.com/images/2025/12/31/multimedia/31dc-trump-guard-jtbp/31dc-trump-guard-jtbp-mediumSquareAt3X.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "WSJ",
+    "title": "Dragons, AI and a $70 Million House",
+    "url": "https://www.wsj.com/real-estate/luxury-homes/can-ai-help-sell-this-70-million-california-home-these-brothers-think-so-f3a91d80?mod=rss_Technology",
+    "date": "2025-12-30T07:42:15.022Z",
+    "imageUrl": "https://images.wsj.net/im-53794522",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "GSMArena",
+    "title": "Here's the iQOO Z11 Turbo in all four colors",
+    "url": "https://www.gsmarena.com/heres_the_iqoo_z11_turbo_in_all_four_colors-news-70905.php",
+    "date": "2025-12-31T07:42:15.022Z",
+    "imageUrl": "https://fdn.gsmarena.com/imgroot/news/25/12/iqoo-z11-turbo-colors/-952x498w6/gsmarena_0000.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "XDA",
+    "title": "OpenAI's browser isn't even on Windows 11 yet, and Microsoft already hates it, apparently",
+    "url": "https://www.xda-developers.com/openais-browser-microsoft-already-hates-it-apparently/",
+    "date": "2026-01-01T03:42:15.022Z",
+    "imageUrl": "",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "CNBC",
+    "title": "Investors are betting these stocks will reap considerable returns in 2026",
+    "url": "https://www.cnbc.com/2025/12/31/investors-are-betting-these-stocks-will-reap-considerable-returns-in-2026.html",
+    "date": "2025-12-31T23:42:15.022Z",
+    "imageUrl": "https://image.cnbcfm.com/api/v1/image/108240247-1765401284994-gettyimages-2251240755-_73a6245_fg4yfiau.jpeg?v=1767222731&w=1920&h=1080",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Healthline",
+    "title": "CBD, THC May Provide New Ovarian Cancer Treatments, Study Finds",
+    "url": "https://www.healthline.com/health-news/cannabis-cbd-thc-may-help-treat-ovarian-cancer-study",
+    "date": "2026-01-01T05:42:15.022Z",
+    "imageUrl": "https://media.post.rvohealth.io/wp-content/uploads/2025/12/cannabis-plants-growing-greenhouse-1296x728-header.jpg",
+    "category": "Health"
+  },
+  {
+    "websiteName": "Business",
+    "title": "Apple's fitness trainers are posing with newspapers to tease something 'big'",
+    "url": "https://www.businessinsider.com/apple-fitness-plus-teasing-big-new-updates-in-2026-2025-12",
+    "date": "2025-12-31T17:42:15.022Z",
+    "imageUrl": "https://i.insider.com/695561e464858d02d2179a4d?format=jpeg",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Business",
+    "title": "Thiel Capital, founded by billionaire Peter Thiel, opens a new office in Miami as California debates a wealth tax",
+    "url": "https://www.businessinsider.com/peter-thiel-opens-office-miami-california-debates-billionaire-wealth-tax-2025-12",
+    "date": "2026-01-01T03:42:15.022Z",
+    "imageUrl": "https://i.insider.com/6955cd5304eda4732f2e5946?format=jpeg",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Good",
+    "title": "The Classic Cleaning Products Grandma Used That Still Get the Job Done",
+    "url": "https://www.goodhousekeeping.com/home/cleaning/g69891365/old-fashioned-grandma-cleaning-products/",
+    "date": "2025-12-31T21:42:15.023Z",
+    "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-3259482-6954a82179658.jpg",
+    "category": "Home"
+  },
+  {
+    "websiteName": "Insider",
+    "title": "Gen Z-ers are taking to Pinterest to find their aesthetic and figure out interview fits, an exec for the platform says",
+    "url": "https://www.businessinsider.com/pinterest-gen-z-aesthetic-interview-fit-2026-1",
+    "date": "2026-01-01T04:42:15.023Z",
+    "imageUrl": "",
+    "category": "Other"
+  },
+  {
+    "websiteName": "BMJ",
+    "title": "We must prevent children from accessing dangerous drugs, not use a trial to demonstrate their danger.",
+    "url": "https://www.bmj.com/content/391/bmj.r2660/rr-7",
+    "date": "2025-12-31T08:42:15.023Z",
+    "imageUrl": "chrome-extension://bocjkpoianmfiofedeffajbgbhgjhhng/&target_size=96x64",
+    "category": "Health"
+  },
+  {
+    "websiteName": "TechRadar",
+    "title": "Meta buys Manus for $2 billion to power high-stakes AI agent race",
+    "url": "https://www.techradar.com/pro/meta-buys-manus-for-usd2-billion-to-power-high-stakes-ai-agent-race",
+    "date": "2025-12-31T17:42:15.023Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/5ZWgrEAh83icLxVFbS68MA-1280-80.png",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "How-To",
+    "title": "This one Linux terminal tool replaced half my text-processing commands",
+    "url": "https://www.howtogeek.com/the-linux-command-that-makes-text-processing-ridiculously-easy/",
+    "date": "2025-12-31T16:42:15.023Z",
+    "imageUrl": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/10/tux-the-linux-mascot-wearing-sunglasses-and-working-on-a-laptop-surrounded-by-floating-terminal-windows-and-3d-command-symbols-1.png",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "ESPN",
+    "title": "🏈 Latest buzz on the NFL coaching carousel",
+    "url": "https://www.espn.com/nfl/story/_/id/47454173/nfl-week-18-head-coaching-carousel-intel-latest-buzz-news-updates",
+    "date": "2026-01-01T05:42:15.023Z",
+    "imageUrl": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1230%2Fr1594995_1296x729_16%2D9.jpg",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "Seeking",
+    "title": "Invesco SteelPath MLP Income Fund Q3 2025 Commentary",
+    "url": "https://seekingalpha.com/article/4856651-invesco-steelpath-mlp-income-fund-q3-2025-commentary?source=feed_all_articles",
+    "date": "2026-01-01T05:42:15.023Z",
+    "imageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2241191139/image_2241191139.jpg?io=getty-c-w1536",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Seeking",
+    "title": "Gas Prices Continue To Fall, Remain At Lowest Level Since 2021",
+    "url": "https://seekingalpha.com/article/4856543-gas-prices-continue-to-fall-lowest-level-since-2021?source=feed_all_articles",
+    "date": "2026-01-01T04:42:15.023Z",
+    "imageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2207448259/image_2207448259.jpg?io=getty-c-w1536",
+    "category": "Business"
+  },
+  {
+    "websiteName": "BBC",
+    "title": "Zelensky says peace deal is 90% ready in New Year address",
+    "url": "https://www.bbc.com/news/articles/cddg7100ym2o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-01-01T04:42:15.023Z",
+    "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3415/live/21f57130-e6c3-11f0-a8dc-93c15fe68710.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "The",
+    "title": "Sydney welcomes 2026 with spectacular fireworks display as world rings in new year",
+    "url": "https://www.independent.co.uk/news/world/new-year-2026-fireworks-sydney-new-zealand-b2892667.html",
+    "date": "2026-01-01T05:42:15.023Z",
+    "imageUrl": "https://static.independent.co.uk/2025/12/31/13/40/AUSTRALIA-NEWYEAR-2026-8sfnygo1.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+    "category": "World News"
+  },
+  {
+    "websiteName": "The",
+    "title": "Where Will Fluor Corporation (FLR) Stock Be in 1 Year?",
+    "url": "https://www.fool.com/investing/2025/12/31/where-will-fluor-corporation-flr-stock-be-in-1-yea/",
+    "date": "2026-01-01T04:42:15.023Z",
+    "imageUrl": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F849266%2Fan-investor-looks-a-stock-chart.jpg&w=700",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Daily",
+    "title": "HAPPY NEW YEAR: Times Square rings in 2026 in confetti-filled celebration as ball drops on bitter cold night",
+    "url": "https://www.dailymail.co.uk/news/article-15422007/new-years-eve-2026-live.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+    "date": "2026-01-01T05:42:15.023Z",
+    "imageUrl": "https://i.dailymail.co.uk/1s/2026/01/01/03/105148649-0-image-a-22_1767238860879.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "XDA",
+    "title": "XDA's most anticipated games of 2026 that aren't GTA 6",
+    "url": "https://www.xda-developers.com/most-anticipated-games-2026/",
+    "date": "2025-12-31T23:42:15.023Z",
+    "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/12/most-anticipated-games-2026.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "MakeUseOf",
+    "title": "A risky Windows registry tweak can make your SSD almost twice as fast",
+    "url": "https://www.makeuseof.com/risky-windows-registry-tweak-make-ssd-twice-fast/",
+    "date": "2025-12-31T19:42:15.023Z",
+    "imageUrl": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/12/a-housed-samsung-990-pro-nvme-ssd.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "CBS",
+    "title": "Maps show New Year's weather forecasts, with more snow and rain on the way",
+    "url": "https://www.cbsnews.com/news/weather-forecast-new-years-eve-maps/",
+    "date": "2026-01-01T00:42:15.023Z",
+    "imageUrl": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/12/31/288ae61b-a905-4e31-955c-72ac2bc48191/thumbnail/1200x630/16163ac4153098df161919434c3b3246/nye-forecast.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "CBC",
+    "title": "U.S. military says 8 killed in strikes on 5 more alleged drug boats — but survivors jumped overboard",
+    "url": "https://www.cbc.ca/news/world/us-venezuela-drugs-attacks-9.7031820?cmp=rss",
+    "date": "2026-01-01T02:42:15.023Z",
+    "imageUrl": "https://i.cbc.ca/ais/f52b59e7-9b2e-4e39-b3be-9c3525b41a56,1767235494275/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C763%2C7737%2C4352%29%3BResize%3D%28620%29",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Cointelegraph",
+    "title": "Trump Media plans 1:1 blockchain token rewards for shareholders",
+    "url": "https://cointelegraph.com/news/trump-media-release-reward-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "2025-12-31T18:42:15.023Z",
+    "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5Yjc1OTktYTBiNS03MTRiLTg2ZDItMTFiMWQwZjMzNTRiLmpwZw==.jpg",
+    "category": "Crypto"
+  },
+  {
+    "websiteName": "FT",
+    "title": "Chip shortages threaten 20% rise in consumer electronics prices",
+    "url": "https://www.ft.com/content/1f471189-2277-4d5d-822b-78eba6060755",
+    "date": "2026-01-01T01:42:15.023Z",
+    "imageUrl": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb27d97d3-d6eb-485c-bcb7-fe034e4d21af.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "category": "Business"
+  },
+  {
+    "websiteName": "The",
+    "title": "Zohran Mamdani sworn in as mayor of New York City",
+    "url": "https://www.theguardian.com/us-news/2026/jan/01/zohran-mamdani-sworn-in-mayor-new-york-city",
+    "date": "2026-01-01T04:42:15.023Z",
+    "imageUrl": "https://i.guim.co.uk/img/media/e6ca1719ca81d00c8e48c23db30b3868f71a408d/693_0_6932_5546/master/6932.jpg?width=700&quality=85&auto=format&fit=max&s=579712d1e7233c9468a750f4c275f00e",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "South",
+    "title": "Hong Kong welcomes 6 babies into world in first hour of New Year’s Day",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3338362/hong-kong-welcomes-6-babies-world-first-hour-new-years-day?utm_source=rss_feed",
+    "date": "2026-01-01T02:42:15.023Z",
+    "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/01/01/02d488dd-c94b-47f8-9081-2f021265542d_b502ee6c.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Seeking",
+    "title": "Nickel Miners News For The Month Of December 2025",
+    "url": "https://seekingalpha.com/article/4856637-nickel-miners-news-for-the-month-of-december-2025?source=feed_all_articles",
+    "date": "2026-01-01T02:42:15.024Z",
+    "imageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/636214974/image_636214974.jpg?io=getty-c-w1536",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Esquire",
+    "title": "Finn Wolfhard Finally Left Hawkins, Indiana. What Now?",
+    "url": "https://www.esquire.com/entertainment/tv/a69880563/finn-wolfhard-stranger-things-interview/",
+    "date": "2026-01-01T02:42:15.024Z",
+    "imageUrl": "",
+    "category": "Entertainment"
+  },
+  {
+    "websiteName": "WSJ",
+    "title": "Emboldened Activist Investors Are Circling U.S. Banks",
+    "url": "https://www.wsj.com/finance/banking/emboldened-activist-investors-are-circling-u-s-banks-b1458244?mod=rss_markets_main",
+    "date": "2025-12-30T07:42:15.024Z",
+    "imageUrl": "https://images.wsj.net/im-97451788",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Techspot",
+    "title": "LG unveils Gallery TV, a canvas-style rival to Samsung's The Frame",
+    "url": "https://www.techspot.com/news/110756-lg-unveils-gallery-tv-canvas-style-rival-samsung.html",
+    "date": "2025-12-30T07:42:15.024Z",
+    "imageUrl": "https://www.techspot.com/images2/news/ts3_thumbs/2025/12/2025-12-30-ts3_thumbs-287.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "The",
+    "title": "Trump administration orders a Colorado coal-fired power generator to stay open",
+    "url": "https://www.independent.co.uk/news/world/americas/donald-trump-colorado-department-of-energy-michigan-indiana-b2892960.html",
+    "date": "2025-12-31T21:42:15.024Z",
+    "imageUrl": "https://static.independent.co.uk/2025/12/31/22/Trump-Coal_86634.jpg?width=1200&auto=webp&crop=3%3A2",
+    "category": "World News"
+  },
+  {
+    "websiteName": "FT",
+    "title": "Apple cuts Vision Pro production and marketing after weak sales",
+    "url": "https://www.ft.com/content/ab817ba1-15ec-473f-b609-5b5016b3258d",
+    "date": "2026-01-01T04:42:15.024Z",
+    "imageUrl": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F43968548-80b7-4ad7-a810-301503e9540f.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "category": "Business"
+  },
+  {
+    "websiteName": "The",
+    "title": "Several dead and injured in explosion at Swiss ski resort town Crans-Montana, police say",
+    "url": "https://www.theguardian.com/world/2026/jan/01/several-dead-and-injured-in-explosion-swiss-ski-resort-town-crans-montana-police-say",
+    "date": "2026-01-01T05:42:15.024Z",
+    "imageUrl": "https://i.guim.co.uk/img/media/6f1f8874c30b64b0ef6bfea1fb2235d94cee41b2/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=64300a8a8e3df4dfd40dfe9ffe538f5c",
+    "category": "World News"
+  },
+  {
+    "websiteName": "FOX",
+    "title": "Renting vs buying: What's the better option in the current economy?",
+    "url": "https://www.foxbusiness.com/lifestyle/renting-vs-buying-whats-better-option-current-economy",
+    "date": "2025-12-30T07:42:15.024Z",
+    "imageUrl": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2022/12/real-estate-sign-2.jpg",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Wired",
+    "title": "7 Best Digital Notebooks (2026): reMarkable, Kobo, Kindle",
+    "url": "https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/",
+    "date": "2025-12-30T07:42:15.024Z",
+    "imageUrl": "https://media.wired.com/photos/69518f48fa75874bee9b4e88/master/pass/The%20Best%20Digital%20Notebooks%20and%20Smart%20Pens%20top%20art%20122025%20SOURCE%20Boox_reMarkable.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Variety",
+    "title": "CBS’ ‘New Year’s Eve Live: Nashville’s Big Bash’ Special Faces Mid-Show Outage",
+    "url": "https://variety.com/2025/tv/news/cbs-nashvilles-big-bash-live-technical-problem-matlock-1236621691/",
+    "date": "2026-01-01T05:42:15.024Z",
+    "imageUrl": "",
+    "category": "Entertainment"
+  },
+  {
+    "websiteName": "Cosmopolitan",
+    "title": "Prince William and Kate Middleton Just Dropped 12 Unseen Photos to Celebrate 2025",
+    "url": "https://www.cosmopolitan.com/entertainment/celebs/a69893981/prince-william-kate-middleton-12-unseen-photos-2025/",
+    "date": "2025-12-31T16:42:15.024Z",
+    "imageUrl": "",
+    "category": "Other"
+  },
+  {
+    "websiteName": "NBC",
+    "title": "New Year’s 2026 celebrations from around the world",
+    "url": "https://www.nbcnews.com/video/shorts/new-year-s-2026-celebrations-from-around-the-world-255257157547",
+    "date": "2026-01-01T04:42:15.024Z",
+    "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_01/vert_mash_thumb-notpud.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "FOX",
+    "title": "Luxury retail giant Saks weighs bankruptcy filing, report",
+    "url": "https://www.foxbusiness.com/lifestyle/luxury-retail-giant-saks-weighs-bankruptcy-filing",
+    "date": "2025-12-30T07:42:15.024Z",
+    "imageUrl": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/12/saks-fifth-avenue.jpg",
+    "category": "Business"
+  },
+  {
     "websiteName": "The Guardian",
     "title": "New Year’s Eve live: fireworks in London, Paris and Berlin as New York awaits 2026",
     "url": "https://www.theguardian.com/lifeandstyle/live/2025/dec/31/new-years-eve-2026-world-ring-in-live-latest",
