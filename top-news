@@ -1,5 +1,353 @@
 [
   {
+    "websiteName": "NBC",
+    "title": "Russia rings in new year with mass drone strike on Ukraine, Putin says he's confident of victory",
+    "url": "https://www.nbcnews.com/world/ukraine/russia-ukraine-war-drone-strike-zelenskyy-trump-putin-peace-talks-rcna251789",
+    "date": "2026-01-01T13:04:59.271Z",
+    "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260101-ukraine-drone-strike-mn-0920-318e3d.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Game",
+    "title": "Sci-Fi Games That Would Be Better Than Red Dead 2 If They Were Westerns",
+    "url": "https://gamerant.com/sci-fi-games-better-than-red-dead-redemption-2-rdr2-if-they-were-westerns/",
+    "date": "2026-01-02T02:04:59.272Z",
+    "imageUrl": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/12/a-cowboy-in-fallout-new-vegas-2010.jpg",
+    "category": "Gaming"
+  },
+  {
+    "websiteName": "WSJ",
+    "title": "The Year the Newsletter Business Reached a Fever Pitch",
+    "url": "https://www.wsj.com/business/media/the-year-the-newsletter-business-reached-a-fever-pitch-54a2a69e?mod=pls_whats_news_us_business_f",
+    "date": "2026-01-01T16:04:59.272Z",
+    "imageUrl": "https://images.wsj.net/im-97404584",
+    "category": "Business"
+  },
+  {
+    "websiteName": "The",
+    "title": "Eric Adams issues scathing response to Andy Cohen after Bravo host blasts him during live New Year’s Eve rant",
+    "url": "https://www.independent.co.uk/news/world/americas/eric-adams-andy-cohen-rant-nye-b2893249.html",
+    "date": "2026-01-02T00:04:59.272Z",
+    "imageUrl": "https://static.independent.co.uk/2026/01/01/5/22/SEI279346903.jpg?width=1200&auto=webp&crop=3%3A2",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Newsweek",
+    "title": "Lane Kiffin Pockets Major Bonus After Ole Miss’ CFP Win Over Georgia",
+    "url": "https://www.newsweek.com/sports/ncaa/lane-kiffin-pockets-major-bonus-after-ole-miss-cfp-win-over-georgia-11295783",
+    "date": "2026-01-02T05:04:59.272Z",
+    "imageUrl": "https://assets.newsweek.com/wp-content/uploads/2025/12/GettyImages-2249443593_5906c7.jpg?w=1200crop=1",
+    "category": "Other"
+  },
+  {
+    "websiteName": "The",
+    "title": "Swiss Alps Ski Resort Fire: What We Know",
+    "url": "https://www.nytimes.com/2026/01/01/world/europe/what-happened-fire-switzerland-ski-resort.html",
+    "date": "2026-01-02T08:04:59.272Z",
+    "imageUrl": "https://static01.nyt.com/images/2026/01/01/multimedia/01xp-switzerland-wwk-gczw/01xp-switzerland-wwk-gczw-mediumSquareAt3X.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "CNET",
+    "title": "43 of the Best Movies on Netflix You Should Stream Now",
+    "url": "https://www.cnet.com/tech/services-and-software/best-movies-on-netflix/#ftag=CAD590a51e",
+    "date": "2026-01-01T13:04:59.272Z",
+    "imageUrl": "https://www.cnet.com/a/img/resize/57fcd266b5904b69ad016dd99dc807e6c622713d/hub/2025/11/20/0f020735-6eb0-4a5a-a385-d0b72d6dba7a/jay-kelly.jpg?auto=webp&fit=crop&height=614&width=1092",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "CNET",
+    "title": "Today's NYT Connections: Sports Edition Hints and Answers for Jan. 2, #466",
+    "url": "https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-2-466/#ftag=CAD590a51e",
+    "date": "2026-01-02T03:04:59.272Z",
+    "imageUrl": "https://www.cnet.com/a/img/resize/c7e1d294a1a554f051860c8dddd6fd0c6527b452/hub/2024/10/16/c34cfc41-01f2-4b1a-80a8-f6479c50c02e/connections-sports-edition-6859.jpg?auto=webp&fit=crop&height=614&width=1092",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Newsweek",
+    "title": "Brian King Joseph Sends Message to Fans After Suing Will Smith",
+    "url": "https://www.newsweek.com/brian-king-joseph-responds-will-smith-lawsuit-11295926",
+    "date": "2026-01-02T08:04:59.273Z",
+    "category": "Other"
+  },
+  {
+    "websiteName": "The",
+    "title": "Tony Dokoupil promises the new CBS Evening News will be independent from its corporate owner: ‘you come first’",
+    "url": "https://www.independent.co.uk/news/world/americas/tony-dokoupil-cbs-evening-news-bari-weiss-paramount-skydance-b2893301.html",
+    "date": "2026-01-02T00:04:59.273Z",
+    "imageUrl": "https://static.independent.co.uk/2025/12/10/15/Media-CBS-Dokoupil_04526.jpg?width=1200&auto=webp&crop=3%3A2",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Tom's",
+    "title": "Chinese enthusiast overclocks AMD's Ryzen 7 9800X3D to 7.33GHz on Colorful X870E Vulcan motherboard — New world record achieved using liquid nitrogen cooling",
+    "url": "https://www.tomshardware.com/pc-components/cpus/chinese-enthusiast-overclocks-amds-ryzen-7-9800x3d-to-7-33ghz-on-colorful-x870e-vulcan-motherboard-new-world-record-achieved-using-liquid-nitrogen-cooling",
+    "date": "2026-01-01T16:04:59.273Z",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Mashable",
+    "title": "NYT Connections Sports Edition today: Hints and answers for January 1, 2026",
+    "url": "https://mashable.com/article/nyt-connections-sports-edition-hint-answer-today-january-1-2026",
+    "date": "2025-12-31T11:04:59.273Z",
+    "imageUrl": "https://helios-i.mashable.com/imagery/articles/06OLxRYEoN9hDsQbedyXObV/hero-image.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Psychology",
+    "title": "What Is Your Life Trying to Teach You?",
+    "url": "https://www.psychologytoday.com/us/blog/fixing-families/202601/what-is-your-life-trying-to-teach-you",
+    "date": "2026-01-01T18:30:00.000Z",
+    "imageUrl": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-01/motivation-1388479_1280.jpg?itok=4IxIrGrp",
+    "category": "Health"
+  },
+  {
+    "websiteName": "AndroidCentral",
+    "title": "A major Wear OS 6 bug is ruining custom watch faces on Pixel and Galaxy Watches",
+    "url": "https://www.androidcentral.com/apps-software/wear-os/a-major-wear-os-6-bug-is-ruining-custom-watch-faces-on-pixel-and-galaxy-watches",
+    "date": "2026-01-02T05:04:59.273Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/N3z9sCCQbU2boVcfKB48ij-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "South",
+    "title": "Hong Kong’s IPO dominance in 2025 set to carry on into new year",
+    "url": "https://www.scmp.com/business/markets/article/3338505/hong-kongs-ipo-dominance-2025-set-carry-new-year?utm_source=rss_feed",
+    "date": "2026-01-02T08:04:59.273Z",
+    "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/01/02/dfe00ecc-285c-4b5f-9988-2b5e6852d4fc_5c52a24b.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Techspot",
+    "title": "Florida is building a highway that can wirelessly charge EVs while you drive",
+    "url": "https://www.techspot.com/news/110763-florida-building-highway-can-wirelessly-charge-evs-while.html",
+    "date": "2025-12-31T11:04:59.273Z",
+    "imageUrl": "https://www.techspot.com/images2/news/ts3_thumbs/2025/12/2025-12-31-ts3_thumbs-323.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "The",
+    "title": "Victoria Jones, daughter of Tommy Lee, found dead in San Francisco",
+    "url": "https://www.theguardian.com/us-news/2026/jan/02/victoria-jones-daughter-of-tommy-lee-found-dead-in-san-francisco",
+    "date": "2026-01-02T09:04:59.273Z",
+    "imageUrl": "https://i.guim.co.uk/img/media/1679d4f9bbed8ae72eec4001811eb367bdb0a692/0_223_3542_2833/master/3542.jpg?width=700&quality=85&auto=format&fit=max&s=628d464c4f3881671c1245ab5ff0a993",
+    "category": "World News"
+  },
+  {
+    "websiteName": "ESPN",
+    "title": "🏈 Barnwell names his annual All-Pro team",
+    "url": "https://www.espn.com/nfl/story/_/id/47454925/nfl-all-pro-team-selections-2025-season-barnwell-picks-every-position-best-players",
+    "date": "2026-01-02T08:04:59.273Z",
+    "imageUrl": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1231%2Fr1595367_1296x729_16%2D9.jpg",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "Android",
+    "title": "I can’t stand this Google Photos feature anymore",
+    "url": "https://www.androidauthority.com/google-photos-locked-folder-feature-3628813/",
+    "date": "2025-12-30T11:04:59.273Z",
+    "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/10/google-photos-logo-hero-pixel-phone-2-scaled.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "CBSSports",
+    "title": "2025 College Football Playoff bracket: Schedule for 12-team field with dates, kickoff times in quarterfinals",
+    "url": "https://www.cbssports.com/college-football/news/college-football-playoff-bracket-quarterfinal-scores-2025-26/",
+    "date": "2026-01-02T05:04:59.273Z",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "Zerohedge",
+    "title": "40-Year Harvard Professor Pens Mic-Drop Indictment Of Institutional Anti-White Racism",
+    "url": "https://www.zerohedge.com/political/40-year-harvard-professor-pens-mic-drop-indictment-institutional-anti-white-racism",
+    "date": "2026-01-02T02:04:59.273Z",
+    "imageUrl": "https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/hankins2.jpg?itok=S580hsDc",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Newsweek",
+    "title": "Elon Musk Declares ‘It Is War’ After Somali TikToker Said He May Die",
+    "url": "https://www.newsweek.com/elon-musk-somali-tiktok-fraud-11295967",
+    "date": "2026-01-02T09:04:59.273Z",
+    "imageUrl": "https://assets.newsweek.com/wp-content/uploads/2026/01/AP25323651928054.jpg?w=1200crop=1",
+    "category": "Other"
+  },
+  {
+    "websiteName": "CoinDesk",
+    "title": "Bitcoin ETFs lose record $4.57 billion in two months",
+    "url": "https://www.coindesk.com/markets/2026/01/02/bitcoin-etfs-lose-record-usd4-57-billion-in-two-months",
+    "date": "2026-01-02T07:04:59.273Z",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/b7990c1aee6dc662da6a92e4675c895b7b28cf2b-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "category": "Crypto"
+  },
+  {
+    "websiteName": "The",
+    "title": "Experience: My friend turned out to be my long-lost sister",
+    "url": "https://www.theguardian.com/lifeandstyle/2026/jan/02/experience-found-out-friend-long-lost-sister",
+    "date": "2026-01-02T04:04:59.273Z",
+    "imageUrl": "https://i.guim.co.uk/img/media/1fbdf554bee9979fd2eeb538e6dd787eb6374771/551_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=b2c82b1d49960a2e5866fbdd7224c897",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Tom's",
+    "title": "Phone prices are expected to go up in 2026 — here's how to avoid the sticker shock",
+    "url": "https://www.tomsguide.com/phones/phone-prices-are-expected-to-go-up-in-2026-heres-how-to-avoid-the-sticker-shock",
+    "date": "2025-12-31T11:04:59.273Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/JvFDvdRgxRVk6hE5AuRwXE-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "CBSSports",
+    "title": "Fantasy Baseball Offseason Tracker: Tatsuya Imai's deal with Astros comes in low, but outlook remains strong",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-offseason-tracker-tatsuya-imai-deal-with-astros-comes-in-low-but-outlook-remains-strong/",
+    "date": "2026-01-02T07:04:59.274Z",
+    "imageUrl": "https://sportshub.cbsistatic.com/i/2026/01/02/a2a8c81c-55c8-4f0a-8467-2cf2a75ae074/tatsuya-imai-getty-images.jpg",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "Seeking",
+    "title": "Palantir: Entering Second Half 2020s As Our Top Tech Pick",
+    "url": "https://seekingalpha.com/article/4856724-palantir-entering-second-half-2020s-as-our-top-tech-pick?source=feed_all_articles",
+    "date": "2026-01-02T06:04:59.274Z",
+    "category": "Business"
+  },
+  {
+    "websiteName": "The",
+    "title": "Why One Fund Made Ramaco Resources a $182 Million Bet Amid a Staggering Stock Surge",
+    "url": "https://www.fool.com/coverage/filings/2026/01/01/why-one-fund-made-ramaco-resources-a-usd182-million-bet-amid-a-staggering-stock-surge/",
+    "date": "2026-01-02T01:04:59.274Z",
+    "imageUrl": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F34d887ed4212e8f7cd62f3cec35549f0cf9a39c0-1401x1251.png%3Fw%3D1401%26h%3D1251&w=1200&op=resize",
+    "category": "Business"
+  },
+  {
+    "websiteName": "BBC",
+    "title": "Trump says he takes higher daily dose of aspirin than doctors recommend",
+    "url": "https://www.bbc.com/news/articles/c701z7g0ppro?at_medium=RSS&at_campaign=rss",
+    "date": "2026-01-02T09:04:59.274Z",
+    "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f05e/live/4b73ba60-e779-11f0-aa4d-3b5649ab110b.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "South",
+    "title": "Sai Kung campsite flooded with trash after New Year’s Eve celebration",
+    "url": "https://www.scmp.com/news/hong-kong/article/3338498/sai-kung-campsite-flooded-trash-after-new-years-eve-celebration?utm_source=rss_feed",
+    "date": "2026-01-02T07:04:59.274Z",
+    "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/01/02/b53e8f7c-84d9-4491-8d8f-e0820c03d71a_0484d99c.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Android",
+    "title": "What sky high RAM prices mean for your next smartphone?",
+    "url": "https://www.androidauthority.com/ram-shortage-prices-explained-3626017/",
+    "date": "2026-01-01T12:04:59.274Z",
+    "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2022/04/SoC-chipset-processor-on-finger.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "CNET",
+    "title": "Today's NYT Strands Hints, Answers and Help for Jan. 2 #670",
+    "url": "https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-2-670/#ftag=CAD590a51e",
+    "date": "2026-01-01T20:04:59.274Z",
+    "imageUrl": "https://www.cnet.com/a/img/resize/166e67238a28ef7d82e62fe8aec7185a7cc23eda/hub/2024/05/15/859c9110-e596-432b-8690-95e6102759c9/nyt-new-york-times-strands-2054.jpg?auto=webp&fit=crop&height=614&width=1092",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Al",
+    "title": "South Korean President Lee to visit Beijing for pivotal 2nd summit with Xi",
+    "url": "https://www.aljazeera.com/news/2026/1/2/south-korean-president-lee-to-visit-beijing-for-pivotal-2nd-summit-with-xi?traffic_source=rss",
+    "date": "2026-01-02T06:04:59.274Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2025/11/afp_69057defe26d-1761967599.jpg?resize=1920%2C1440",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "ESPN",
+    "title": "Sources: Aikman to advise Fins on GM search",
+    "url": "https://www.espn.com/nfl/story/_/id/47475598/sources-troy-aikman-advise-dolphins-gm-search-process",
+    "date": "2026-01-02T08:04:59.274Z",
+    "imageUrl": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0101%2Fr1595686_1296x729_16%2D9.jpg",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "ESPN",
+    "title": "Golding, Rebels continue 'special' run, oust UGA",
+    "url": "https://www.espn.com/college-football/story/_/id/47478485/ole-miss-edges-georgia-sugar-bowl-advances-cfp-semis",
+    "date": "2026-01-02T08:04:59.274Z",
+    "imageUrl": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0102%2Fr1595760_1296x729_16%2D9.jpg",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "Daily",
+    "title": "Saudi Arabia sets executions record in 2025, putting 356 people to death",
+    "url": "https://www.dailymail.co.uk/news/article-15426507/Saudi-Arabia-sets-executions-record-2025-putting-356-people-death.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+    "date": "2025-12-31T11:04:59.274Z",
+    "imageUrl": "https://i.dailymail.co.uk/1s/2026/01/01/10/92740875-0-image-a-4_1767261897415.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "The",
+    "title": "Switzerland fire latest: First victim of tragedy named as teenage golfer after 40 killed in Crans-Montana bar",
+    "url": "https://www.independent.co.uk/news/world/europe/switzerland-fire-crans-montana-ski-resort-bar-explosion-latest-news-b2893326.html",
+    "date": "2026-01-02T09:04:59.274Z",
+    "imageUrl": "https://static.independent.co.uk/2026/01/02/8/18/federazioneitalianagolf_1767307026_3800769271811645898_3512315683.jpeg?width=1200&auto=webp&trim=76%2C0%2C647%2C52",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Gizmodo",
+    "title": "The Best Gadgets of December 2025",
+    "url": "https://gizmodo.com/the-best-gadgets-of-december-2025-2000704366",
+    "date": "2025-12-31T11:04:59.274Z",
+    "imageUrl": "https://gizmodo.com/app/uploads/2025/12/Gizmodo_BestGadgets_DEC2025-1280x853.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "CBSSports",
+    "title": "2025-26 college football bowl schedule: Scores, dates, kickoff times for every postseason game",
+    "url": "https://www.cbssports.com/college-football/news/college-football-bowl-schedule-scores-2025-26/",
+    "date": "2026-01-02T04:04:59.274Z",
+    "imageUrl": "https://sportshub.cbsistatic.com/i/2025/06/05/26e80b32-0f14-4b20-a9dc-f390a93fe891/pop-tarts-bowl.jpg",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "Esquire",
+    "title": "When Is Marty Supreme Streaming?",
+    "url": "https://www.esquire.com/entertainment/movies/a69893823/how-to-watch-marty-supreme/",
+    "date": "2025-12-31T11:04:59.274Z",
+    "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/marty-supreme-official-trailer-6913519f3838a.jpg",
+    "category": "Entertainment"
+  },
+  {
+    "websiteName": "WSJ",
+    "title": "President Trump delayed by a year tariff increases on upholstered furniture, kitchen cabinets and vanities, the latest move to walk back levies in the face of consumer frustration over prices",
+    "url": "https://www.wsj.com/economy/trade/trump-rolls-back-tariffs-on-furniture-and-kitchen-cabinets-a1beddd5",
+    "date": "2026-01-01T12:04:59.274Z",
+    "imageUrl": "https://images.wsj.net/im-95643648",
+    "category": "Business"
+  },
+  {
+    "websiteName": "What",
+    "title": "This cheap home cinema system combines an Award-winning Mini LED TV and Dolby Atmos sound bar with devastatingly good results",
+    "url": "https://www.whathifi.com/tv-home-cinema/this-cheap-home-cinema-system-combines-an-award-winning-mini-led-and-dolby-atmos-sound-bar-with-devastatingly-good-results",
+    "date": "2026-01-02T09:04:59.274Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/nF8EpZYfKXE2hrP6s79VmL-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Zerohedge",
+    "title": "Jack Smith's Twisted, Machiavellian Lawfare Mindset Paints Dystopian Future For The USA If Not Dispatched Quickly",
+    "url": "https://www.zerohedge.com/political/jack-smiths-twisted-machiavellian-lawfare-mindset-paints-dystopian-future-usa-if-not",
+    "date": "2026-01-02T02:04:59.274Z",
+    "imageUrl": "https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/18trump-special-counsel-jack-smith-1-489e-videoSixteenByNine3000_2.jpg?itok=Xu5qwHow",
+    "category": "Business"
+  },
+  {
+    "websiteName": "NBC",
+    "title": "Betty Boop enters public domain",
+    "url": "https://www.nbcnews.com/video/shorts/betty-boop-enters-pubic-domain-255281733743",
+    "date": "2026-01-02T04:04:59.274Z",
+    "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_01/betty_boop_thumb-6bekz2.jpg",
+    "category": "Other"
+  },
+  {
     "websiteName": "FOX",
     "title": "Golf legend Phil Mickelson weighs in on alleged fraud in California",
     "url": "https://www.foxnews.com/sports/golf-legend-phil-mickelson-weighs-alleged-fraud-california",
