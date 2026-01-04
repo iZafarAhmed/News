@@ -1,5 +1,350 @@
 [
   {
+    "websiteName": "NBC",
+    "title": "U.S. allies and foes fear Maduro's capture sets precedent for more American intervention",
+    "url": "https://www.nbcnews.com/world/venezuela/us-allies-foes-fear-maduros-capture-sets-precedent-rcna252141",
+    "date": "2026-01-04T13:46:54.415Z",
+    "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260104-maduro-rs-e26787.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "WSJ",
+    "title": "Venezuela’s Maduro Seemed Untouchable. Now He Will Stand Trial in New York.",
+    "url": "https://www.wsj.com/world/americas/venezuelas-maduro-seemed-untouchable-now-he-will-stand-trial-in-new-york-83de4a5b",
+    "date": "2026-01-03T19:17:54.417Z",
+    "imageUrl": "https://images.wsj.net/im-65913839",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Gizmodo",
+    "title": "EV Makers Could Struggle in 2026, but Jeff Bezos Might Have a Great 2027",
+    "url": "https://gizmodo.com/ev-makers-could-struggle-in-2026-but-jeff-bezos-might-have-a-great-2027-2000705007",
+    "date": "2026-01-02T14:17:54.417Z",
+    "imageUrl": "https://gizmodo.com/app/uploads/2025/04/Blank-Slate-Roller-2-1280x854.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Seeking",
+    "title": "Americold: Attractive Valuation, But Weak Fundamentals",
+    "url": "https://seekingalpha.com/article/4857027-americold-attractive-valuation-but-weak-fundamentals?source=feed_all_articles",
+    "date": "2026-01-04T11:17:54.417Z",
+    "imageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1333159193/image_1333159193.jpg?io=getty-c-w1536",
+    "category": "Business"
+  },
+  {
+    "websiteName": "The",
+    "title": "Mother of teenager who died in Swiss bar fire says he ‘has now left to party in paradise’",
+    "url": "https://www.independent.co.uk/news/world/europe/switzerland-fire-memorial-mass-crans-montana-deaths-b2894143.html",
+    "date": "2026-01-04T10:17:54.417Z",
+    "imageUrl": "https://static.independent.co.uk/2026/01/04/10/Switzerland_Bar_Fire_88852.jpg?width=1200&auto=webp&crop=3%3A2",
+    "category": "World News"
+  },
+  {
+    "websiteName": "The",
+    "title": "Why has Trump attacked Venezuela? What we know so far as Maduro captured",
+    "url": "https://www.independent.co.uk/news/world/americas/trump-attack-venezuela-maduro-captured-why-b2894166.html",
+    "date": "2026-01-04T11:17:54.417Z",
+    "imageUrl": "https://static.independent.co.uk/2026/01/03/8/34/GettyImages-2253839665.jpg?width=1200&auto=webp&crop=3%3A2",
+    "category": "World News"
+  },
+  {
+    "websiteName": "ABC",
+    "title": "How cocaine and corruption led to the indictment of Maduro",
+    "url": "https://abcnews.go.com/US/wireStory/cocaine-corruption-led-indictment-maduro-128883632",
+    "date": "2026-01-04T05:17:54.417Z",
+    "imageUrl": "https://s.abcnews.com/images/US/wirestory_25a6fbd922472296c744eb5111cd914c_16x9_1600.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Newsweek",
+    "title": "Blue Jays Face New Reported Competition for Bo Bichette",
+    "url": "https://www.newsweek.com/sports/mlb/blue-jays-face-new-reported-competition-for-bo-bichette-11304013",
+    "date": "2026-01-04T13:19:54.418Z",
+    "imageUrl": "https://assets.newsweek.com/wp-content/uploads/2025/12/GettyImages-2244066614.jpg?w=1200crop=1",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Creative",
+    "title": "How Adobe thinks creatives will use AI in 2026 – from Firefly to Project Graph",
+    "url": "https://www.creativebloq.com/tech/from-firefly-to-graph-how-adobe-thinks-creatives-will-use-ai-in-2026",
+    "date": "2026-01-01T14:17:54.418Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/eJyPtHrRsJV5TeASqvrVp4-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "GameSpot",
+    "title": "Friday The 13th Out-Of-Print Deluxe 12-Movie Collection Gets Massive Discount",
+    "url": "https://www.gamespot.com/articles/friday-the-13th-collection-deluxe-edition-shout-factory-amazon-black-friday-deal/1100-6536258/?ftag=CAD-01-10abi2f",
+    "date": "2026-01-02T14:17:54.418Z",
+    "imageUrl": "https://www.gamespot.com/a/uploads/screen_medium/1595/15950357/4628943-fridaythe13thdeluxecollectionthumbnail.png",
+    "category": "Gaming"
+  },
+  {
+    "websiteName": "France24",
+    "title": "Iranians rally in Tehran as violence intensifies in western regions",
+    "url": "https://www.france24.com/en/asia-pacific/20260104-iranians-rally-in-tehran-violence-intensifies-in-western-regions",
+    "date": "2026-01-04T08:17:54.418Z",
+    "imageUrl": "https://s.france24.com/media/display/1308a510-e949-11f0-b4a0-005056a90284/w:1024/p:16x9/AP26004221769471.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "GameSpot",
+    "title": "Assassin's Creed TV Show: Here's Who Will Star In And Direct",
+    "url": "https://www.gamespot.com/articles/assassins-creed-tv-show-all-the-casting-announcements/1100-6537004/?ftag=CAD-01-10abi2f",
+    "date": "2026-01-03T22:17:54.418Z",
+    "imageUrl": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4626279-screenshot2025-12-19at1.47.12%E2%80%AFpm.png",
+    "category": "Gaming"
+  },
+  {
+    "websiteName": "Wired",
+    "title": "A New Bridge Links the Strange Math of Infinity to Computer Science",
+    "url": "https://www.wired.com/story/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science/",
+    "date": "2026-01-04T11:17:54.418Z",
+    "imageUrl": "https://media.wired.com/photos/693fd8699d0ebfe2d23b02bd/master/pass/Set-Theory-Algorythms-cr-Valentin-Tkach-Lede.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Wired",
+    "title": "AirDoctor Coupon Codes: 40% Off | January 2026",
+    "url": "https://www.wired.com/story/airdoctor-coupon-code/",
+    "date": "2026-01-04T06:17:54.418Z",
+    "imageUrl": "https://media.wired.com/photos/66ea07733dd51041d9bb38c6/master/pass/WIRED-Coupons-1.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "GSMArena",
+    "title": "OnePlus showcases the Turbo 6 in live images",
+    "url": "https://www.gsmarena.com/oneplus_showcases_the_turbo_6_in_live_images-news-70941.php",
+    "date": "2026-01-02T14:17:54.418Z",
+    "imageUrl": "https://fdn.gsmarena.com/imgroot/news/26/01/oneplus-turbo-6-live-images/-952x498w6/gsmarena_000.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Healthline",
+    "title": "Eating Nuts May Help Reduce Food Cravings, Promote Weight Management",
+    "url": "https://www.healthline.com/health-news/nuts-reduce-cravings-promote-weight-management",
+    "date": "2026-01-04T13:59:54.418Z",
+    "imageUrl": "https://media.post.rvohealth.io/wp-content/uploads/2025/12/pouring-nuts-hand-1296x728-header.jpg",
+    "category": "Health"
+  },
+  {
+    "websiteName": "Tom's",
+    "title": "German retail supplier allegedly rationing RTX 5070 GPUs — more powerful Nvidia graphics cards are completely out of stock",
+    "url": "https://www.tomshardware.com/pc-components/gpus/german-retail-supplier-allegedly-rationing-rtx-5070-gpus-more-powerful-nvidia-graphics-cards-are-completely-out-of-stock",
+    "date": "2026-01-04T13:32:54.418Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/MtFYyAjFK9GyKAjy7GBfwZ-1280-80.png",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Al",
+    "title": "LIVE: Government forces control multiple cities in southern Yemen",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/1/4/live-government-forces-control-multiple-cities-in-southern-yemen?traffic_source=rss",
+    "date": "2026-01-04T09:17:54.418Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/01/afp_695a390e4004-1767520526.jpg?resize=1920%2C1440",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Newsweek",
+    "title": "Red Sox Acquire 27-Year-Old Outfielder After Pirates Exit: Report",
+    "url": "https://www.newsweek.com/sports/mlb/red-sox-acquire-27-year-old-outfielder-after-pirates-exit-report-11304131",
+    "date": "2026-01-04T13:25:54.419Z",
+    "imageUrl": "https://assets.newsweek.com/wp-content/uploads/2025/09/2727006-ed-acosta-obituary-pittsburgh-pirates-hat-glove.jpg?w=1200crop=1",
+    "category": "Other"
+  },
+  {
+    "websiteName": "TIME",
+    "title": "The Long Fight to Legalize Divorce in the Philippines",
+    "url": "https://time.com/7342782/philippines-divorce-illegal-congress-bills-catholic-church-annulment-womens-rights/",
+    "date": "2026-01-04T11:17:54.419Z",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "PCWorld",
+    "title": "Govee’s smart ceiling light doubles as a virtual sky light",
+    "url": "https://www.pcworld.com/article/3019669/govees-smart-ceiling-light-doubles-as-a-virtual-sky-light.html",
+    "date": "2026-01-04T12:17:54.419Z",
+    "imageUrl": "https://b2c-contenthub.com/wp-content/uploads/2025/12/Celling-Light-Ultra-2.jpg?quality=50&strip=all&w=1200",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Wired",
+    "title": "8 WhatsApp Features to Boost Your Security and Privacy",
+    "url": "https://www.wired.com/story/5-features-that-boost-security-and-privacy-on-whatsapp/",
+    "date": "2026-01-04T10:17:54.419Z",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "ESPN",
+    "title": "Betting 'Sunday Night Football': Take Derrick Henry to lift Ravens, plus DFS tips",
+    "url": "https://www.espn.com/espn/betting/story/_/id/47471717/nfl-week-18-odds-lines-spread-betting-picks-dfs-tips-sunday-night-football-preview-baltimore-ravens-pittsburgh-steelers",
+    "date": "2026-01-04T12:17:54.419Z",
+    "imageUrl": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0104%2Fr1596351_1296x729_16%2D9.jpg",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "The",
+    "title": "Dining across the divide: ‘I think gentrification is a social good. He said you lose communities’",
+    "url": "https://www.theguardian.com/lifeandstyle/2026/jan/04/dining-across-the-divide-rupert-paul",
+    "date": "2026-01-04T11:17:54.419Z",
+    "imageUrl": "https://i.guim.co.uk/img/media/c58c1f470cd4c6a4c4bf02ef0aa1b9a88ec0e91c/1127_358_4107_3285/master/4107.jpg?width=700&quality=85&auto=format&fit=max&s=41e74dab576a8cda4bbdfc15ebd12672",
+    "category": "World News"
+  },
+  {
+    "websiteName": "ESPN",
+    "title": "Draymond ejected again; 'we need him,' Kerr says",
+    "url": "https://www.espn.com/nba/story/_/id/47497463/warriors-green-argues-refs-earns-2nd-ejection-2-weeks",
+    "date": "2026-01-04T12:17:54.419Z",
+    "imageUrl": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0104%2Fr1596324_1296x729_16%2D9.jpg",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "FOX",
+    "title": "Martina Navratilova expresses support for criminal sanctions to US companies that take oil from Venezuela",
+    "url": "https://www.foxnews.com/sports/martina-navratilova-support-criminal-sanctions-us-companies-oil-from-venezuela",
+    "date": "2026-01-04T10:17:54.419Z",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/03/1200/675/Martina-Navratilova.jpg?ve=1&tl=1",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Healthline",
+    "title": "CBD, THC May Provide New Ovarian Cancer Treatments, Study Finds",
+    "url": "https://www.healthline.com/health-news/cannabis-cbd-thc-may-help-treat-ovarian-cancer-study",
+    "date": "2026-01-04T13:59:54.419Z",
+    "imageUrl": "https://media.post.rvohealth.io/wp-content/uploads/2025/12/cannabis-plants-growing-greenhouse-1296x728-header.jpg",
+    "category": "Health"
+  },
+  {
+    "websiteName": "Healthline",
+    "title": "Your Favorite Holiday Beverage May Weaken Your Bones, Experts Say",
+    "url": "https://www.healthline.com/health-news/favorite-holiday-beverage-bone-health-damage",
+    "date": "2026-01-04T13:59:54.419Z",
+    "imageUrl": "https://media.post.rvohealth.io/wp-content/uploads/2025/12/Holiday-Beverage-Stocksy_txp83d421d6GQD400_Medium_1482312-Header.jpg",
+    "category": "Health"
+  },
+  {
+    "websiteName": "NPR",
+    "title": "Trump tried to bury evidence of the Jan. 6 riot. NPR's archive preserves the facts",
+    "url": "https://apps.npr.org/jan-6-archive/",
+    "date": "2026-01-04T09:17:54.419Z",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "ESPN",
+    "title": "Amid boos, Baylor's Nnaji debuts in loss at TCU",
+    "url": "https://www.espn.com/mens-college-basketball/story/_/id/47493605/james-nnaji-debuts-5-points-4-fouls-baylor-loss",
+    "date": "2026-01-04T12:17:54.419Z",
+    "imageUrl": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0103%2Fr1596188_1296x729_16%2D9.jpg",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "GSMArena",
+    "title": "Top 10 trending phones of week 1",
+    "url": "https://www.gsmarena.com/top_10_trending_phones_of_week_1-news-70942.php",
+    "date": "2026-01-04T09:17:54.419Z",
+    "imageUrl": "https://fdn.gsmarena.com/imgroot/news/19/04/top10-trending-phones/-952x498w6/gsmarena_003.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "HowToGeek",
+    "title": "The forgotten Android TV streaming device that was ahead of its time",
+    "url": "https://www.howtogeek.com/the-forgotten-android-tv-streaming-device-that-was-ahead-of-its-time/",
+    "date": "2026-01-04T12:17:54.419Z",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "NPR",
+    "title": "Trump wants U.S. oil companies in Venezuela. Here's what to know",
+    "url": "https://www.npr.org/2026/01/04/nx-s1-5665795/trump-us-oil-companies-venezuela",
+    "date": "2026-01-04T09:17:54.419Z",
+    "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2160x1440+0+0/resize/2160x1440!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2F77%2F5f972ea9484ebd1cd2196d3c51ea%2Fgettyimages-51418825.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "HowToGeek",
+    "title": "Jackery’s new Solar Gazebo is what your backyard needs",
+    "url": "https://www.howtogeek.com/jackerys-new-solar-gazebo-is-what-your-backyard-needs/",
+    "date": "2026-01-04T12:17:54.419Z",
+    "imageUrl": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/01/jackery-solar-gazebo.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "HowToGeek",
+    "title": "Stop crashing your Python scripts: How Zarr handles massive arrays",
+    "url": "https://www.howtogeek.com/stop-crashing-your-python-scripts-how-zarr-handles-massive-arrays/",
+    "date": "2026-01-04T11:17:54.419Z",
+    "imageUrl": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/08/illustration-of-a-laptop-displaying-python-code-with-floating-code-windows-and-the-python-logo-on-a-blue-patterned-background.png",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Mashable",
+    "title": "eharmony review: The dating app for people who treat finding a spouse like a full-time job",
+    "url": "https://mashable.com/review/eharmony-dating-site-review",
+    "date": "2026-01-04T09:17:54.419Z",
+    "imageUrl": "https://helios-i.mashable.com/imagery/reviews/07wpgdq25PikTbVsRFHF6AY/hero-image.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "The",
+    "title": "My 3 Favorite Artificial Intelligence Stocks to Buy Right Now",
+    "url": "https://www.fool.com/investing/2026/01/04/my-3-favorite-artificial-intelligence-stocks-to/",
+    "date": "2026-01-04T10:17:54.419Z",
+    "imageUrl": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F846578%2Fhuman-and-robot-shaking-hands.jpg&w=700",
+    "category": "Business"
+  },
+  {
+    "websiteName": "South",
+    "title": "Hongkonger who allegedly posed as officer held over burglaries aimed at elderly",
+    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3338687/hongkonger-who-allegedly-posed-officer-held-over-burglaries-aimed-elderly?utm_source=rss_feed",
+    "date": "2026-01-04T12:17:54.419Z",
+    "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/01/04/d492843c-3e65-4c04-bfd8-b6fa2bf39939_bee5654c.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "WSJ",
+    "title": "The Winners and Losers From 2026’s Mix of Tax and Benefit Cuts",
+    "url": "https://www.wsj.com/economy/consumers/the-winners-and-losers-from-2026s-mix-of-tax-and-benefit-cuts-3d93efcd?mod=rss_markets_main",
+    "date": "2026-01-04T10:17:54.419Z",
+    "imageUrl": "https://images.wsj.net/im-65877975",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Healthline",
+    "title": "FDA Says It's Time to Ease Restrictions on Testosterone Replacement Therapy",
+    "url": "https://www.healthline.com/health-news/fda-panel-restrictions-testosterone-replacement-therapy",
+    "date": "2026-01-04T13:59:54.419Z",
+    "imageUrl": "https://media.post.rvohealth.io/wp-content/uploads/2025/12/FDA-Testosterone-Medication-Pharmacy-Shelves-1296x728-header.jpg",
+    "category": "Health"
+  },
+  {
+    "websiteName": "XDA",
+    "title": "The Raspberry Pi 5 is excellent hardware with an identity crisis",
+    "url": "https://www.xda-developers.com/raspberry-pi-5-excellent-hardware-with-identity-crisis/",
+    "date": "2026-01-04T10:17:54.419Z",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "WSJ",
+    "title": "Iran’s Refusal to Dial Back Nuclear Program Lit Fuse on Currency Crisis",
+    "url": "https://www.wsj.com/world/middle-east/irans-refusal-to-dial-back-nuclear-program-lit-fuse-on-currency-crisis-b259e54d",
+    "date": "2026-01-02T14:17:54.419Z",
+    "imageUrl": "https://images.wsj.net/im-77221123",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Inc.com",
+    "title": "6 Reasons to Run Your Company on EOS",
+    "url": "https://www.inc.com/jamie-munoz/6-reasons-to-run-your-company-on-eos/91282573",
+    "date": "2026-01-02T14:17:54.419Z",
+    "category": "Business"
+  },
+  {
+    "websiteName": "CBR",
+    "title": "Game of Thrones Star's Underseen Historical Drama Quietly Dominates the Streaming Charts 10 Years Later",
+    "url": "https://www.cbr.com/medici-masters-of-florence-pvod-success-january-2026/",
+    "date": "2026-01-04T13:59:54.420Z",
+    "category": "Entertainment"
+  },
+  {
     "websiteName": "GSMArena",
     "title": "Top 10 trending phones of week 1",
     "url": "https://www.gsmarena.com/top_10_trending_phones_of_week_1-news-70942.php",
