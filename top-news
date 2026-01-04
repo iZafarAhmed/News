@@ -1,5 +1,702 @@
 [
   {
+    "websiteName": "BBC",
+    "title": "Swiss open criminal case against managers of ski resort bar after deadly fire",
+    "url": "https://www.bbc.com/news/articles/cjdjl303zxlo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-01-03T20:49:21.653Z",
+    "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/eb88/live/796cc260-e894-11f0-b4b3-f5118369b77f.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Al",
+    "title": "‘Team’ from US to run Venezuela after ‘capture’ of Maduro",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/1/3/team-from-us-to-run-venezuela-after-capture-of-maduro?traffic_source=rss",
+    "date": "2026-01-03T17:49:21.654Z",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "WSJ",
+    "title": "Inside Operation Absolute Resolve, the U.S. Incursion That Deposed Venezuela’s Maduro",
+    "url": "https://www.wsj.com/politics/national-security/inside-operation-absolute-resolve-the-u-s-incursion-that-deposed-venezuelas-maduro-fa812617",
+    "date": "2026-01-03T23:49:21.655Z",
+    "imageUrl": "https://images.wsj.net/im-17459071",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Al",
+    "title": "Fact-checking Trump following US ‘capture’ of Venezuela’s Maduro",
+    "url": "https://www.aljazeera.com/news/2026/1/4/fact-checking-trump-following-us-capture-of-venezuelas-maduro?traffic_source=rss",
+    "date": "2026-01-04T02:49:21.655Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/01/2026-01-03T183233Z_1419358269_RC2UTIACH6F3_RTRMADP_3_USA-VENEZUELA-1767483432.jpg?resize=1200%2C630",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "South",
+    "title": "Power vacuum in Caracas? Venezuelans wonder who’s in charge after Maduro capture",
+    "url": "https://www.scmp.com/news/world/americas/article/3338647/power-vacuum-caracas-venezuelans-wonder-whos-charge-after-maduro-capture?utm_source=rss_feed",
+    "date": "2026-01-04T01:49:21.655Z",
+    "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/01/04/99973e90-de08-4875-848c-39ae91b23891_f12f10f1.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "The",
+    "title": "Australia v England: fifth Ashes Test, day one – live",
+    "url": "https://www.theguardian.com/sport/live/2026/jan/04/australia-v-england-fifth-ashes-test-day-one-live-updates-sydney-scg",
+    "date": "2026-01-04T03:58:21.655Z",
+    "imageUrl": "https://i.guim.co.uk/img/media/f64bdfd3c681dce1604bfcfe089ae9ec8bb2e21d/706_0_4613_3693/master/4613.jpg?width=700&quality=85&auto=format&fit=max&s=9bf9e5c641b5d11aa4bb6b93f1ea48b6",
+    "category": "World News"
+  },
+  {
+    "websiteName": "South",
+    "title": "Yemen presidential council chief says pro-Saudi forces regain province from separatists",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3338642/yemen-presidential-council-chief-says-pro-saudi-forces-regain-province-separatists?utm_source=rss_feed",
+    "date": "2026-01-03T21:49:21.655Z",
+    "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/01/04/b694d2be-f871-4811-b38a-6d93a49a6aa5_5d8b22b3.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Sky",
+    "title": "'Dragged from their bedroom': How the US struck Venezuela - and removed Maduro and wife",
+    "url": "https://news.sky.com/story/everything-we-know-about-us-strikes-on-venezuela-13489955",
+    "date": "2026-01-03T13:49:21.655Z",
+    "imageUrl": "https://e3.365dm.com/26/01/1920x1080/skynews-venezuela-caracas-us-strikes_7124970.jpg?20260103104751",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "NPR",
+    "title": "What to know about the U.S. strikes in Venezuela — and the fallout",
+    "url": "https://www.npr.org/2026/01/03/nx-s1-5665670/venezuela-strikes-us-maduro",
+    "date": "2026-01-03T21:49:21.656Z",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Al",
+    "title": "US lawmakers react to attack on Venezuela, ‘capture’ of Nicolas Maduro",
+    "url": "https://www.aljazeera.com/news/2026/1/3/us-lawmakers-react-to-attack-on-venezuela-capture-of-maduro?traffic_source=rss",
+    "date": "2026-01-03T15:49:21.656Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/01/AP26003438069663-1767449664.jpg?resize=1920%2C1440",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "South",
+    "title": "Japan’s shoplifters hate a simple ‘hello’ more than cameras",
+    "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3338566/japans-shoplifters-hate-simple-hello-more-cameras?utm_source=rss_feed",
+    "date": "2026-01-03T23:49:21.656Z",
+    "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/01/03/4c68a3cb-0915-492e-8c41-4226d137e775_adced53b.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Al",
+    "title": "US Republicans back Trump on Venezuela amid faint MAGA dissent",
+    "url": "https://www.aljazeera.com/news/2026/1/4/us-republicans-back-trump-on-venezuela-amid-faint-maga-dissent?traffic_source=rss",
+    "date": "2026-01-04T02:49:21.656Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/01/2026-01-04T005259Z_1155150438_RC20UIAN2CIF_RTRMADP_3_USA-VENEZUELA-1767492771.jpg?resize=1200%2C630",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "BBC",
+    "title": "Spies, drones and blowtorches: How the US captured Maduro",
+    "url": "https://www.bbc.com/news/articles/cdred61epg4o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-01-03T22:49:21.656Z",
+    "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5456/live/f184aa00-e8ea-11f0-b67b-690eb873de1b.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "South",
+    "title": "Afghanistan-Pakistan border closure leaves thousands stranded: ‘we miss our parents’",
+    "url": "https://www.scmp.com/news/world/russia-central-asia/article/3338652/afghanistan-pakistan-border-closure-leaves-thousands-stranded-we-miss-our-parents?utm_source=rss_feed",
+    "date": "2026-01-04T03:58:21.656Z",
+    "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/01/04/a6a93500-502c-4c13-9ebb-25cf062c9998_fc39b47c.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "BBC",
+    "title": "Joshua flies back to UK after Nigeria car crash",
+    "url": "https://www.bbc.com/sport/boxing/articles/c368p7zld0wo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-01-03T11:49:21.656Z",
+    "imageUrl": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5779/live/d4224d60-e89e-11f0-b4b3-f5118369b77f.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "The",
+    "title": "Epstein disclosures raise key question: why wasn’t he stopped earlier?",
+    "url": "https://www.theguardian.com/us-news/2026/jan/03/epstein-files-police-failures",
+    "date": "2026-01-03T13:49:21.656Z",
+    "imageUrl": "https://i.guim.co.uk/img/media/c4dd15ed72060c009654575ef3235bbfc38e8090/36_4_1481_1185/master/1481.jpg?width=700&quality=85&auto=format&fit=max&s=8b9bc089315e5be1fbedd59ffdaa98de",
+    "category": "World News"
+  },
+  {
+    "websiteName": "WSJ",
+    "title": "Venezuela’s Maduro Seemed Untouchable. Now He Will Stand Trial in New York.",
+    "url": "https://www.wsj.com/world/americas/venezuelas-maduro-seemed-untouchable-now-he-will-stand-trial-in-new-york-83de4a5b",
+    "date": "2026-01-03T19:49:21.656Z",
+    "imageUrl": "https://images.wsj.net/im-65913839",
+    "category": "World News"
+  },
+  {
+    "websiteName": "South",
+    "title": "Was the US capture of Venezuela’s President Maduro legal?",
+    "url": "https://www.scmp.com/news/world/americas/article/3338646/was-us-capture-venezuelas-president-maduro-legal?utm_source=rss_feed",
+    "date": "2026-01-04T00:49:21.656Z",
+    "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/01/04/2674ae3b-20c5-4eb8-b9be-da7cde2422bb_17049df5.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "France24",
+    "title": "REPLAY: US President Donald Trump Press conference on Venezuela's attack and capture of Maduro",
+    "url": "https://www.france24.com/en/video/20260103-replay-us-president-donald-trump-press-conference-on-venezuela-s-attack-and-capture-of-maduro",
+    "date": "2026-01-03T17:49:21.656Z",
+    "imageUrl": "https://s.france24.com/media/display/45b832bc-e8ce-11f0-87d2-005056a90284/w:1024/p:16x9/EN-20260103-173909-183709-CS.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "BBC",
+    "title": "Family of UK couple held in Iran take petition to No 10",
+    "url": "https://www.bbc.com/news/articles/c9wxrd12wn4o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-01-03T20:49:21.656Z",
+    "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/caa5/live/c96cc1d0-e8e8-11f0-936c-19c35f0ff3e5.png",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "South",
+    "title": "Low-income Hongkongers stuck in endless red tape of medical fee waiver applications",
+    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3338632/low-income-hongkongers-stuck-endless-red-tape-medical-fee-waiver-applications?utm_source=rss_feed",
+    "date": "2026-01-04T00:49:21.656Z",
+    "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/01/03/ad3769d2-4275-4331-9a3c-96a36b451e02_6ce37e07.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "South",
+    "title": "Why Singapore is betting on international partnerships to help its film industry scale up",
+    "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3338560/why-singapore-betting-international-partnerships-help-its-film-industry-scale?utm_source=rss_feed",
+    "date": "2026-01-04T04:00:21.656Z",
+    "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/01/02/7b27840a-fb45-4bcc-945e-0923a3ad06a2_93ecfe66.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Al",
+    "title": "Real Madrid to ‘push deadline’ for Mbappe to make Atletico Super Cup return",
+    "url": "https://www.aljazeera.com/sports/2026/1/3/real-madrid-to-push-deadline-for-mbappe-to-make-atletico-super-cup-return?traffic_source=rss",
+    "date": "2026-01-03T16:49:21.656Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/01/2025-12-20T203101Z_61045970_UP1ELCK1KZNWQ_RTRMADP_3_SOCCER-SPAIN-RMA-SEV-1767458500.jpg?resize=1920%2C1336",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "South",
+    "title": "North Korean missiles fall near Japan; South Korea, Japan on alert",
+    "url": "https://www.scmp.com/news/asia/east-asia/article/3338644/north-korean-missile-falls-near-japan-takaichi-orders-safety-checks?utm_source=rss_feed",
+    "date": "2026-01-03T23:49:21.656Z",
+    "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/01/04/0894a2db-83ae-49fb-97f6-8344418aa950_64359e59.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Al",
+    "title": "‘Act of war’: Expert rejects Trump rationale for Venezuela attack",
+    "url": "https://www.aljazeera.com/news/2026/1/3/act-of-war-expert-rejects-trump-rationale-for-venezuela-attack?traffic_source=rss",
+    "date": "2026-01-03T22:49:21.656Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/01/epa_695993b79702-1767478199.jpg?resize=1920%2C1440",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "WSJ",
+    "title": "Trump Wants to Unlock Venezuela’s Oil Reserves. A Huge Challenge Awaits.",
+    "url": "https://www.wsj.com/business/energy-oil/chevron-charts-a-new-path-in-venezuela-to-unlock-vast-oil-reserves-0369ce1b",
+    "date": "2026-01-03T21:49:21.657Z",
+    "imageUrl": "https://images.wsj.net/im-24726265",
+    "category": "World News"
+  },
+  {
+    "websiteName": "South",
+    "title": "New KMT chair hopes to take peace message to Beijing while on Taiwan political tightrope",
+    "url": "https://www.scmp.com/news/china/politics/article/3338624/new-kmt-chair-hopes-take-peace-message-beijing-while-taiwan-political-tightrope?utm_source=rss_feed",
+    "date": "2026-01-04T04:00:21.657Z",
+    "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/01/03/84ac8fc4-ee99-449e-84d4-9e47674b0010_fdbbc17c.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Daily",
+    "title": "Faces of the missing: Families plead for information about missing loved ones, many of them children, following Swiss nightclub blaze that left 47 dead",
+    "url": "https://www.dailymail.co.uk/news/article-15428925/Faces-missing-Families-plead-information-missing-loved-ones-children-following-Swiss-nightclub-blaze-left-47-dead.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+    "date": "2026-01-02T04:49:21.657Z",
+    "imageUrl": "https://i.dailymail.co.uk/1s/2026/01/02/12/105176909-0-image-a-7_1767356730824.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "South",
+    "title": "Hong Kong temperatures to dip to 12 degrees Celsius as northeasterly monsoon arrives",
+    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3338650/hong-kong-temperatures-dip-12-degrees-celsius-northeasterly-monsoon-arrives?utm_source=rss_feed",
+    "date": "2026-01-04T02:49:21.657Z",
+    "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/01/04/fb1b7019-eab0-4567-8de7-89fb26dc0e3d_183ca37a.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "BBC",
+    "title": "Will 2026 be the year MPs and peers agree on how to repair Parliament?",
+    "url": "https://www.bbc.com/news/articles/c5yqlpx4gp3o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-01-03T23:49:21.657Z",
+    "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/079d/live/72997900-dfe9-11f0-9510-f5a780b2011e.png",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "WSJ",
+    "title": "After Maduro Ouster, Trump Takes On the Risks of Governing Venezuela",
+    "url": "https://www.wsj.com/world/americas/after-maduro-ouster-trump-takes-on-the-risks-of-governing-venezuela-d1ac75d4",
+    "date": "2026-01-04T01:49:21.657Z",
+    "imageUrl": "https://images.wsj.net/im-82578197",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Al",
+    "title": "What are the implications of US ‘capture’ of Nicolas Maduro?",
+    "url": "https://www.aljazeera.com/video/inside-story/2026/1/3/what-are-the-implications-of-the-us-capture-of-nicolas-maduro?traffic_source=rss",
+    "date": "2026-01-03T22:49:21.657Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/01/image-1767479585.jpg?resize=1620%2C1080&quality=80",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Sky",
+    "title": "Why Trump's removal of Maduro is unprecedented - and what it means for the world",
+    "url": "https://news.sky.com/story/why-trumps-removal-of-maduro-is-unprecedented-13489912",
+    "date": "2026-01-03T11:49:21.657Z",
+    "imageUrl": "https://e3.365dm.com/25/11/1920x1080/skynews-maduro-trump_7096149.jpg?20251222104852",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "BBC",
+    "title": "'Deeply shocked': World leaders react to US attack on Venezuela",
+    "url": "https://www.bbc.com/news/articles/czx1rpxzyx9o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-01-04T01:49:21.657Z",
+    "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/19a6/live/dce55250-e905-11f0-a6e9-39449fe1d5f3.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "WSJ",
+    "title": "Could You Pass South Korea’s English Language Test? Try Our Quiz",
+    "url": "https://www.wsj.com/world/asia/could-you-pass-south-koreas-english-language-test-try-our-quiz-e681cdbb",
+    "date": "2026-01-03T16:49:21.657Z",
+    "imageUrl": "https://images.wsj.net/im-30627464",
+    "category": "World News"
+  },
+  {
+    "websiteName": "France24",
+    "title": "AFCON 2025 : Senegal and Sudan open knockout stage at Tangier",
+    "url": "https://www.france24.com/en/tv-shows/sports/20260103-afcon-2025-senegal-and-sudan-open-knockout-stage-at-tangier",
+    "date": "2026-01-03T15:49:21.657Z",
+    "imageUrl": "https://s.france24.com/media/display/148d2a74-e853-11f0-aea4-005056a97e36/w:1024/p:16x9/AP25364779955787.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "BBC",
+    "title": "Joint UK-French air strike targets IS arms cache in Syria",
+    "url": "https://www.bbc.com/news/articles/c1m7l8keyexo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-01-04T00:49:21.657Z",
+    "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a1ed/live/9198fad0-e8fc-11f0-a551-73d476d78ed7.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "The",
+    "title": "Venezuelan leader Maduro lands in New York after capture by US troops – live",
+    "url": "https://www.theguardian.com/world/live/2026/jan/03/caracas-explosions-venezuela-maduro-latest-news-updates-live",
+    "date": "2026-01-04T03:57:21.657Z",
+    "imageUrl": "https://i.guim.co.uk/img/media/aaa39b513c475c54de4a5b257c070b172f85d62a/546_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=4953cd1329af1aeca1007695b8f7c1b4",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "BBC",
+    "title": "How UK plush toy Jellycat conquered China",
+    "url": "https://www.bbc.com/news/articles/cj0e36p74v1o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-01-03T22:49:21.657Z",
+    "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/df89/live/a8c28410-c106-11f0-801d-4586c230975c.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "France24",
+    "title": "US launch strikes on Venezuela, captures President Maduro",
+    "url": "https://www.france24.com/en/video/20260103-us-launch-strikes-on-venezuela-captures-president-maduro",
+    "date": "2026-01-03T19:49:21.657Z",
+    "imageUrl": "https://s.france24.com/media/display/13a4cf76-e8e5-11f0-b7b0-005056a97e36/w:1024/p:16x9/capture-183952193069597fcdebf7b2-03682431.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Al",
+    "title": "Indonesia hire former Canada coach Herdman to replace Kluivert",
+    "url": "https://www.aljazeera.com/sports/2026/1/3/indonesia-hire-former-canada-coach-herdman-to-replace-kluivert?traffic_source=rss",
+    "date": "2026-01-03T15:49:21.657Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/01/2024-09-26T030627Z_214209000_MT1USATODAY24324052_RTRMADP_3_MLS-CANADIAN-CHAMPIONSHIP-FINAL-ROUND-TORONTO-FC-AT-VANCOUVER-WHITECAPS-FC-1767455533.jpg?resize=1920%2C1440",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "The",
+    "title": "North Korea launches ballistic missiles towards sea hours before South Korean leader’s visit to China",
+    "url": "https://www.theguardian.com/world/2026/jan/03/north-korea-has-fired-ballistic-missile-towards-the-sea-of-japan",
+    "date": "2026-01-04T03:50:21.657Z",
+    "imageUrl": "https://i.guim.co.uk/img/media/4467620bbda49e81cfa94a78611ffa556e268b35/0_117_3120_2496/master/3120.jpg?width=700&quality=85&auto=format&fit=max&s=7dea4bc34ba8aa0c0066506f024044da",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "BBC",
+    "title": "The Papers: 'America on the warpath' and 'Trump to run Venezuela'",
+    "url": "https://www.bbc.com/news/articles/cvgpewy0rgjo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-01-03T22:49:21.657Z",
+    "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c53a/live/1fa2db00-e8fa-11f0-aae2-2191c0e48a3b.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "South",
+    "title": "How China quietly became the world’s climate policy leader",
+    "url": "https://www.scmp.com/opinion/china-opinion/article/3338280/how-china-quietly-became-worlds-climate-policy-leader?utm_source=rss_feed",
+    "date": "2026-01-03T20:49:21.657Z",
+    "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/01/02/d1a3303b-8ea5-4dbe-9dee-e3583ee0671e_a1d12a3f.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "BBC",
+    "title": "'A long road ahead': Venezuelans react to Maduro's arrest with hope and worry",
+    "url": "https://www.bbc.com/news/articles/c86vq753nwpo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-01-04T02:49:21.657Z",
+    "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/293c/live/d5fab210-e8fa-11f0-89f9-41a77807b575.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Sky",
+    "title": "The US has followed through on its Venezuela threats - how did we get here?",
+    "url": "https://news.sky.com/story/us-strikes-on-venezuela-how-did-we-get-here-13489872",
+    "date": "2026-01-03T08:49:21.657Z",
+    "imageUrl": "https://e3.365dm.com/25/12/1920x1080/skynews-trump-maduro_7107044.jpg?20251211012824",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "BBC",
+    "title": "Murderer among two prisoners on run after absconding on New Year's Day",
+    "url": "https://www.bbc.com/news/articles/ce8gy39rezzo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-01-03T18:49:21.657Z",
+    "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f3d9/live/d11a9130-e8d6-11f0-b67b-690eb873de1b.png",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Al",
+    "title": "LIVE: Maduro taken to New York; Trump says US will ‘run’ Venezuela",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/1/3/live-venezuelas-maduro-arrives-in-new-york-after-capture?traffic_source=rss",
+    "date": "2026-01-03T23:49:21.657Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/01/ap_6959a3e19e1cb-1767482337.jpg?resize=1920%2C1440",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "France24",
+    "title": "North Korea fires ballistic missiles towards Sea of Japan in first test of 2026",
+    "url": "https://www.france24.com/en/live-news/20260104-north-korea-fires-ballistic-missiles-in-first-test-of-2026",
+    "date": "2026-01-04T00:49:21.657Z",
+    "imageUrl": "https://s.france24.com/media/display/169c7b18-e90b-11f0-adf9-005056a90284/w:1024/p:16x9/c433b8d4309bf6bb75fefae3bac44bd61ee828da.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "The",
+    "title": "Inside the notorious New York jail where Nicolas Maduro is currently being held",
+    "url": "https://www.the-independent.com/news/world/americas/crime/maduro-jail-metropolitan-detention-center-brooklyn-b2894081.html",
+    "date": "2026-01-04T03:49:21.658Z",
+    "imageUrl": "https://static.independent.co.uk/2026/01/04/2/33/SEI279564906-(1).jpeg?width=1200&auto=webp&crop=3%3A2",
+    "category": "World News"
+  },
+  {
+    "websiteName": "The",
+    "title": "Today an illegal coup in Venezuela, but where next? Donald Trump talks peace but he is a man of war | Simon Tisdall",
+    "url": "https://www.theguardian.com/commentisfree/2026/jan/03/illegal-coup-venezuela-donald-trump-peace-war",
+    "date": "2026-01-03T13:49:21.658Z",
+    "imageUrl": "https://i.guim.co.uk/img/media/3f62beb0bfe52506a26284f967f56ada8bc04135/465_0_4270_3416/master/4270.jpg?width=700&quality=85&auto=format&fit=max&s=60c2e685ccafac74162ab3c7f89d01e3",
+    "category": "World News"
+  },
+  {
+    "websiteName": "NPR",
+    "title": "Maduro faces drug charges in U.S. even as Trump freed others convicted of trafficking",
+    "url": "https://www.npr.org/2026/01/03/nx-s1-5665695/maduro-trump-drug-dealer-pardons",
+    "date": "2026-01-03T19:49:21.658Z",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "The",
+    "title": "Widow claims HOA failed to de-escalate tensions between neighbors before pastor was fatally shot: lawsuit",
+    "url": "https://www.the-independent.com/news/world/americas/crime/las-vegas-woman-sues-hoa-neighbor-fatal-shooting-b2893995.html",
+    "date": "2026-01-03T19:49:21.658Z",
+    "imageUrl": "https://static.independent.co.uk/2026/01/03/18/45/Untitled-design.png?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+    "category": "World News"
+  },
+  {
+    "websiteName": "CBC",
+    "title": "Iran's Khamenei says 'rioters should be put in their place'",
+    "url": "https://www.cbc.ca/news/world/iran-khamenei-protesters-9.7032737?cmp=rss",
+    "date": "2026-01-03T18:49:21.658Z",
+    "imageUrl": "https://i.cbc.ca/ais/ea075099-8b6d-408a-b252-a155f6fe0349,1767464040823/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C15%2C2550%2C1434%29%3BResize%3D%28620%29",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "The",
+    "title": "From squirrel picnics to penpals, karaoke to crochet: 43 easy ways to lift your spirits",
+    "url": "https://www.theguardian.com/lifeandstyle/2026/jan/03/from-squirrel-picnics-to-penpals-karaoke-to-crochet-43-easy-ways-to-lift-your-spirits",
+    "date": "2026-01-03T11:49:21.658Z",
+    "imageUrl": "https://i.guim.co.uk/img/media/50dab118bf0e4d531891a452c9f48fcbfd4e41ea/0_645_5792_4634/master/5792.jpg?width=700&quality=85&auto=format&fit=max&s=ac27ee877868d2a080e6f44b6d4e9898",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Al",
+    "title": "Trump: US ‘captures’ Maduro in ‘dead of night’",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/1/3/trump-us-captures-maduro-in-dead-of?traffic_source=rss",
+    "date": "2026-01-03T16:49:21.658Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/01/2026-01-03T165300Z_824548544_RC2STIA7D0LY_RTRMADP_3_USA-VENEZUELA_cropped-1767460525.jpg?resize=1920%2C1440",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "The",
+    "title": "Who is Kyrylo Budanov? The new Ukraine chief of staff chosen by Zelensky at key moment in Russia War",
+    "url": "https://www.independent.co.uk/news/world/europe/kyrylo-budanov-zelensky-ukraine-chief-of-staff-russia-b2894026.html",
+    "date": "2026-01-03T19:49:21.658Z",
+    "imageUrl": "https://static.independent.co.uk/2026/01/03/5/35/UKRAINE-RUSSIA-CONFLICT-WAR-ecnotysi.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Al",
+    "title": "Swiss launch criminal investigation over deadly fire at ski resort bar",
+    "url": "https://www.aljazeera.com/news/2026/1/3/swiss-launch-criminal-investigation-over-deadly-fire-at-ski-resort-bar?traffic_source=rss",
+    "date": "2026-01-03T21:49:21.659Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/01/afp_69598e2b6b42-1767476779.jpg?resize=1920%2C1440",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "South",
+    "title": "Inside the US operation in Venezuela to capture President Nicolas Maduro",
+    "url": "https://www.scmp.com/news/world/americas/article/3338645/inside-us-operation-venezuela-capture-president-nicolas-maduro?utm_source=rss_feed",
+    "date": "2026-01-04T00:49:21.659Z",
+    "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/01/04/361262ea-40ba-4b62-8d07-bacff6e9e02f_9158202c.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Al",
+    "title": "Venezuela temporarily closes border with Brazil following US strike",
+    "url": "https://www.aljazeera.com/news/2026/1/4/venezuela-temporarily-closes-border-with-brazil-following-us-strike?traffic_source=rss",
+    "date": "2026-01-04T00:49:21.659Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/01/AP26003754967895-1767481078.jpg?resize=1200%2C675",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "The",
+    "title": "UK and France carry out strikes against Isis target in Syria",
+    "url": "https://www.independent.co.uk/news/uk/politics/uk-france-syria-attack-islamic-state-isis-b2894058.html",
+    "date": "2026-01-03T23:49:21.659Z",
+    "imageUrl": "https://static.independent.co.uk/2026/01/03/22/41/01KE30GNFKZV52QBGKAPV1CG27.jpg?width=1200&auto=webp&crop=3%3A2",
+    "category": "World News"
+  },
+  {
+    "websiteName": "NPR",
+    "title": "Trump says U.S. will 'run' Venezuela and sell seized oil in remarks on the strikes",
+    "url": "https://www.npr.org/2026/01/03/g-s1-104346/trump-venezuela-maduro-press-conference",
+    "date": "2026-01-03T14:49:21.659Z",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "France24",
+    "title": "Venezuela: What's next for Nicolas Maduro?",
+    "url": "https://www.france24.com/en/video/20260103-venezuela-what-s-next-for-nicolas-maduro",
+    "date": "2026-01-03T17:49:21.659Z",
+    "imageUrl": "https://s.france24.com/media/display/6e00f454-e8c2-11f0-8ba7-005056bfb2b6/w:1024/p:16x9/EN-20260103-172936-173151-CS.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "France24",
+    "title": "US strikes Venezuela and captures Maduro and his wife",
+    "url": "https://www.france24.com/en/video/20260103-us-strikes-venezuela-and-captures-maduro-and-his-wife",
+    "date": "2026-01-03T14:49:21.659Z",
+    "imageUrl": "https://s.france24.com/media/display/f2f06b0c-e8b5-11f0-a4e6-005056bfb2b6/w:1024/p:16x9/EN-20260103-150857-151336-CS.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "The",
+    "title": "Ukraine war briefing: Ukraine will fight on if peace talks fail, Zelenskyy vows",
+    "url": "https://www.theguardian.com/world/2026/jan/04/ukraine-war-briefing-ukraine-will-fight-on-if-peace-talks-fail-zelenskyy-vows",
+    "date": "2026-01-04T02:49:21.659Z",
+    "imageUrl": "https://i.guim.co.uk/img/media/d1c5f6e3267ce087725dc6c047be6d3c671131a7/1657_98_3244_2595/master/3244.jpg?width=700&quality=85&auto=format&fit=max&s=6594af7861d6f75cf4132ac9ab2dce8f",
+    "category": "World News"
+  },
+  {
+    "websiteName": "South",
+    "title": "China’s wealthy swap real estate for insurance, gold as retirement looms",
+    "url": "https://www.scmp.com/economy/china-economy/article/3337974/chinas-wealthy-swap-real-estate-insurance-gold-retirement-looms?utm_source=rss_feed",
+    "date": "2026-01-04T02:49:21.659Z",
+    "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2025/12/29/69037fce-70ed-4320-bffe-553ba124c3c2_e8982ef7.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "NPR",
+    "title": "Six questions about the capture of Maduro",
+    "url": "https://www.npr.org/2026/01/03/nx-s1-5665756/six-questions-about-the-capture-of-maduro",
+    "date": "2026-01-03T21:49:21.659Z",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "The",
+    "title": "Tony Dokoupil’s CBS run starts two days early after Venezuela strikes",
+    "url": "https://www.independent.co.uk/news/world/americas/us-politics/tony-dokoupil-cbs-news-venezuela-b2894043.html",
+    "date": "2026-01-03T23:49:21.659Z",
+    "imageUrl": "https://static.independent.co.uk/2026/01/04/0/59/Screenshot-2026-01-03-at-7-01-10-PM.png?width=1200&auto=webp&trim=0%2C1%2C0%2C162",
+    "category": "World News"
+  },
+  {
+    "websiteName": "BBC",
+    "title": "Dreading going back to work? How to ease the post-Christmas return",
+    "url": "https://www.bbc.com/news/articles/c7097jp00pno?at_medium=RSS&at_campaign=rss",
+    "date": "2026-01-03T23:49:21.659Z",
+    "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0058/live/382ad990-df52-11f0-a7ad-b72dffdf9dfd.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "BBC",
+    "title": "Littler masterclass seals back-to-back world darts titles",
+    "url": "https://www.bbc.com/sport/darts/articles/cq5y28xg5z7o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-01-03T20:49:21.659Z",
+    "imageUrl": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ff2b/live/191ea410-e8f7-11f0-b67b-690eb873de1b.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Sky",
+    "title": "Geopolitics is about to become weirder - and potentially a lot more dangerous",
+    "url": "https://news.sky.com/story/venezuela-crisis-after-maduros-capture-geopolitics-is-about-to-become-weirder-and-potentially-a-lot-more-dangerous-13490177",
+    "date": "2026-01-04T01:49:21.659Z",
+    "imageUrl": "https://e3.365dm.com/26/01/1920x1080/skynews-donald-trump-florida_7125695.jpg?20260104023602",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Daily",
+    "title": "Lost seconds before Swiss ski resort inferno as youngsters filmed fire instead of fleeing: New footage shows flames spreading on ceiling as officials confirm sparklers started the blaze",
+    "url": "https://www.dailymail.co.uk/news/article-15428987/New-footage-shows-exact-moment-fire-begins-spread-Swiss-nightclub-ceiling-cheering-youngsters-dancing.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+    "date": "2026-01-02T04:49:21.659Z",
+    "imageUrl": "https://i.dailymail.co.uk/1s/2026/01/02/13/105178413-0-image-a-23_1767361706180.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "The",
+    "title": "What happened after Tesla opened a diner in Los Angeles?",
+    "url": "https://www.theguardian.com/technology/2026/jan/03/tesla-diner-elon-musk-los-angeles",
+    "date": "2026-01-03T14:49:21.659Z",
+    "imageUrl": "https://i.guim.co.uk/img/media/1fca87dbbb57726153dec8afb0e333f644ccf723/390_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=41a31a5097f9640117550d9a1d8d96ff",
+    "category": "World News"
+  },
+  {
+    "websiteName": "CBC",
+    "title": "Some snowbirds want out of Florida. A bad housing market makes it hard to leave",
+    "url": "https://www.cbc.ca/news/world/snowbirds-leaving-florida-9.7031072?cmp=rss",
+    "date": "2026-01-01T04:49:21.659Z",
+    "imageUrl": "https://i.cbc.ca/ais/c6d0a258-7c85-4883-9aad-e3e2cfefc4a0,1767196638403/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C60%2C640%2C360%29%3BResize%3D%28620%29",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "NPR",
+    "title": "Top Republicans praise Venezuela operation as some lawmakers question legal authority",
+    "url": "https://www.npr.org/2026/01/03/g-s1-104407/top-republicans-back-trump-venezuela",
+    "date": "2026-01-03T17:49:21.659Z",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "The",
+    "title": "Mamdani says he called Trump to personally object to Venezuela attack and capture of Maduro",
+    "url": "https://www.independent.co.uk/news/world/americas/us-politics/zohran-mamdani-trump-call-venezuela-b2894082.html",
+    "date": "2026-01-04T03:53:21.659Z",
+    "imageUrl": "https://static.independent.co.uk/2025/11/22/1/45/TrumpMamdani.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+    "category": "World News"
+  },
+  {
+    "websiteName": "The",
+    "title": "Venezuela live updates: Maduro held at Brooklyn jail ahead of court appearance as Trump says US will ‘run’ country for now",
+    "url": "https://www.independent.co.uk/news/world/americas/us-politics/venezuela-trump-maduro-attack-live-updates-b2893945.html",
+    "date": "2026-01-04T01:49:21.659Z",
+    "imageUrl": "https://static.independent.co.uk/2026/01/03/20/31/GettyImages-2254513286.jpg?width=1200&auto=webp&crop=3%3A2",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Sky",
+    "title": "Owners of Swiss bar devastated by fire under criminal investigation for negligence",
+    "url": "https://news.sky.com/story/managers-of-swiss-bar-where-fire-killed-40-during-new-years-event-face-criminal-investigation-13490061",
+    "date": "2026-01-03T16:49:21.659Z",
+    "imageUrl": "https://e3.365dm.com/26/01/1920x1080/skynews-switzerland-le-constellation_7125382.jpg?20260103172443",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "South",
+    "title": "1 dead, more than 200 evacuated after fire breaks out in Hong Kong flat",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3338648/1-dead-more-200-evacuated-after-fire-breaks-out-hong-kong-flat?utm_source=rss_feed",
+    "date": "2026-01-04T01:49:21.660Z",
+    "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/01/04/715ae2d0-9378-442d-972a-d54cc8115b2e_9ef237de.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "France24",
+    "title": "Donald Trump says Maduro and his wife aboard a US warship",
+    "url": "https://www.france24.com/en/video/20260103-donald-trump-says-maduro-and-his-wife-aboard-a-us-warship",
+    "date": "2026-01-03T14:49:21.660Z",
+    "imageUrl": "https://s.france24.com/media/display/9ce413c8-e8b8-11f0-92b1-005056a90284/w:1024/p:16x9/EN-20260103-160537-161109-CS.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "WSJ",
+    "title": "Trump Rolls the Dice on Nation-Building With Vow to ‘Run’ Venezuela",
+    "url": "https://www.wsj.com/world/americas/trump-rolls-the-dice-on-nation-building-with-vow-to-run-venezuela-805a9e35",
+    "date": "2026-01-03T18:49:21.660Z",
+    "imageUrl": "https://images.wsj.net/im-58394557",
+    "category": "World News"
+  },
+  {
+    "websiteName": "The",
+    "title": "Trump ran as the ‘Peace President’ — now MAGA shrugs at White House’s new foreign military action",
+    "url": "https://www.independent.co.uk/news/world/americas/us-politics/republicans-trump-maduro-venezuela-b2893993.html",
+    "date": "2026-01-03T23:49:21.660Z",
+    "imageUrl": "https://static.independent.co.uk/2026/01/03/18/13/SEI279531039.jpeg?width=1200&auto=webp&crop=3%3A2",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Sky",
+    "title": "Maduro combined swaggering incompetence with ruthless repression",
+    "url": "https://news.sky.com/story/venezuelan-president-maduro-combined-swaggering-incompetence-with-ruthless-repression-13489875",
+    "date": "2026-01-03T09:49:21.660Z",
+    "imageUrl": "https://e3.365dm.com/26/01/1920x1080/skynews-maduro-nicolas_7125309.jpg?20260103162626",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "South",
+    "title": "Britain and France bombed suspected Isis arms dump in Syria: UK defence ministry",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3338643/britain-and-france-bombed-suspected-isis-arms-dump-syria-uk-defence-ministry?utm_source=rss_feed",
+    "date": "2026-01-03T23:49:21.660Z",
+    "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/01/04/265eeaa7-cef3-4503-803e-fc28f460dd02_23d09d78.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "NPR",
+    "title": "Who is María Corina Machado, Venezuela's Nobel Peace Prize winning opposition leader?",
+    "url": "https://www.npr.org/2026/01/03/g-s1-104412/venezuela-nicolas-maduro-maria-corina-machado-opposition",
+    "date": "2026-01-04T00:49:21.660Z",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "The",
+    "title": "A private plane and ‘Bari pitches’ including jet-skiing with DJ Khaled: Inside Weiss’ chaotic ‘CBS Evening News’ Reboot",
+    "url": "https://www.independent.co.uk/news/world/americas/bari-weiss-tony-dokoupil-cbs-evening-news-b2893712.html",
+    "date": "2026-01-03T21:49:21.660Z",
+    "imageUrl": "https://static.independent.co.uk/2026/01/02/19/18/Tony-Dokupil-and-Bari-Weiss.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+    "category": "World News"
+  },
+  {
+    "websiteName": "South",
+    "title": "Why China is turning down the nationalist heat in its row with Japan",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3338502/why-china-turning-down-nationalist-heat-its-row-japan?utm_source=rss_feed",
+    "date": "2026-01-03T21:49:21.660Z",
+    "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/01/02/250f45cf-4bf0-4ba5-b4cc-99c580f64fbf_c96445d2.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "The",
+    "title": "What happens next in Venezuela? Trump says US will ‘run’ the nation amid warnings of chaotic regime change",
+    "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-venezuela-oil-companies-regime-change-b2894027.html",
+    "date": "2026-01-03T19:49:21.660Z",
+    "imageUrl": "https://static.independent.co.uk/2026/01/03/19/08/U-S--President-Trump-holds-press-conference-following-U-S--military-strike-on-Venezuela-in-Palm-Beac.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+    "category": "World News"
+  },
+  {
     "websiteName": "France24",
     "title": "Trump says Maduro 'captured and flown out' of Venezuela",
     "url": "https://www.france24.com/en/video/20260103-trump-says-maduro-captured-and-flown-out-of-venezuela",
