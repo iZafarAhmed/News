@@ -1,5 +1,539 @@
 [
   {
+    "websiteName": "GSMArena",
+    "title": "Top 10 trending phones of week 1",
+    "url": "https://www.gsmarena.com/top_10_trending_phones_of_week_1-news-70942.php",
+    "date": "2026-01-04T09:01:59.446Z",
+    "imageUrl": "https://fdn.gsmarena.com/imgroot/news/19/04/top10-trending-phones/-952x498w6/gsmarena_003.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "GSMArena",
+    "title": "2025 Winners and losers: OnePlus",
+    "url": "https://www.gsmarena.com/2025_winners_and_losers_oneplus-news-70844.php",
+    "date": "2026-01-04T05:01:59.448Z",
+    "imageUrl": "https://fdn.gsmarena.com/imgroot/news/25/12/oneplus-2025/-952x498w6/gsmarena_000.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "ZDNet",
+    "title": "I compared the best soundbars from Samsung and Sonos, and here's my preference",
+    "url": "https://www.zdnet.com/home-and-office/home-entertainment/samsung-hw0q990f-vs-sonos-arc-ultra/",
+    "date": "2026-01-04T06:01:59.448Z",
+    "imageUrl": "https://www.zdnet.com/a/img/resize/db30c7bb17e153caa7aa0e1c480092c7f87a34a7/2025/12/19/b4c17dd6-1c63-4ac4-b0ff-3330c2bf66ca/samvsson.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "PCWorld",
+    "title": "Best laptops 2026: Premium, budget, gaming, 2-in-1, and more",
+    "url": "https://www.pcworld.com/article/436674/best-pc-laptops.html",
+    "date": "2026-01-01T11:01:59.448Z",
+    "imageUrl": "https://b2c-contenthub.com/wp-content/uploads/2025/11/PC-World-Q2-Creative.png?w=1240&h=697&crop=1",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Techspot",
+    "title": "Robots are getting neuromorphic skin that can feel pain",
+    "url": "https://www.techspot.com/news/110786-engineers-build-neuromorphic-robotic-skin-mimics-humans-pain.html",
+    "date": "2026-01-03T15:01:59.448Z",
+    "imageUrl": "https://www.techspot.com/images2/news/ts3_thumbs/2026/01/2026-01-03-ts3_thumbs-6e1.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "ZDNet",
+    "title": "How to clear your Android phone cache (and wipe out lag for good)",
+    "url": "https://www.zdnet.com/article/how-to-clear-android-phone-cache/",
+    "date": "2026-01-04T06:01:59.448Z",
+    "imageUrl": "https://www.zdnet.com/a/img/resize/b3205a693a44959cc7cbec6a9fdf3d1f7a680b32/2025/04/10/d6598995-33e1-44a8-a566-274398becf85/dsc05273.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Techspot",
+    "title": "Starlink to lower SpaceX satellites as near-misses pile up in low Earth orbit",
+    "url": "https://www.techspot.com/news/110773-starlink-lowering-thousands-satellites-orbits-reduce-risk-collisions.html",
+    "date": "2026-01-02T11:01:59.448Z",
+    "imageUrl": "https://www.techspot.com/images2/news/ts3_thumbs/2026/01/2026-01-02-ts3_thumbs-475.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Pocket-lint",
+    "title": "No internet? Your Wi-Fi router might not be to blame",
+    "url": "https://www.pocket-lint.com/no-internet-troubleshooting/",
+    "date": "2026-01-03T11:01:59.448Z",
+    "imageUrl": "https://static0.pocketlintimages.com/wordpress/wp-content/uploads/wm/2024/05/wifi-sign-rural-land-internet-access.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Gizmodo",
+    "title": "‘Wonder Man’ Really Wants You to Know Hollywood Hates Superpowers",
+    "url": "https://gizmodo.com/wonder-man-really-wants-you-to-know-hollywood-hates-superpowers-2000705000",
+    "date": "2026-01-03T17:01:59.449Z",
+    "imageUrl": "https://gizmodo.com/app/uploads/2026/01/wonder-man-eyes-1280x853.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "MacRumors",
+    "title": "Low-Price 12.9-Inch MacBook With A18 Pro Chip Reportedly Launching Early This Year",
+    "url": "https://www.macrumors.com/2026/01/02/12-9-inch-macbook-spring-2026-rumor/",
+    "date": "2026-01-02T11:01:59.449Z",
+    "imageUrl": "https://images.macrumors.com/article-new/2025/07/Low-Cost-MacBook-Feature-A18-Pro.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Mashable",
+    "title": "Moon phase today: What the moon will look like on January 4",
+    "url": "https://mashable.com/article/moon-phase-today-jan-4",
+    "date": "2026-01-04T04:01:59.449Z",
+    "imageUrl": "https://helios-i.mashable.com/imagery/articles/03rP9WBFNikIRXsEydAbdgj/hero-image.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Techspot",
+    "title": "Neuralink wants to automate brain surgery and mass produce implants by 2026",
+    "url": "https://www.techspot.com/news/110772-neuralink-wants-automate-brain-surgery-mass-produce-implants.html",
+    "date": "2026-01-02T11:01:59.449Z",
+    "imageUrl": "https://www.techspot.com/images2/news/ts3_thumbs/2025/11/2025-11-06-ts3_thumbs-94a.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "ZDNet",
+    "title": "When is the best time to book your flight? Google just spilled all the airfare secrets",
+    "url": "https://www.zdnet.com/article/when-to-book-flights-google-research-2026/",
+    "date": "2026-01-02T11:01:59.449Z",
+    "imageUrl": "https://www.zdnet.com/a/img/resize/18cf1fa126175ab667fc5918bc7e27b5a479788a/2026/01/02/56ca3e79-3447-477b-bf55-7a206b7d42e9/gettyimages-2169077627.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "DPReview",
+    "title": "The DPReview team discusses the most interesting year in cameras and lenses",
+    "url": "https://www.dpreview.com/videos/2608846538/dpreview-team-discussion-2025-most-interesting-cameras-and-lenses",
+    "date": "2026-01-03T13:01:59.449Z",
+    "imageUrl": "https://3.img-dpreview.com/files/p/E~C213x0S3413x2560T1200x900~articles/2608846538/fujifilm_film_lever.jpeg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Mashable",
+    "title": "This refurbished MacBook Air costs less than most tablets at under $200",
+    "url": "https://mashable.com/article/jan-3-macbook-air-13-3-inch-8gbram",
+    "date": "2026-01-03T22:01:59.449Z",
+    "imageUrl": "https://helios-i.mashable.com/imagery/articles/02gQ4ieNL9l5r7IEFo7Ya4L/hero-image.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "ZDNet",
+    "title": "Could you be an AI data trainer? How to prepare and what it pays",
+    "url": "https://www.zdnet.com/article/ai-data-training-jobs-opportunities-requirements-pay/",
+    "date": "2026-01-02T11:01:59.449Z",
+    "imageUrl": "https://www.zdnet.com/a/img/resize/9f7aaddb2682b43d6b1046febd62aebb5a6e1e13/2026/01/02/eaa57912-16dd-4582-b97e-07c609e68fc2/gettyimages-1423910617.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "CNET",
+    "title": "Two Phones, Less Distraction? That's the Pitch for This BlackBerry Lookalike",
+    "url": "https://www.cnet.com/tech/mobile/clicks-communicator-smartphone-companion-power-keyboard-ces-2026/#ftag=CAD590a51e",
+    "date": "2026-01-02T11:01:59.449Z",
+    "imageUrl": "https://www.cnet.com/a/img/resize/0173e8ef0cf450c683c131f36a51d387b5788af5/hub/2026/01/02/e739a590-0f3d-453b-8171-e418d79f359b/2-compact-design-optimized-for-communication.jpg?auto=webp&fit=crop&height=614&width=1092",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Ars",
+    "title": "xAI silent after Grok sexualized images of kids; dril mocks Grok’s “apology”",
+    "url": "https://arstechnica.com/tech-policy/2026/01/xai-silent-after-grok-sexualized-images-of-kids-dril-mocks-groks-apology/",
+    "date": "2026-01-02T11:01:59.449Z",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2224898774-1024x648.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "XDA",
+    "title": "Valve has announced the winners of the 2025 Steam Awards, and one game took two trophies home",
+    "url": "https://www.xda-developers.com/valve-has-announced-the-winners-of-the-2025-steam-awards-and-one-game-took-two-trophies-home/",
+    "date": "2026-01-03T21:01:59.449Z",
+    "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2025/12/steam-logo.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "ZDNet",
+    "title": "Want real phone privacy? This $700 handset promises it, plus a removable battery",
+    "url": "https://www.zdnet.com/article/punkt-mc03-phone-ces-2026/",
+    "date": "2026-01-02T11:01:59.449Z",
+    "imageUrl": "https://www.zdnet.com/a/img/resize/99295d503b74d477f1212dc776cf598ef2e9674b/2026/01/02/d99ae7f7-95b6-45b2-9219-9641f526ba45/punkt-mc03.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Tom's",
+    "title": "5 inspiring movies to kick off the new year",
+    "url": "https://www.tomsguide.com/entertainment/streaming/5-inspiring-movies-to-kick-off-the-new-year",
+    "date": "2026-01-02T11:01:59.449Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/XrB4TSreDA3K5Zh9a9AWiA-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "CNET",
+    "title": "Today's NYT Strands Hints, Answers and Help for Jan. 4 #672",
+    "url": "https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-4-672/#ftag=CAD590a51e",
+    "date": "2026-01-03T20:01:59.449Z",
+    "imageUrl": "https://www.cnet.com/a/img/resize/166e67238a28ef7d82e62fe8aec7185a7cc23eda/hub/2024/05/15/859c9110-e596-432b-8690-95e6102759c9/nyt-new-york-times-strands-2054.jpg?auto=webp&fit=crop&height=614&width=1092",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "HowToGeek",
+    "title": "How to clear system data on iPhone (the only way that works)",
+    "url": "https://www.howtogeek.com/how-to-clear-system-data-on-iphone/",
+    "date": "2026-01-03T15:01:59.449Z",
+    "imageUrl": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/an-iphone-on-the-storage-screen-with-a-small-alert-icon-next-to-it.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "CNET",
+    "title": "Premier League Soccer: Stream Leeds vs. Man United Live From Anywhere",
+    "url": "https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-leeds-vs-man-united-live-from-anywhere/#ftag=CAD590a51e",
+    "date": "2026-01-04T09:01:59.449Z",
+    "imageUrl": "https://www.cnet.com/a/img/resize/3ff732eba89b9845914dafa268a2992a1b5e7f68/hub/2026/01/02/da5101df-6fa6-44d6-a450-0edd2fe27474/gettyimages-2253341479.jpg?auto=webp&fit=crop&height=614&width=1092",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Mashable",
+    "title": "Hurdle hints and answers for January 3, 2026",
+    "url": "https://mashable.com/article/hurdle-hints-answers-january-3-2026",
+    "date": "2026-01-02T11:01:59.449Z",
+    "imageUrl": "https://helios-i.mashable.com/imagery/articles/0139GmLxPLbMxedqdJzsgUB/hero-image.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Tom's",
+    "title": "Microsoft silently kills Windows and Office phone activation and forces online activation with a Microsoft account — Windows users are now herded into an online-only portal for activation",
+    "url": "https://www.tomshardware.com/software/windows/microsoft-silently-kills-windows-and-office-phone-activation-and-forces-online-activation-with-a-microsoft-account-windows-users-are-now-herded-into-an-online-only-portal-for-activation",
+    "date": "2026-01-03T18:01:59.449Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/3wshZh7uVXqjpEBBAxFKK5-1280-80.png",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Gizmodo",
+    "title": "‘Andor’ Season 2’s Opening Remains One of Its Best Moments",
+    "url": "https://gizmodo.com/andor-season-2-opening-scene-star-wars-2000704967",
+    "date": "2026-01-02T11:01:59.449Z",
+    "imageUrl": "https://gizmodo.com/app/uploads/2026/01/andor-season-2-cassian-test-pilot-1280x853.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "ZDNet",
+    "title": "How DeepSeek's new way to train advanced AI models could disrupt everything - again",
+    "url": "https://www.zdnet.com/article/deepseek-research-training-models/",
+    "date": "2026-01-02T11:01:59.449Z",
+    "imageUrl": "https://www.zdnet.com/a/img/resize/91fe6bdf73803f1e26663353bbe8364ceaeaf259/2026/01/02/a4c1e2db-62e5-4f4d-9a25-8a55c8a2d4e0/gettyimages-2198893086.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Gizmodo",
+    "title": "Alleged PS5 Jailbreak Method Spikes Prices for Old Star Wars Game on eBay",
+    "url": "https://gizmodo.com/alleged-ps5-jailbreak-method-spikes-prices-for-old-star-wars-game-on-ebay-2000704980",
+    "date": "2026-01-02T11:01:59.450Z",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Mashable",
+    "title": "Apple Vision Pro is failing. Heres why that matters.",
+    "url": "https://mashable.com/article/vision-pro-cut",
+    "date": "2026-01-02T11:01:59.450Z",
+    "imageUrl": "https://helios-i.mashable.com/imagery/articles/07pvOclhkapGFtmRUFSiHzv/hero-image.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Tom's",
+    "title": "Plasma-powered solid-state laptop cooler to debut at CES — new cooler design uses ionized gas and electrical discharge to generate airflow",
+    "url": "https://www.tomshardware.com/pc-components/cooling/yplasma-to-announce-solid-state-laptop-cooler-at-ces-2026-new-cooler-design-uses-plasma-and-corona-discharge-to-generate-airflow",
+    "date": "2026-01-03T14:01:59.450Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/vC38RA3ooT54Yr5zsqGm3N-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Android",
+    "title": "Galaxy S26 Ultra leak gives glimpse at new Privacy Display feature in action",
+    "url": "https://www.androidauthority.com/galaxy-s26-ultra-privacy-display-animations-3629016/",
+    "date": "2026-01-02T11:01:59.450Z",
+    "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/05/samsung-galaxy-s25-ultra-joe-revisit-3-scaled.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Creative",
+    "title": "How Adobe thinks creatives will use AI in 2026 – from Firefly to Project Graph",
+    "url": "https://www.creativebloq.com/tech/from-firefly-to-graph-how-adobe-thinks-creatives-will-use-ai-in-2026",
+    "date": "2026-01-02T11:01:59.450Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/eJyPtHrRsJV5TeASqvrVp4-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "HowToGeek",
+    "title": "You really do need audiophile headphones",
+    "url": "https://www.howtogeek.com/you-really-need-audiophile-headphones/",
+    "date": "2026-01-03T14:01:59.450Z",
+    "imageUrl": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2025/12/52615058102_6735a37313_o.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "PCWorld",
+    "title": "This 130-inch OLED TV sticks to a wall with suction tech",
+    "url": "https://www.pcworld.com/article/3021913/this-130-inch-oled-tv-sticks-to-a-wall-with-suction-tech.html",
+    "date": "2026-01-02T11:01:59.450Z",
+    "imageUrl": "https://b2c-contenthub.com/wp-content/uploads/2026/01/Displace-Wall-suction-rear.jpg?quality=50&strip=all&w=1200",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Techspot",
+    "title": "Instagram CEO says in the age of AI, you can't assume what you see online is real",
+    "url": "https://www.techspot.com/news/110771-instagram-you-cant-trust-what-you-see-anymore.html",
+    "date": "2026-01-01T11:01:59.450Z",
+    "imageUrl": "https://www.techspot.com/images2/news/ts3_thumbs/2026/01/2026-01-02-ts3_thumbs-f0d.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "CNET",
+    "title": "Premier League Soccer: Stream Aston Villa vs. Nottingham Forest Live From Anywhere",
+    "url": "https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-aston-villa-vs-nottingham-forest-live-from-anywhere/#ftag=CAD590a51e",
+    "date": "2026-01-02T11:01:59.450Z",
+    "imageUrl": "https://www.cnet.com/a/img/resize/38c63b4f6bb594b719f7c206e541836222664b4d/hub/2026/01/02/76c76501-964f-4f01-8bf2-70af7166cb45/gettyimages-2253689798.jpg?auto=webp&fit=crop&height=614&width=1092",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "TechCrunch",
+    "title": "Nvidia’s AI empire: A look at its top startup investments",
+    "url": "https://techcrunch.com/2026/01/02/nvidias-ai-empire-a-look-at-its-top-startup-investments/",
+    "date": "2026-01-02T11:01:59.450Z",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2183848501.jpg?resize=1200,800",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Mashable",
+    "title": "NYT Connections hints today: Clues, answers for January 4, 2026",
+    "url": "https://mashable.com/article/nyt-connections-hint-answer-today-january-4-2026",
+    "date": "2026-01-04T02:01:59.450Z",
+    "imageUrl": "https://helios-i.mashable.com/imagery/articles/03ExmNH6shcxHx9gR7E7hmM/hero-image.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Techradar",
+    "title": "NYT Connections hints and answers for Sunday, January 4 (game #938)",
+    "url": "https://www.techradar.com/gaming/nyt-connections-today-answers-hints-4-january-2026",
+    "date": "2026-01-02T11:01:59.450Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/RCGfdf3yhQ9W3MHbTRT6yk-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Techspot",
+    "title": "PlayStation 5 ROM keys may be out in the wild, opening new possibilities for emulation",
+    "url": "https://www.techspot.com/news/110778-playstation-5-rom-keys-may-out-wild-opening.html",
+    "date": "2026-01-02T11:01:59.450Z",
+    "imageUrl": "https://www.techspot.com/images2/news/ts3_thumbs/2026/01/2026-01-02-ts3_thumbs-3bb.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Techradar",
+    "title": "Quordle hints and answers for Sunday, January 4 (game #1441)",
+    "url": "https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-4-january-2026",
+    "date": "2026-01-02T11:01:59.450Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/4XP9iNbdvkijJyZnzx3WoL-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "PCWorld",
+    "title": "Get over 200 apps and AI tools bundled for $68.99",
+    "url": "https://www.pcworld.com/article/3016189/get-over-200-apps-and-ai-tools-bundled-for-68-99.html",
+    "date": "2026-01-04T07:01:59.450Z",
+    "imageUrl": "https://cdnp2.stackassets.com/9f2765575169931c0333d862cb06210fa4d9e1f0/store/ee99be0077b175f4c2625d94c66ce45e9fdce55671d2cc3244f2f18a909b/sale_329006_primary_image.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Android",
+    "title": "I can’t stand this Google Photos feature anymore",
+    "url": "https://www.androidauthority.com/google-photos-locked-folder-feature-3628813/",
+    "date": "2025-12-30T11:01:59.450Z",
+    "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/10/google-photos-logo-hero-pixel-phone-2-scaled.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Tom's",
+    "title": "I used ChatGPT to make the perfect Spotify playlist — here are 5 prompts to get you started",
+    "url": "https://www.tomsguide.com/ai/i-used-chatgpt-to-make-the-perfect-spotify-playlist-here-are-5-prompts-to-get-you-started",
+    "date": "2026-01-02T11:01:59.450Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/J9JK5wQFBHiet3dznsZq3K-1280-80.png",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "GSMArena",
+    "title": "Oppo Find X9 Ultra's camera sensors get detailed in new leak",
+    "url": "https://www.gsmarena.com/oppo_find_x9_ultras_camera_sensors_get_detailed_in_new_leak-news-70938.php",
+    "date": "2026-01-04T01:01:59.450Z",
+    "imageUrl": "https://fdn.gsmarena.com/imgroot/news/26/01/oppo-find-x9-ultra-camera-sensors/-952x498w6/gsmarena_000.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Mashable",
+    "title": "NYT Pips hints, answers for January 3, 2026",
+    "url": "https://mashable.com/article/pips-nyt-games-hints-answers-easy-medium-hard-january-3-2026",
+    "date": "2026-01-02T11:01:59.450Z",
+    "imageUrl": "https://helios-i.mashable.com/imagery/articles/02hj7krTnPTR7uVIyrIYllQ/hero-image.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "CNET",
+    "title": "Today's NYT Mini Crossword Answers for Saturday, Jan. 3",
+    "url": "https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-jan-3/#ftag=CAD590a51e",
+    "date": "2026-01-03T14:01:59.450Z",
+    "imageUrl": "https://www.cnet.com/a/img/resize/16d2290ea5c9dc928db9624c275de45ff920b828/hub/2024/07/25/50d61b9b-1c76-4678-9a92-f6eca531f4a8/nyt-mini-crossword-234876.jpg?auto=webp&fit=crop&height=614&width=1092",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Android",
+    "title": "Why 2026 smartphones won’t have this game-changing camera tech",
+    "url": "https://www.androidauthority.com/why-2026-smartphones-wont-have-game-changing-camera-tech-3627733/",
+    "date": "2026-01-03T11:01:59.450Z",
+    "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/02/Xiaomi-15-Ultra-camera-housing-angled.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "ZDNet",
+    "title": "I compared the two best headphones from Bose and Sony right now - here's my winner",
+    "url": "https://www.zdnet.com/article/sony-wh1000xm6-vs-bose-quietcomfort-ultra-2/",
+    "date": "2026-01-04T06:01:59.450Z",
+    "imageUrl": "https://www.zdnet.com/a/img/resize/d7c3b0a0426ccf1e8ad89d27bf310d3e5c3807a6/2025/10/16/cecc4a56-028e-4227-bd16-7d676c380afe/bosevsony.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Techradar",
+    "title": "Leeds vs Man Utd Free Streams: How to Watch Premier League 2025-26 From Anywhere in the World",
+    "url": "https://www.techradar.com/how-to-watch/football/leeds-vs-man-utd-watch-premier-league-2025-26",
+    "date": "2026-01-02T11:01:59.450Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/pfjR4d9n9W46Ki3hPSyZae-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Android",
+    "title": "Stadia controllers need to be updated for Bluetooth by today — except, not really",
+    "url": "https://www.androidauthority.com/stadia-bluetooth-upgrade-3628926/",
+    "date": "2025-12-31T11:01:59.450Z",
+    "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2023/01/Updating-Stadia-controller-with-Bluetooth-mode-5.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "TechCrunch",
+    "title": "California residents can use new tool to demand brokers delete their personal data",
+    "url": "https://techcrunch.com/2026/01/03/california-residents-can-use-new-tool-to-demand-brokers-delete-their-personal-data/",
+    "date": "2026-01-03T22:01:59.450Z",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2018/06/GettyImages-676703874.jpg?resize=1200,760",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Tom's",
+    "title": "Corsair cancels $240 48GB DDR5 memory kit orders due to pricing error — company’s blunder ignites shopper uproar over botched RAM deal",
+    "url": "https://www.tomshardware.com/pc-components/ram/corsair-cancels-usd240-48gb-ddr5-memory-kit-orders-due-to-pricing-error-companys-blunder-ignites-shopper-uproar-over-botched-ram-deal",
+    "date": "2026-01-03T15:01:59.451Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/mEgXnJCM7vcn2Pf5n3D4DV-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "ZDNet",
+    "title": "8 HDMI tricks to get the best performance from your TV - and most are free",
+    "url": "https://www.zdnet.com/home-and-office/home-entertainment/best-hdmi-tricks-tv-performance/",
+    "date": "2026-01-04T06:01:59.451Z",
+    "imageUrl": "https://www.zdnet.com/a/img/resize/728a79d20d1048f469bad79f2a31fbb1356dd688/2025/12/11/02f0430c-70ac-4c0d-a609-f3148273988d/3.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "TechCrunch",
+    "title": "The 16 top logistics, manufacturing, materials startups from Disrupt Startup Battlefield",
+    "url": "https://techcrunch.com/2026/01/02/the-16-top-logistics-manufacturing-materials-startups-from-disrupt-startup-battlefield/",
+    "date": "2026-01-02T11:01:59.451Z",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/12/Startup-stars.jpg?resize=1200,675",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "XDA",
+    "title": "I turned my desktop into a distraction-free writing environment with these free tools",
+    "url": "https://www.xda-developers.com/turned-desktop-into-distraction-free-writing-environment-with-free-tools/",
+    "date": "2026-01-04T01:01:59.451Z",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Pocket-lint",
+    "title": "How to get 2 free Kindle e-books this January as a Prime member",
+    "url": "https://www.pocket-lint.com/free-kindle-books-january-2026/",
+    "date": "2026-01-02T11:01:59.451Z",
+    "imageUrl": "https://static0.pocketlintimages.com/wordpress/wp-content/uploads/wm/2026/01/kindle-first-reads-jan-hero.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Tom's",
+    "title": "5 free ways to speed up your slow Mac",
+    "url": "https://www.tomsguide.com/computing/apple-desktops/5-free-ways-to-speed-up-your-slow-mac",
+    "date": "2026-01-02T11:01:59.451Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/oJPUrCLCm3RYdhqnwpaNzU-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "9to5Mac",
+    "title": "These are the best new MacBook Air and MacBook Pro deals in January so far",
+    "url": "https://9to5mac.com/2026/01/03/best-apple-macbook-deals-in-january-2026/",
+    "date": "2026-01-04T01:01:59.451Z",
+    "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/macbook-air-hello-m2.jpg?quality=82&strip=all&w=1600",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "ZDNet",
+    "title": "Does it matter which HDMI port you use on your TV? Short answer: Yes",
+    "url": "https://www.zdnet.com/home-and-office/home-entertainment/which-hdmi-port-you-use-tv/",
+    "date": "2026-01-04T06:01:59.451Z",
+    "imageUrl": "https://www.zdnet.com/a/img/resize/7796640193cd63da23abae5127abed96f4984192/2025/12/11/a1a8b615-c7b5-46e1-9192-96f276ffa0d8/4.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "ZDNet",
+    "title": "CES 2026 news: Live updates on TVs, smart glasses, phones, and more we've seen so far",
+    "url": "https://www.zdnet.com/article/ces-2026-live-updates-1-4-26/",
+    "date": "2026-01-04T06:01:59.451Z",
+    "imageUrl": "https://www.zdnet.com/a/img/resize/7339492352c13dc9d3bd663245568ca05ba89660/2025/01/06/a81e42e8-634f-40ba-9682-b42e549f804f/dsc03182.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "HowToGeek",
+    "title": "Please stop wasting money on \"fast\" SSDs for gaming",
+    "url": "https://www.howtogeek.com/got-a-gaming-pc-please-stop-wasting-money-on-expensive-ssds/",
+    "date": "2026-01-03T21:01:59.452Z",
+    "imageUrl": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2025/08/a7308455.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "ZDNet",
+    "title": "Have a Samsung TV? I changed these 6 settings to make my old system run like new again",
+    "url": "https://www.zdnet.com/home-and-office/home-entertainment/best-samsung-tv-settings/",
+    "date": "2026-01-04T06:01:59.452Z",
+    "imageUrl": "https://www.zdnet.com/a/img/resize/67f13aee93b5be39fd5ddaac7cbb34e10e5ae9c2/2025/11/07/4f4f2003-bae9-4fc1-aed2-66738c854eee/dsc07035.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "ZDNet",
+    "title": "Samsung's popular Freestyle projector is getting several useful upgrades - and I'm tempted to buy it",
+    "url": "https://www.zdnet.com/home-and-office/home-entertainment/samsung-freestyle-plus-projector-ces/",
+    "date": "2026-01-04T06:01:59.452Z",
+    "imageUrl": "https://www.zdnet.com/a/img/resize/d16cbe87542e7af024a6b7455eafa6bcb3c6cb79/2022/04/01/461b8f48-f32b-4ab6-910e-11f8409282a5/samsungthefreestyle-dark.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Gizmodo",
+    "title": "EV Makers Could Struggle in 2026, but Jeff Bezos Might Have a Great 2027",
+    "url": "https://gizmodo.com/ev-makers-could-struggle-in-2026-but-jeff-bezos-might-have-a-great-2027-2000705007",
+    "date": "2026-01-03T11:01:59.452Z",
+    "imageUrl": "https://gizmodo.com/app/uploads/2025/04/Blank-Slate-Roller-2-1280x854.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Android",
+    "title": "I love Google Gemini — but not on a screen, in my fridge",
+    "url": "https://www.androidauthority.com/i-want-gemini-everywhere-at-home-3627919/",
+    "date": "2026-01-02T11:01:59.452Z",
+    "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/09/samsung-family-hub-fridge-large.jpg",
+    "category": "Technology"
+  },
+  {
     "websiteName": "NBC",
     "title": "Tears, relief and questions about what comes next: Venezuelans in U.S. celebrate Maduro capture",
     "url": "https://www.nbcnews.com/news/us-news/venezuelans-in-us-react-maduro-ouster-trump-rcna252052",
