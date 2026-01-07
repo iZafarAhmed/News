@@ -1,5 +1,703 @@
 [
   {
+    "websiteName": "NBC",
+    "title": "Shooter who killed Brown students, MIT professor had been planning for months and left videos, officials say",
+    "url": "https://www.nbcnews.com/news/us-news/shooter-killed-brown-students-mit-professor-planning-months-left-video-rcna252692",
+    "date": "2026-01-07T01:03:05.358Z",
+    "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251215-brown-university-mn-2021-756b68.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Smithsonian",
+    "title": "Meet the National Zoo’s Adorable One-Month-Old Sloth Bear Cubs—the First Born There in More Than a Decade",
+    "url": "https://www.smithsonianmag.com/smart-news/meet-the-national-zoos-adorable-one-month-old-sloth-bear-cubs-the-first-born-there-in-more-than-a-decade-180987957/",
+    "date": "2026-01-06T21:03:05.360Z",
+    "category": "Science"
+  },
+  {
+    "websiteName": "Screenrant",
+    "title": "Hugh Jackman's Song Sung Blue Nears Movie 43's Box Office Total",
+    "url": "https://screenrant.com/song-sung-blue-box-office-hugh-jackman-movie-43-comparison/",
+    "date": "2026-01-07T01:03:05.360Z",
+    "imageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/01/mcdsosu_uc021-cropped.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "CoinDesk",
+    "title": "Former CFTC Commissioner Brian Quintenz joins SUI Group board",
+    "url": "https://www.coindesk.com/business/2026/01/06/former-cftc-commissioner-brian-quintenz-joins-sui-group-board",
+    "date": "2026-01-06T16:03:05.360Z",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/cff39550b58cdf0f7708d3970f3213095998c9af-1835x1032.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "category": "Crypto"
+  },
+  {
+    "websiteName": "CBS",
+    "title": "Dozens reported dead in Iran protests, despite Trump warnings to Tehran",
+    "url": "https://www.cbsnews.com/video/dozens-reported-dead-in-iran-protests/",
+    "date": "2026-01-07T01:03:05.360Z",
+    "imageUrl": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/01/07/99910159-51c6-4dc7-a106-cd89aaa1bff2/thumbnail/1200x630/44f28392432530d2e4e27c746cea3f28/cbsn-fusion-dozens-reported-dead-in-iran-protests-thumbnail.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "WSJ",
+    "title": "Venezuelan Regime’s New Strategy: Appease Trump to Survive",
+    "url": "https://www.wsj.com/world/americas/the-venezuelan-regimes-new-strategy-appease-trump-to-survive-fceb28df",
+    "date": "2026-01-06T10:03:05.360Z",
+    "imageUrl": "https://images.wsj.net/im-68988473",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Screenrant",
+    "title": "Robin Hood Series Starring Sean Bean Ranks No. 1 On MGM+ Streaming",
+    "url": "https://screenrant.com/sean-bean-robin-hood-mgm-plus-united-states-streaming-success-january-2026/",
+    "date": "2026-01-07T00:03:05.360Z",
+    "imageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/01/untitled-5.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "CBSSports",
+    "title": "Anthony Colandrea commits to Nebraska: Huskers pivot, land ex-UNLV QB after losing Kenny Minchey to Kentucky",
+    "url": "https://www.cbssports.com/college-football/news/anthony-colandrea-nebraska-transfer-portal-qb-kenny-minchey/",
+    "date": "2026-01-07T00:03:05.361Z",
+    "imageUrl": "https://sportshub.cbsistatic.com/i/2026/01/07/df124b8e-b4b3-41de-a164-818bff88e81c/gettyimages-2234079443-1.jpg",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "Daily",
+    "title": "Ryan was bound with tape and killed by her father and brother for being too westernised. Will the coward who drowned his own daughter in a stream then fled to Syria ever face justice?",
+    "url": "https://www.dailymail.co.uk/news/article-15437223/Ryan-bound-tape-killed-father-brother-westernised-coward-drowned-daughter-stream-fled-Syria-face-justice.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+    "date": "2026-01-06T07:03:05.361Z",
+    "imageUrl": "https://i.dailymail.co.uk/1s/2026/01/06/01/105260335-0-image-a-6_1767662068190.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "The",
+    "title": "European leaders rally behind Greenland as US ramps up threats",
+    "url": "https://www.theguardian.com/world/2026/jan/06/stephen-miller-donald-trump-threats-take-over-greenland",
+    "date": "2026-01-06T20:03:05.361Z",
+    "imageUrl": "https://i.guim.co.uk/img/media/3b5eb1227b038c740658e1692f47536acf33cadc/253_0_6400_5121/master/6400.jpg?width=700&quality=85&auto=format&fit=max&s=0733b13a9607bc0d3e56933f4457d04e",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Screenrant",
+    "title": "Will Trent Season 4: Caleb's Character Changes Bring Emotional Conflict",
+    "url": "https://screenrant.com/will-trent-season-4-quiet-character-change-caleb-dramatic-moments-showrunner/",
+    "date": "2026-01-07T02:03:05.361Z",
+    "imageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/01/ramo-n-rodriguez-s-will-looking-upset-with-the-camera-tilted-in-will-trent-season-4.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Mashable",
+    "title": "8 gadgets from CES 2026 that you can buy right now: Dell, Xreal, Soundcore, more",
+    "url": "https://mashable.com/article/ces-2026-gadgets-you-can-buy",
+    "date": "2026-01-06T20:03:05.361Z",
+    "imageUrl": "https://helios-i.mashable.com/imagery/articles/04ikMNmEkW7LNBvHL8IQEiy/hero-image.png",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Nature",
+    "title": "Rethink how we build AI to enable effective climate-change mitigation",
+    "url": "https://www.nature.com/articles/d41586-025-04123-z",
+    "date": "2026-01-05T04:03:05.361Z",
+    "imageUrl": "chrome-extension://bmcgcefhjdglnomoppbfmnhooahhgpma/&target_size=96x64",
+    "category": "Science"
+  },
+  {
+    "websiteName": "Variety",
+    "title": "Jerry Bruckheimer and Sir Richard Taylor to be Honored at Visual Effects Society Awards – Film News in Brief",
+    "url": "https://variety.com/2026/film/news/film-news-roundup-week-of-january-5-1236622495/",
+    "date": "2026-01-06T23:03:05.362Z",
+    "category": "Entertainment"
+  },
+  {
+    "websiteName": "NBC",
+    "title": "White House says U.S. military is an option to acquire Greenland",
+    "url": "https://www.nbcnews.com/politics/white-house/us-military-option-acquire-greenland-denmark-territory-nato-rcna252669",
+    "date": "2026-01-06T23:03:05.362Z",
+    "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260106-greeland-vl-230p-bb73df.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Wired",
+    "title": "Grok Is Pushing AI ‘Undressing’ Mainstream",
+    "url": "https://www.wired.com/story/grok-is-pushing-ai-undressing-mainstream/",
+    "date": "2026-01-06T22:03:05.362Z",
+    "imageUrl": "https://media.wired.com/photos/695d3603b6493d17e530b8ce/master/pass/GettyImages-2248294692.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "CNET",
+    "title": "Audi, Porsche, VW Announce Major US Recalls Tied to Rearview Camera Glitch",
+    "url": "https://www.cnet.com/roadshow/news/audi-porsche-vw-announce-major-us-recalls-tied-to-rearview-camera-glitch/",
+    "date": "2026-01-07T00:03:05.362Z",
+    "imageUrl": "https://www.cnet.com/a/img/resize/aa7eea5718f77003934b43295147862dd092bf6b/hub/2026/01/07/2bfdfd25-880f-482c-b5af-41706aa37e9c/vw-neon-sign-gettyimages-1441848602.jpg?auto=webp&fit=crop&height=614&width=1092",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "NBC",
+    "title": "California Rep. Doug LaMalfa has died at 65",
+    "url": "https://www.nbcnews.com/video/shorts/california-rep-doug-lamalfa-has-died-at-65-255506501699",
+    "date": "2026-01-06T23:03:05.362Z",
+    "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_01/doug_thumb-z59vkc.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Ars",
+    "title": "Spot the difference: Sony’s electric car gets a crossover version",
+    "url": "https://arstechnica.com/cars/2026/01/sony-wants-its-afeela-ev-to-be-heavy-on-ai-also-shows-crossover/",
+    "date": "2026-01-06T13:03:05.362Z",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/SHM_Press_Conference_Yasuhide-Mizuno_1-1152x648-1767701711.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Healthline",
+    "title": "Strangers With Vitamins? Amy Sedaris Shares How She Boosts Her Brain Health",
+    "url": "https://www.healthline.com/health-news/amy-sedaris-talks-brain-health",
+    "date": "2026-01-07T02:03:05.362Z",
+    "imageUrl": "https://media.post.rvohealth.io/wp-content/uploads/2025/12/Amy-Sedaris-1296x728-header.jpg",
+    "category": "Health"
+  },
+  {
+    "websiteName": "ScienceDaily",
+    "title": "Tiny 3D-printed light cages could unlock the quantum internet",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260106001907.htm",
+    "date": "2026-01-06T07:03:05.362Z",
+    "imageUrl": "https://www.sciencedaily.com/images/1920/light-cages-for-enhanced-light-matter-interaction.webp",
+    "category": "Science"
+  },
+  {
+    "websiteName": "Time",
+    "title": "CDC Slashes Universal Vaccine Recommendations",
+    "url": "https://time.com/7343388/vaccine-schedule-children-cdc-rfk-influenza/",
+    "date": "2026-01-06T10:03:05.362Z",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Al",
+    "title": "Rodriguez says ‘no foreign agent’ running Venezuela, US role still unclear",
+    "url": "https://www.aljazeera.com/news/2026/1/6/rodriguez-says-no-foreign-agent-running-venezuela-us-role-still-unclear?traffic_source=rss",
+    "date": "2026-01-06T23:03:05.362Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/01/getty_695d88580b-1767737432.jpg?resize=1920%2C1440",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Scientific",
+    "title": "How to Keep Your New Year’s Resolutions—Behavioral Science Tips That Work",
+    "url": "https://www.scientificamerican.com/podcast/episode/how-to-keep-your-new-years-resolutions-behavioral-science-tips-that-work/",
+    "date": "2026-01-05T04:03:05.362Z",
+    "category": "Science"
+  },
+  {
+    "websiteName": "Quartz",
+    "title": "Nvidia CEO on the tax threat riling up billionaires: It's 'perfectly fine'",
+    "url": "https://qz.com/jensen-huang-billionaire-tax-ca",
+    "date": "2026-01-06T22:03:05.362Z",
+    "imageUrl": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/jensen_huang_nvidia.jpg",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Healthline",
+    "title": "Your Favorite Holiday Beverage May Weaken Your Bones, Experts Say",
+    "url": "https://www.healthline.com/health-news/favorite-holiday-beverage-bone-health-damage",
+    "date": "2026-01-07T02:03:05.362Z",
+    "imageUrl": "https://media.post.rvohealth.io/wp-content/uploads/2025/12/Holiday-Beverage-Stocksy_txp83d421d6GQD400_Medium_1482312-Header.jpg",
+    "category": "Health"
+  },
+  {
+    "websiteName": "Insider",
+    "title": "The best loafers for women, tested by people who walk a lot",
+    "url": "https://www.businessinsider.com/guides/style/best-loafers-for-women",
+    "date": "2026-01-06T21:03:05.362Z",
+    "imageUrl": "https://i.insider.com/68b760a2a17a8c5b4053e408?format=jpeg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "BMJ",
+    "title": "Re: Impact of population based breast density notification: multisite parallel arm randomised controlled trial in BreastScreen",
+    "url": "https://www.bmj.com/content/391/bmj-2024-083649/rr-0",
+    "date": "2026-01-05T04:03:05.362Z",
+    "imageUrl": "chrome-extension://bmcgcefhjdglnomoppbfmnhooahhgpma/&target_size=508x269",
+    "category": "Health"
+  },
+  {
+    "websiteName": "Rtings",
+    "title": "Altra Paradigm 8 Running Shoe Review",
+    "url": "https://www.rtings.com/running-shoes/reviews/altra/paradigm-8",
+    "date": "2026-01-05T04:03:05.362Z",
+    "imageUrl": "https://i.rtings.com/assets/products/yUeKi4qE/altra-paradigm-8/design-medium.jpg?format=auto",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "ESPN",
+    "title": "Sources: Commanders' Kingsbury, Whitt both out",
+    "url": "https://www.espn.com/nfl/story/_/id/47528237/sources-kingsbury-whitt-commanders-coordinators",
+    "date": "2026-01-07T02:03:05.362Z",
+    "imageUrl": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0827%2Fr1378408_1296x729_16%2D9.jpg",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "WSJ",
+    "title": "The U.S. is ending universal recommendations for certain childhood vaccines, including shots for Covid-19 and influenza",
+    "url": "https://www.wsj.com/health/healthcare/cdc-childhood-vaccine-schedule-changes-7f7bd45c",
+    "date": "2026-01-05T04:03:05.362Z",
+    "imageUrl": "https://images.wsj.net/im-47031053",
+    "category": "Health"
+  },
+  {
+    "websiteName": "The",
+    "title": "Bizarre moment flock of sheep storm supermarket with ewes causing havoc knocking over glass bottles and pooing in aisles",
+    "url": "https://www.the-sun.com/news/15742304/sheep-storm-supermarket-bavaria/",
+    "date": "2026-01-07T01:03:05.362Z",
+    "imageUrl": "https://www.the-sun.com/wp-content%2Fuploads%2Fsites%2F6%2F2026%2F01%2Fsheep.jpg?quality%3D90%26strip%3Dall",
+    "category": "Other"
+  },
+  {
+    "websiteName": "CNET",
+    "title": "CES 2026 Live: All the New AI Devices, Home Tech, Robots, Audio, Cars and Computing",
+    "url": "https://www.cnet.com/news-live/ces-2026-news-live-updates/",
+    "date": "2026-01-07T02:03:05.362Z",
+    "imageUrl": "https://www.cnet.com/a/img/resize/702d5a426fafa73fb3a1162a109d32535f875339/hub/2026/01/06/633dbaa3-f853-4a49-9944-b74e32c68731/ces-front-1.jpg?auto=webp&fit=crop&height=614&width=1092",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Techspot",
+    "title": "Windows 11 performs worse than older Windows versions in nearly every benchmark",
+    "url": "https://www.techspot.com/news/110817-windows-11-performs-worse-than-older-windows-versions.html",
+    "date": "2026-01-06T14:03:05.362Z",
+    "imageUrl": "https://www.techspot.com/images2/news/ts3_thumbs/2025/09/2025-09-10-ts3_thumbs-fa7.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "The",
+    "title": "‘She was the brains, Maduro was the brawn’: Cilia Flores’s role in Venezuela",
+    "url": "https://www.theguardian.com/world/2026/jan/06/cilia-flores-maduros-wife-venezuela",
+    "date": "2026-01-06T14:03:05.363Z",
+    "imageUrl": "https://i.guim.co.uk/img/media/2ba1f56da0ac8048d0e7525528503ecdfac0f095/18_0_1945_1556/master/1945.jpg?width=700&quality=85&auto=format&fit=max&s=b7634da0afe09e7a770d873472d79dbd",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Cointelegraph",
+    "title": "Bitchat dev shrugs off Uganda’s threat to block app: ‘Good luck mate’",
+    "url": "https://cointelegraph.com/news/bitchat-cant-be-blocked-uganda-dev-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "2026-01-07T01:03:05.363Z",
+    "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5Yjk1YTgtZTU3Ny03N2YyLTk4NTQtMTVjOWE2YjhkOTYzLmpwZw==.jpg",
+    "category": "Crypto"
+  },
+  {
+    "websiteName": "CoinDesk",
+    "title": "CoinDesk 20 Performance Update: SUI Gains 5.5% as Index Moves Higher",
+    "url": "https://www.coindesk.com/coindesk-indices/2026/01/06/coindesk-20-performance-update-sui-gains-5-5-as-index-moves-higher",
+    "date": "2026-01-06T14:03:05.363Z",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/b0145f23d8065af8b6c550bd4a3be0fedfed4197-480x360.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "category": "Crypto"
+  },
+  {
+    "websiteName": "Seeking",
+    "title": "U.S. Market Cap Loses Ground",
+    "url": "https://seekingalpha.com/article/4857573-us-market-cap-loses-ground?source=feed_all_articles",
+    "date": "2026-01-07T00:03:05.363Z",
+    "imageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2191725662/image_2191725662.jpg?io=getty-c-w1536",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Game",
+    "title": "Build-a-Bear Reveals Ponyta Pokemon Plush",
+    "url": "https://gamerant.com/pokemon-build-a-bear-ponyta/",
+    "date": "2026-01-06T23:03:05.363Z",
+    "imageUrl": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/01/pokemon-ponyta-shadow-legends-z-a-mystery-gift-open-box.jpg",
+    "category": "Gaming"
+  },
+  {
+    "websiteName": "Newsweek",
+    "title": "How to Watch Texas Tech vs Houston: Live Stream NCAA College Basketball, TV Channel",
+    "url": "https://www.newsweek.com/how-to-watch-texas-tech-vs-houston-live-stream-ncaa-college-basketball-tv-channel-11318829",
+    "date": "2026-01-07T00:03:05.363Z",
+    "imageUrl": "https://assets.newsweek.com/wp-content/uploads/2026/01/GettyImages-2254675503.jpg?w=1200crop=1",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "ZDNet",
+    "title": "Motorola unveils its first phone-to-tablet foldable at CES 2026, and it looks promising",
+    "url": "https://www.zdnet.com/article/motorola-razr-fold-ces-2026/",
+    "date": "2026-01-07T00:03:05.363Z",
+    "imageUrl": "https://www.zdnet.com/a/img/resize/7404f468976313e69d7e10fac7a4adc0fee65a62/2026/01/06/0a66b451-5387-483f-a757-2eea18374ee0/dsc08805.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "ZDNet",
+    "title": "The 5 most exciting laptops Lenovo announced at CES 2026 - including a twistable",
+    "url": "https://www.zdnet.com/article/everything-lenovo-announced-at-ces-2026/",
+    "date": "2026-01-07T00:03:05.363Z",
+    "imageUrl": "https://www.zdnet.com/a/img/resize/87c480173c89386fc77b7692039c007c05ce6bd4/2025/12/31/deba228e-1319-43bb-b2f4-19edf212342a/dsc04274.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Tom's",
+    "title": "Forget robot vacuums — Ecovacs' most exciting product at CES 2026 was its upcoming AI-powered pet companion",
+    "url": "https://www.tomsguide.com/home/smart-home/forget-robot-vacuums-ecovacs-most-exciting-product-at-ces-2026-was-its-upcoming-ai-powered-pet-companion",
+    "date": "2026-01-07T02:03:05.363Z",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "The",
+    "title": "Why Israel Is Divided Over How to Investigate Oct. 7 Failures",
+    "url": "https://www.nytimes.com/2026/01/06/world/middleeast/israel-october-7-commission.html",
+    "date": "2026-01-06T09:03:05.363Z",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "How-To",
+    "title": "2026 could be the year of the (KDE) Linux desktop",
+    "url": "https://www.howtogeek.com/2026-could-be-the-year-of-the-kde-linux-desktop/",
+    "date": "2026-01-06T22:03:05.363Z",
+    "imageUrl": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/08/laptop-showing-the-kde-logo-on-screen-with-a-blue-and-purple-background-and-kde-in-large-letters-behind-it_.png",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Vox",
+    "title": "The one line that Trump’s foreign policy still hasn’t crossed",
+    "url": "https://www.vox.com/politics/474108/venezuela-trump-greenland-colombia-mexico-war",
+    "date": "2026-01-06T22:03:05.363Z",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Insider",
+    "title": "Here are the biggest announcements coming out of the 2026 Consumer Electronics Show, from robots to chips",
+    "url": "https://www.businessinsider.com/announcements-coming-out-of-ces-nvidia-vera-rubin-autonmous-vehicle-2026-1",
+    "date": "2026-01-07T00:03:05.363Z",
+    "category": "Other"
+  },
+  {
+    "websiteName": "The",
+    "title": "Motorola’s latest smartwatch promises 13-day battery life and Polar-powered health tracking",
+    "url": "https://www.theverge.com/gadgets/851643/moto-watch-android-smarwatch-ces-2026",
+    "date": "2026-01-07T02:03:05.363Z",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "AndroidCentral",
+    "title": "Explore Motorola's latest: Pen Ultra, Moto Watch, and Moto Tag 2 unveiled at CES 2026",
+    "url": "https://www.androidcentral.com/phones/motorola/moto-things-hits-the-new-year-with-an-ultra-stylus-for-the-razr-fold-at-ces-2026",
+    "date": "2026-01-06T19:03:05.363Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/pNRcvhXZNvdQLvrtofpwo-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "The",
+    "title": "The Best Cybersecurity Stock to Buy for 2026?",
+    "url": "https://www.fool.com/investing/2026/01/06/the-best-cybersecurity-stock-to-buy-for-2026/",
+    "date": "2026-01-07T00:03:05.363Z",
+    "imageUrl": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F849772%2F14-cybersecurity.jpg&w=1200&op=resize",
+    "category": "Business"
+  },
+  {
+    "websiteName": "France24",
+    "title": "Trump considering military options to acquire Greenland",
+    "url": "https://www.france24.com/en/trump-considering-military-options-to-acquire-greenland",
+    "date": "2026-01-06T22:03:05.363Z",
+    "imageUrl": "https://s.france24.com/media/display/2ef5839c-eb4c-11f0-aaa6-005056a90284/w:1024/p:16x9/EN-20260106-230105-230407-CS.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Inverse",
+    "title": "8 Years Later, An Iconic Fantasy Figure Is Getting Another Gritty Reboot",
+    "url": "https://www.inverse.com/entertainment/the-death-of-robin-hood-trailer",
+    "date": "2026-01-06T23:03:05.363Z",
+    "imageUrl": "https://imgix.bustle.com/uploads/image/2026/1/6/a092c64f/https___cdnsanityio_images_xq1bjtf4_production_62994e3a4f65611d6e82a4b4556e441aeab844b2-11648x8736.jpg?w=500&fit=max",
+    "category": "Science"
+  },
+  {
+    "websiteName": "MacRumors",
+    "title": "CES 2026: GE's $300 Matter Smart Shades Work With Apple Home",
+    "url": "https://www.macrumors.com/2026/01/06/ge-matter-smart-shades/",
+    "date": "2026-01-06T22:03:05.363Z",
+    "imageUrl": "https://images.macrumors.com/article-new/2026/01/ge-smart-shades.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Time",
+    "title": "Calls for Trump’s Impeachment Gain Momentum Amid Fallout Over Venezuela Operation",
+    "url": "https://time.com/7343574/trump-impeachment-calls-gather-pace-venezuela-fallout/",
+    "date": "2026-01-06T13:03:05.363Z",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Business",
+    "title": "Meta hires former Trump official as chief legal officer",
+    "url": "https://www.businessinsider.com/meta-hires-trump-official-c-j-mahoney-chief-legal-officer-2026-1",
+    "date": "2026-01-06T19:03:05.363Z",
+    "imageUrl": "https://i.insider.com/695d670f04eda4732f2e9335?format=jpeg",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Mashable",
+    "title": "Nvidia’s new Vera Rubin chips: 4 things to know",
+    "url": "https://mashable.com/article/nvidia-new-vera-rubin-chip-things-to-know",
+    "date": "2026-01-06T22:03:05.363Z",
+    "imageUrl": "https://helios-i.mashable.com/imagery/articles/03UeuiZrA2xWhasiFxx9Nm1/hero-image.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "The",
+    "title": "Should You Buy ASML Stock Before Jan. 28?",
+    "url": "https://www.fool.com/investing/2026/01/06/should-you-buy-asml-stock-before-jan-28/",
+    "date": "2026-01-07T01:03:05.363Z",
+    "imageUrl": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F849501%2Fasml3.jpg&w=700",
+    "category": "Business"
+  },
+  {
+    "websiteName": "South",
+    "title": "China’s powerful new microwave weapon system can destroy drone swarms within 3km",
+    "url": "https://www.scmp.com/news/china/military/article/3338877/chinas-powerful-new-microwave-weapon-system-can-destroy-drone-swarms-within-3km?utm_source=rss_feed",
+    "date": "2026-01-07T01:03:05.363Z",
+    "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/01/06/1c0d371d-e7dc-48c4-ae1c-a8f40df6597f_8e3d1a03.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "BMJ",
+    "title": "Re: Polarisation in medicine: how can we better engage with people who disagree with us?",
+    "url": "https://www.bmj.com/content/391/bmj.r2342/rr-1",
+    "date": "2026-01-05T04:03:05.364Z",
+    "imageUrl": "chrome-extension://bmcgcefhjdglnomoppbfmnhooahhgpma/&target_size=96x64",
+    "category": "Health"
+  },
+  {
+    "websiteName": "Good",
+    "title": "The Best Mattresses of 2025",
+    "url": "https://www.goodhousekeeping.com/home-products/g29892090/best-mattresses/",
+    "date": "2026-01-06T21:03:05.365Z",
+    "category": "Home"
+  },
+  {
+    "websiteName": "TechRadar",
+    "title": "Lenovo releases its most grandiose and powerful ThinkPad laptop ever — 2TB PCIe 5.0 SSD, six speakers, 10MP webcam, but weighing in at just 1.5Kg!",
+    "url": "https://www.techradar.com/pro/lenovo-releases-its-most-grandiose-and-powerful-thinkpad-laptop-ever-2tb-pcie-5-0-ssd-six-speakers-10mp-webcam-and-just-1-5kg",
+    "date": "2026-01-06T14:03:05.365Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/86EiqTgDRHFoXWmNRZpUqD-1280-80.png",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Mashable",
+    "title": "This Roborock at record-low pricing is one of the most powerful robot vacuums under $600",
+    "url": "https://mashable.com/article/jan-6-roborock-qrevo-edge-robot-vacuum-deal",
+    "date": "2026-01-06T17:03:05.365Z",
+    "imageUrl": "https://helios-i.mashable.com/imagery/articles/0568zeutxZxTWDL2OHzhWKk/hero-image.png",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "BBC",
+    "title": "US action in Venezuela morally right, Badenoch says",
+    "url": "https://www.bbc.com/news/articles/ckgnxdpv2p9o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-01-06T11:03:05.365Z",
+    "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1f09/live/df219b10-eae4-11f0-97ff-1df4f0d33d7f.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "The",
+    "title": "Should Investors Be Concerned About This Pharmaceutical Giant's Latest Clinical Trial?",
+    "url": "https://www.fool.com/investing/2026/01/06/should-investor-be-concerned-about-this-pharmaceut/",
+    "date": "2026-01-06T23:03:05.365Z",
+    "imageUrl": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F844348%2F23_11_13-a-scientist-working-with-a-flask-and-beaker-_gettyimages-1413606015-1201x633-65d4be6.jpg&w=700",
+    "category": "Business"
+  },
+  {
+    "websiteName": "9to5Mac",
+    "title": "iOS 26 gave Apple Music three of my favorite new features in years",
+    "url": "https://9to5mac.com/2026/01/06/ios-26-gave-apple-music-three-of-my-favorite-new-features-in-years/",
+    "date": "2026-01-06T16:03:05.365Z",
+    "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-music-ios-26-favorite-new-features.jpg?quality=82&strip=all&w=1600",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "GSMArena",
+    "title": "Samsung unveils Galaxy Book6 series laptops with Intel's latest 18A processors",
+    "url": "https://www.gsmarena.com/samsung_unveils_galaxy_book6_series_laptops_with_intels_latest_18a_processors-news-70972.php",
+    "date": "2026-01-06T12:03:05.365Z",
+    "imageUrl": "https://fdn.gsmarena.com/imgroot/news/26/01/samsung-galaxy-book6-announced/-952x498w6/gsmarena_000.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "The",
+    "title": "Wave Season deal: Up to $500 in instant savings on cruises",
+    "url": "https://thepointsguy.com/cruise/deals/princess-wave-deal/",
+    "date": "2026-01-06T14:03:05.365Z",
+    "imageUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/03/Star-Princess_Sea-Trials-4-1.jpg",
+    "category": "Travel"
+  },
+  {
+    "websiteName": "Men's",
+    "title": "This Busy Dad Never Prioritized Losing Weight. Then His Son Shared Something Brutal in His Class.",
+    "url": "https://www.menshealth.com/health/a69918047/daine-patton-weight-loss-transformation/",
+    "date": "2026-01-05T04:03:05.365Z",
+    "category": "Health"
+  },
+  {
+    "websiteName": "Space.com",
+    "title": "NASA may be 1 month away from historic Artemis 2 astronaut launch around the moon",
+    "url": "https://www.space.com/space-exploration/artemis/historic-artemis-2-moon-launch-may-be-just-1-month-away",
+    "date": "2026-01-06T19:03:05.365Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/rUi4fuwVeKPS4Zf6Gqem8E-1280-80.jpg",
+    "category": "Science"
+  },
+  {
+    "websiteName": "Tom's",
+    "title": "Hands-on with Asus’s ROG Falchion Ace 75 HE: Premium gaming, with an emphasis on physical adjustments and web-based configuration",
+    "url": "https://www.tomshardware.com/peripherals/hands-on-with-asuss-rog-falchion-ace-75-he-premium-gaming-with-an-emphasis-on-physical-adjustments-and-web-based-configuration",
+    "date": "2026-01-06T17:03:05.365Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/ga6yHKUuhB3FDQz9DpDrAW-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Scientific",
+    "title": "Why Does Life Keep Evolving These Geometric Patterns?",
+    "url": "https://www.scientificamerican.com/article/why-does-life-keep-evolving-these-geometric-patterns/",
+    "date": "2026-01-05T04:03:05.366Z",
+    "imageUrl": "https://static.scientificamerican.com/dam/m/5e7c8055017e7837/original/sa0226Adva08.jpg?m=1767046920.289&w=1200",
+    "category": "Science"
+  },
+  {
+    "websiteName": "PCWorld",
+    "title": "Aqara’s U400 smart lock boasts hands-free unlocking",
+    "url": "https://www.pcworld.com/article/3024835/aqaras-u400-smart-lock-boasts-hands-free-unlocking.html",
+    "date": "2026-01-06T20:03:05.366Z",
+    "imageUrl": "https://b2c-contenthub.com/wp-content/uploads/2026/01/Aqara-U400-smart-lock-with-NFC-tap-to-unlock.jpg?quality=50&strip=all&w=1200",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Seeking",
+    "title": "SLVP: Silver Momentum Can Be Misleading",
+    "url": "https://seekingalpha.com/article/4857577-slvp-etf-silver-momentum-can-be-misleading?source=feed_all_articles",
+    "date": "2026-01-07T02:03:05.366Z",
+    "imageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2233425446/image_2233425446.jpg?io=getty-c-w1536",
+    "category": "Business"
+  },
+  {
+    "websiteName": "How-To",
+    "title": "This Lenovo Yoga laptop has a hidden drawing tablet",
+    "url": "https://www.howtogeek.com/this-lenovo-yoga-laptop-has-a-hidden-drawing-tablet/",
+    "date": "2026-01-07T00:03:05.366Z",
+    "imageUrl": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/12/yoga-pro-9i-aura-edition.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "France24",
+    "title": "Trump 'sees that there's money to be made' out of a Ukraine ceasefire, analyst says",
+    "url": "https://www.france24.com/en/trump-sees-that-there-s-money-to-be-made-out-of-a-ukraine-ceasefire-analyst-says",
+    "date": "2026-01-06T20:03:05.366Z",
+    "imageUrl": "https://s.france24.com/media/display/686c5032-eb3e-11f0-8a12-005056a90284/w:1024/p:16x9/EN-20260106-211212-211901-CS.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "9to5Mac",
+    "title": "Apple’s next iPhone is about to enter mass production, per leaker",
+    "url": "https://9to5mac.com/2026/01/06/apples-next-iphone-is-about-to-enter-mass-production-per-leaker/",
+    "date": "2026-01-06T14:03:05.366Z",
+    "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/iphone-17-blue-display.jpg?quality=82&strip=all&w=1600",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Ars",
+    "title": "Magneto, Xavier reunite in new Avengers: Doomsday teaser",
+    "url": "https://arstechnica.com/culture/2026/01/latest-avengers-doomsday-teaser-highlights-x-men/",
+    "date": "2026-01-06T15:03:05.366Z",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/avenge2-1152x648-1767712126.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Tom's",
+    "title": "I went hands-on with the Motorola Razr Fold — and the Galaxy Z Fold 7 has real competition",
+    "url": "https://www.tomsguide.com/phones/android-phones/i-went-hands-on-with-the-motorola-razr-fold-and-the-galaxy-z-fold-7-has-real-competition",
+    "date": "2026-01-07T00:03:05.366Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/BX3qmhupEwoEPxWtupMUtm-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "WSJ",
+    "title": "Live Q&A: Ask Us Your Questions About the Capture of Venezuela’s Maduro and What Comes Next",
+    "url": "https://www.wsj.com/world/americas/venezuela-questions-answered-experts-329ec320",
+    "date": "2026-01-06T20:03:05.366Z",
+    "imageUrl": "https://images.wsj.net/im-40168514",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Techspot",
+    "title": "Office 2021, Windows 11 24H2, and other Microsoft products reach end-of-life in 2026",
+    "url": "https://www.techspot.com/news/110811-office-2021-windows-11-24h2-other-microsoft-products.html",
+    "date": "2026-01-05T04:03:05.366Z",
+    "imageUrl": "https://www.techspot.com/images2/news/ts3_thumbs/2026/01/2026-01-05-ts3_thumbs-d45.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Rolling",
+    "title": "Piper Rockelle on Joining OnlyFans: ‘I’ve Never Had a Good Reputation’",
+    "url": "https://www.rollingstone.com/culture/culture-features/piper-rockelle-onlyfans-interview-1235494798/",
+    "date": "2026-01-07T00:03:05.366Z",
+    "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2026/01/MS_PiperRockelle_0733.jpg?crop=0px%2C259px%2C1800px%2C1014px&resize=1600%2C900",
+    "category": "Culture"
+  },
+  {
+    "websiteName": "Esquire",
+    "title": "The 7 Best Computer Speakers to Upgrade Your Desk",
+    "url": "https://www.esquire.com/lifestyle/tech/g69917080/best-computer-speakers-reviews/",
+    "date": "2026-01-06T21:03:05.366Z",
+    "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/1-indexl-695d6539cbc08.jpg",
+    "category": "Entertainment"
+  },
+  {
+    "websiteName": "WSJ",
+    "title": "Auto & Transport Roundup: Market Talk",
+    "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-40ab3e72?mod=pls_whats_news_us_business_f",
+    "date": "2026-01-05T04:03:05.366Z",
+    "imageUrl": "https://images.wsj.net/im-30741820",
+    "category": "Business"
+  },
+  {
+    "websiteName": "XDA",
+    "title": "If you need a 2TB SSD for cheap, this is the way to go",
+    "url": "https://www.xda-developers.com/pny-2tb-ssd-for-cheap/",
+    "date": "2026-01-07T01:03:05.366Z",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "GSMArena",
+    "title": "Infinix unveils blade-less fan, liquid cooling, a gaming controller, and magnetic accessories",
+    "url": "https://www.gsmarena.com/infinix_unveils_bladeless_active_liquid_cooling_gaming_controller_magnetic_accessories-news-70978.php",
+    "date": "2026-01-07T01:03:05.366Z",
+    "imageUrl": "https://fdn.gsmarena.com/imgroot/news/26/01/infinix-at-ces/-952x498w6/gsmarena_000.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "PCWorld",
+    "title": "Meet Qira AI, Lenovo’s big bet on an ever-present AI helper",
+    "url": "https://www.pcworld.com/article/3021750/meet-qira-ai-lenovos-big-bet-on-an-ever-present-ai-helper.html",
+    "date": "2026-01-07T00:03:05.366Z",
+    "imageUrl": "https://b2c-contenthub.com/wp-content/uploads/2026/01/20260104_105518.jpg?quality=50&strip=all&w=1200",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "CBSSports",
+    "title": "2026 Wild Card Weekend NFL picks, odds, best bets from proven model: This 5-leg parlay pays nearly 25-1",
+    "url": "https://www.cbssports.com/nfl/news/2026-wild-card-weekend-nfl-picks-predictions-odds-best-bets-parlay/",
+    "date": "2026-01-06T23:03:05.366Z",
+    "imageUrl": "https://sportshub.cbsistatic.com/i/2026/01/06/f50b79ba-8693-46b0-81b1-89f126bc64e4/caleb-williams-chicago-bears-imagn-images.jpg",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "The",
+    "title": "Jennifer Aniston, 56, shows off her incredible abs as she reveals workouts to fans",
+    "url": "https://www.the-sun.com/entertainment/15741850/jennifer-aniston-incredible-abs-workouts/",
+    "date": "2026-01-06T22:03:05.366Z",
+    "imageUrl": "https://www.the-sun.com/wp-content%2Fuploads%2Fsites%2F6%2F2026%2F01%2Fnewspress-collage-zuyfvfcct-1767736125331.jpg?quality%3D90%26strip%3Dall%261767718145",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Seeking",
+    "title": "Intuitive Machines Becoming A Satellite Powerhouse For The Golden Dome",
+    "url": "https://seekingalpha.com/article/4857576-intuitive-machines-stock-satellite-powerhouse-golden-dome?source=feed_all_articles",
+    "date": "2026-01-07T01:03:05.366Z",
+    "category": "Business"
+  },
+  {
     "websiteName": "CBR",
     "title": "Hijack Season 2 Review: Idris Elba’s 90% Apple TV Thriller Goes Off the Rails",
     "url": "https://www.cbr.com/hijack-season-2-review/",
