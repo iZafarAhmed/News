@@ -1,5 +1,789 @@
 [
   {
+    "websiteName": "BBC",
+    "title": "Faisal Islam: Trump's Greenland threats to allies are without parallel",
+    "url": "https://www.bbc.com/news/articles/cx2gjdx241wo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-01-18T06:38:19.579Z",
+    "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4a34/live/e5e15800-f435-11f0-b5f7-49f0357294ff.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "CoinGecko",
+    "title": "GeckoPulse: Interactive Brokers Takes Stablecoins!",
+    "url": "https://www.coingecko.com/learn/geckopulse-interactive-brokers-takes-stablecoins?locale=en",
+    "date": "2026-01-16T07:21:19.580Z",
+    "imageUrl": "https://assets.coingecko.com/coingecko/public/ckeditor_assets/pictures/34020/content_geckonews.webp",
+    "category": "Crypto"
+  },
+  {
+    "websiteName": "CBS",
+    "title": "Will a woman's final moments, caught on tape, help prove she was murdered?",
+    "url": "https://www.cbsnews.com/news/melissa-rocuba-bruno-rocuba-pennsylvania-shooting-death-home-security-video-48-hours/",
+    "date": "2026-01-18T04:21:19.582Z",
+    "imageUrl": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/01/17/4a574c8b-aa65-4880-be13-4f0e1e4c75cc/thumbnail/1200x630/c4fd1f93c34da7ee10eeceeb57278fc3/melissa-rocuba.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Healthline",
+    "title": "RFK Jr.'s New Dietary Guidelines Reduce Added Sugars, Processed Foods",
+    "url": "https://www.healthline.com/health-news/2025-2030-dietary-guidelines-for-americans-key-changes",
+    "date": "2026-01-18T06:42:19.582Z",
+    "imageUrl": "https://media.post.rvohealth.io/wp-content/uploads/2026/01/healthy-food-eating-groceries-1296x728-header.jpg",
+    "category": "Health"
+  },
+  {
+    "websiteName": "CBS",
+    "title": "1/17: CBS Weekend News",
+    "url": "https://www.cbsnews.com/video/117-cbs-weekend-news/",
+    "date": "2026-01-18T04:21:19.582Z",
+    "imageUrl": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/01/18/a3a00aa8-6bf4-4155-b947-ef5757e6806d/thumbnail/1200x630/52467efe10da8cd20f032e96dec64055/0117-wn-full-4314906-640x360.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "TechRadar",
+    "title": "49ers vs Seahawks Free Streams: How to watch NFL 2026 Divisional Round game online from anywhere",
+    "url": "https://www.techradar.com/how-to-watch/american-football/san-francisco-49ers-vs-seattle-seahawks-free",
+    "date": "2026-01-16T07:21:19.582Z",
+    "imageUrl": "https://pcdn.brave.com/brave-today/cache/165a2dbe2da50e365ed95efe511c360a2c57b54fd2991d612cd0769f27d2a6cd.jpg.pad",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "FT",
+    "title": "Can India be luxury’s next big thing?",
+    "url": "https://www.ft.com/content/1f3f3068-712b-4096-ab55-15af887ca527",
+    "date": "2026-01-18T04:21:19.582Z",
+    "imageUrl": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F521f19c0-b04c-48ff-a960-5ffc46fe8b60.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "The",
+    "title": "Prince Harry v the Daily Mail: high stakes trial could have profound effects on UK media",
+    "url": "https://www.theguardian.com/uk-news/2026/jan/18/prince-harry-v-daily-mail-high-stakes-trial-profound-effects-uk-media",
+    "date": "2026-01-18T05:21:19.582Z",
+    "imageUrl": "https://i.guim.co.uk/img/media/3941e7c5cc40cfcc9276ca33b6309bb59e90e23a/165_0_1603_1282/master/1603.jpg?width=700&quality=85&auto=format&fit=max&s=f299799cb9d39b1e6ff84fc85c1d85be",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Rolling",
+    "title": "How to Watch the 2026 Australian Open Without Cable",
+    "url": "https://www.rollingstone.com/product-recommendations/streaming/how-to-watch-australian-open-tennis-2026-streaming-online-1235499061/",
+    "date": "2026-01-17T17:21:19.583Z",
+    "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2026/01/carlos-alcaraz-practicing.jpg?w=1024&h=683&crop=1",
+    "category": "Culture"
+  },
+  {
+    "websiteName": "Space.com",
+    "title": "1 month until a 'ring of fire' annular solar eclipse puts on a show — mostly for penguins",
+    "url": "https://www.space.com/stargazing/solar-eclipses/1-month-until-a-ring-of-fire-annular-solar-eclipse-2026-puts-on-a-show-mostly-for-penguins",
+    "date": "2026-01-16T07:21:19.583Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/nJVpxUekUBVNiqcBLrtZpS-1280-80.jpg",
+    "category": "Science"
+  },
+  {
+    "websiteName": "CBSSports",
+    "title": "NFL divisional round injury report: Injuries for bettors to know include Sam Darnold and Nico Collins",
+    "url": "https://www.cbssports.com/betting/news/nfl-divisional-round-injury-report-injuries-for-bettors-to-know-include-sam-darnold-and-nico-collins/",
+    "date": "2026-01-17T23:21:19.583Z",
+    "imageUrl": "https://sportshub.cbsistatic.com/i/2026/01/15/0e2e6b6d-44d4-4f56-8184-a37d55273f0b/sam-darnold-seahawks.jpg",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "Mashable",
+    "title": "How to watch Berrettini vs. de Minaur online for free",
+    "url": "https://mashable.com/article/berrettini-de-minaur-australian-open-2026-live-stream-for-free",
+    "date": "2026-01-18T04:21:19.583Z",
+    "imageUrl": "https://helios-i.mashable.com/imagery/articles/02K28PbJ0ev4UTPKCBHhimz/hero-image.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "CoinDesk",
+    "title": "Crypto trading platform with CZ as advisor sees sudden $2 billion volume surge on 'airdrop' hype",
+    "url": "https://www.coindesk.com/markets/2026/01/17/a-new-crypto-project-with-cz-as-advisor-sees-usd2-billion-in-volume-surge-on-airdrop-hype",
+    "date": "2026-01-17T17:21:19.583Z",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/b12814ead4ec58fa459c74a3cdc1bf5cd6ec7f3c-3840x2160.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "category": "Crypto"
+  },
+  {
+    "websiteName": "Atlas",
+    "title": "Villa Seurat in Paris, France",
+    "url": "https://www.atlasobscura.com/places/villa-seurat",
+    "date": "2026-01-16T07:21:19.583Z",
+    "imageUrl": "chrome-extension://bmcgcefhjdglnomoppbfmnhooahhgpma/&target_size=508x269",
+    "category": "Travel"
+  },
+  {
+    "websiteName": "Mashable",
+    "title": "NYT Connections hints today: Clues, answers for January 18, 2026",
+    "url": "https://mashable.com/article/nyt-connections-hint-answer-today-january-18-2026",
+    "date": "2026-01-18T02:21:19.583Z",
+    "imageUrl": "https://helios-i.mashable.com/imagery/articles/02e2AE1rvErlipKU1rT1bzw/hero-image.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Gizmodo",
+    "title": "‘Fallout’ Returns to ‘Magic: The Gathering’ and Secret Lair",
+    "url": "https://gizmodo.com/fallout-returns-to-magic-the-gathering-and-secret-lair-2000711431",
+    "date": "2026-01-17T20:21:19.583Z",
+    "imageUrl": "https://gizmodo.com/app/uploads/2026/01/fallout-mtg-1280x853.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "The",
+    "title": "The LG C5 and Apple’s M4 Mac Mini are both steeply discounted this weekend",
+    "url": "https://www.theverge.com/gadgets/863503/apple-mac-mini-m4-lg-c5-oled-tv-deal-sale",
+    "date": "2026-01-17T15:21:19.583Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Mac-Mini-M4-Deal.png?quality=90&strip=all&crop=0,0,100,100",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "AndroidCentral",
+    "title": "After testing the Moto G Power 2026 for weeks, I'm happy that the $300 price hasn't changed, but I'm confused about some of the other changes Motorola made (or didn't make)",
+    "url": "https://www.androidcentral.com/phones/motorola/moto-g-power-2026-review",
+    "date": "2026-01-17T10:21:19.583Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/6U65G9PzTqDYZnPLYfVnvf-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "ESPN",
+    "title": "Denver advances, but Bo Nix is out: Six questions about where the Broncos go from here",
+    "url": "https://www.espn.com/nfl/story/_/id/47646418/denver-broncos-bo-nix-ankle-injury-questions-super-bowl-prospects-long-term-outlook",
+    "date": "2026-01-18T04:21:19.583Z",
+    "imageUrl": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0118%2Fr1602103_1296x729_16%2D9.jpg",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "Billboard",
+    "title": "NOFX Set Feature-Length Documentary Exploring 40 Years of Punk, Excess and Survival",
+    "url": "https://www.billboard.com/culture/tv-film/nofx-new-documentary-1236157272/",
+    "date": "2026-01-17T07:21:19.583Z",
+    "imageUrl": "https://www.billboard.com/wp-content/uploads/media/nofx-2016-b-billboard-1548.jpg?w=1024",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Tom's",
+    "title": "My Oura Ring spotted that I’ve been failing at this No 1 sleep hygiene rule — now I'm doing it, I'm falling asleep faster and easier",
+    "url": "https://www.tomsguide.com/wellness/sleep/my-oura-ring-spotted-that-ive-been-failing-at-this-no-1-sleep-hygiene-rule-now-im-doing-it-im-falling-asleep-faster-and-easier",
+    "date": "2026-01-16T07:21:19.583Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/rZtWweMfmTbWFc3A7cEKNN-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Al",
+    "title": "‘Make America Go Away!’: Anti-Trump protests erupt in Denmark",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/1/17/make-america-go-away-anti-trump-protests-erupt-in-denmark?traffic_source=rss",
+    "date": "2026-01-17T16:21:19.583Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/01/image-1768670312.jpg?resize=1620%2C1080&quality=80",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Zerohedge",
+    "title": "Trump Admin Was In 'Discussions' With Venezuelan Minister Months Before Raid",
+    "url": "https://www.zerohedge.com/political/inside-job-trump-admin-was-discussions-venezuelan-minister-months-raid",
+    "date": "2026-01-17T19:21:19.583Z",
+    "imageUrl": "https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/SNI5INORENPI7OKUWHRDFIKPAA_80.jpg?itok=btGoTKJW",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Gizmodo",
+    "title": "OpenAI Launches Cheaper Subscriptions, Starts Testing Ads Because It’s Time to Pay the Piper",
+    "url": "https://gizmodo.com/openai-launches-cheaper-subscriptions-starts-testing-ads-because-its-time-to-pay-the-piper-2000711284",
+    "date": "2026-01-16T07:21:19.583Z",
+    "imageUrl": "https://gizmodo.com/app/uploads/2024/12/GettyImages-2185275106-1024x683.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "LA",
+    "title": "Supreme Court likely to uphold state bans on trans athletes competing in girls' sports",
+    "url": "https://www.latimes.com/politics/story/2026-01-13/supreme-court-likely-to-uphold-state-bans-on-trans-athletes-competing-on-girls-sports-teams",
+    "date": "2026-01-13T07:21:19.583Z",
+    "imageUrl": "https://ca-times.brightspotcdn.com/dims4/default/0268ec7/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1d%2Fd0%2F0edbe3044f0dba77c91e716877ec%2Fsupreme-court-transgender-athletes-16806.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "France24",
+    "title": "Uganda's President Yoweri Museveni wins seventh term as rival Bobi Wine rejects 'fake results'",
+    "url": "https://www.france24.com/en/africa/20260117-uganda-president-yoweri-museveni-wins-seventh-term-rival-bobi-wine-rejects-fake-results",
+    "date": "2026-01-17T13:21:19.583Z",
+    "imageUrl": "https://s.france24.com/media/display/9bc1677e-f39a-11f0-b7ab-005056a90284/w:1024/p:16x9/Yoweri-Museveni.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "ABC",
+    "title": "Somali businesses struggle during the Minneapolis ICE crackdown",
+    "url": "https://abcnews.go.com/US/wireStory/somali-businesses-struggle-minneapolis-ice-crackdown-129323397",
+    "date": "2026-01-18T05:21:19.584Z",
+    "imageUrl": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_1600.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "PCWorld",
+    "title": "Hate your Gmail address? Google is finally letting you change it",
+    "url": "https://www.pcworld.com/article/3035024/hate-your-gmail-address-google-is-finally-letting-you-change-it.html",
+    "date": "2026-01-16T07:21:19.584Z",
+    "imageUrl": "https://www.pcworld.com/wp-content/uploads/2026/01/googlemail.jpg?quality=50&strip=all",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "9to5Mac",
+    "title": "New Jersey AG hits Apple with record penalty over retail store pricing violations",
+    "url": "https://9to5mac.com/2026/01/16/new-jersey-ag-hits-apple-with-record-penalty-over-retail-store-pricing-violations/",
+    "date": "2026-01-16T07:21:19.584Z",
+    "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/AAPL-earnings-call-on-October-31-will-include-early-iPhone-16-sales.webp?w=1600",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "CBSSports",
+    "title": "Bo Nix injury: Broncos QB suffers season-ending ankle fracture in win over Bills; Jarrett Stidham to start",
+    "url": "https://www.cbssports.com/nfl/news/bo-nix-injury-broncos-qb-ankle-fracture-jarrett-stidham/",
+    "date": "2026-01-18T03:21:19.584Z",
+    "imageUrl": "https://sportshub.cbsistatic.com/i/2026/01/18/b725a2a6-01bd-4c99-b001-b6ec6b3b368a/bo-nix-no-helmet-broncos.jpg",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "The",
+    "title": "These Are the 12 States Vying to Kick Off Democrats’ 2028 Contest",
+    "url": "https://www.nytimes.com/2026/01/17/us/politics/2028-democratic-primary-states-iowa-south-carolina-nevada-new-hampshire.html",
+    "date": "2026-01-18T03:21:19.584Z",
+    "imageUrl": "https://static01.nyt.com/images/2026/01/18/multimedia/18pol-dems-2028-fgwv/18pol-dems-2028-fgwv-mediumSquareAt3X.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Mashable",
+    "title": "How to watch Senegal vs. Morocco online for free",
+    "url": "https://mashable.com/article/senegal-morocco-africa-cup-of-nations-final-2025-live-stream-for-free",
+    "date": "2026-01-18T04:21:19.584Z",
+    "imageUrl": "https://helios-i.mashable.com/imagery/articles/02Zku0ho1x8t2zDKWaGoQYI/hero-image.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Men's",
+    "title": "The 9 Best Fitness Trackers, Tested By Our Fitness and Tech Experts",
+    "url": "https://www.menshealth.com/fitness/g60175762/best-fitness-trackers/",
+    "date": "2026-01-16T07:21:19.584Z",
+    "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/mhl-tracker-whoop-477-lead-67ead5f8b93a6.jpg",
+    "category": "Health"
+  },
+  {
+    "websiteName": "Insider",
+    "title": "I thought downsizing would be hard for our family of 4. It ended up changing our lives for the better.",
+    "url": "https://www.businessinsider.com/we-downsized-our-home-for-a-better-family-lifestyle-2026-1",
+    "date": "2026-01-17T19:21:19.584Z",
+    "imageUrl": "https://i.insider.com/695e9e0d832e0ef1ead7574b?format=jpeg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Healthline",
+    "title": "3 Young Adults Share How They Learned to Thrive With Cardiovascular Disease",
+    "url": "https://www.healthline.com/health-news/cardiovascular-disease-3-young-adults-share-their-stories",
+    "date": "2026-01-18T06:42:19.584Z",
+    "imageUrl": "https://media.post.rvohealth.io/wp-content/uploads/2025/12/Cardiovascular-Disease-stories-1296x728-header.png",
+    "category": "Health"
+  },
+  {
+    "websiteName": "Zerohedge",
+    "title": "A Big Bet On Apprenticeships In A Frozen Labor Market",
+    "url": "https://www.zerohedge.com/political/big-bet-apprenticeships-frozen-labor-market",
+    "date": "2026-01-18T01:21:19.584Z",
+    "imageUrl": "https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/AdobeStock_88564596-min.jpeg_80.jpg?itok=Bhmtj2Sr",
+    "category": "Business"
+  },
+  {
+    "websiteName": "The",
+    "title": "What’s Going on With the Epstein Files?",
+    "url": "https://www.theatlantic.com/newsletters/2026/01/the-epstein-files-never-went-away/685664/?utm_source=feed",
+    "date": "2026-01-16T07:21:19.584Z",
+    "imageUrl": "https://pcdn.brave.com/brave-today/cache/0563995a5f48f43d2d0f5cc728cbfc8f06e6966635d6013e00321bb8f1b4515b.jpg.pad",
+    "category": "Culture"
+  },
+  {
+    "websiteName": "Gizmodo",
+    "title": "We Finally Know Real Things About the Next J.J. Abrams Movie",
+    "url": "https://gizmodo.com/we-finally-know-real-things-about-the-next-j-j-abrams-movie-2000711329",
+    "date": "2026-01-17T17:21:19.584Z",
+    "imageUrl": "https://gizmodo.com/app/uploads/2026/01/j.j.-abrams-hed-1280x853.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "BBC",
+    "title": "Ant and Dec sorry after 'insensitive' podcast promo prompts backlash",
+    "url": "https://www.bbc.com/news/articles/c78enz4xeddo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-01-17T17:21:19.584Z",
+    "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a219/live/8d842110-f3cc-11f0-b5f7-49f0357294ff.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "France24",
+    "title": "AFCON 2025: Egypt and Nigeria face off for third place",
+    "url": "https://www.france24.com/en/afcon-2025-egypt-and-nigeria-face-off-for-third-place",
+    "date": "2026-01-17T16:21:19.584Z",
+    "imageUrl": "https://s.france24.com/media/display/0915d5fe-f3c2-11f0-a314-005056bfb2b6/w:1024/p:16x9/capture-1341998506696bb97a957711-07851543.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "9to5Mac",
+    "title": "These are the best new MacBook Air and MacBook Pro deals in January so far",
+    "url": "https://9to5mac.com/2026/01/17/best-apple-macbook-deals-currently-jan-2026/",
+    "date": "2026-01-18T05:21:19.584Z",
+    "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/03/m4-macbook-air-sleeve.jpg?quality=82&strip=all&w=1600",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Ars",
+    "title": "Archaeologists find a supersized medieval shipwreck in Denmark",
+    "url": "https://arstechnica.com/science/2026/01/archaeologists-find-a-supersized-medieval-shipwreck-in-denmark/",
+    "date": "2026-01-16T07:21:19.584Z",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Ubena_von_Bremen_Kiel2007_1_cropped-941x648.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "CBSSports",
+    "title": "New York Giants finalize five-year deal with John Harbaugh to be their next coach",
+    "url": "https://www.cbssports.com/nfl/news/giants-to-finalize-deal-and-hire-john-harbaugh-next-coach-per-report/",
+    "date": "2026-01-18T01:21:19.584Z",
+    "imageUrl": "https://sportshub.cbsistatic.com/i/2026/01/15/ebeac7f7-72df-4fdc-81eb-0cd11c2c67cf/johnn.jpg",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "NPR",
+    "title": "'Not for sale': massive protest in Copenhagen against Trump's desire to acquire Greenland",
+    "url": "https://www.npr.org/2026/01/17/g-s1-106401/not-for-sale-massive-protest-in-copenhagen-against-trumps-desire-to-acquire-greenland",
+    "date": "2026-01-17T16:21:19.584Z",
+    "imageUrl": "https://pcdn.brave.com/brave-today/cache/fa0d21df3296019a939d04e69ea3e2df971807f4c562d5c33d3102210b4fdafc.jpg.pad",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "PC",
+    "title": "Only diehard XCOM fans will have a chance at beating our latest quiz",
+    "url": "https://www.pcgamer.com/games/strategy/only-diehard-xcom-fans-will-have-a-chance-at-beating-our-latest-quiz/",
+    "date": "2026-01-16T07:21:19.584Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/y9noD69VwsGmbFyp6JiHYB-1280-80.jpg",
+    "category": "Gaming"
+  },
+  {
+    "websiteName": "The",
+    "title": "US kills Al-Qaeda-linked leader behind ISIS attack that killed two service members and American interpreter, military says",
+    "url": "https://www.independent.co.uk/news/world/americas/us-politics/military-strike-kills-al-qaeda-isis-leader-b2902600.html",
+    "date": "2026-01-18T02:21:19.584Z",
+    "imageUrl": "https://static.independent.co.uk/2026/01/18/2/19/AP26017436417187.jpg?width=1200&auto=webp&crop=3%3A2",
+    "category": "World News"
+  },
+  {
+    "websiteName": "CNBC",
+    "title": "EU and South American bloc Mercosur sign trade deal after 25 years of negotiations",
+    "url": "https://www.cnbc.com/2026/01/17/eu-south-america-mercosur-trade.html",
+    "date": "2026-01-17T18:21:19.584Z",
+    "imageUrl": "https://image.cnbcfm.com/api/v1/image/108253851-17686771882026-01-17t182707z_566107832_rc213jagyse1_rtrmadp_0_eu-mercosur-paraguay.jpeg?v=1768677217&w=1920&h=1080",
+    "category": "Business"
+  },
+  {
+    "websiteName": "FOX",
+    "title": "Over 38K gallons of bottled water recalled due to 'foreign substance'",
+    "url": "https://www.foxbusiness.com/lifestyle/over-38k-gallons-bottled-water-recalled-due-foreign-substance",
+    "date": "2026-01-16T07:21:19.584Z",
+    "imageUrl": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/06/bottled-water-pour.jpg",
+    "category": "Business"
+  },
+  {
+    "websiteName": "CoinDesk",
+    "title": "Customers are benefitting from the global stablecoin arms race — but that won’t last forever",
+    "url": "https://www.coindesk.com/opinion/2026/01/16/customers-are-benefitting-from-the-global-stablecoin-arms-race-but-that-won-t-last-forever",
+    "date": "2026-01-16T07:21:19.584Z",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/f1b524375e138c791f103e5cb4cc6fa317f0aa25-5616x3744.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "category": "Crypto"
+  },
+  {
+    "websiteName": "Polygon",
+    "title": "Hoodwinked is the ugliest film you need to watch",
+    "url": "https://www.polygon.com/hoodwinked-retrospective-the-ugliest-film-you-need-to-watch/",
+    "date": "2026-01-17T16:21:19.584Z",
+    "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/1.jpg",
+    "category": "Gaming"
+  },
+  {
+    "websiteName": "ESPN",
+    "title": "Women's: South Carolina ascends to No. 2 overall",
+    "url": "https://www.espn.com/espn/feature/story/_/id/30423107/ncaa-women-bracketology-2026-women-college-basketball-projections",
+    "date": "2026-01-18T04:21:19.585Z",
+    "imageUrl": "https://a.espncdn.com/photo/2026/0116/r1601404_1296x729_16-9.jpg",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "FOX",
+    "title": "Ending soon: Save up to 75% on Costco, Sam’s Club and BJ’s memberships",
+    "url": "https://www.foxnews.com/deals/wholesale-club-memberships-sams-costco-bjs",
+    "date": "2026-01-18T04:21:19.585Z",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/524/costcous_1280.jpg?ve=1&tl=1",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "ESPN",
+    "title": "Guide to two more divisional round games: Previews, bold predictions, more",
+    "url": "https://www.espn.com/nfl/story/_/page/viewersguide47602151/nfl-divisional-predictions-schedule-odds-injuries-stats-2025-playoffs",
+    "date": "2026-01-18T03:21:19.585Z",
+    "imageUrl": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0115%2Fr1601062_1296x729_16%2D9.jpg",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "NBC",
+    "title": "Greenlanders protest Trump's intent to buy territory",
+    "url": "https://www.nbcnews.com/video/shorts/greenlanders-protest-trump-s-intent-to-buy-territory-256150085603",
+    "date": "2026-01-17T18:21:19.585Z",
+    "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_01/f_vert_brk_greenland_protest_260117-ho0049.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "XDA",
+    "title": "An external NVMe in a USB4 enclosure became the best drive I own",
+    "url": "https://www.xda-developers.com/an-external-nvme-in-a-usb4-enclosure-became-the-best-drive-i-own/",
+    "date": "2026-01-17T21:21:19.585Z",
+    "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/07/sabrent-2230-ssd-box-satech-enclosure-side.JPG",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "South",
+    "title": "Did China, Russia, Iran joint naval drills in South Africa mark notable Brics shift?",
+    "url": "https://www.scmp.com/news/china/military/article/3340269/did-china-russia-iran-joint-naval-drills-south-africa-mark-notable-brics-shift?utm_source=rss_feed",
+    "date": "2026-01-18T01:21:19.585Z",
+    "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/01/17/11ee7420-96db-4a59-9407-9a98628d16ef_596105f8.jpg?itok=pMKl_Dps&v=1768652683",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Screenrant",
+    "title": "Pokémon Legends: Z-A Free Download Available For 24 More Hours",
+    "url": "https://screenrant.com/pokemon-legends-za-freebie-24-hours-alpha-charizard/",
+    "date": "2026-01-18T04:21:19.585Z",
+    "imageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/12/pokemon-legends-z-a-mega-lucario-z-battle.jpg",
+    "category": "Entertainment"
+  },
+  {
+    "websiteName": "PC",
+    "title": "Fallout reunites with Magic: The Gathering for cards featuring characters from New Vegas, the TV show, and more Dogmeat",
+    "url": "https://www.pcgamer.com/games/card-games/fallout-reunites-with-magic-the-gathering-for-cards-featuring-characters-from-new-vegas-the-tv-show-and-more-dogmeat/",
+    "date": "2026-01-18T01:21:19.585Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/GZsLVmjfss7ZGbYQ6Vkerh-1280-80.jpg",
+    "category": "Gaming"
+  },
+  {
+    "websiteName": "Tom's",
+    "title": "Garmin smartwatches have 5 hidden sleep features — and they've transformed how fast I'm falling asleep and how energized I feel waking up",
+    "url": "https://www.tomsguide.com/wellness/sleep-tech/garmin-smartwatches-have-5-hidden-sleep-features-and-theyve-transformed-how-fast-im-falling-asleep-and-how-energized-i-feel-waking-up",
+    "date": "2026-01-16T07:21:19.585Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/WtBsy3z4pD8Bpyf4cQ6VV6-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "CBSSports",
+    "title": "Irate Sean McDermott reacts to Broncos' controversial overtime interception in Bills' stunning playoff loss",
+    "url": "https://www.cbssports.com/nfl/news/sean-mcdermott-reacts-broncos-bills-controversial-overtime-interception/",
+    "date": "2026-01-18T05:21:19.585Z",
+    "imageUrl": "https://sportshub.cbsistatic.com/i/2026/01/18/04097896-63c7-4108-abfc-e8df7ba1fbce/broncos-int-imagn.jpg",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "The",
+    "title": "Conservative Influencer Chased From Minneapolis Streets by Counterprotesters",
+    "url": "https://www.nytimes.com/2026/01/17/us/minneapolis-protests-immigration-fraud.html",
+    "date": "2026-01-17T21:21:19.585Z",
+    "imageUrl": "https://static01.nyt.com/images/2026/01/17/multimedia/17nat-minn-protest-fzjw/17nat-minn-protest-fzjw-mediumSquareAt3X.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "FOX",
+    "title": "John Mellencamp shares his unconventional advice to his children about work",
+    "url": "https://www.foxnews.com/entertainment/john-mellencamp-unconventional-advice-children-work",
+    "date": "2026-01-18T04:21:19.585Z",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/john-mellencamp.jpg?ve=1&tl=1",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "CBSSports",
+    "title": "2026 NFL playoff schedule and bracket: Dates, times, TV for every round from divisional to Super Bowl",
+    "url": "https://www.cbssports.com/nfl/news/2026-nfl-playoff-schedule-dates-times-tv-wild-card-to-super-bowl/",
+    "date": "2026-01-18T03:21:19.586Z",
+    "imageUrl": "https://sportshub.cbsistatic.com/i/2026/01/18/79655f39-3033-409b-8b8d-63e78353a883/graphic-nflbracket-seadiv.jpg",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "ESPN",
+    "title": "Spurs outlast Edwards despite 55-point barrage",
+    "url": "https://www.espn.com/nba/story/_/id/47648026/wembanyama-spurs-outlast-edwards-55-point-barrage",
+    "date": "2026-01-18T05:21:19.586Z",
+    "imageUrl": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0118%2Fr1602124_1024x576_16%2D9.jpg",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "BBC",
+    "title": "Starmer and European leaders criticise Trump plan to apply tariffs over Greenland",
+    "url": "https://www.bbc.com/news/articles/cy4qjwk9n2no?at_medium=RSS&at_campaign=rss",
+    "date": "2026-01-18T06:45:19.586Z",
+    "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e484/live/77c9f2a0-f42b-11f0-b385-5f48925de19a.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "9to5Mac",
+    "title": "VSCO adds prompt-based image editing as photographers increasingly embrace AI",
+    "url": "https://9to5mac.com/2026/01/16/vsco-adds-prompt-based-image-editing/",
+    "date": "2026-01-16T07:21:19.586Z",
+    "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/vsco-prompt.jpg?quality=82&strip=all&w=1600",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "The",
+    "title": "The Secret Crypto Stock That Could Turn $1,000 Into a Fortune",
+    "url": "https://www.fool.com/investing/2026/01/18/the-secret-category-stock-that-could-turn-1000-int/",
+    "date": "2026-01-18T05:21:19.586Z",
+    "imageUrl": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F849009%2Fanalyst_thinking_with_tablet_in_one_hand.jpg&w=700",
+    "category": "Business"
+  },
+  {
+    "websiteName": "CNET",
+    "title": "Audi, Porsche, VW Issue Major Recall Over Rearview Camera Glitch: How to Know if Your Car Is Affected",
+    "url": "https://www.cnet.com/roadshow/news/audi-porsche-vw-announce-major-us-recalls-tied-to-rearview-camera-glitch/",
+    "date": "2026-01-17T12:21:19.586Z",
+    "imageUrl": "https://www.cnet.com/a/img/resize/aa7eea5718f77003934b43295147862dd092bf6b/hub/2026/01/07/2bfdfd25-880f-482c-b5af-41706aa37e9c/vw-neon-sign-gettyimages-1441848602.jpg?auto=webp&fit=crop&height=614&width=1092",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "The",
+    "title": "NFL fans slam Tony Romo after he makes major live TV mistake while breaking down Josh Allen during Bills-Broncos game",
+    "url": "https://www.the-sun.com/sport/15798668/tony-romo-josh-allen-patrick-mahomes-bills-broncos/",
+    "date": "2026-01-17T22:21:19.586Z",
+    "imageUrl": "https://www.the-sun.com/wp-content%2Fuploads%2Fsites%2F6%2F2026%2F01%2Fnewspress-collage-d1q2shcv7-1768690429118.jpg?quality%3D90%26strip%3Dall%261768672471",
+    "category": "Other"
+  },
+  {
+    "websiteName": "FOX",
+    "title": "Minnesota National Guard placed on standby to support law enforcement as protests turn violent",
+    "url": "https://www.foxnews.com/us/minnesota-national-guard-placed-standby-support-law-enforcement-protests-turn-violent",
+    "date": "2026-01-17T23:21:19.586Z",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/national-guard-split.png?ve=1&tl=1",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "NBC",
+    "title": "ICE surge prompts street patrols surrounding Minneapolis schools",
+    "url": "https://www.nbcnews.com/news/us-news/minneapolis-school-patrols-ice-immigration-surge-rcna254477",
+    "date": "2026-01-17T21:21:19.586Z",
+    "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260116-minneapolis-leah-hood-mn-2020-bdad29.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "How-To",
+    "title": "This $5 accessory fixed my flaky Home Assistant setup",
+    "url": "https://www.howtogeek.com/5-dollar-accessory-fixed-my-flaky-home-assistant-setup/",
+    "date": "2026-01-17T19:21:19.586Z",
+    "imageUrl": "https://pcdn.brave.com/brave-today/cache/372c6a56dc97391377bfd06f6f8c5cfdf701763f2c689ae39c65ad2e32a77099.jpg.pad",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "CBR",
+    "title": "Christopher Pike Makes a Shocking Decision as Star Trek: Strange New Worlds' New Story Ends",
+    "url": "https://www.cbr.com/star-trek-strange-new-worlds-seeds-salvation-5-review-pike-decision/",
+    "date": "2026-01-18T04:21:19.586Z",
+    "imageUrl": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/01/strange-new-worlds-pike-header.jpg",
+    "category": "Entertainment"
+  },
+  {
+    "websiteName": "Inc.com",
+    "title": "How to Do Smart Hiring as the Influence of Job Sites Wanes",
+    "url": "https://www.inc.com/bruce-crumley/how-to-do-smart-hiring-as-the-influence-of-job-posting-sites-wanes/91289138",
+    "date": "2026-01-17T12:21:19.586Z",
+    "imageUrl": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/01/GettyImages-2238385119.jpg",
+    "category": "Business"
+  },
+  {
+    "websiteName": "The",
+    "title": "Minnesota wants to win a war of attrition",
+    "url": "https://www.theverge.com/policy/863632/minnesota-walz-trump-sousveillance-ice",
+    "date": "2026-01-16T07:21:19.586Z",
+    "imageUrl": "https://pcdn.brave.com/brave-today/cache/4312f556fd0211d46d94909347061cf99d850adc438da1f541ea16033c9b5923.jpg.pad",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "TechRadar",
+    "title": "I stopped using Garmin Connect's easily-forgotten gear tracking feature — but I've just fallen back in love with it",
+    "url": "https://www.techradar.com/health-fitness/i-stopped-using-garmin-connects-easily-forgotten-gear-tracking-feature-but-ive-just-fallen-back-in-love-with-it",
+    "date": "2026-01-16T07:21:19.586Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/vn3Qhhuc9C8YjoXhcLpxG5-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Android",
+    "title": "For better or worse, the realme GT8 Pro is the OnePlus 15 that never was",
+    "url": "https://www.androidauthority.com/realme-gt8-pro-review-3622055/",
+    "date": "2026-01-17T09:21:19.586Z",
+    "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/12/realme-GT8-Pro-with-square-camera-bump.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Zerohedge",
+    "title": "Dr. Oz Says Minnesota Fraud Coverup Reaches 'Highest Levels' Of State Government",
+    "url": "https://www.zerohedge.com/political/dr-oz-says-minnesota-fraud-coverup-reaches-highest-levels-state-government",
+    "date": "2026-01-18T00:21:19.586Z",
+    "imageUrl": "https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/image%20-%202026-01-17T091915.105.jpg?itok=2qK9Plq3",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Vox",
+    "title": "What 3,000 federal agents are doing in Minnesota",
+    "url": "https://www.vox.com/the-logoff-newsletter-trump/475412/minneapolis-minnesota-ice-immigration-agents-violence-insurrection-act",
+    "date": "2026-01-15T07:21:19.586Z",
+    "imageUrl": "https://pcdn.brave.com/brave-today/cache/f61967e5059c7d37d345553fcdbfae7cb4d3934b2f466af9beb0d941629d38eb.jpg.pad",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Game",
+    "title": "Best Arkane Studios Games",
+    "url": "https://gamerant.com/arkane-best-games/",
+    "date": "2026-01-18T01:21:19.587Z",
+    "imageUrl": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/01/best-arkane-studios-games-dishonored-2-prey-redfall.jpg",
+    "category": "Gaming"
+  },
+  {
+    "websiteName": "South",
+    "title": "Hong Kong steps up bid to become global gold trading hub with Shanghai agreement",
+    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3340295/hong-kong-steps-bid-become-global-gold-trading-hub-shanghai-agreement?utm_source=rss_feed",
+    "date": "2026-01-18T04:21:19.587Z",
+    "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/01/18/691c0b3f-cb05-4b36-9570-5fc2d975431c_13e0addd.jpg?itok=jEybOCBD&v=1768710282",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Zerohedge",
+    "title": "Dems Need A Serious, Grown-Up Approach To The Border",
+    "url": "https://www.zerohedge.com/political/dems-need-serious-grown-approach-border",
+    "date": "2026-01-17T17:21:19.587Z",
+    "imageUrl": "https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/ice-protest-los-angeles_80_0.jpg?itok=FB2az4qM",
+    "category": "Business"
+  },
+  {
+    "websiteName": "FOX",
+    "title": "Border Patrol commander vows continued tear gas use after Minnesota fedreal judge’s order",
+    "url": "https://www.foxnews.com/politics/border-patrol-commander-vows-keep-using-tear-gas-we-use-those-less-lethal-munitions",
+    "date": "2026-01-18T03:21:19.587Z",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/minnesota-ice-shooting-008.jpg?ve=1&tl=1",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Ars",
+    "title": "Why I’m withholding certainty that “precise” US cyber-op disrupted Venezuelan electricity",
+    "url": "https://arstechnica.com/security/2026/01/unnamed-officials-tell-nyt-precise-cyber-op-took-out-venezuelas-power-grid/",
+    "date": "2026-01-15T07:21:19.587Z",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/power-outage-electric-cord-1152x648.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Insider",
+    "title": "I met my husband at work, and then we quit our jobs to travel the world together. On that 18-month-long trip, we eloped.",
+    "url": "https://www.businessinsider.com/husband-wife-met-work-quit-travel-together-2026-1",
+    "date": "2026-01-17T11:21:19.587Z",
+    "imageUrl": "https://i.insider.com/6961305904eda4732f2ec9eb?format=jpeg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "The",
+    "title": "Eight people killed in avalanches in Austrian Alps as rescuers urge skiers to heed warnings",
+    "url": "https://www.theguardian.com/world/2026/jan/18/eight-people-killed-in-avalanches-in-austrian-alps-as-rescuers-urge-skiers-to-heed-warnings",
+    "date": "2026-01-18T03:21:19.587Z",
+    "imageUrl": "https://i.guim.co.uk/img/media/b1ccff2c540bb7db3b6eb4bf8e679a29388b87a3/29_0_1700_1360/master/1700.jpg?width=700&quality=85&auto=format&fit=max&s=c5b8cfce007953f113acc4eb8213d93c",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Rolling",
+    "title": "Fred Again Kicks Off New York Residency: Here’s How to Find Cheap Tickets Online",
+    "url": "https://www.rollingstone.com/product-recommendations/tickets/fred-again-new-york-residency-2026-tickets-buy-find-online-1235501195/",
+    "date": "2026-01-18T04:21:19.587Z",
+    "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2026/01/buy-fred-again-residency-tickets-2026.jpg?w=1024&h=683&crop=1",
+    "category": "Culture"
+  },
+  {
+    "websiteName": "Al",
+    "title": "Indonesia searches for missing plane with at least 10 on board",
+    "url": "https://www.aljazeera.com/news/2026/1/17/indonesia-searches-for-missing-plane-with-at-least-10-on-board?traffic_source=rss",
+    "date": "2026-01-17T17:21:19.587Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/01/WEB-1000x562-INDONESIA-YOGYAKARTA-MAKASSAR-MOUNT-BULUSARAUNG-1768667723.jpg?resize=1200%2C675",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Seeking",
+    "title": "Warning Bells For Alphabet As OpenAI Enters Ad Market",
+    "url": "https://seekingalpha.com/article/4860734-warning-bells-for-google-as-openai-enters-ad-market?source=feed_all_articles",
+    "date": "2026-01-18T04:21:19.587Z",
+    "imageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2211981930/image_2211981930.jpg?io=getty-c-w1536",
+    "category": "Business"
+  },
+  {
+    "websiteName": "The",
+    "title": "Why Global X Artificial Intelligence and Technology ETF (AIQ) Jumped 31% in 2025",
+    "url": "https://www.fool.com/investing/2026/01/18/why-global-x-artificial-intelligence-and-technolog/",
+    "date": "2026-01-18T06:49:19.587Z",
+    "imageUrl": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fmedia.ycharts.com%2Fcharts%2Fa3c3ce5b4c159bfbf2c6919a3bba3fa3.png&w=700",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Space.com",
+    "title": "Artemis 2 rocket rollout latest news: Giant NASA moon rocket arrives at launch pad",
+    "url": "https://www.space.com/news/live/artemis-2-nasa-moon-rocket-rollout-jan-17-2026",
+    "date": "2026-01-18T00:21:19.587Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/wg3R2aWpdcxF549FrDCVBn-1280-80.jpg",
+    "category": "Science"
+  },
+  {
+    "websiteName": "Healthline",
+    "title": "Low-Calorie, Fasting-Mimicking Diet May Benefit Those With Crohn's Disease",
+    "url": "https://www.healthline.com/health-news/fasting-mimicking-diet-improves-crohns-disease",
+    "date": "2026-01-18T06:42:19.587Z",
+    "imageUrl": "https://media.post.rvohealth.io/wp-content/uploads/2026/01/Crohns-Diet-Stocksy_txp8bc11ae6E7E400_Medium_6396304-Header.jpg",
+    "category": "Health"
+  },
+  {
+    "websiteName": "Variety",
+    "title": "Filmmaker Cedric Klapisch Collects French Cinema Award at Familial, Culture Ministry Ceremony",
+    "url": "https://variety.com/2026/film/global/cedric-klapisch-french-cinema-unifrance-1236634059/",
+    "date": "2026-01-18T06:29:19.587Z",
+    "imageUrl": "https://variety.com/wp-content/uploads/2026/01/MixCollage-17-Jan-2026-10-31-AM-8892.jpg",
+    "category": "Entertainment"
+  },
+  {
+    "websiteName": "Insider",
+    "title": "'A Knight of the Seven Kingdoms' is a prequel to 'Game of Thrones.' Here's where the story fits in on a timeline.",
+    "url": "https://www.businessinsider.com/when-does-knight-of-the-seven-kingdoms-take-place-timeline-game-of-thrones-2026-1",
+    "date": "2026-01-17T15:21:19.587Z",
+    "imageUrl": "https://i.insider.com/6967fd39764ca5f34d2a75de?format=jpeg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Healthline",
+    "title": "U.S. Cancer Survival Rates Reach Historic High of 70%. Here's Why",
+    "url": "https://www.healthline.com/health-news/u-s-cancer-survival-rates-reach-historic-high-acs-report",
+    "date": "2026-01-18T06:42:19.587Z",
+    "imageUrl": "https://media.post.rvohealth.io/wp-content/uploads/2026/01/female-patient-doctor-1296x728-header.jpg",
+    "category": "Health"
+  },
+  {
+    "websiteName": "Live",
+    "title": "Tapping into new 'probabilistic computing' paradigm can make AI chips use much less power, scientists say",
+    "url": "https://www.livescience.com/technology/computing/tapping-into-new-probabilistic-computing-paradigm-can-make-ai-chips-use-much-less-power-scientists-say",
+    "date": "2026-01-16T07:21:19.587Z",
+    "imageUrl": "https://pcdn.brave.com/brave-today/cache/536a8e89f04ed46e31491b4dbd0f2aa16e33a15581bc61f5fe69ccb862b5fa84.jpg.pad",
+    "category": "Science"
+  },
+  {
+    "websiteName": "Al",
+    "title": "US says it killed al-Qaeda-affiliated leader tied to deadly Syria ambush",
+    "url": "https://www.aljazeera.com/news/2026/1/17/us-says-it-killed-al-qaeda-affiliated-leader-tied-to-deadly-syria-ambush?traffic_source=rss",
+    "date": "2026-01-17T21:21:19.587Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/01/reuters_696bf9ab-1768683947.jpg?resize=1920%2C1440",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Al",
+    "title": "Uganda’s Museveni wins 7th term, opponent calls results ‘fake’",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/1/17/ugandas-museveni-wins-7th-term-opponent-calls-results?traffic_source=rss",
+    "date": "2026-01-17T19:21:19.587Z",
+    "imageUrl": "https://pcdn.brave.com/brave-today/cache/ffcc1a9aae5170beccd38be9d69fe63daa503aca97c113d0b9cd985a1c13711e.jpg.pad",
+    "category": "Top News"
+  },
+  {
     "websiteName": "The",
     "title": "Iran protests latest: Trump says Tehran has ‘no plan’ to execute protesters as UK closes embassy",
     "url": "https://www.independent.co.uk/news/world/middle-east/iran-trump-military-action-protests-airspace-latest-news-b2900885.html",
@@ -2006,14 +2790,6 @@
     "date": "2026-01-10T08:30:29.923Z",
     "imageUrl": "https://www.sciencedaily.com/images/1920/cape-gooseberry-or-golden-berry.webp",
     "category": "Science"
-  },
-  {
-    "websiteName": "Healthline",
-    "title": "FDA Approves Wegovy Weight Loss Pill: How It Compares to Injectables",
-    "url": "https://www.healthline.com/health-news/fda-approves-wegovy-weight-loss-pill",
-    "date": "2026-01-12T07:42:29.923Z",
-    "imageUrl": "https://media.post.rvohealth.io/wp-content/uploads/2026/01/wegovy-pills-1296x728-header.jpg",
-    "category": "Health"
   },
   {
     "websiteName": "NPR",
@@ -4140,14 +4916,6 @@
     "category": "Entertainment"
   },
   {
-    "websiteName": "WSJ",
-    "title": "Auto & Transport Roundup: Market Talk",
-    "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-40ab3e72?mod=pls_whats_news_us_business_f",
-    "date": "2026-01-05T04:03:05.366Z",
-    "imageUrl": "https://images.wsj.net/im-30741820",
-    "category": "Business"
-  },
-  {
     "websiteName": "XDA",
     "title": "If you need a 2TB SSD for cheap, this is the way to go",
     "url": "https://www.xda-developers.com/pny-2tb-ssd-for-cheap/",
@@ -4448,14 +5216,6 @@
     "category": "Crypto"
   },
   {
-    "websiteName": "Healthline",
-    "title": "Cannabis Reclassification Means Some Coverage For Medicare Recipients",
-    "url": "https://www.healthline.com/health-news/cannabis-reclassification-cbd-coverage-medicare",
-    "date": "2026-01-06T07:44:37.694Z",
-    "imageUrl": "https://media.post.rvohealth.io/wp-content/uploads/2025/12/Cannabis-warehouse-1296x728-header.jpg",
-    "category": "Health"
-  },
-  {
     "websiteName": "Inc.com",
     "title": "After 79 Years and 7 Months, Chick-fil-A Just Made a Brilliant Announcement",
     "url": "https://www.inc.com/bill-murphy-jr/after-79-years-and-7-months-chick-fil-a-just-made-a-brilliant-announcement/91284539",
@@ -4604,14 +5364,6 @@
     "date": "2026-01-05T23:41:37.696Z",
     "imageUrl": "https://gizmodo.com/app/uploads/2026/01/ces2026-laptop-display3-v2-1280x853.jpg",
     "category": "Technology"
-  },
-  {
-    "websiteName": "Healthline",
-    "title": "How Happy Do You Need to Be to Lower the Risk of Chronic Disease?",
-    "url": "https://www.healthline.com/health-news/happiness-helps-lower-chronic-disease-mortality-risk",
-    "date": "2026-01-06T07:44:37.696Z",
-    "imageUrl": "https://media.post.rvohealth.io/wp-content/uploads/2025/12/happy-woman-field-1296x728-header.jpg",
-    "category": "Health"
   },
   {
     "websiteName": "BBC",
@@ -5758,14 +6510,6 @@
     "date": "2026-01-05T00:14:14.117Z",
     "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/john-krasinski-jack-ryan.jpg?ve=1&tl=1",
     "category": "Top News"
-  },
-  {
-    "websiteName": "Healthline",
-    "title": "7 Ways to Improve Heart Health for Longevity After Cancer Diagnosis",
-    "url": "https://www.healthline.com/health-news/heart-healthy-strategies-longevity-after-cancer",
-    "date": "2026-01-05T03:57:14.117Z",
-    "imageUrl": "https://media.post.rvohealth.io/wp-content/uploads/2025/12/senior-woman-exercise-park-1296x728-header.jpg",
-    "category": "Health"
   },
   {
     "websiteName": "MakeUseOf",
@@ -7072,14 +7816,6 @@
     "url": "https://www.tomsguide.com/computing/apple-desktops/5-free-ways-to-speed-up-your-slow-mac",
     "date": "2026-01-02T11:01:59.451Z",
     "imageUrl": "https://cdn.mos.cms.futurecdn.net/oJPUrCLCm3RYdhqnwpaNzU-1280-80.jpg",
-    "category": "Technology"
-  },
-  {
-    "websiteName": "9to5Mac",
-    "title": "These are the best new MacBook Air and MacBook Pro deals in January so far",
-    "url": "https://9to5mac.com/2026/01/03/best-apple-macbook-deals-in-january-2026/",
-    "date": "2026-01-04T01:01:59.451Z",
-    "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/macbook-air-hello-m2.jpg?quality=82&strip=all&w=1600",
     "category": "Technology"
   },
   {
@@ -15000,14 +15736,6 @@
     "category": "Top News"
   },
   {
-    "websiteName": "Healthline",
-    "title": "How the 'Portfolio Diet' May Help Lower Cholesterol, Heart Disease Risk",
-    "url": "https://www.healthline.com/health-news/portfolio-diet-improve-heart-health-lower-cholesterol",
-    "date": "2025-12-30T16:47:03.616Z",
-    "imageUrl": "https://media.post.rvohealth.io/wp-content/uploads/2025/12/Portfolio-Diet-Stocksy_txp395ca629ewC400_Medium_1764645-Header.jpg",
-    "category": "Health"
-  },
-  {
     "websiteName": "Cointelegraph",
     "title": "How Strategy keeps buying Bitcoin during market downturns",
     "url": "https://cointelegraph.com/news/how-strategy-keeps-buying-bitcoin-during-market-downturns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -15326,14 +16054,6 @@
     "date": "2025-12-30T15:43:01.741Z",
     "imageUrl": "https://cdn.mos.cms.futurecdn.net/TAdaVAkHPhPbicym76RrpM-1280-80.jpg",
     "category": "Science"
-  },
-  {
-    "websiteName": "Healthline",
-    "title": "How Your Sleep Position Can Impact Heart Health, Metabolism, and More",
-    "url": "https://www.healthline.com/health-news/best-worst-sleeping-positions-health-experts",
-    "date": "2025-12-30T15:41:01.741Z",
-    "imageUrl": "https://media.post.rvohealth.io/wp-content/uploads/2025/12/woman-side-sleeping-1296x728-header.jpg",
-    "category": "Health"
   },
   {
     "websiteName": "BMJ",
