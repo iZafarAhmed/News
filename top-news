@@ -1,5 +1,893 @@
 [
   {
+    "websiteName": "The",
+    "title": "Why Netflix Stock Is Down 38% From Its All-Time High",
+    "url": "https://www.fool.com/investing/2026/01/22/why-netflix-stock-is-down-38-from-its-all-time-hig/",
+    "date": "2026-01-22T09:54:56.055Z",
+    "imageUrl": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fmedia.ycharts.com%2Fcharts%2F5a08f2776c0f8e60536f1ccb5d971a8b.png&w=700",
+    "category": "Business"
+  },
+  {
+    "websiteName": "CBSSports",
+    "title": "Thunder vs. Bucks odds, prediction, time: 2026 NBA picks for Wednesday, January 21 from proven model",
+    "url": "https://www.cbssports.com/nba/news/thunder-bucks-odds-prediction-time-2026-nba-picks-wednesday-january-21/",
+    "date": "2026-01-21T23:23:56.058Z",
+    "imageUrl": "https://sportshub.cbsistatic.com/i/2025/10/28/5d734a86-c8e9-43f5-9a99-5bfe4022fe39/giannis-antetokounmpo-milwaukee-bucks-imagn-images-3.jpg",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "Time",
+    "title": "How Do You Teach an AI to Be Good? Anthropic Just Published Its Answer",
+    "url": "https://time.com/7354738/claude-constitution-ai-alignment/",
+    "date": "2026-01-21T15:23:56.058Z",
+    "imageUrl": "https://api.time.com/wp-content/uploads/2026/01/claude-constitution.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Fortune",
+    "title": "Trump’s TACO ‘solution’ to Greenland crisis: Backing off his 10% tariff threats against Western Europe",
+    "url": "https://fortune.com/2026/01/21/trump-greenland-solution-crisis-tariff-threat-nato-mark-rutte-davos/",
+    "date": "2026-01-22T00:23:56.058Z",
+    "imageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-2255969940_14bfe3-e1769025523710.jpg?w=2048",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Esquire",
+    "title": "The President Isn’t Even Trying to Sound Coherent Anymore",
+    "url": "https://www.esquire.com/news-politics/politics/a70065991/trump-press-conference-reading/",
+    "date": "2026-01-20T10:23:56.058Z",
+    "imageUrl": "https://pcdn.brave.com/brave-today/cache/02abbc6010736f396a918b49106ed9a9421534a30439f5a0f38f59161d0a485a.jpg.pad",
+    "category": "Entertainment"
+  },
+  {
+    "websiteName": "NPR",
+    "title": "Autopsy finds Cuban immigrant in ICE custody died of homicide due to asphyxia",
+    "url": "https://www.npr.org/2026/01/22/g-s1-106773/cuban-immigrant-ice-custody-died-homicide",
+    "date": "2026-01-22T05:23:56.058Z",
+    "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3a%2F10%2Fa1d567584ca3be7b1af40d63eaa7%2Fgettyimages-983824252.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "LA",
+    "title": "'Water bankruptcy' — U.N. scientists say much of the world is irreversibly depleting water",
+    "url": "https://www.latimes.com/environment/story/2026-01-21/un-water-bankruptcy",
+    "date": "2026-01-21T22:23:56.059Z",
+    "imageUrl": "https://ca-times.brightspotcdn.com/dims4/default/c631066/2147483647/strip/true/crop/4500x2363+0+319/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3d%2F2a%2Fed8af23b4d9ca3e4768c44588518%2F1501697-me-enviro-tariffs-california-agriculture16-to.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Insider",
+    "title": "The 11 best makeup bags for travel that are stylish, organized, and TSA-friendly",
+    "url": "https://www.businessinsider.com/guides/style/best-travel-makeup-bag",
+    "date": "2026-01-22T04:23:56.059Z",
+    "imageUrl": "https://i.insider.com/66db56d8a0ff598b266582dd?format=jpeg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "CBS",
+    "title": "The Life and Death of Blaze Bernstein",
+    "url": "https://www.cbsnews.com/video/the-life-and-death-of-blaze-bernstein/",
+    "date": "2026-01-22T05:23:56.059Z",
+    "imageUrl": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/09/22/11fd1fca-5f25-4901-987f-3cdfb3bb6a29/thumbnail/1200x630/7dcce9150b2ff978cffdf69371849c17/blaze-bernstein-full-3212013-640x360.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "PCWorld",
+    "title": "Windows 11’s latest update crashes classic Outlook and loses emails",
+    "url": "https://www.pcworld.com/article/3038866/windows-11s-latest-update-crashes-classic-outlook-and-loses-emails.html",
+    "date": "2026-01-21T18:23:56.059Z",
+    "imageUrl": "https://www.pcworld.com/wp-content/uploads/2026/01/outlook-2.jpg?quality=50&strip=all",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "ESPN",
+    "title": "Tucker: Dodgers' pedigree made decision 'easier'",
+    "url": "https://www.espn.com/mlb/story/_/id/47685706/kyle-tucker-says-dodgers-pursuit-3-peat-made-decision-easier",
+    "date": "2026-01-22T07:23:56.059Z",
+    "imageUrl": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0121%2Fr1603829_1296x729_16%2D9.jpg",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "Time",
+    "title": "DHS More Than Doubles ‘Self-Deportation’ Cash Payment but Critics Call Program Deceptive",
+    "url": "https://time.com/7356627/dhs-project-homecoming-cash-self-deportation-incentive-deceptive-numbers-immigration/",
+    "date": "2026-01-22T08:23:56.059Z",
+    "imageUrl": "https://api.time.com/wp-content/uploads/2026/01/self-deportation.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "The",
+    "title": "Several missing after landslide rips through popular campsite in New Zealand",
+    "url": "https://www.independent.co.uk/news/world/australasia/mount-maunganui-new-zealand-landslide-b2905327.html",
+    "date": "2026-01-22T09:42:56.059Z",
+    "imageUrl": "https://static.independent.co.uk/2026/01/22/8/45/SEI281748668.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+    "category": "World News"
+  },
+  {
+    "websiteName": "ESPN",
+    "title": "Stidham, Broncos keep prep as normal as possible",
+    "url": "https://www.espn.com/nfl/story/_/id/47686578/jarrett-stidham-broncos-taking-business-usual-approach",
+    "date": "2026-01-22T07:23:56.059Z",
+    "imageUrl": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0817%2Fr1532791_1296x729_16%2D9.jpg",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "CBC",
+    "title": "Would-be Trump prosecutor Jack Smith testifies about the 2020 election. Here's why it's relevant in 2026",
+    "url": "https://www.cbc.ca/news/world/us-house-jack-smith-testifies-9.7054282?cmp=rss",
+    "date": "2026-01-22T08:23:56.059Z",
+    "imageUrl": "https://i.cbc.ca/ais/8aae1d6f-a3a1-4e23-a837-fe9eff966192,1769016560444/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3091%2C1738%29%3BResize%3D%28620%29",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "The",
+    "title": "Apple is reportedly working on an AirTag-sized AI wearable",
+    "url": "https://www.theverge.com/news/865212/apple-ai-pin-wearable-airtag-rumor",
+    "date": "2026-01-21T23:23:56.059Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/vpavic_4547_20210421_0058.webp?quality=90&strip=all&crop=4.1931811030994,0,83.260651138956,100",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "CBSSports",
+    "title": "Fantasy Baseball Offseason Reaction: Mets nab Freddy Peralta, Brewers add a couple of intriguing prospects",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-offseason-reaction-mets-nab-freddy-peralta-brewers-add-a-couple-of-intriguing-prospects/",
+    "date": "2026-01-22T06:23:56.059Z",
+    "imageUrl": "https://sportshub.cbsistatic.com/i/2025/05/04/69756d18-e9d9-4052-8c5a-0670c481914a/imagn-freddy-peralta-brewers.jpg",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "Seeking",
+    "title": "Tractor Supply: A Better Business Than I Expected, But Not At This Price",
+    "url": "https://seekingalpha.com/article/4861753-tractor-supply-a-better-business-than-i-expected-but-not-at-this-price?source=feed_all_articles",
+    "date": "2026-01-22T08:23:56.059Z",
+    "imageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2203134742/image_2203134742.jpg?io=getty-c-w1536",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Business",
+    "title": "3 takeaways from our Davos panel on the future of robotics",
+    "url": "https://www.businessinsider.com/davos-panel-future-robotics-wef-automation-2026-1",
+    "date": "2026-01-22T09:48:56.060Z",
+    "imageUrl": "https://pcdn.brave.com/brave-today/cache/0cd07686c677b8cf894149fd923602018ef859937fcbe33fc4eb5290e7174e0c.jpg.pad",
+    "category": "Business"
+  },
+  {
+    "websiteName": "How-To",
+    "title": "This clever Android game turns your charging cable into a bow and arrow",
+    "url": "https://www.howtogeek.com/this-clever-android-game-turns-your-charging-cable-into-a-bow-and-arrow/",
+    "date": "2026-01-21T19:23:56.060Z",
+    "imageUrl": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/01/android-usb-arrow-game-1.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Live",
+    "title": "2,400-year-old Hercules shrine and elite tombs discovered outside ancient Rome's walls",
+    "url": "https://www.livescience.com/archaeology/romans/2-400-year-old-hercules-shrine-and-elite-tombs-discovered-in-romes-suburbs",
+    "date": "2026-01-21T18:23:56.060Z",
+    "imageUrl": "https://pcdn.brave.com/brave-today/cache/ca2f52201f8ca8e44ca53704779418cc56361f9d47add6d05e4841315131b503.jpg.pad",
+    "category": "Science"
+  },
+  {
+    "websiteName": "BBC",
+    "title": "Japan suspends world's largest nuclear plant hours after restart",
+    "url": "https://www.bbc.com/news/articles/cx2yy8z91n4o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-01-22T08:23:56.060Z",
+    "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/90c0/live/b8085d90-f76c-11f0-b7ec-55c1cb544783.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "The",
+    "title": "Trump Can Prosecute Anyone Now",
+    "url": "https://www.theatlantic.com/politics/2026/01/trump-justice/685684/?utm_source=feed",
+    "date": "2026-01-21T19:23:56.060Z",
+    "imageUrl": "https://cdn.theatlantic.com/thumbor/5VHwRHceXY9x1IYr0_M2Tgl7Q2U=/media/img/mt/2026/01/2026_01_15_DJT_mgp/original.jpg",
+    "category": "Culture"
+  },
+  {
+    "websiteName": "Live",
+    "title": "Earth hit by biggest 'solar radiation storm' in 23 years, triggering Northern Lights as far as Southern California",
+    "url": "https://www.livescience.com/space/the-sun/earth-hit-by-biggest-solar-radiation-storm-in-23-years-triggering-northern-lights-as-far-as-southern-california",
+    "date": "2026-01-21T15:23:56.060Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/gnX5AegPpyAePpu9ebWGN8-1280-80.jpg",
+    "category": "Science"
+  },
+  {
+    "websiteName": "WSJ",
+    "title": "EQT to Acquire Private Equity Firm Coller Capital For Up to $3.7 Billion",
+    "url": "https://www.wsj.com/business/deals/eqt-to-acquire-private-equity-firm-coller-capital-for-up-to-3-7-billion-c9ab93f7?mod=pls_whats_news_us_business_f",
+    "date": "2026-01-22T06:23:56.060Z",
+    "imageUrl": "https://images.wsj.net/im-34083584",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Wired",
+    "title": "H&R Block Coupons and Deals: 20% Off Tax Prep in 2026",
+    "url": "https://www.wired.com/story/hr-block-coupon/",
+    "date": "2026-01-22T05:23:56.060Z",
+    "imageUrl": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "ABC",
+    "title": "Minneapolis businesses struggle during Trump's immigration enforcement surge",
+    "url": "https://abcnews.go.com/US/wireStory/minneapolis-businesses-struggle-trumps-immigration-enforcement-surge-129433211",
+    "date": "2026-01-21T20:23:56.060Z",
+    "imageUrl": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_1600.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "The",
+    "title": "Davos Man May Burn the Whole Thing Down",
+    "url": "https://www.theatlantic.com/national-security/2026/01/greenland-davos-trump-nato/685688/?utm_source=feed",
+    "date": "2026-01-21T11:23:56.060Z",
+    "imageUrl": "https://pcdn.brave.com/brave-today/cache/e77f0ab3d7705abc17493f950d18b06393e1bfdf10ab542d878c8d12cf0c4113.jpg.pad",
+    "category": "Culture"
+  },
+  {
+    "websiteName": "Cointelegraph",
+    "title": "Don’t bet on institutional investors to run Bitcoin to $150K: Researcher",
+    "url": "https://cointelegraph.com/news/bitcoin-institutional-investor-price-run-macro-researcher-forecast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "2026-01-22T05:23:56.060Z",
+    "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmUzOTAtMjQwNC03YTFiLWIxN2MtYTJkNWQ3MzIyNDhjLmpwZw==.jpg",
+    "category": "Crypto"
+  },
+  {
+    "websiteName": "The",
+    "title": "Hundreds of creatives warn against an AI slop future",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/864951/human-artistry-campaign-ai-licensing-artists",
+    "date": "2026-01-21T16:23:56.060Z",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "WSJ",
+    "title": "Tech, Media & Telecom Roundup: Market Talk",
+    "url": "https://www.wsj.com/tech/tech-media-telecom-roundup-market-talk-d6e484fe?mod=rss_Technology",
+    "date": "2026-01-21T21:23:56.060Z",
+    "imageUrl": "https://images.wsj.net/im-98025657",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "The",
+    "title": "Today’s Atlantic Trivia: Looksmaxxer and the Beast",
+    "url": "https://www.theatlantic.com/newsletters/2026/01/daily-trivia-questions-answers-week-15/685685/?utm_source=feed",
+    "date": "2026-01-21T20:23:56.060Z",
+    "imageUrl": "https://cdn.theatlantic.com/thumbor/VygVGdASW9eymIIrQrA83YccqoI=/media/img/mt/2026/01/trivia_illo_16x9_copy_3/original.png",
+    "category": "Culture"
+  },
+  {
+    "websiteName": "Cosmopolitan",
+    "title": "Your Guide to the Cast and Characters of ‘The Beauty'",
+    "url": "https://www.cosmopolitan.com/entertainment/tv/a70076127/the-beauty-cast-characters/",
+    "date": "2026-01-21T21:23:56.060Z",
+    "imageUrl": "https://pcdn.brave.com/brave-today/cache/5ba21a50ee44d39d487f16f1d905f780e07badd303e52163725731c20f9e454b.jpg.pad",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Al",
+    "title": "Five killed in ‘treacherous’ attack on military convoy in Yemen",
+    "url": "https://www.aljazeera.com/news/2026/1/22/five-killed-in-treacherous-attack-on-military-convoy-in-yemen?traffic_source=rss",
+    "date": "2026-01-22T04:23:56.060Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/01/2026-01-21T171724Z_230273853_RC2T5JA5ANCD_RTRMADP_3_YEMEN-SECURITY-1769053493.jpg?resize=1920%2C1440",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Inc.com",
+    "title": "Paid Does Not Equal Ineffective",
+    "url": "https://www.inc.com/alexander-storozhuk/paid-does-not-equal-ineffective/91290886",
+    "date": "2026-01-21T20:23:56.060Z",
+    "imageUrl": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/01/IMPACT-COUNCIL-AND-INC-LIDERSHIP-FORUM-1-17.png",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Healthline",
+    "title": "How RFK Jr.’s New Drinking Policy Redefines Moderate Alcohol Consumption",
+    "url": "https://www.healthline.com/health-news/rkf-jr-controversial-new-drinking-policy-experts-react",
+    "date": "2026-01-22T09:48:56.060Z",
+    "imageUrl": "https://media.post.rvohealth.io/wp-content/uploads/2026/01/Alcohol-chaos-GettyImages-2255260434-Header.jpg",
+    "category": "Health"
+  },
+  {
+    "websiteName": "ZDNet",
+    "title": "Looking for a Windows 11 laptop? This Dell checks all the right boxes for me",
+    "url": "https://www.zdnet.com/article/dell-16-premium-review/",
+    "date": "2026-01-22T01:23:56.060Z",
+    "imageUrl": "https://www.zdnet.com/a/img/resize/c66830581a6b8c6edd11f347f41f3bb90f59fea5/2025/07/24/39818a55-bb82-4c43-8495-b7e16d55cb0c/dell-premium-16-image-4.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Smithsonian",
+    "title": "A Robot Is Unraveling the Secrets of How Some Bats Bounce Sound Waves Off Leaves to Find Insect Prey",
+    "url": "https://www.smithsonianmag.com/smart-news/a-robot-is-unraveling-the-secrets-of-how-some-bats-bounce-sound-waves-off-leaves-to-find-insect-prey-180988031/",
+    "date": "2026-01-21T15:23:56.060Z",
+    "imageUrl": "https://th-thumbnailer.cdn-si-edu.com/_s_O2XOjPpv3ercZSmCBi5Kae-w=/420x240/filters:focal(1484x997:1485x998)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f6/01/f601496b-2ec9-49e7-8e4b-0618d8aa0523/micronycteris_microtis.png",
+    "category": "Science"
+  },
+  {
+    "websiteName": "WSJ",
+    "title": "Zurich Insurance’s $10.3 Billion Beazley Offer Rejected",
+    "url": "https://www.wsj.com/business/retail/zurich-insurances-10-3-billion-beazley-offer-rejected-1da5ead3?mod=pls_whats_news_us_business_f",
+    "date": "2026-01-22T08:23:56.060Z",
+    "imageUrl": "https://images.wsj.net/im-26394903",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Conde",
+    "title": "The Most Turbulent Flight Route on Every Continent",
+    "url": "https://www.cntraveler.com/story/the-most-turbulent-flight-routes-in-the-world-2025",
+    "date": "2026-01-21T22:23:56.060Z",
+    "imageUrl": "https://pcdn.brave.com/brave-today/cache/26cbb15480b6fa0284ced89bfdc3305d39f728d98dbe473a395cdc63ba17e265.jpg.pad",
+    "category": "Travel"
+  },
+  {
+    "websiteName": "Timeout",
+    "title": "An exciting new train route to the mountains just launched in this underrated travel destination",
+    "url": "https://www.timeout.com/news/an-exciting-new-train-route-to-the-mountains-just-launched-in-this-underrated-travel-destination-012026",
+    "date": "2026-01-20T10:23:56.060Z",
+    "imageUrl": "https://media.timeout.com/images/106364867/750/422/image.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "WSJ",
+    "title": "Stock Market Today: Dow Futures, Global Stocks Rise After Trump Tariff U-Turn",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-22-2026?mod=rss_markets_main",
+    "date": "2026-01-22T08:23:56.060Z",
+    "imageUrl": "https://images.wsj.net/im-34062673",
+    "category": "Business"
+  },
+  {
+    "websiteName": "TechRadar",
+    "title": "Windows 11's Xbox app arrives on Arm PCs — just in time for Nvidia's rumored debut with its N1X CPU",
+    "url": "https://www.techradar.com/computing/windows/windows-11s-xbox-app-arrives-on-arm-pcs-just-in-time-for-nvidias-rumored-debut-with-its-n1x-cpu",
+    "date": "2026-01-21T17:23:56.061Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/VGiZUKFVXQG59iTghc8XQh-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "The",
+    "title": "Prayers, vigils and mitzvahs on the national day of mourning for Bondi beach terror attack victims – in pictures",
+    "url": "https://www.theguardian.com/australia-news/gallery/2026/jan/22/national-day-mourning-bondi-terror-attack-victims-vigils-mitvahs-ntwnfb",
+    "date": "2026-01-22T05:23:56.061Z",
+    "imageUrl": "https://i.guim.co.uk/img/media/de60c507764bcac44c5de747bc4b8cd2b2c2aca5/446_0_6361_5089/master/6361.jpg?width=700&quality=85&auto=format&fit=max&s=da8bf444cdf631b6ac22e7d543a3951d",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Tom's",
+    "title": "5 TCL TV settings to change for the best possible picture",
+    "url": "https://www.tomsguide.com/tvs/5-tcl-tv-settings-to-change-for-the-best-possible-picture",
+    "date": "2026-01-22T08:23:56.061Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/YGGTDhM8AvHshJYGmL54sg-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Fortune",
+    "title": "Brett Kavanaugh says letting Trump fire Lisa Cook ‘would weaken, if not shatter, the independence of the Federal Reserve’",
+    "url": "https://fortune.com/2026/01/21/brett-kavanaugh-says-letting-trump-fire-lisa-cook-would-weaken-if-not-shatter-the-independence-of-the-federal-reserve/",
+    "date": "2026-01-22T00:23:56.061Z",
+    "imageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/01/AP26021501955094-e1769041550329.jpg?w=2048",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Mashable",
+    "title": "In Davos bubble, AI leaders see no real AI bubble",
+    "url": "https://mashable.com/article/nvidia-huang-ai-bubble",
+    "date": "2026-01-22T00:23:56.061Z",
+    "imageUrl": "https://helios-i.mashable.com/imagery/articles/02tmUfmnGFinGsXLwPRH4eS/hero-image.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Creative",
+    "title": "Gore Verbinski calls Unreal Engine a “slip backwards” for movie CGI",
+    "url": "https://www.creativebloq.com/3d/vfx-cgi/gore-verbinski-calls-unreal-engine-a-slip-backwards-for-movie-cgi",
+    "date": "2026-01-21T13:23:56.061Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/qT2aCExejDm8dc59uvSFi3-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Drugs.com",
+    "title": "Methods for How Death, Dying Are Taught in Medical School Vary Considerably",
+    "url": "https://www.drugs.com/news/methods-death-dying-taught-medical-school-vary-considerably-128402.html",
+    "date": "2026-01-20T10:23:56.061Z",
+    "imageUrl": "chrome-extension://bmcgcefhjdglnomoppbfmnhooahhgpma/&target_size=508x269",
+    "category": "Health"
+  },
+  {
+    "websiteName": "South",
+    "title": "3 killed in shooting in Australia, manhunt under way",
+    "url": "https://www.scmp.com/news/asia/australasia/article/3340823/3-killed-shooting-australia-manhunt-under-way?utm_source=rss_feed",
+    "date": "2026-01-22T07:23:56.061Z",
+    "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/01/22/f123c0aa-e2d8-4f87-abc9-88cdda20bfe5_2eb0cb2a.jpg?itok=BYL14Lns&v=1769069578",
+    "category": "World News"
+  },
+  {
+    "websiteName": "ZDNet",
+    "title": "I found the Lenovo ThinkPad to rule them all - and its modular RAM changes everything",
+    "url": "https://www.zdnet.com/article/lenovo-thinkpad-p1-gen-8-review/",
+    "date": "2026-01-22T01:23:56.061Z",
+    "imageUrl": "https://www.zdnet.com/a/img/resize/8cf225efd1246d9dccfa5a296fb341de5f2a3086/2026/01/21/2de112ae-5719-429b-8997-ea49b8bf9850/img-5362.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Rtings",
+    "title": "ASUS RT-BE92U Router Review",
+    "url": "https://www.rtings.com/router/reviews/asus/rt-be92u",
+    "date": "2026-01-20T10:23:56.061Z",
+    "imageUrl": "https://i.rtings.com/assets/products/68UpeW3t/asus-rt-be92u/design-medium.jpg?format=auto",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "How-To",
+    "title": "The RTX 5090 is now $5,800: 4 GPUs that are complete rip-offs",
+    "url": "https://www.howtogeek.com/x-gpus-you-should-never-buy-most-are-from-nvidia/",
+    "date": "2026-01-21T19:23:56.061Z",
+    "imageUrl": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2025/09/54264091447_627cf449ef_o.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Wired",
+    "title": "KitchenAid Promo Code: $200 Off This Month",
+    "url": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
+    "date": "2026-01-22T05:23:56.061Z",
+    "imageUrl": "https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Tom's",
+    "title": "I drove the 2026 Chevrolet Tahoe for a week — it’s the ultimate 'everything' SUV for large families",
+    "url": "https://www.tomsguide.com/vehicle-tech/2026-chevrolet-tahoe-review",
+    "date": "2026-01-21T22:23:56.061Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/bQP7vRu3qXDj9bwBQVfwhk-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "FOX",
+    "title": "Vikings extend Brian Flores' contract as defensive coordinator despite head coaching interviews",
+    "url": "https://www.foxnews.com/sports/vikings-announce-brian-flores-extension-defensive-coordinator-despite-head-coach-interviews",
+    "date": "2026-01-22T01:23:56.061Z",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/06/931/523/brian-flores-minnesota.jpg?ve=1&tl=1",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "ScienceDaily",
+    "title": "A tiny spin change just flipped a famous quantum effect",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260121233400.htm",
+    "date": "2026-01-22T04:23:56.061Z",
+    "imageUrl": "https://www.sciencedaily.com/images/1920/cosmic-physics-quantum-spin.webp",
+    "category": "Science"
+  },
+  {
+    "websiteName": "Cosmopolitan",
+    "title": "Fans Are Already Shutting Down Club Chalamet’s Newest Venture",
+    "url": "https://www.cosmopolitan.com/entertainment/celebs/a70077317/club-chalamet-connor-storrie-timothee-chalamet/",
+    "date": "2026-01-21T17:23:56.061Z",
+    "imageUrl": "https://pcdn.brave.com/brave-today/cache/c37f708cc3335f0c10f5a3e920747e605a7d0a944db73f722413efe409895356.jpg.pad",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Reader's",
+    "title": "Here’s Why Coffee Cups Have That Small Second Hole—And It’s Not What You Think!",
+    "url": "https://www.rd.com/article/coffee-cup-tiny-hole/",
+    "date": "2026-01-21T21:23:56.061Z",
+    "imageUrl": "https://www.rd.com/wp-content/uploads/2026/01/Why-Coffee-Cups-Have-That-Small-Second-Hole_GettyImages-2250635607_FT.jpg?fit=700,1024",
+    "category": "Health"
+  },
+  {
+    "websiteName": "WSJ",
+    "title": "Asian Stocks, Bonds Recover as Fears About U.S. Tariffs on Europe Ease",
+    "url": "https://www.wsj.com/finance/stocks/asian-stocks-mostly-rise-as-fears-about-u-s-tariffs-on-europe-ease-30437bfb",
+    "date": "2026-01-22T07:23:56.061Z",
+    "imageUrl": "https://images.wsj.net/im-78599456",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Tom's",
+    "title": "I was very skeptical of the R.A.D UFO until I ran more than 40 miles in it — here’s why it should be on your radar",
+    "url": "https://www.tomsguide.com/wellness/running/i-was-very-skeptical-of-the-r-a-d-ufo-until-i-ran-more-than-40-miles-in-it-heres-why-it-should-be-on-your-radar",
+    "date": "2026-01-21T21:23:56.061Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/JUPUpEVSBPwTvjPzLjoS7C-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "The",
+    "title": "How to use ExpertFlyer alerts to snag a better seat on the plane",
+    "url": "https://thepointsguy.com/airline/better-airline-seat-expertflyer/",
+    "date": "2026-01-21T21:23:56.061Z",
+    "imageUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/11/Airport-Boarding-Gate-Departing-Plane_Dmitrii-Marchenko.jpg",
+    "category": "Travel"
+  },
+  {
+    "websiteName": "NBC",
+    "title": "FBI can't examine devices it took from Washington Post reporter for now, judge rules",
+    "url": "https://www.nbcnews.com/news/us-news/fbi-cannot-examine-devices-took-washington-post-reporter-judge-rules-rcna255286",
+    "date": "2026-01-21T23:23:56.061Z",
+    "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2024-10/241025-the-washington-post-newspaper-building-ew-1249p-551ccb.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "ABC",
+    "title": "Immigration officials allow suspect in $100M jewelry heist to self deport, avoiding trial",
+    "url": "https://abcnews.go.com/US/wireStory/immigration-officials-suspect-100m-jewelry-heist-deport-avoiding-129438829",
+    "date": "2026-01-22T06:23:56.061Z",
+    "imageUrl": "https://s.abcnews.com/images/US/wirestory_687c0197eda0ee6c8bfd1fb7f5987f35_16x9_1600.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "The",
+    "title": "Trump-Greenland latest: US president’s claims of a deal with Nato over Danish territory ‘not real’, says MP",
+    "url": "https://www.independent.co.uk/news/world/europe/trump-greenland-davos-speech-tariffs-eu-nato-latest-news-b2905257.html",
+    "date": "2026-01-22T06:23:56.061Z",
+    "imageUrl": "https://static.independent.co.uk/2026/01/21/23/51/SWITZERLAND-US-POLITICS-ECONOMY-DIPLOMACY-c8iknk9p.jpeg?width=1200&auto=webp&crop=3%3A2",
+    "category": "World News"
+  },
+  {
+    "websiteName": "The",
+    "title": "Michele Tafoya Announces Senate Run in Minnesota",
+    "url": "https://www.nytimes.com/2026/01/21/us/politics/michele-tafoya-senate-minnesota.html",
+    "date": "2026-01-21T16:23:56.061Z",
+    "imageUrl": "https://static01.nyt.com/images/2025/12/19/multimedia/00pol-tafoya-wfqp/00pol-tafoya-wfqp-mediumSquareAt3X.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Screenrant",
+    "title": "Arrival: The Timeless Sci-Fi Masterpiece That Hits Harder Than Ever",
+    "url": "https://screenrant.com/arrival-sci-fi-movie-hits-harder-with-age/",
+    "date": "2026-01-22T02:23:56.061Z",
+    "imageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/01/8ba4566f-8697-41ce-87ee-935a754716ff.jpeg",
+    "category": "Entertainment"
+  },
+  {
+    "websiteName": "Tom's",
+    "title": "‘I wear an Apple Watch every single day, and I never knew you could do this.’",
+    "url": "https://www.tomsguide.com/wellness/smartwatches/i-wear-an-apple-watch-every-single-day-and-i-never-knew-you-could-do-this",
+    "date": "2026-01-21T19:23:56.062Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/g6cEh4MumgB8V7qrZwi5Nc-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Mashable",
+    "title": "A handful of Satisfyer toys are on sale at Amazon right now",
+    "url": "https://mashable.com/article/jan-21-satisfyer-deal",
+    "date": "2026-01-21T21:23:56.062Z",
+    "imageUrl": "https://helios-i.mashable.com/imagery/articles/06lqcotOr3zGBrGlmVumDls/hero-image.png",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "ZDNet",
+    "title": "How to stop iPhone apps from tracking you (and why you shouldn't wait to do it)",
+    "url": "https://www.zdnet.com/article/how-to-stop-iphone-apps-from-tracking-you/",
+    "date": "2026-01-22T08:23:56.063Z",
+    "imageUrl": "https://www.zdnet.com/a/img/resize/e5e3ad7a655a096cfabce1bbd0ccd7c514a2acb6/2026/01/13/0fd33f66-544f-4722-98de-210de4c534e7/your-iphone-apps-are-quietly-tracking-you-3-easy-ways-to-stop-them-today.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Business",
+    "title": "Ukraine is trying to find Russia's tipping point with a steep new goal for battlefield kills",
+    "url": "https://www.businessinsider.com/ukraine-russia-tipping-point-battlefield-kills-mykhailo-fedorov-2026-1",
+    "date": "2026-01-22T07:23:56.063Z",
+    "imageUrl": "https://pcdn.brave.com/brave-today/cache/fe649a70b038a7a57f2faa6e8a1a030677c2ed89cb861e229dc70ca21b6795e9.jpg.pad",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Time",
+    "title": "AI Leaders Discuss How to Foster Responsible Innovation at TIME100 Roundtable in Davos",
+    "url": "https://time.com/7346633/time100-roundtable-davos-ai-responsible-innovation/",
+    "date": "2026-01-22T06:23:56.063Z",
+    "imageUrl": "https://pcdn.brave.com/brave-today/cache/af9623434e5fa5d0360581c77300d3222f2cb53d1a6eb01af3170f8970e6bf16.jpg.pad",
+    "category": "Other"
+  },
+  {
+    "websiteName": "CBS",
+    "title": "Ex-Uvalde officer acquitted of all charges over his response to Robb Elementary shooting",
+    "url": "https://www.cbsnews.com/news/uvalde-police-officer-trial-verdict/",
+    "date": "2026-01-22T03:23:56.063Z",
+    "imageUrl": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/01/21/27dfc32c-3100-462f-a748-c97840877702/thumbnail/1200x630/5eea9685abf0a68b6dd0f21ec7783b83/ap26020707841031.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "The",
+    "title": "Britain SNUBS Trump’s new Board Of Peace over fears of Putin joining $1billion-a-seat ‘new United Nations’",
+    "url": "https://www.the-sun.com/news/15821415/britain-snubs-trump-peace-board-fears-putin/",
+    "date": "2026-01-22T09:48:56.063Z",
+    "imageUrl": "https://pcdn.brave.com/brave-today/cache/75744ac881c79e5843feba1448e437e47ead7bdeade095ec5bcbf45aa8ff2836.jpg.pad",
+    "category": "Other"
+  },
+  {
+    "websiteName": "FOX",
+    "title": "Top NATO official reveals details of stunning meeting with Trump that produced Greenland deal 'framework'",
+    "url": "https://www.foxnews.com/politics/top-nato-official-reveals-details-stunning-meeting-trump-that-produced-greenland-deal-framework",
+    "date": "2026-01-22T00:23:56.063Z",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/trump-rutte-optimized.jpg?ve=1&tl=1",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "CBC",
+    "title": "'Generational' winter storm set to hit U.S. Here's why it's so significant — and dangerous",
+    "url": "https://www.cbc.ca/news/science/us-winter-storm-explained-9.7054574?cmp=rss",
+    "date": "2026-01-22T01:23:56.063Z",
+    "imageUrl": "https://i.cbc.ca/ais/650c2b3b-6795-4f64-90d7-1158eff8c926,1769011264713/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C424%2C8136%2C4576%29%3BResize%3D%28620%29",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Wired",
+    "title": "Peacock Promo Codes: 40% Off January 2026",
+    "url": "https://www.wired.com/story/peacock-promo-code/",
+    "date": "2026-01-22T06:23:56.063Z",
+    "imageUrl": "https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Rolling",
+    "title": "Drake Appeals Dismissal of ‘Not Like Us’ Defamation Case, Calls Ruling ‘Dangerous’",
+    "url": "https://www.rollingstone.com/music/music-news/drake-kendrick-lamar-not-like-us-appeals-defamation-case-1235503200/",
+    "date": "2026-01-22T04:23:56.063Z",
+    "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2026/01/drake-kendrick-not-like-us.jpg?w=1600&h=900&crop=1",
+    "category": "Culture"
+  },
+  {
+    "websiteName": "PCWorld",
+    "title": "RTX 5090 cards sell out while scalpers make bank",
+    "url": "https://www.pcworld.com/article/3038922/rtx-5090-cards-sell-out-while-scalpers-make-bank.html",
+    "date": "2026-01-21T16:23:56.063Z",
+    "imageUrl": "https://b2c-contenthub.com/wp-content/uploads/2026/01/image_886964.png?w=1200",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "CNET",
+    "title": "Today's NYT Connections Hints, Answers and Help for Jan. 22, #956",
+    "url": "https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-22-956/",
+    "date": "2026-01-21T20:23:56.063Z",
+    "imageUrl": "https://www.cnet.com/a/img/resize/3986ca4ac5b498c6114118e0dfa25b2a05ae6531/hub/2025/03/26/c70b0a32-884a-4379-b77b-de75776952ba/nyt-word-games-connections-2798.jpg?auto=webp&fit=crop&height=614&width=1092",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Hollywood",
+    "title": "All of ‘The Beauty’ Cast & Characters: Ashton Kutcher, Evan Peters, Bella Hadid and More in Ryan Murphy’s Body Horror Series",
+    "url": "https://www.hollywoodreporter.com/lists/the-beauty-cast-ashton-kutcher-evan-peters-bella-hadid/",
+    "date": "2026-01-21T19:23:56.063Z",
+    "imageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/01/Ashton-Kutcher-Evan-Peters-and-Bella-Hadid-The-Beauty-Split-H-2026.jpg?w=1296&h=730&crop=1",
+    "category": "Other"
+  },
+  {
+    "websiteName": "How-To",
+    "title": "Don't throw away your old Apple TV: 5 ways to give it a second life",
+    "url": "https://www.howtogeek.com/surprising-ways-to-repurpose-your-old-apple-tv/",
+    "date": "2026-01-21T21:23:56.063Z",
+    "imageUrl": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/05/img_3816.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "The",
+    "title": "Three dead and gunman on the loose as entire town is put on lockdown & cops ‘throw everything’ into manhunt in Australia",
+    "url": "https://www.the-sun.com/news/15821042/three-dead-gunman-loose-town-lockdown-manhunt-australia/",
+    "date": "2026-01-22T09:45:56.063Z",
+    "imageUrl": "https://www.the-sun.com/wp-content%2Fuploads%2Fsites%2F6%2F2026%2F01%2Fnewspress-collage-jr6d8ief9-1769072068531.jpg?quality%3D90%26strip%3Dall%261769054086",
+    "category": "Other"
+  },
+  {
+    "websiteName": "France24",
+    "title": "House panel advances contempt charges against Clintons over Epstein probe",
+    "url": "https://www.france24.com/en/americas/20260121-house-panel-advances-contempt-charges-against-clintons-over-epstein-probe",
+    "date": "2026-01-21T22:23:56.063Z",
+    "imageUrl": "https://s.france24.com/media/display/02c685c6-d848-11f0-bf21-005056bfb2b6/w:1024/p:16x9/AP25346574786901.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "CBSSports",
+    "title": "Eric Bieniemy returning to Chiefs: Kansas City finalizing deal to bring back offensive coordinator",
+    "url": "https://www.cbssports.com/nfl/news/eric-bieniemy-chiefs-offensive-coordinator-matt-nagy-nfl/",
+    "date": "2026-01-22T00:23:56.063Z",
+    "imageUrl": "https://pcdn.brave.com/brave-today/cache/ba628a9a3a1d45bcf325dbbf590c279ca289b93aa5ad661e70893c1d238b812c.jpg.pad",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "How-To",
+    "title": "In 20 Years, 0–60 times won’t define sports cars—here’s what will",
+    "url": "https://www.howtogeek.com/20-years-0-60-wont-define-sports-cars/",
+    "date": "2026-01-21T22:23:56.063Z",
+    "imageUrl": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/05/288135_6000x4000.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "CBS",
+    "title": "The Unending Search for Sara Anne Wood",
+    "url": "https://www.cbsnews.com/video/the-unending-search-for-sara-anne-wood/",
+    "date": "2026-01-22T06:23:56.063Z",
+    "imageUrl": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/09/22/7eab4d53-9a52-4ecd-82d2-5d58ad188c64/thumbnail/1200x630/76c9370ac40e246c06002735eda4480b/sarawood-full-3212198-640x360.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "WSJ",
+    "title": "Bond-Market Backlash Triggers Reality Check for Japan Leader Ahead of Election",
+    "url": "https://www.wsj.com/world/bond-market-backlash-triggers-reality-check-for-japan-leader-ahead-of-election-4dcf07d8",
+    "date": "2026-01-21T11:23:56.063Z",
+    "imageUrl": "https://images.wsj.net/im-12693878",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Conde",
+    "title": "What is Skiplagging? The Controversial ‘Hidden City’ Flight Hack That Airlines Hate",
+    "url": "https://www.cntraveler.com/story/skiplag-flights-cheap-booking-trick-1",
+    "date": "2026-01-21T21:23:56.063Z",
+    "imageUrl": "https://media.cntraveler.com/photos/68f7daf819d62212f2ee8394/master/pass/GettyImages-936898226.jpg",
+    "category": "Travel"
+  },
+  {
+    "websiteName": "Android",
+    "title": "Here’s how Spotify pulled off a legal ambush to stop that 300TB dump of stolen music",
+    "url": "https://www.androidauthority.com/spotify-vs-annas-archive-3634415/",
+    "date": "2026-01-22T02:23:56.063Z",
+    "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2021/12/Spotify-stock-photo-3.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Mashable",
+    "title": "NYT Connections Sports Edition today: Hints and answers for January 22, 2026",
+    "url": "https://mashable.com/article/nyt-connections-sports-edition-hint-answer-today-january-22-2026",
+    "date": "2026-01-22T02:23:56.063Z",
+    "imageUrl": "https://helios-i.mashable.com/imagery/articles/02A98C38fw3vlePlkC1ZAlZ/hero-image.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Healthline",
+    "title": "Exercise for Depression Yields Similar Results to Therapy, Research Says",
+    "url": "https://www.healthline.com/health-news/exercise-depression-treatment-similar-results-therapy",
+    "date": "2026-01-22T09:48:56.063Z",
+    "imageUrl": "https://media.post.rvohealth.io/wp-content/uploads/2026/01/Exercise-depression-GettyImages-1407932503-Header.jpg",
+    "category": "Health"
+  },
+  {
+    "websiteName": "South",
+    "title": "Malaysia’s Michelle Yeoh up for ‘worst actress’ Razzie for Star Trek role",
+    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3340833/malaysias-michelle-yeoh-worst-actress-razzie-star-trek-role?utm_source=rss_feed",
+    "date": "2026-01-22T08:23:56.063Z",
+    "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/01/22/40316f58-340d-4e86-8327-4726b17ecb3d_a508eaeb.jpg?itok=pyZD2y3V&v=1769071999",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Mashable",
+    "title": "NYT Connections hints today: Clues, answers for January 22, 2026",
+    "url": "https://mashable.com/article/nyt-connections-hint-answer-today-january-22-2026",
+    "date": "2026-01-22T02:23:56.063Z",
+    "imageUrl": "https://helios-i.mashable.com/imagery/articles/02s4Q5f1ptPAWvnWzNfWHl2/hero-image.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "NBC",
+    "title": "Trump: Putin, Zelenskyy are 'stupid' to not reach deal",
+    "url": "https://www.nbcnews.com/video/shorts/trump-putin-zelenskyy-are-stupid-to-not-reach-deal-256322117938",
+    "date": "2026-01-21T15:23:56.063Z",
+    "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_01/2256836282-u12ulq.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "ZDNet",
+    "title": "HDR10+ vs. Dolby Vision: I compared the most popular TV formats to find the key differences",
+    "url": "https://www.zdnet.com/home-and-office/home-entertainment/hdr10-vs-hdr-10-plus-vs-dolby-vision/",
+    "date": "2026-01-22T07:23:56.064Z",
+    "imageUrl": "https://www.zdnet.com/a/img/resize/a7775122a86d6499d2c1912f073fcc071b1068ed/2026/01/07/bfbe3ec6-767b-4134-8955-58cccfb5e579/dsc09216.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "ZDNet",
+    "title": "The future of Sony's audio products looks bright if its 2026 roadmap follows this lead",
+    "url": "https://www.zdnet.com/article/sony-linkbuds-clip-cushions-review/",
+    "date": "2026-01-22T02:23:56.064Z",
+    "imageUrl": "https://www.zdnet.com/a/img/resize/d325bd0d470df67b43738d2d8e3370eebe6ef336/2026/01/21/de12bc57-52dc-4380-a726-a0cec6ed16df/linkbusclip-3.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "France24",
+    "title": "'We need a stabilised, democratic Syria: Economic recovery without freedom is meaningless'",
+    "url": "https://www.france24.com/en/we-need-a-stabilised-democratic-syria-economic-recovery-without-freedom-is-meaningless",
+    "date": "2026-01-21T19:23:56.064Z",
+    "imageUrl": "https://s.france24.com/media/display/b4a3e5ee-f702-11f0-8cf5-005056a90284/w:1024/p:16x9/EN-20260121-181956-182547-CS.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Cosmopolitan",
+    "title": "WHOOP vs. Oura Ring: Which Health Tracker is Superior? I Tested Both!",
+    "url": "https://www.cosmopolitan.com/health-fitness/a61975698/oura-ring-vs-whoop-tracker/",
+    "date": "2026-01-21T20:23:56.064Z",
+    "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/ourawhoop-68ae1ebe833f9.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Women's",
+    "title": "If You're Obsessed With Carrot Cake, You’ll Love This Dairy-Free Cupcake Version",
+    "url": "https://www.womenshealthmag.com/food/a70063312/dairy-free-ginger-carrot-cupcake-recipe/",
+    "date": "2026-01-20T10:23:56.064Z",
+    "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/carrot-cupcakes-1582668755-696fdc1e0aabd.jpg",
+    "category": "Health"
+  },
+  {
+    "websiteName": "Rolling",
+    "title": "A$AP Rocky Teams Up With Tokischa for Surprise Track ‘Flackito Jodye’",
+    "url": "https://www.rollingstone.com/music/music-news/asap-rocky-tokischa-flackito-jodye-1235503248/",
+    "date": "2026-01-22T08:23:56.064Z",
+    "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2026/01/GettyImages-2244879295-1.jpg?w=1600&h=900&crop=1",
+    "category": "Culture"
+  },
+  {
+    "websiteName": "WSJ",
+    "title": "The Inventions Ranking Game",
+    "url": "https://www.wsj.com/tech/the-innovations-ranking-game-7934974b?mod=rss_Technology",
+    "date": "2026-01-20T10:23:56.064Z",
+    "imageUrl": "https://images.wsj.net/im-46032862",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "TechRadar",
+    "title": "A massive Microsoft Surface sale is underway at Amazon and Best Buy — score 'the best Surface ever' for its lowest-ever price",
+    "url": "https://www.techradar.com/computing/windows-laptops/a-massive-microsoft-surface-sale-is-underway-at-amazon-and-best-buy-score-the-best-surface-ever-for-its-lowest-ever-price",
+    "date": "2026-01-21T17:23:56.064Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/vXbAZwWdsp7iFxuBkuZTpd-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "All",
+    "title": "Remembering Those We Lost in 2025",
+    "url": "https://www.allmusic.com/blog/post/2025-those-we-lost",
+    "date": "2026-01-20T10:23:56.064Z",
+    "imageUrl": "https://fastly-s3.allmusic.com/cms/31244/R_I_P_2025__large.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "WSJ",
+    "title": "Deutsche Börse to Acquire Allfunds for $6.19 Billion",
+    "url": "https://www.wsj.com/business/deals/deutsche-borse-group-to-acquire-allfunds-for-6-19-billion-d693c192?mod=pls_whats_news_us_business_f",
+    "date": "2026-01-21T20:23:56.064Z",
+    "imageUrl": "https://images.wsj.net/im-80362464",
+    "category": "Business"
+  },
+  {
+    "websiteName": "ABC",
+    "title": "Trump's Board of Peace poses latest in a series of US challenges to the United Nations",
+    "url": "https://abcnews.go.com/US/wireStory/trumps-board-peace-poses-latest-series-us-challenges-129437066",
+    "date": "2026-01-22T01:23:56.064Z",
+    "imageUrl": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_1600.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Al",
+    "title": "LIVE: Trump to lead signing of charter for Gaza ‘Board of Peace’ in Davos",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/1/22/live-trump-to-lead-signing-of-charter-for-gaza-board-of-peace-in-davos?traffic_source=rss",
+    "date": "2026-01-22T05:23:56.064Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/01/getty_6971bfd6e5-1769062358.jpg?resize=1920%2C1440",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "PC",
+    "title": "All Arknights: Endfield codes and how to redeem",
+    "url": "https://www.pcgamer.com/games/rpg/arknights-endfield-codes-redeem/",
+    "date": "2026-01-22T01:23:56.064Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/2363iT6NZPXKFwb986DfY8-1280-80.jpg",
+    "category": "Gaming"
+  },
+  {
+    "websiteName": "ScienceDaily",
+    "title": "Physicists challenge a 200-year-old law of thermodynamics at the atomic scale",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260121034140.htm",
+    "date": "2026-01-22T07:23:56.064Z",
+    "imageUrl": "https://www.sciencedaily.com/images/1920/atomic-physics-thermodynamics-laws.webp",
+    "category": "Science"
+  },
+  {
+    "websiteName": "Inverse",
+    "title": "47 Years Later, The Most Hardcore Sci-Fi Show You've Never Heard Of Is Getting Rebooted",
+    "url": "https://www.inverse.com/entertainment/blakes-7-reboot",
+    "date": "2026-01-20T10:23:56.064Z",
+    "imageUrl": "https://imgix.bustle.com/uploads/image/2026/1/20/d124f424/blakeheader.jpg?w=500&fit=max",
+    "category": "Science"
+  },
+  {
+    "websiteName": "Wired",
+    "title": "Govee Discount Codes and Deals: 30% Off",
+    "url": "https://www.wired.com/story/govee-discount-code/",
+    "date": "2026-01-22T05:23:56.064Z",
+    "imageUrl": "https://pcdn.brave.com/brave-today/cache/789745c4ab4aceca9c5cf2b36818113bba7614f3ab6b44752327967ef904f7e8.jpg.pad",
+    "category": "Technology"
+  },
+  {
     "websiteName": "Al",
     "title": "Barcelona rail crash kills 1 days after deadly train wreck in Spain’s south",
     "url": "https://www.aljazeera.com/news/2026/1/21/barcelona-rail-crash-kills-one-days-after-deadly-train-wreck-in-spains-south?traffic_source=rss",
@@ -1900,14 +2788,6 @@
     "date": "2026-01-19T18:07:07.274Z",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ROG-2-1-1152x648.jpg",
     "category": "Technology"
-  },
-  {
-    "websiteName": "Healthline",
-    "title": "How RFK Jr.’s New Drinking Policy Redefines Moderate Alcohol Consumption",
-    "url": "https://www.healthline.com/health-news/rkf-jr-controversial-new-drinking-policy-experts-react",
-    "date": "2026-01-20T02:07:07.274Z",
-    "imageUrl": "https://media.post.rvohealth.io/wp-content/uploads/2026/01/Alcohol-chaos-GettyImages-2255260434-Header.jpg",
-    "category": "Health"
   },
   {
     "websiteName": "XDA",
@@ -4915,14 +5795,6 @@
     "date": "2026-01-13T00:41:30.008Z",
     "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/89b1/live/3d7e2820-ef9c-11f0-a161-0dc741483a6b.jpg",
     "category": "Top News"
-  },
-  {
-    "websiteName": "WSJ",
-    "title": "Tech, Media & Telecom Roundup: Market Talk",
-    "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-940691c7?mod=rss_Technology",
-    "date": "2026-01-12T21:41:30.008Z",
-    "imageUrl": "https://images.wsj.net/im-29177936",
-    "category": "Technology"
   },
   {
     "websiteName": "Atlas",
