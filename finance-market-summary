@@ -1,0 +1,299 @@
+{
+  "data": {
+    "summary": [
+      {
+        "header": "Intel plunges 17% on disappointing outlook amid chip supply shortage",
+        "detail": "Intel tumbled after reporting a larger-than-expected loss and projecting breakeven earnings for Q1 2026 on revenue of $11.7-12.7 billion, missing analyst expectations of $12.51 billion. The chipmaker cited industry-wide supply shortages expected to bottom out in the first quarter."
+      },
+      {
+        "header": "Precious metals hit record highs as dollar weakens on geopolitical tensions",
+        "detail": "Gold closed at a record $4,976 per ounce, up over 8% for the week, while silver surged above $100 per ounce for the first time, climbing 6.16% to $102.08. The rally was fueled by a weakening dollar amid US-Europe tensions over Greenland and concerns about Fed independence."
+      },
+      {
+        "header": "Natural gas soars 70% in historic weekly rally on extreme cold weather",
+        "detail": "Natural gas futures jumped above $5.24 per MMBtu, posting the largest weekly gain on record with a surge exceeding 65%. The unprecedented rally was driven by forecasts of widespread below-normal temperatures and a historic winter storm across the US."
+      },
+      {
+        "header": "Crude oil advances 2.88% as geopolitical concerns ease but supply risks remain",
+        "detail": "WTI crude climbed to $61.07, up 2.88%, recovering as Trump's conciliatory stance toward Greenland and Iran alleviated immediate concerns. Oil tracked broader commodity gains as the dollar weakened and geopolitical uncertainty persisted."
+      },
+      {
+        "header": "Copper and industrial metals rally as dollar hits three-week lows",
+        "detail": "Copper futures rose 2.84% to $5.94 per pound, up 7.87% over the month, as demand for real assets increased amid shifting US-Europe dynamics. The weaker dollar boosted metals across the board, with platinum surging 6% and lithium jumping 3.95%."
+      },
+      {
+        "header": "Bitcoin remains under pressure near $89,440, down slightly as crypto volatility persists",
+        "detail": "Bitcoin traded at $89,440, down 0.04%, hovering below the key $90,000 psychological level. The cryptocurrency continued to lag despite broader risk-asset recovery, with uncertainty around regulatory developments and macro pressures weighing on sentiment."
+      },
+      {
+        "header": "EUR/USD surges 0.62% to $1.18 as dollar selling intensifies",
+        "detail": "The euro strengthened to $1.18, gaining 0.62%, as the dollar languished near October lows amid US-Europe tensions and concerns over Fed independence. Sterling also rallied to four-month highs above 1.36, supported by stronger UK economic data."
+      },
+      {
+        "header": "Capital One drops 4% after announcing $5.15 billion Brex acquisition",
+        "detail": "Capital One shares fell after the bank announced it would acquire fintech startup Brex for $5.15 billion in cash and stock, representing a 60% discount from Brex's 2021 peak valuation. The company also missed Q4 earnings expectations with adjusted EPS of $3.86 versus $4.11 expected."
+      },
+      {
+        "header": "Major US stock indices post back-to-back weekly losses amid geopolitical whipsaw",
+        "detail": "The S&P 500 fell 0.4% for the week while the Nasdaq declined 0.3% and the Dow dropped 0.5%, marking consecutive weekly losses. Markets remained volatile as Trump's shifting stance on Greenland and tariff threats against Europe rattled investor confidence."
+      },
+      {
+        "header": "Bitcoin treasury companies surge as corporate adoption accelerates",
+        "detail": "Public company Bitcoin holdings increased 82% year-over-year to 1.08 million BTC, with corporations now owning 6.4% of total supply. More companies added Bitcoin to balance sheets in 2025 than any previous year, though valuations pulled back amid broader crypto price corrections."
+      }
+    ]
+  },
+  "created": "2026-01-24T09:41:51.943259Z",
+  "sources": [
+    {
+      "url": "https://bitcoinmagazine.com/business/epoch-ventures-predicts-bitcoin-hits-150k-in-2026-declares-end-of-4-year-halving-cycle",
+      "title": "Why The Famous Bitcoin 4-Year Cycle Is Officially Dead—And What Comes Next Could Shock You",
+      "snippet": "Epoch, a venture firm specializing in Bitcoin infrastructure, issued its second annual ecosystem report on January 21, 2026, forecasting robust growth for..."
+    },
+    {
+      "url": "https://tradingeconomics.com/commodity/lithium",
+      "title": "Lithium - Price - Chart - Historical Data - News",
+      "snippet": "Lithium rose to 171000 CNY/T on January 23, 2026, up 3.95% from the previous day. Over the past month, Lithium's price has risen 68.47%, and is up 119.51%..."
+    },
+    {
+      "url": "https://www.schwab.com/learn/story/stock-market-update-open",
+      "title": "Stocks Dip as Risk Stays Up to Close Whipsaw Week",
+      "snippet": "Learn what's trending before the opening bell with Schwab's market open report. Find out about macroeconomic reports, company earnings, and other events."
+    },
+    {
+      "url": "https://www.tradingview.com/symbols/NASDAQ-INTC/",
+      "title": "Intel (INTC) Stock Price, Chart, and Market Cap",
+      "snippet": "View live Intel Corporation chart to track its stock's price action. Find market predictions, INTC financials and market news."
+    },
+    {
+      "url": "https://tradingeconomics.com/commodity/copper",
+      "title": "Copper - Price - Chart - Historical Data - News",
+      "snippet": "Copper rose to 5.94 USD/Lbs on January 23, 2026, up 2.78% from the previous day. Over the past month, Copper's price has risen 7.79%, and is up 38.71%..."
+    },
+    {
+      "url": "https://www.reuters.com/business/environment/free-solo-climb-taiwans-tallest-building-postponed-due-weather-2026-01-24/",
+      "title": "'Free solo' climb of Taiwan's tallest building postponed due to weather",
+      "snippet": "TAIPEI, Jan 24 (Reuters) - Poor weather on Saturday forced U.S. climber Alex Honnold to postpone his \"free solo\" rope and harness-free ascent of the outside..."
+    },
+    {
+      "url": "https://www.reuters.com/business/us-stock-futures-dip-intel-plunges-geopolitical-concerns-linger-2026-01-23/",
+      "title": "Dow ends lower after topsy-turvy week, as Intel's outlook weighs on market sentiment",
+      "snippet": "The Dow Jones Industrial Average finished down ​on Friday, while the S&P 500 ended largely unchanged, as investors' risk appetite was dimmed at the end of a..."
+    },
+    {
+      "url": "https://finance.yahoo.com/news/live/trump-tariffs-live-updates-trump-calls-off-tariffs-on-europe-over-greenland-after-reaching-deal-framework-152657787.html",
+      "title": "Trump tariffs live updates: Trump calls off tariffs on Europe over Greenland after reaching deal 'framework'",
+      "snippet": "President Trump has said the acquisition of Greenland is crucial for the US but European allies, including Denmark and Greenland, remain staunchly opposed..."
+    },
+    {
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-cap-volatile-week-with-back-to-back-weekly-losses-210233078.html",
+      "title": "Stock market today: Dow, S&P 500 cap volatile week with back-to-back weekly losses",
+      "snippet": "Wall Street is faltering as it heads into the end of holiday shortened but rollercoaster week defined by Trump's moves on Greenland."
+    },
+    {
+      "url": "https://finance.yahoo.com/quote/CRML/",
+      "title": "Critical Metals Corp. (CRML) Stock Price, News, Quote & History",
+      "snippet": "Find the latest Critical Metals Corp. (CRML) stock quote, history, news and other vital information to help you with your stock trading and investing."
+    },
+    {
+      "url": "https://www.forbes.com/sites/erikkain/2026/01/23/nyt-wordle-saturday/",
+      "title": "Today’s Wordle #1680 Hints And Answer For Saturday, January 24",
+      "snippet": "The weekend is here. Huzzah! It looks like we're going to get snow this weekend, but I won't believe it until I see the white fluffy stuff on the ground."
+    },
+    {
+      "url": "https://www.weforum.org",
+      "title": "The World Economic Forum",
+      "snippet": "19–23 January 2026. World Economic Forum Annual Meeting. 'A Spirit of Dialogue'. Davos-Klosters, Switzerland. World leaders from government, business,..."
+    },
+    {
+      "url": "https://www.tradingview.com",
+      "title": "TradingView — Track All Markets",
+      "snippet": "Where the world charts, chats, and trades markets. We're a supercharged super-charting platform and social network for traders and investors."
+    },
+    {
+      "url": "https://www.ftc.gov",
+      "title": "Federal Trade Commission | Protecting America's Consumers",
+      "snippet": "The official website of the Federal Trade Commission, protecting America's consumers for over 100 years."
+    },
+    {
+      "url": "https://www.tradingview.com/symbols/EURUSD/",
+      "title": "EUR USD Chart — Euro to Dollar Rate",
+      "snippet": "View live Euro / U.S. Dollar chart to track latest price changes. Trade ideas, forecasts and market news are at your disposal as well."
+    },
+    {
+      "url": "https://www.reuters.com",
+      "title": "Reuters | Breaking International News & Views",
+      "snippet": "Find latest news from every corner of the globe at Reuters.com, your online source for breaking international news coverage."
+    },
+    {
+      "url": "https://www.wsj.com/economy/consumers/consumer-sentiment-improved-in-january-michigan-survey-finds-ab43b1e2",
+      "title": "Consumer Sentiment Improved in January, Michigan Survey Finds",
+      "snippet": "The survey's sentiment index came in at 56.4 this month, versus 52.9 in December."
+    },
+    {
+      "url": "https://www.fxstreet.com/news/eur-usd-drifts-away-from-highs-ahead-of-flash-pmis-202601230835",
+      "title": "EUR/USD finds support near recent highs ahead of US PMI data releases",
+      "snippet": "EUR/USD posts moderate losses, trading right above 1.1730 at the time of writing on Friday, but holding most of the previous day's gains and on track for..."
+    },
+    {
+      "url": "https://tradingeconomics.com/commodity/silver",
+      "title": "Silver - Price - Chart - Historical Data - News",
+      "snippet": "Silver rose to 102.95 USD/t.oz on January 23, 2026, up 7.06% from the previous day. Over the past month, Silver's price has risen 43.09%, and is up 236.76%..."
+    },
+    {
+      "url": "https://www.fxstreet.com/analysis/eur-usd-weekly-forecast-trump-gives-it-trump-takes-it-away-202601231528",
+      "title": "EUR/USD Weekly Forecast: Trump gives it, Trump takes it away",
+      "snippet": "Once again, geopolitical woes were at the top of the list of market movers, and the outcome was not good for the US Dollar (USD)."
+    },
+    {
+      "url": "https://www.kitco.com/charts/gold",
+      "title": "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart",
+      "snippet": "Live Gold Charts and Gold Spot Price from International Gold Markets, Prices from New York, London, Hong Kong and Sydney provided by Kitco."
+    },
+    {
+      "url": "https://www.fxstreet.com/news/when-is-the-flash-us-sp-global-pmi-data-and-how-could-it-affect-eur-usd-202601231155",
+      "title": "When is the flash US S&P Global PMI data and how could it affect EUR/USD?",
+      "snippet": "The preliminary United States (US) S&P Global Purchasing Managers' Index (PMI) data for January is due for release today at 14:45 GMT."
+    },
+    {
+      "url": "https://divvydiary.com/en/calendar",
+      "title": "Dividend Calendar January 2026",
+      "snippet": "In January 2026 4,729 securities pay a dividend. The strongest day in January 2026 is 02/01/2026 with 558 dividend pay dates. Scalable Capital..."
+    },
+    {
+      "url": "https://www.fxstreet.com/news/gbp-usd-surges-to-13600-hits-four-month-high-as-dollar-selling-intensifies-202601231813",
+      "title": "GBP/USD surges to 1.3600, hits four-month high as Dollar selling intensifies",
+      "snippet": "The British Pound (GBP) continues to outperform the US Dollar (USD) on Friday, with GBP/USD climbing to the 1.3600 handle as the Greenback remains under..."
+    },
+    {
+      "url": "https://www.kitco.com",
+      "title": "Live Gold Prices | Gold News And Analysis | Mining News | KITCO",
+      "snippet": "Did the US Dollar fluctuation impact the price? Click here to find out more information. Latest News. Metals. Crypto. Mining. Market News. Street Talk..."
+    },
+    {
+      "url": "https://www.reuters.com/markets/",
+      "title": "Global Market Headlines | Breaking Stock Market News",
+      "snippet": "Find the latest stock market news from every corner of the globe at Reuters.com, your online source for breaking international market and finance news."
+    },
+    {
+      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-01-23/",
+      "title": "Yen spikes with intervention in focus; oil rallies on Iran fears",
+      "snippet": "Japan's yen spiked sharply higher against the dollar on Friday as traders evaluated the possibility of an intervention to support the currency, while oil..."
+    },
+    {
+      "url": "https://tradingeconomics.com/commodity/natural-gas",
+      "title": "Natural gas - Price - Chart - Historical Data - News",
+      "snippet": "Natural gas rose to 5.35 USD/MMBtu on January 23, 2026, up 5.99% from the previous day. Over the past month, Natural gas's price has risen 42.22%,..."
+    },
+    {
+      "url": "https://www.energyexch.com",
+      "title": "Energy EXCH | Energy markets for the smart money.",
+      "snippet": "Energy EXCH is for professional traders participating in the energy markets. Its mission is to connect traders to the markets and to each other."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/01/22/stock-market-today-live-updates.html",
+      "title": "S&P 500 ends Friday little changed, but posts second straight losing week amid wild trading",
+      "snippet": "The S&P 500 and the Nasdaq Composite ended Friday slightly higher, but both still posted back-to-back losing weeks."
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/india-business/russian-oil-purchase-collapsed-will-us-roll-back-25-tariffs-on-india-trump-aide-drops-hint/articleshow/127374245.cms",
+      "title": "'Russian oil purchase collapsed': Will US roll back 25% tariffs on India? Trump aide drops hint",
+      "snippet": "US treasury secretary Scott Bessent suggested there could be a “path” to removing 25 per cent tariffs imposed on India over its purchases of Russian oil,..."
+    },
+    {
+      "url": "https://www.hindustantimes.com/astrology/horoscope/love-horoscope-today-for-january-24-2026-big-heart-decisions-ahead-find-what-the-stars-have-to-say-101769217972726.html",
+      "title": "Love Horoscope Today for January 24, 2026: Big heart decisions ahead, find what the stars have to say | Astrology",
+      "snippet": "Aries: The past is back in the present, and you might be feeling something new around it. For singles who have permission to date an old connection,..."
+    },
+    {
+      "url": "https://economictimes.com",
+      "title": "Business News Live, Share Market News - Read Latest Finance News, IPO, Mutual Funds News",
+      "snippet": "Business news today: Read India Business News Live. Latest Business news and updates on Finance, share market, IPO, and economy. Discover Business News..."
+    },
+    {
+      "url": "https://www.wsj.com/finance/commodities-futures/u-s-stocks-zigzag-on-geopolitical-news-ending-week-where-they-started-50855d49",
+      "title": "U.S. Stocks Zigzag on Geopolitical News, Ending Week Where They Started",
+      "snippet": "The U.S. stock market ended the week nearly flat despite trade war threats, with the Dow down 0.5% on the week, S&P 500 down 0.4% and Nasdaq down 0.1%."
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/business/politics/2026/01/23/live-updates-trump-bars-carney-from-board-of-peace/",
+      "title": "Trump says Canada is against Golden Dome in Greenland",
+      "snippet": "U.S. President Donald Trump wrote China will 'eat' Canada within the first year of doing business following Prime Minister Mark Carney's trip to Beijing."
+    },
+    {
+      "url": "https://members.sagfoundation.org/programs",
+      "title": "SAG-AFTRA Foundation | Member Portal",
+      "snippet": "SYNOPSIS. This class will teach actors how to improve their timing and pace when voicing commercials, by adding your voice to commercials with picture and..."
+    },
+    {
+      "url": "https://economictimes.com/news/economy/policy/budget-2026-climate-action-mitigation-adaption-industrialisation-air-water-clean-energy-spending-explained/articleshow/127364803.cms",
+      "title": "Budget 2026: Money matters for the air you breathe and water you drink",
+      "snippet": "Union Budget 2026 arrives amid escalating climate warnings, water stress, heatwaves, floods, and air pollution. The upcoming budget is likely to focus on..."
+    },
+    {
+      "url": "https://economictimes.com/news/india/kaja-kallas-arrives-in-india-on-her-first-visit-as-eu-vice-president/articleshow/127359165.cms",
+      "title": "Kaja Kallas in India & the Europeans are coming as 'mother of all deals' nears endgame",
+      "snippet": "EU Vice-President Kaja Kallas arrived in New Delhi for her first official visit, aiming to strengthen the India-EU Strategic Partnership."
+    },
+    {
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-leads-sp-500-nasdaq-waver-after-volatile-week-as-intel-earnings-fall-short-234147579.html",
+      "title": "Stock market today: Dow leads S&P 500, Nasdaq waver after volatile week as Intel earnings fall short",
+      "snippet": "Wall Street is faltering as it heads into the end of holiday shortened but rollercoaster week defined by Trump's moves on Greenland."
+    },
+    {
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-23-2026",
+      "title": "Stock Market News for Jan. 23, 2026: Dow Drops; Intel Stock Slides",
+      "snippet": "Dollar tumbles against the yen, while gold prices hit record."
+    },
+    {
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-slides-nasdaq-pops-after-volatile-week-as-intel-plunges-after-earnings-234147437.html",
+      "title": "Stock market today: Dow, S&P 500 cap volatile week with back-to-back weekly losses",
+      "snippet": "Wall Street is faltering as it heads into the end of holiday shortened but rollercoaster week defined by Trump's moves on Greenland."
+    },
+    {
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-leads-sp-500-nasdaq-lower-after-volatile-week-as-intel-earnings-fall-short-234147356.html",
+      "title": "Stock market today: Dow leads S&P 500, Nasdaq lower after volatile week as Intel earnings fall short",
+      "snippet": "Wall Street is faltering as it heads into the end of holiday shortened but rollercoaster week defined by Trump's moves on Greenland."
+    },
+    {
+      "url": "https://www.nasdaq.com/market-activity",
+      "title": "Market Activity",
+      "snippet": "symbol, activity, sentiment. TSLA, 5.11%, EVEN. Tesla, Inc. Common Stock. NVDA, +3.93%, BUY +3. NVIDIA Corporation Common Stock. MU, +1.93%, BUY +3."
+    },
+    {
+      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-and-nasdaq-set-to-advance-as-gold-nears-5-000",
+      "title": "Stock Market on Jan. 23, 2026: Dow ends lower Friday as bank stocks struggle; S&P 500 ekes out gain, tech-heavy Nasdaq rises; U.S. stocks post weekly losses following tensions over Greenland",
+      "snippet": "U.S. stocks closed mostly higher Friday, but the S&P 500 posted back-to-back weekly losses following worries over tensions within NATO about the future of..."
+    },
+    {
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-012326",
+      "title": "Stock Market News From Jan. 23, 2026: Dow Falls; S&P 500 Flat; Nasdaq Rises; Oracle, Intel, AMD, Tesla, More Movers",
+      "snippet": "A heavy slide in financial stocks pushed the Dow lower on Friday, cementing a second consecutive weekly decline for the blue-chip index."
+    },
+    {
+      "url": "https://www.tradingview.com/symbols/NASDAQ-AMZN/",
+      "title": "Amazon Stock Chart — NASDAQ:AMZN Stock Price",
+      "snippet": "View live Amazon.com, Inc. chart to track its stock's price action. Find market predictions, AMZN financials and market news."
+    },
+    {
+      "url": "https://seekingalpha.com/article/4862363-credos-next-phase-begins",
+      "title": "Credo’s Next Phase Begins (NASDAQ:CRDO)",
+      "snippet": "Credo is now trading on an aggressive forward revenue curve, with FY26 expectations of $1.19B, up 173% year-over-year. CRDO's valuation is driven by revenue..."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-01-22/stock-market-today-dow-s-p-live-updates",
+      "title": "S&P 500 Posts Its First Two-Week Losses Since June: Markets Wrap",
+      "snippet": "Wall Street ended a jittery week on a relatively quiet note, with stock traders digesting the rally of the past two days in the run-up to the Federal..."
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-greenland-deal-intel-stock-intc/",
+      "title": "Stock Market Today: Dow Falls While Nasdaq Is The Day's Bright Spot (Live Coverage)",
+      "snippet": "Stock Market Today: The Dow Jones index slid Friday despite a rise in Nvidia. Small caps sold off after hitting a high on Thursday."
+    },
+    {
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-stall-after-volatile-week-as-intel-earnings-fall-short-234147705.html",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures stall after volatile week as Intel earnings fall short",
+      "snippet": "Wall Street is regrouping after a rollercoaster week defined by Trump's on-and-off messages regarding Greenland."
+    }
+  ]
+}
