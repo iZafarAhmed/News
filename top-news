@@ -1,5 +1,791 @@
 [
   {
+    "websiteName": "CNBC",
+    "title": "Super Bowl 60 recap: Rewatch the ads after Seahawks clinch the championship",
+    "url": "https://www.cnbc.com/2026/02/08/super-bowl-60-ads-news-live-updates.html",
+    "date": "2026-02-09T04:01:41.386Z",
+    "imageUrl": "https://image.cnbcfm.com/api/v1/image/108263085-1770609011989-gettyimages-2260616438-rm2_2224_mu427qwl.jpeg?v=1770609030&w=1920&h=1080",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Sky",
+    "title": "Russian citizen detained in Dubai over shooting of general in Moscow",
+    "url": "https://news.sky.com/story/russian-citizen-detained-in-dubai-over-shooting-of-general-in-moscow-13504947",
+    "date": "2026-02-08T16:54:41.389Z",
+    "imageUrl": "https://e3.365dm.com/26/02/1920x1080/skynews-vladimir-alexeyev_7157374.jpg?20260206125557",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Game",
+    "title": "Classic RPGs With Turn-Based Combat That Still Feel Modern",
+    "url": "https://gamerant.com/classic-rpgs-with-turn-based-combat-still-feel-modern/",
+    "date": "2026-02-09T02:54:41.389Z",
+    "imageUrl": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/02/orpheus-in-persona-3-2007.jpg",
+    "category": "Gaming"
+  },
+  {
+    "websiteName": "ScienceDaily",
+    "title": "New drug resets the body clock and cuts jet lag recovery nearly in half",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260208011026.htm",
+    "date": "2026-02-08T11:54:41.390Z",
+    "imageUrl": "https://www.sciencedaily.com/images/1920/circadian-rhythm-brain-clock-night-day.webp",
+    "category": "Science"
+  },
+  {
+    "websiteName": "CBS",
+    "title": "Minnesota sisters, new moms, leading Team USA curling while balancing day jobs",
+    "url": "https://www.cbsnews.com/video/minnesota-sisters-new-moms-leading-team-usa-curling-while-balancing-day-jobs/",
+    "date": "2026-02-09T00:54:41.390Z",
+    "imageUrl": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/02/09/b44345d5-f093-43c7-9419-36a793884c14/thumbnail/1200x630/a232cd496bc9ccdbc4f9b1626715391d/cbsn-fusion-minnesota-sisters-new-moms-leading-team-usa-curling-while-balancing-day-jobs-thumbnail.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "South",
+    "title": "Leaders invited to Trump’s Board of Peace meeting in US. Who’s going?",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3342854/romania-argentina-leaders-invited-trumps-board-peace-meeting-us?utm_source=rss_feed",
+    "date": "2026-02-08T18:54:41.390Z",
+    "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/09/509a8906-be09-46ca-9898-6331b58aa20e_0e7857a4.jpg?itok=Eu9Npi4a&v=1770609441",
+    "category": "World News"
+  },
+  {
+    "websiteName": "ScienceDaily",
+    "title": "Scientists may have found the brain network behind Parkinson’s",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260208203013.htm",
+    "date": "2026-02-09T00:54:41.390Z",
+    "imageUrl": "https://www.sciencedaily.com/images/1920/scan-parkinsons-brain-network.webp",
+    "category": "Science"
+  },
+  {
+    "websiteName": "FOX",
+    "title": "Trump critics take issue with Green Day's Super Bowl LX performance",
+    "url": "https://www.foxnews.com/sports/trump-critics-take-issue-green-days-super-bowl-lx-performance",
+    "date": "2026-02-08T23:54:41.390Z",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/super-bowl-green-day-020826-2.jpg?ve=1&tl=1",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "The",
+    "title": "How Does IEMG's Growth Focus Against IXUS' Broader International Diversification?",
+    "url": "https://www.fool.com/coverage/etfs/2026/02/08/how-does-iemg-s-growth-focus-against-ixus-broader-international-diversification/",
+    "date": "2026-02-08T21:54:41.390Z",
+    "imageUrl": "chrome-extension://bmcgcefhjdglnomoppbfmnhooahhgpma/&target_size=96x64",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Esquire",
+    "title": "Jason Alexander Told Us How Dunkin' Pulled Off Its '90s-Charged Super Bowl Commercial",
+    "url": "https://www.esquire.com/entertainment/tv/a70269550/jason-alexander-ben-affleck-jennifer-aniston-tom-brady-dunkin-commercial-super-bowl-2026/",
+    "date": "2026-02-09T02:54:41.391Z",
+    "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/good-will-dunkin-1-6986268951747.jpg",
+    "category": "Entertainment"
+  },
+  {
+    "websiteName": "Mashable",
+    "title": "NYT Strands hints, answers for February 9, 2026",
+    "url": "https://mashable.com/article/strands-nyt-hint-february-9-2026",
+    "date": "2026-02-09T02:54:41.391Z",
+    "imageUrl": "https://helios-i.mashable.com/imagery/articles/06XHWKqFYW0yeXNwGV1xVDc/hero-image.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "The",
+    "title": "‘The Trust Has Been Absolutely Destroyed’",
+    "url": "https://www.theatlantic.com/politics/2026/02/trump-gabbard-election-investigations-states/685922/?utm_source=feed",
+    "date": "2026-02-08T23:54:41.391Z",
+    "category": "Culture"
+  },
+  {
+    "websiteName": "Game",
+    "title": "Palworld Meets RuneScape in New Creature-Collector MMORPG",
+    "url": "https://gamerant.com/mistwilds-palworld-runescape-pokemon-mmo-pve-pvp-2026/",
+    "date": "2026-02-09T00:54:41.391Z",
+    "imageUrl": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/02/runescape-dragonwilds-spell-upgrades.jpg",
+    "category": "Gaming"
+  },
+  {
+    "websiteName": "CBC",
+    "title": "Canadian figure skater Madeline Schizas gets university assignment extension at Olympics",
+    "url": "https://www.cbc.ca/sports/olympics/winter/figure-skating/canada-s-madeline-schizas-gets-university-assignment-extension-at-olympics-9.7079906?cmp=rss",
+    "date": "2026-02-08T16:54:41.391Z",
+    "imageUrl": "https://i.cbc.ca/ais/a2113c73-afc3-4076-a6fe-797a3b930846,1770569630224/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5579%2C3138%29%3BResize%3D%28620%29",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Kitchn",
+    "title": "These One-Bowl Lemon Muffins Are So Easy, I Bake a Batch Every Week",
+    "url": "https://www.thekitchn.com/lemon-raspberry-muffins-recipe-23767945?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+    "date": "2026-02-07T04:54:41.391Z",
+    "imageUrl": "https://cdn.apartmenttherapy.info/image/upload//tk/photo/2026/02-2026/2026-02-lemon-raspberry-muffins/lemon-raspberry-muffins-365_1db567-cropped",
+    "category": "Other"
+  },
+  {
+    "websiteName": "TechRadar",
+    "title": "Super Bowl 2026 REPLAY: watch Patriots vs Seahawks free",
+    "url": "https://www.techradar.com/how-to-watch/live/super-bowl-2026-free",
+    "date": "2026-02-09T02:54:41.392Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/bdtoToRsXMgjHNkzZVqMn9-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "ESPN",
+    "title": "Vonn has leg surgery after crashing at Olympics",
+    "url": "https://www.espn.com/olympics/story/_/id/47865581/lindsey-vonn-skiing-torn-acl-crashes-olympic-downhill",
+    "date": "2026-02-09T02:54:41.392Z",
+    "imageUrl": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0208%2Fr1612083_1296x729_16%2D9.jpg",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "CBS",
+    "title": "Who performed at the Super Bowl halftime show? Here's the full list.",
+    "url": "https://www.cbsnews.com/news/who-is-performing-super-bowl-halftime-show-2026/",
+    "date": "2026-02-09T01:54:41.392Z",
+    "imageUrl": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/02/09/a98ae382-3207-4a3f-b394-af4164b7b8f1/thumbnail/1200x630/9552a0142dbea79cb4bbdf6bed9fc23d/gettyimages-2260604831.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "CBS",
+    "title": "Seahawks win 2026 Super Bowl. Here are the highlights from the big game.",
+    "url": "https://www.cbsnews.com/live-updates/super-bowl-2026-seattle-seahawks-new-england-patriots/",
+    "date": "2026-02-09T03:58:41.392Z",
+    "imageUrl": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/02/09/315ca5cb-89a9-44e5-9aec-8e2fc43eb89c/thumbnail/1200x630/4ded7bbafa75067b1f4a0a30a8e9d561/gettyimages-2260615633.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "CBS",
+    "title": "2/6: CBS Evening News",
+    "url": "https://www.cbsnews.com/video/020626-cbs-evening-news/",
+    "date": "2026-02-09T00:54:41.392Z",
+    "imageUrl": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/02/07/7fb4774f-479d-4ad0-9749-409998b1f97a/thumbnail/1200x630/aa17f93a62c81ff65c312edd52f7e4d3/0206-en-full-4361951-640x360.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "CBSSports",
+    "title": "Super Bowl 2026 where to watch: Patriots vs. Seahawks kickoff time, TV channel, live stream and prediction",
+    "url": "https://www.cbssports.com/nfl/news/where-to-watch-super-bowl-2026/",
+    "date": "2026-02-09T00:54:41.392Z",
+    "imageUrl": "https://sportshub.cbsistatic.com/i/2026/02/08/edb29239-1056-4843-b1c5-0e5d1e2c1900/super-bowl.jpg",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "Healthline",
+    "title": "Laura Dern Turns Grief Into Advocacy After Late Mother's Battle with Rare Lung Disease",
+    "url": "https://www.healthline.com/health-news/laura-dern-mother-diane-ladd-rare-lung-disease",
+    "date": "2026-02-09T03:54:41.392Z",
+    "imageUrl": "https://media.post.rvohealth.io/wp-content/uploads/2026/02/Laura-Dern-with-mother-1296x728-header.jpg",
+    "category": "Health"
+  },
+  {
+    "websiteName": "NBC",
+    "title": "Full interview: Tom Llamas exclusive with President Trump",
+    "url": "https://www.nbcnews.com/video/full-interview-tom-llamas-exclusive-with-president-trump-257304133923",
+    "date": "2026-02-08T19:54:41.392Z",
+    "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_02/tm-trump-full-ywlbif.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "CBR",
+    "title": "What Is a Trial of Seven? Game of Thrones’ Newest Piece of Lore, Explained",
+    "url": "https://www.cbr.com/a-knight-of-the-seven-kingdoms-trial-of-seven-explained/",
+    "date": "2026-02-09T02:54:41.393Z",
+    "imageUrl": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/02/a-knight-of-the-seven-kingdoms-season1-episode4-dunk-1.jpg",
+    "category": "Entertainment"
+  },
+  {
+    "websiteName": "Good",
+    "title": "The Losing Super Bowl Team Doesn’t Leave Empty-Handed—Here’s What They Get",
+    "url": "https://www.goodhousekeeping.com/entertainment/a70269799/what-does-the-super-bowl-losing-team-get-2026/",
+    "date": "2026-02-08T17:54:41.393Z",
+    "category": "Home"
+  },
+  {
+    "websiteName": "South",
+    "title": "So what if some countries have fewer babies and shrinking populations?",
+    "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3342563/so-what-if-some-countries-have-fewer-babies-and-shrinking-populations?utm_source=rss_feed",
+    "date": "2026-02-08T20:54:41.393Z",
+    "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/08/ab847fb5-090d-4de8-ac49-dd48c0786d51_16a32c59.jpg?itok=yuVfZsdc&v=1770517949",
+    "category": "World News"
+  },
+  {
+    "websiteName": "ESPN",
+    "title": "Offseason guide for every NFL team",
+    "url": "https://www.espn.com/nfl/story/_/id/47454831/2026-nfl-offseason-guide-every-team-priorities-free-agents-draft-predictions",
+    "date": "2026-02-09T02:54:41.393Z",
+    "imageUrl": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1230%2Fnfl_offseason%2Dguide_16x9.jpg",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "CBS",
+    "title": "Bad Bunny's Super Bowl role breaks barriers and sparks debate",
+    "url": "https://www.cbsnews.com/news/bad-bunny-super-bowl-halftime-show-cultural-impact/",
+    "date": "2026-02-09T01:54:41.393Z",
+    "imageUrl": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/02/06/4b1761f4-ccbd-4c33-a804-f070cf3374f7/thumbnail/1200x630g2/d6252d8304e05f907b319467b396bfcc/gettyimages-2149763256.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "CBR",
+    "title": "February 2026 Belongs to This Anime & It’s Not Even Close",
+    "url": "https://www.cbr.com/jujutsu-kaisen-season-3-most-successful-anime/",
+    "date": "2026-02-09T00:54:41.393Z",
+    "imageUrl": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/01/0b3e0790-5256-4aa5-a577-7a3cb9907152.jpeg",
+    "category": "Entertainment"
+  },
+  {
+    "websiteName": "The",
+    "title": "Isaac Herzog meets survivors of Bondi terror attack saying ‘when one Jew is hurt, all Jews feel their pain’",
+    "url": "https://www.theguardian.com/australia-news/2026/feb/09/isaac-herzog-israeli-president-arrives-sydney-australia-ntwnfb",
+    "date": "2026-02-08T23:54:41.393Z",
+    "imageUrl": "https://i.guim.co.uk/img/media/8ed4d5687d84aa88655c89d91a31c2e33b6a0d91/33_0_4164_3333/master/4164.jpg?width=700&quality=85&auto=format&fit=max&s=42fd8693297c6ca0ed4cd338c9be4491",
+    "category": "World News"
+  },
+  {
+    "websiteName": "The",
+    "title": "The sneeze secret: how much should you worry about this explosive reflex?",
+    "url": "https://www.theguardian.com/society/2026/feb/08/sneeze-explosive-reflex-involuntary-actions-human-body-illness-pollution",
+    "date": "2026-02-08T09:54:41.393Z",
+    "imageUrl": "https://i.guim.co.uk/img/media/7b905568ac424c410e6212c7526028d0e0ceb988/0_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=242fa38181836996110c550701c86623",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Seeking",
+    "title": "Omnicell, Inc. 2025 Q4 - Results - Earnings Call Presentation",
+    "url": "https://seekingalpha.com/article/4867539-omnicell-inc-2025-q4-results-earnings-call-presentation?source=feed_all_articles",
+    "date": "2026-02-08T22:54:41.393Z",
+    "imageUrl": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Cointelegraph",
+    "title": "Only 10K Bitcoin at quantum risk and worth attacking, CoinShares claims",
+    "url": "https://cointelegraph.com/news/only-10k-bitcoin-quantum-risk-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "2026-02-09T00:54:41.393Z",
+    "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzNmNDEtNzU1MS03ZjlhLTgyNmUtNjUxNmU5NTA1YmEwLmpwZw==.jpg",
+    "category": "Crypto"
+  },
+  {
+    "websiteName": "France24",
+    "title": "From heavy metal drummer to Japan's Prime Minister: a profile of Sanae Takaichi",
+    "url": "https://www.france24.com/en/tv-shows/spotlight/20260208-from-heavy-metal-drummer-to-japan-s-prime-minister-a-profile-of-sanae-taikachi",
+    "date": "2026-02-08T19:54:41.393Z",
+    "imageUrl": "https://s.france24.com/media/display/22838dd2-0525-11f1-85a6-005056bfb2b6/w:1024/p:16x9/EN-20260208-183818-185237-CS.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "The",
+    "title": "Nearly 5 MILLION tune in to Turning Point USA’s Super Bowl rival halftime show as fans switch off Bad Bunny",
+    "url": "https://www.the-sun.com/sport/15910450/turning-point-usa-halftime-show-bad-bunny/",
+    "date": "2026-02-09T02:54:41.393Z",
+    "imageUrl": "https://www.the-sun.com/wp-content%2Fuploads%2Fsites%2F6%2F2026%2F02%2FSC-TPUSA-Breaker-OP-copy.jpg?quality%3D90%26strip%3Dall",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Inc.com",
+    "title": "How Leaders Can Use Nerves to Their Advantage and Still Project Confidence",
+    "url": "https://www.inc.com/andrea-wojnicki/how-leaders-can-use-nervousness-to-their-advantage-and-still-project-confidence/91298501",
+    "date": "2026-02-08T15:54:41.393Z",
+    "imageUrl": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/02/GettyImages-2256125096.jpg",
+    "category": "Business"
+  },
+  {
+    "websiteName": "The",
+    "title": "Topless streaker halts Super Bowl before being tackled by New England Patriots star in wild scenes",
+    "url": "https://www.the-sun.com/sport/15910560/super-bowl-streaker-tackled-patriots-star/",
+    "date": "2026-02-09T01:54:41.394Z",
+    "imageUrl": "https://www.the-sun.com/wp-content%2Fuploads%2Fsites%2F6%2F2026%2F02%2FSC-Streaker-OP-copy.jpg?quality%3D90%26strip%3Dall",
+    "category": "Other"
+  },
+  {
+    "websiteName": "CBR",
+    "title": "JJK Modulo, Say Hello to the New Satoru Gojo",
+    "url": "https://www.cbr.com/jjk-modulo-yuji-itadori-satoru-gojo-strongest-sorcerer/",
+    "date": "2026-02-09T01:54:41.394Z",
+    "imageUrl": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/02/a-custom-image-featuring-satoru-gojo-posing-in-front-of-an-older-yuji-itadori-from-jujutsu-kaisen-modulo.jpeg",
+    "category": "Entertainment"
+  },
+  {
+    "websiteName": "Delish",
+    "title": "Skip The Fancy Spot—This $50 3-Course TGI Fridays Deal Wins Valentine's Day",
+    "url": "https://www.delish.com/food-news/a70276099/tgi-fridays-valentines-day-meal-deal-2026/",
+    "date": "2026-02-07T04:54:41.394Z",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Al",
+    "title": "Italy’s Meloni condemns anti-Olympics protesters in Milan",
+    "url": "https://www.aljazeera.com/news/2026/2/8/italys-meloni-condemns-anti-olympics-protesters-in-milan?traffic_source=rss",
+    "date": "2026-02-08T17:54:41.394Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/02/2026-02-07T173438Z_703664426_RC25HJAXJ3HE_RTRMADP_3_OLYMPICS-2026-PROTEST-1770550089.jpg?resize=1920%2C1440",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Inverse",
+    "title": "The Buzziest Fantasy Video Game Franchise Of The Decade Is Becoming A Bold TV Series",
+    "url": "https://www.inverse.com/entertainment/baldurs-gate-tv-series-last-of-us",
+    "date": "2026-02-06T04:54:41.394Z",
+    "imageUrl": "https://imgix.bustle.com/uploads/image/2026/2/6/899bd294/baldurs-gate-3-astarion.jpg?w=500&fit=max",
+    "category": "Science"
+  },
+  {
+    "websiteName": "Screenrant",
+    "title": "Network at 50: How Sidney Lumet's Satire Predicted the Media's Downfall",
+    "url": "https://screenrant.com/sidney-lumet-network-movie-1976-aged-well/",
+    "date": "2026-02-09T02:54:41.394Z",
+    "imageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/01/howard-beale-giving-an-unhinged-monologue-on-the-air-in-network.jpg",
+    "category": "Entertainment"
+  },
+  {
+    "websiteName": "CNET",
+    "title": "Best HDMI Cables in 2026",
+    "url": "https://www.cnet.com/tech/home-entertainment/best-hdmi-cable/",
+    "date": "2026-02-08T15:54:41.394Z",
+    "imageUrl": "https://www.cnet.com/a/img/resize/a6855dc967572ca6e184ccc639bf431fe49f8270/hub/2025/09/28/f21bb183-17e6-480e-bf3b-ac8792c8cc7e/gettyimages-2200097952.jpg?auto=webp&fit=crop&height=614&width=1092",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Al",
+    "title": "Venezuela opposition politician Juan Pablo Guanipa released",
+    "url": "https://www.aljazeera.com/news/2026/2/8/venezuela-opposition-politician-juan-pablo-guanipa-released?traffic_source=rss",
+    "date": "2026-02-08T19:54:41.394Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/02/AFP__20260208__96LG8CR__v1__HighRes__FilesVenezuelaUsConflictCrisisPrison-1770578282.jpg?resize=1920%2C1440",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "XDA",
+    "title": "I ditched PowerPoint and Canva for NotebookLM, and my presentations have never been better",
+    "url": "https://www.xda-developers.com/ditched-powerpoint-for-notebooklm/",
+    "date": "2026-02-09T00:54:41.394Z",
+    "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/02/notebooklm-slide-decks-featuree.jpeg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "The",
+    "title": "The 2026 Super Bowl Ads, Ranked",
+    "url": "https://www.nytimes.com/2026/02/06/arts/television/super-bowl-ads-ranked-2026.html",
+    "date": "2026-02-09T02:54:41.394Z",
+    "imageUrl": "https://static01.nyt.com/images/2026/02/06/arts/06cul-superbowlads/06cul-superbowlads-mediumSquareAt3X-v2.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "ZDNet",
+    "title": "Your LG TV is getting a big audio performance upgrade for free - including these OLED models",
+    "url": "https://www.zdnet.com/home-and-office/home-entertainment/lg-sound-suite-software-update/",
+    "date": "2026-02-09T01:54:41.394Z",
+    "imageUrl": "https://www.zdnet.com/a/img/resize/d4eed51e29f7fc58d5ab54f7b9291d92b9215e5e/2026/01/06/8e86aa93-b63d-44a1-92ac-e924a5266f26/dsc08915.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "How-To",
+    "title": "Stop chasing fancy filament upgrades—they're ruining your 3D prints",
+    "url": "https://www.howtogeek.com/stop-chasing-fancy-filament-upgradestheyre-ruining-your-3d-prints/",
+    "date": "2026-02-08T21:54:41.394Z",
+    "imageUrl": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/02/a7305638-1.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "The",
+    "title": "Let Trump Keep Building Monuments to Himself",
+    "url": "https://www.theatlantic.com/culture/2026/02/let-trump-keep-building-monuments-to-himself/685903/?utm_source=feed",
+    "date": "2026-02-08T14:54:41.394Z",
+    "imageUrl": "https://cdn.theatlantic.com/thumbor/v_rvOsbIB_8-lZO8hiXJpL4Fx8w=/media/img/mt/2026/02/20260205_trump_statue/original.jpg",
+    "category": "Culture"
+  },
+  {
+    "websiteName": "The",
+    "title": "Top Democrat’s dire warning over Trump threat to ‘steal’ the midterm congressional elections",
+    "url": "https://www.independent.co.uk/news/world/americas/us-politics/hakeem-jeffries-trump-nationalize-elections-b2916269.html",
+    "date": "2026-02-08T19:54:41.395Z",
+    "imageUrl": "https://static.independent.co.uk/2026/02/08/15/26/jeffries_cnnsotu_226.jpg?width=1200&auto=webp&trim=0%2C78%2C0%2C0",
+    "category": "World News"
+  },
+  {
+    "websiteName": "The",
+    "title": "XRP vs Cardano: Which Is More Likely to Be a Millionaire Maker?",
+    "url": "https://www.fool.com/investing/2026/02/08/cryptocurrency-vs-other-cryptocurrency-which-is-mo/",
+    "date": "2026-02-09T02:54:41.395Z",
+    "imageUrl": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fmedia.ycharts.com%2Fcharts%2F8a9256e7db52d6e749d6038eb7cc45b7.png&w=700",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Insider",
+    "title": "20 of Teyana Taylor's best red-carpet looks through the years",
+    "url": "https://www.businessinsider.com/teyana-taylor-best-red-carpet-outfits",
+    "date": "2026-02-08T13:54:41.395Z",
+    "imageUrl": "https://i.insider.com/69792215d3c7faef0ecd061a?format=jpeg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "CBR",
+    "title": "10 Best Frieren Anime Flashbacks (So Far)",
+    "url": "https://www.cbr.com/official-best-frieren-anime-flashbacks/",
+    "date": "2026-02-09T01:54:41.395Z",
+    "imageUrl": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/07/untitled-design-500-257.jpg",
+    "category": "Entertainment"
+  },
+  {
+    "websiteName": "The",
+    "title": "Seattle Seahawks dominate Super Bowl LX and destroy hapless Drake Maye-led New England Patriots",
+    "url": "https://www.the-sun.com/sport/15910623/seattle-seahawks-super-bowl-win-patriots/",
+    "date": "2026-02-09T02:54:41.395Z",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Zerohedge",
+    "title": "Foreign Meddling? Brussels-Funded German NGO Sues X For Access To Data On Hungary's Upcoming Election",
+    "url": "https://www.zerohedge.com/geopolitical/foreign-meddling-brussels-funded-german-ngo-sues-x-access-data-hungarys-upcoming",
+    "date": "2026-02-08T12:54:41.395Z",
+    "imageUrl": "https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/Hungary-EU_01-e1770378135614.jpg?itok=gNfiI2jL",
+    "category": "Business"
+  },
+  {
+    "websiteName": "The",
+    "title": "Japan Stocks Surge on Takaichi’s Landslide Election Win",
+    "url": "https://www.nytimes.com/2026/02/08/business/japan-stocks-sanae-takaichi.html",
+    "date": "2026-02-09T00:54:41.395Z",
+    "imageUrl": "https://static01.nyt.com/images/2026/02/09/multimedia/09Biz-Japan-Markets-zbcl/09Biz-Japan-Markets-zbcl-mediumSquareAt3X.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Windows",
+    "title": "Windows 11 locked me out of Notepad via Microsoft Account bugs — is the 'Thin Client' era ruining my 27 blissful years of PCs?",
+    "url": "https://www.windowscentral.com/microsoft/windows-11/windows-locked-me-out-of-notepad-is-the-thin-client-era-ruining-pcs",
+    "date": "2026-02-06T04:54:41.395Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/wPJcMXqD44weR2UTFWd8fJ-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "France24",
+    "title": "The week in pictures: Winter Olympics open in Milan, storms flood Spain and Israel batters Gaza",
+    "url": "https://www.france24.com/en/culture/20260208-the-week-in-pictures-winter-olympics-open-in-milan-storms-flood-spain-and-israel-batters-gaza",
+    "date": "2026-02-08T11:54:41.395Z",
+    "imageUrl": "https://s.france24.com/media/display/24ab7f54-0442-11f1-9136-005056a97e36/w:1024/p:16x9/AP26037696690988.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Billboard",
+    "title": "We’re Watching the Turning Point USA ‘All-American’ Halftime Show Live Featuring Kid Rock, Lee Brice & More, Watch Along With Us",
+    "url": "https://www.billboard.com/music/country/turning-point-halftime-show-kid-rock-lee-brice-1236175947/",
+    "date": "2026-02-09T00:54:41.396Z",
+    "imageUrl": "https://www.billboard.com/wp-content/uploads/2026/02/2194767021-e1770596361121.jpg?w=1024",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Time",
+    "title": "Milan Cortina’s Painfully Long Olympics Opening Ceremony Was a Defiantly Analog Celebration of Humanity",
+    "url": "https://time.com/7372855/olympics-opening-ceremony-2026-review/",
+    "date": "2026-02-06T04:54:41.397Z",
+    "imageUrl": "https://api.time.com/wp-content/uploads/2026/02/GettyImages-2259673396.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "ScienceDaily",
+    "title": "Gut bacteria can sense their environment and it’s key to your health",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260208011017.htm",
+    "date": "2026-02-08T20:54:41.397Z",
+    "imageUrl": "https://www.sciencedaily.com/images/1920/intestinal-bacteria-human-gut-microbiome.webp",
+    "category": "Science"
+  },
+  {
+    "websiteName": "Gamespot",
+    "title": "Pokemon Pinball Machines Announced, And They're Super-Expensive",
+    "url": "https://www.gamespot.com/articles/pokemon-pinball-machines-announced-and-theyre-super-expensive/1100-6537992/?ftag=CAD-01-10abi2f",
+    "date": "2026-02-06T04:54:41.397Z",
+    "imageUrl": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4647598-pokeball.jpg",
+    "category": "Gaming"
+  },
+  {
+    "websiteName": "The",
+    "title": "Portugal Elects a President, With Leftist Beating a Surging Far Right",
+    "url": "https://www.nytimes.com/2026/02/08/world/europe/portugal-president-elections-chega-seguro-ventura.html",
+    "date": "2026-02-08T22:54:41.397Z",
+    "imageUrl": "https://static01.nyt.com/images/2026/02/08/multimedia/08int-portugal-election-blgv/08int-portugal-election-blgv-mediumSquareAt3X.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "The",
+    "title": "4 Dead in Mushroom Poisoning Outbreak in California",
+    "url": "https://www.nytimes.com/2026/02/08/us/california-mushrooms-deaths.html",
+    "date": "2026-02-08T18:54:41.397Z",
+    "imageUrl": "https://static01.nyt.com/images/2026/02/08/multimedia/08xp-mushrooms1-mgkq/08xp-mushrooms1-mgkq-mediumSquareAt3X.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Insider",
+    "title": "Trump's review of Bad Bunny's Super Bowl halftime show is in and it's safe to say he didn't like it",
+    "url": "https://www.businessinsider.com/trump-did-not-like-bad-bunnys-super-bowl-halftime-show-2026-2",
+    "date": "2026-02-09T02:54:41.397Z",
+    "imageUrl": "https://i.insider.com/69894a63e1ba468a96aba606?format=jpeg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "The",
+    "title": "Cold Deaths in New York Climb to 18 as Frigid Winds Linger",
+    "url": "https://www.nytimes.com/2026/02/08/nyregion/extreme-cold-weather-deaths-nyc.html",
+    "date": "2026-02-09T00:54:41.397Z",
+    "imageUrl": "https://static01.nyt.com/images/2026/02/08/multimedia/08met-cold-wjkh/08met-cold-wjkh-mediumSquareAt3X.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "MacRumors",
+    "title": "Amazon Discounts Anker's Newest Prime Chargers",
+    "url": "https://www.macrumors.com/2026/02/08/amazon-ankers-prime-chargers/",
+    "date": "2026-02-08T17:54:41.397Z",
+    "imageUrl": "https://images.macrumors.com/article-new/2026/02/anker-charging-february.jpeg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "CNBC",
+    "title": "Here are the 5 big things we're watching in the stock market this week",
+    "url": "https://www.cnbc.com/2026/02/08/here-are-the-5-big-things-were-watching-in-the-stock-market-this-week.html",
+    "date": "2026-02-08T19:54:41.397Z",
+    "imageUrl": "https://image.cnbcfm.com/api/v1/image/108168573-1751922268625-gettyimages-2224001628-anotherday76674331_97bpuurg.jpeg?v=1770582026&w=1920&h=1080",
+    "category": "Business"
+  },
+  {
+    "websiteName": "WSJ",
+    "title": "Hong Kong’s Jimmy Lai Given 20-Year Sentence, Adding Friction to U.S.-China Ties",
+    "url": "https://www.wsj.com/world/china/hong-kongs-jimmy-lai-given-20-year-sentence-adding-friction-to-u-s-china-ties-614c90df",
+    "date": "2026-02-09T01:54:41.397Z",
+    "imageUrl": "https://images.wsj.net/im-72327757",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Insider",
+    "title": "Coffee Meets Bagel's CEO says using AI chatbots to flirt won't help you find a love match",
+    "url": "https://www.businessinsider.com/coffee-meets-bagel-ai-chatbot-strategy-find-love-conversation-start-2026-2",
+    "date": "2026-02-08T23:54:41.397Z",
+    "imageUrl": "https://i.insider.com/695b74b104eda4732f2e719a?format=jpeg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "WSJ",
+    "title": "Newly Single, She Wants to Be Financially Secure—and Splurge a Bit. Can She Afford It?",
+    "url": "https://www.wsj.com/personal-finance/divorce-financial-advice-3ad22ef8?mod=rss_markets_main",
+    "date": "2026-02-07T04:54:41.397Z",
+    "imageUrl": "https://images.wsj.net/im-25544286",
+    "category": "Business"
+  },
+  {
+    "websiteName": "FOX",
+    "title": "Tim Curry says iconic villain role that slipped through his fingers is one of his ‘great regrets’",
+    "url": "https://www.foxnews.com/entertainment/tim-curry-says-iconic-villain-role-slipped-through-his-fingers-one-his-great-regrets",
+    "date": "2026-02-08T22:54:41.398Z",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/tim-curry-chair.jpg?ve=1&tl=1",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "TechRadar",
+    "title": "There's a sneaky way to watch the Super Bowl 2026 for free (full replay)",
+    "url": "https://www.techradar.com/how-to-watch/american-football/-sneaky-way-to-watch-super-bowl-2026-free",
+    "date": "2026-02-09T02:54:41.398Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/PMMUd9wWtCgpu8dy978fr7-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "CoinDesk",
+    "title": "Why machine-to-machine payments are the new electricity for the digital age",
+    "url": "https://www.coindesk.com/opinion/2026/02/07/why-machine-to-machine-payments-are-the-new-electricity-for-the-digital-age",
+    "date": "2026-02-07T04:54:41.398Z",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/859343e8743070b6648fd596b3614e460f27faeb-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "category": "Crypto"
+  },
+  {
+    "websiteName": "Insider",
+    "title": "12 of Bad Bunny's best and worst looks throughout his career",
+    "url": "https://www.businessinsider.com/bad-bunny-style-best-worst",
+    "date": "2026-02-08T14:54:41.398Z",
+    "imageUrl": "https://i.insider.com/69827507a645d11881889fae?format=jpeg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Space.com",
+    "title": "NASA space telescope sees interstellar visitor comet 3I/ATLAS flare up while exiting the solar system",
+    "url": "https://www.space.com/astronomy/comets/nasa-space-telescope-sees-comet-3i-atlas-dramatically-flare-as-interstellar-visitor-exits-solar-system",
+    "date": "2026-02-06T04:54:41.398Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/PcdqhxzofdWSqZV3wb9id7-1280-80.jpg",
+    "category": "Science"
+  },
+  {
+    "websiteName": "FOX",
+    "title": "Wisconsin demands $1M from Burger King franchisee over 1,600 alleged child labor, wage violations",
+    "url": "https://www.foxbusiness.com/lifestyle/wisconsin-demands-1m-burger-king-franchisee-1600-alleged-child-labor-wage-violations",
+    "date": "2026-02-08T13:54:41.398Z",
+    "imageUrl": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/02/wisconsin-burger-king.jpg",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Fortune",
+    "title": "Bessent sees ‘unruly’ Chinese trading behind gold price swings",
+    "url": "https://fortune.com/2026/02/08/gold-prices-scott-bessent-unruly-chinese-trading-margin-requirements/",
+    "date": "2026-02-08T18:54:41.398Z",
+    "imageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2259699073-e1770578608720.jpg?w=2048",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Insider",
+    "title": "My kids are growing up near their cousins. It's priceless.",
+    "url": "https://www.businessinsider.com/why-cousin-sleepovers-matter-in-a-big-family-2026-2",
+    "date": "2026-02-08T19:54:41.398Z",
+    "imageUrl": "https://i.insider.com/6981020cd3c7faef0ecd6a77?format=jpeg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "XDA",
+    "title": "I like Microsoft 365, but LibreOffice beats it where it counts",
+    "url": "https://www.xda-developers.com/i-like-microsoft-365-but-libreoffice-beats-it-where-it-counts/",
+    "date": "2026-02-08T17:54:41.398Z",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Healthline",
+    "title": "Younger Males May Face Higher Heart Attack Risk, 7 Years Before Females",
+    "url": "https://www.healthline.com/health-news/heart-attack-risk-younger-males-higher-than-females",
+    "date": "2026-02-09T03:54:41.398Z",
+    "imageUrl": "https://media.post.rvohealth.io/wp-content/uploads/2026/01/young-male-heart-screening-1296x728-header.jpg",
+    "category": "Health"
+  },
+  {
+    "websiteName": "Houzz",
+    "title": "Before and After: 4 Backyards That Bring Vacation Vibes Home (15 photos)",
+    "url": "https://www.houzz.com/magazine/before-and-after-4-backyards-that-bring-vacation-vibes-home-stsetivw-vs~184302765",
+    "date": "2026-02-08T09:54:41.398Z",
+    "imageUrl": "https://st.hzcdn.com/simgs/06815d7407166201_4-7739/pool.jpg",
+    "category": "Home"
+  },
+  {
+    "websiteName": "Time",
+    "title": "What Super Bowl Commercials Teach Us About Capitalism",
+    "url": "https://time.com/7372915/super-bowl-commercials-capitalism/",
+    "date": "2026-02-08T10:54:41.398Z",
+    "imageUrl": "https://api.time.com/wp-content/uploads/2026/02/Superbowl-LX-stadium.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Ars",
+    "title": "To reuse or not reuse—the eternal debate of New Glenn's second stage reignites",
+    "url": "https://arstechnica.com/space/2026/02/to-reuse-or-not-reuse-the-eternal-debate-of-new-glenns-second-stage-reignites/",
+    "date": "2026-02-06T04:54:41.398Z",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/new-glenn_gs2-hotfire-1152x648.webp",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "PCWorld",
+    "title": "Internet Archive unveils tool to save the web from dead links",
+    "url": "https://www.pcworld.com/article/3054897/internet-archive-launches-add-on-to-combat-broken-links.html",
+    "date": "2026-02-06T04:54:41.398Z",
+    "imageUrl": "https://www.pcworld.com/wp-content/uploads/2026/02/dator-tom-sida-pexels.jpg?quality=50&strip=all",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "The",
+    "title": "Superb Owl Sunday X",
+    "url": "https://www.theatlantic.com/photography/2026/02/superb-owl-sunday-x/685909/?utm_source=feed",
+    "date": "2026-02-08T14:54:41.398Z",
+    "category": "Culture"
+  },
+  {
+    "websiteName": "Android",
+    "title": "3 reasons you should try Home Up’s latest upgrades on your Samsung Galaxy",
+    "url": "https://www.androidauthority.com/3-new-home-up-85-3635525/",
+    "date": "2026-02-08T09:54:41.399Z",
+    "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/02/Samsung-Home-Up-menu-scaled-e1738664183626-500w-260h.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Zerohedge",
+    "title": "Musk: \"Time To Go Back To Moon At Scale\"",
+    "url": "https://www.zerohedge.com/ai/musk-time-go-back-moon-scale",
+    "date": "2026-02-08T15:54:41.399Z",
+    "imageUrl": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-02/2026-02-08_09-53-33.png?itok=TcxsBAuN",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Smithsonian",
+    "title": "What Is a Stoat? Learn Five Fun Facts About the Adorable Weasels Chosen as the Olympic Mascots",
+    "url": "https://www.smithsonianmag.com/smart-news/what-is-a-stoat-learn-five-fun-facts-about-the-adorable-weasels-chosen-as-the-olympic-mascots-180988156/",
+    "date": "2026-02-06T04:54:41.399Z",
+    "imageUrl": "https://th-thumbnailer.cdn-si-edu.com/i8_PJbqm3HEEyNKxY61P1YTyow0=/420x240/filters:focal(960x713:961x714)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d1/59/d159324f-9509-4806-85e3-6ea1f61300d5/ermine.jpg",
+    "category": "Science"
+  },
+  {
+    "websiteName": "Fortune",
+    "title": "Dow futures rise after index tops 50,000 for the first time while landslide election in Japan sends U.S. bond yields higher",
+    "url": "https://fortune.com/2026/02/08/stock-market-today-dow-futures-50000-japan-election-us-bond-yields/",
+    "date": "2026-02-08T23:54:41.399Z",
+    "imageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2259474683-e1770595779131.jpg?w=2048",
+    "category": "Business"
+  },
+  {
+    "websiteName": "ESPN",
+    "title": "Men's Bubble Watch: Iowa's inch to lock status, more results from a packed weekend",
+    "url": "https://www.espn.com/mens-college-basketball/story/_/id/47809690/bubble-watch-mens-ncaa-tournament-march-madness-bracket-predictions-2026",
+    "date": "2026-02-08T15:54:41.399Z",
+    "imageUrl": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0208%2Fr1612374_1296x729_16%2D9.jpg",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "South",
+    "title": "Malaysia’s stronger ringgit fails to deter Singapore shoppers",
+    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3342867/malaysias-stronger-ringgit-fails-deter-singapore-shoppers?utm_source=rss_feed",
+    "date": "2026-02-09T02:54:41.399Z",
+    "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/09/d301f4de-3a1f-45fb-b20e-9e9d2f0bbcd0_85d318e0.jpg?itok=onnPAXj4&v=1770606703",
+    "category": "World News"
+  },
+  {
+    "websiteName": "France24",
+    "title": "Links between Epstein and the Israeli government: What the files show",
+    "url": "https://www.france24.com/en/links-between-epstein-and-the-israeli-government-what-the-files-show",
+    "date": "2026-02-08T15:54:41.399Z",
+    "imageUrl": "https://s.france24.com/media/display/a2a13a02-050a-11f1-a199-005056bf30b7/w:1024/p:16x9/2026-02-02T143150Z-1160103103-RC25JIAMY1RX-RTRMADP-3-USA-TRUMP-EPSTEIN-FILES.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "What",
+    "title": "Best TV Deals for Super Bowl 2026: OLED, Mini LED & Budget Options",
+    "url": "https://www.whathifi.com/tv-home-cinema/televisions/best-tv-deals-for-super-bowl-2026-oled-mini-led-and-budget-options",
+    "date": "2026-02-06T04:54:41.399Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/fABjedDUNETcVmRByiHBSU-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Pocket-lint",
+    "title": "Is it better to shut down a PC instead of putting it to sleep? I found out",
+    "url": "https://www.pocket-lint.com/pc-sleep-instead-of-shutting-down/",
+    "date": "2026-02-09T00:54:41.399Z",
+    "imageUrl": "https://static0.pocketlintimages.com/wordpress/wp-content/uploads/wm/2025/12/microsoft-surface-laptop-3.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Inc.com",
+    "title": "Tony Robbins Says a New Bipartisan Bill Could Open  Investments Restricted to the Ultra-Rich to Everyday Americans",
+    "url": "https://www.inc.com/kevin-haynes/tony-robbins-says-a-new-bipartisan-bill-could-open-investments-restricted-to-the-ultra-rich-to-everyday-americans/91299394",
+    "date": "2026-02-08T17:54:41.399Z",
+    "imageUrl": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/02/tony-robbins-invest-act.jpg",
+    "category": "Business"
+  },
+  {
+    "websiteName": "PC",
+    "title": "'They have effectively ghosted us:' publisher of delisted art game Horses lambasts Epic Games Store after executive claims 'we love that studio'",
+    "url": "https://www.pcgamer.com/games/horror/they-have-effectively-ghosted-us-publisher-of-delisted-art-game-horses-lambasts-epic-games-store-after-executive-claims-we-love-that-studio/",
+    "date": "2026-02-09T01:54:41.399Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/FY9LvMzhTRdXZfhRND4DtK-1280-80.jpg",
+    "category": "Gaming"
+  },
+  {
+    "websiteName": "France24",
+    "title": "Iran sentences Nobel Peace Prize laureate Narges Mohammadi to six years in prison",
+    "url": "https://www.france24.com/en/asia-pacific/20260208-iran-sentences-nobel-peace-prize-laureate-narges-mohammadi-to-six-years-in-prison",
+    "date": "2026-02-08T18:54:41.399Z",
+    "imageUrl": "https://s.france24.com/media/display/dd5d463e-dc35-11f0-9898-005056a97e36/w:1024/p:16x9/narges-3.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "ZDNet",
+    "title": "Why the Samsung Galaxy S26 Ultra's biggest upgrade won't be its camera or processor for me",
+    "url": "https://www.zdnet.com/article/samsung-galaxy-s26-ultra-privacy-display-feature/",
+    "date": "2026-02-09T01:54:41.399Z",
+    "imageUrl": "https://www.zdnet.com/a/img/resize/0c5194b2397142ec91463890fa04ba6b156d59f0/2025/04/04/38aac0c2-a5ac-4e4a-94c9-96bf7e8908d3/dsc05222.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "category": "Technology"
+  },
+  {
     "websiteName": "The Independent",
     "title": "Savannah Guthrie issues desperate plea for mother’s return, saying ‘We will pay’",
     "url": "https://www.the-independent.com/news/world/americas/crime/savannah-guthrie-missing-mom-nancy-derrick-callella-latest-updates-b2915107.html",
