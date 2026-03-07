@@ -1,6 +1,198 @@
 [
   {
     "websiteName": "The",
+    "title": "Hungary seizes millions of euros from two Ukrainian vehicles amid laundering probe",
+    "url": "https://www.independent.co.uk/news/world/europe/hungary-ukraine-russia-money-laundering-gold-seized-b2933906.html",
+    "date": "2026-03-07T11:43:43.967Z",
+    "imageUrl": "https://static.independent.co.uk/2026/03/07/11/52/HUNGARY-UKRAINE-CONFLICT-POLITICS-FINANCE-CRIME-k3eqog5f.jpeg?width=1200&auto=webp&trim=0%2C63%2C0%2C62",
+    "category": "World News"
+  },
+  {
+    "websiteName": "BBC",
+    "title": "The legacy of Holly and Jessica's murders: Soham 'won't waste its breath' on Huntley",
+    "url": "https://www.bbc.com/news/articles/c9wnn8nn5p8o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-03-07T11:43:43.968Z",
+    "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/724b/live/acbdb6c0-1a0c-11f1-801d-ed3cff6bf876.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "France24",
+    "title": "White House releases video montages gamifying Iran war on social media",
+    "url": "https://www.france24.com/en/americas/20260307-white-house-criticised-gamifying-iran-war-social-media",
+    "date": "2026-03-07T10:43:43.969Z",
+    "imageUrl": "https://s.france24.com/media/display/157ce100-1a11-11f1-9cb1-005056bf30b7/w:1024/p:16x9/AP26061747467828.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "South",
+    "title": "Nepal election: rapper-turned-politician Balen Shah beats former prime minister",
+    "url": "https://www.scmp.com/week-asia/politics/article/3345808/nepal-election-rapper-turned-politician-balen-shah-poised-become-next-prime-minister?utm_source=rss_feed",
+    "date": "2026-03-07T08:43:43.969Z",
+    "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/07/8e2bb0b8-9761-4800-9e8c-51731660ed51_4c8eee3e.jpg?itok=robpbCoO&v=1772888052",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Daily",
+    "title": "The Brits trying to escape besieged Dubai: Holidaymakers tell of widespread panic engulfing UAE airports - with their only option to make eight hour journey to Oman",
+    "url": "https://www.dailymail.co.uk/news/article-15620883/Brits-escape-Dubai-Airport-flights-Iran-war.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+    "date": "2026-03-07T11:43:43.969Z",
+    "imageUrl": "https://i.dailymail.co.uk/1s/2026/03/06/13/106925877-0-image-a-15_1772803266533.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "South",
+    "title": "At least 7 killed in Ukraine as Russian missile hits Kharkiv apartment building",
+    "url": "https://www.scmp.com/news/world/russia-central-asia/article/3345809/least-7-killed-ukraine-russian-missile-hits-kharkiv-apartment-building?utm_source=rss_feed",
+    "date": "2026-03-07T08:43:43.969Z",
+    "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/07/a69af26f-aea2-4d43-8292-22923cf037b4_0704ec9a.jpg?itok=xrKjI9h1&v=1772875192",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Al",
+    "title": "Overnight US-Israeli strikes in Tehran target airport",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/overnight-us-israeli-strikes-in-tehran-target-airport?traffic_source=rss",
+    "date": "2026-03-07T07:43:43.969Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/03/airport-attack-horizontal-thumb-1772870949.jpg?resize=1920%2C1080&quality=80",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Al",
+    "title": "US downplays reports Russia gave Iran intel to help Tehran strike US assets",
+    "url": "https://www.aljazeera.com/news/2026/3/7/us-downplays-reports-russia-gave-iran-intel-to-help-tehran-strike-us-assets?traffic_source=rss",
+    "date": "2026-03-07T08:43:43.969Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/03/afp_69abe343b729-1772872515.jpg?resize=1920%2C1440",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "France24",
+    "title": "Israel raids deep into Lebanon: Israeli troops engage Hezbollah after helicopter raid",
+    "url": "https://www.france24.com/en/israel-raids-deep-into-lebanon-israeli-troops-engage-hezbollah-after-helicopter-raid",
+    "date": "2026-03-07T09:43:43.969Z",
+    "imageUrl": "https://s.france24.com/media/display/0267f052-1a0a-11f1-bc7f-005056a97e36/w:1024/p:16x9/EN-20260307-100936-101155-CS.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "France24",
+    "title": "Millions of workers facing uncertainty as tensions escalate in the Middle East",
+    "url": "https://www.france24.com/en/millions-of-workers-facing-uncertainty-as-tensions-escalate-in-the-middle-east",
+    "date": "2026-03-07T09:43:43.969Z",
+    "imageUrl": "https://s.france24.com/media/display/eaa83236-1a0b-11f1-8960-005056a90284/w:1024/p:16x9/EN-20260307-102605-102755-CS.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "The",
+    "title": "Seven days on, seven questions about the US-Israeli war on Iran",
+    "url": "https://www.theguardian.com/world/2026/mar/07/seven-questions-about-iran-war",
+    "date": "2026-03-07T06:43:43.969Z",
+    "imageUrl": "https://i.guim.co.uk/img/media/1f385ef2fff1fc53b778c6b6c02bb4da4a4e4534/686_0_6068_4855/master/6068.jpg?width=700&quality=85&auto=format&fit=max&s=8f1affff6cc70348bb1ec2d0ccc79a7e",
+    "category": "World News"
+  },
+  {
+    "websiteName": "The",
+    "title": "‘It means missile defence on data centres’: drone strikes raises doubts over Gulf as AI superpower",
+    "url": "https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower",
+    "date": "2026-03-07T10:43:43.970Z",
+    "imageUrl": "https://i.guim.co.uk/img/media/4cbf834b05023bc15909dbbbc1f4f60711422f20/951_0_2524_2020/master/2524.jpg?width=700&quality=85&auto=format&fit=max&s=038ec6c3d259eadcbe6e0341378d7296",
+    "category": "World News"
+  },
+  {
+    "websiteName": "France24",
+    "title": "Air raid sirens sound, blasts heard in Jerusalem",
+    "url": "https://www.france24.com/en/air-raid-sirens-sound-blasts-heard-in-jerusalem",
+    "date": "2026-03-07T10:43:43.970Z",
+    "imageUrl": "https://s.france24.com/media/display/d3937316-1a11-11f1-bdb8-005056a90284/w:1024/p:16x9/EN-20260307-111026-111532-CS.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "South",
+    "title": "At least 23 die in Kenyan capital flash floods",
+    "url": "https://www.scmp.com/news/world/africa/article/3345823/8-dead-kenya-floods-motorists-stranded-flights-disrupted?utm_source=rss_feed",
+    "date": "2026-03-07T11:43:43.970Z",
+    "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/07/4d4637c9-5c99-44bb-b875-85ce689a88be_74810a59.jpg?itok=4zR3GREW&v=1772885052",
+    "category": "World News"
+  },
+  {
+    "websiteName": "The",
+    "title": "Will war in the Middle East ruin Mohammed Bin Salman’s plan to make Saudi the new Dubai?",
+    "url": "https://www.independent.co.uk/news/world/middle-east/saudi-arabia-dubai-iran-us-war-mohammad-bin-salem-b2931097.html",
+    "date": "2026-03-07T11:43:43.970Z",
+    "imageUrl": "https://static.independent.co.uk/2026/02/20/08/Saudi_Arabia_US_Nuclear_10154.jpg?width=1200&auto=webp&crop=3%3A2",
+    "category": "World News"
+  },
+  {
+    "websiteName": "BBC",
+    "title": "From a £1bn dream to a brutal collapse: How Brewdog hit the rocks",
+    "url": "https://www.bbc.com/news/articles/cn4ggqgyk51o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-03-07T07:43:43.970Z",
+    "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0764/live/7b8193f0-0c07-11f1-b7e1-afb6d0884c18.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "France24",
+    "title": "Death toll mounts in Middle East war: Over 1,400 killed across Iran, Lebanon and Israel",
+    "url": "https://www.france24.com/en/death-toll-mounts-in-middle-east-war-over-1-400-killed-across-iran-lebanon-and-israel",
+    "date": "2026-03-07T09:43:43.970Z",
+    "imageUrl": "https://s.france24.com/media/display/de1b53b6-1a08-11f1-b97e-005056a97e36/w:1024/p:16x9/EN-20260307-100216-100420-CS.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "BBC",
+    "title": "'Perfect storm' for Russell but Norris unhappy with 'worst cars'",
+    "url": "https://www.bbc.com/sport/formula1/articles/cm2r928415jo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-03-07T09:43:43.970Z",
+    "imageUrl": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/807d/live/642a9990-1a08-11f1-a429-a767b6f6663d.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "South",
+    "title": "Health authorities probe possible food poisoning cluster at police college",
+    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3345824/health-authorities-probe-possible-food-poisoning-cluster-police-college?utm_source=rss_feed",
+    "date": "2026-03-07T11:43:43.970Z",
+    "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/07/3ff2d625-2170-46fe-a6ef-1655de663669_c66ffe9f.jpg?itok=GRvds2F6&v=1772885520",
+    "category": "World News"
+  },
+  {
+    "websiteName": "FT",
+    "title": "Iran warns it will hit US bases across region hours after president’s apology",
+    "url": "https://www.ft.com/content/7c6ee5e8-c379-40c0-9d9f-d1ecc7b69261",
+    "date": "2026-03-07T11:43:43.970Z",
+    "imageUrl": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F608065f1-a8db-4b38-a420-5029f1d853b0.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "category": "Business"
+  },
+  {
+    "websiteName": "CBC",
+    "title": "Canada-U.S. trade talks have restarted. Here's what's at stake",
+    "url": "https://www.cbc.ca/news/politics/trump-tariffs-trade-canada-us-cusma-usmca-leblanc-greer-9.7116887?cmp=rss",
+    "date": "2026-03-05T13:43:43.970Z",
+    "imageUrl": "https://i.cbc.ca/ais/5615263c-4ae6-487f-82d4-347b4d2efc05,1772759519749/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C640%2C7910%2C4449%29%3BResize%3D%28620%29",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Al",
+    "title": "Kurdish fighters say Iran ground operation ‘highly likely’",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/kurdish-fighters-say-iran-ground-operation-highly?traffic_source=rss",
+    "date": "2026-03-07T11:43:43.970Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/03/horiz-thumb-1772885715.jpg?resize=1920%2C1080&quality=80",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "France24",
+    "title": "Guinea orders dissolution of 40 political parties, including three main opposition groups",
+    "url": "https://www.france24.com/en/africa/20260307-guinea-orders-dissolution-40-political-parties-including-three-main-opposition-goups",
+    "date": "2026-03-07T11:43:43.970Z",
+    "imageUrl": "https://s.france24.com/media/display/460e279e-e518-11f0-b3f1-005056bf30b7/w:1024/p:16x9/AP25362497163705.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Al",
+    "title": "Indonesians protest Iran war, pressure president over US ties",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/indonesians-protest-iran-war-pressure-president-over-us-ties?traffic_source=rss",
+    "date": "2026-03-07T11:43:43.970Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/03/INDOPROTEST-BLO-13-06.mxf_.00_01_19_05.Still001-1772885939.jpg?resize=1920%2C1080&quality=80",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "The",
     "title": "Russia Gets Silent Treatment in Paralympics Return",
     "url": "https://www.nytimes.com/2026/03/06/world/europe/2026-paralympics-russia-doping-ukraine-boycott.html",
     "date": "2026-03-07T02:50:03.368Z",
