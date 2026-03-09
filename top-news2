@@ -1,5 +1,397 @@
 [
   {
+    "websiteName": "The nytimes",
+    "title": "Mojtaba Khamenei, Son of Iran’s Slain Supreme Leader, Is a Mysterious Figure",
+    "url": "https://www.nytimes.com/2026/03/08/world/middleeast/mojtaba-khamenei-iran-leader.html",
+    "date": "2026-03-09T00:12:30.639Z",
+    "imageUrl": "https://static01.nyt.com/images/2026/03/03/multimedia/03int-Iran-successor-01-jtvh/03int-Iran-successor-01-jtvh-mediumSquareAt3X.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Gamerant",
+    "title": "The 10 Greatest Platformer Masterpieces Of All Time",
+    "url": "https://gamerant.com/best-platformer-games-masterpieces-of-all-time-ranked/",
+    "date": "2026-03-09T00:12:30.640Z",
+    "imageUrl": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/03/rivet-in-ratchet-clank-a-rift-apart.jpg",
+    "category": "Gaming"
+  },
+  {
+    "websiteName": "CNBC",
+    "title": "Trump vows legislative blockade until SAVE America voter-ID bill is passed",
+    "url": "https://www.cnbc.com/2026/03/08/trump-save-america-act-voter-id.html",
+    "date": "2026-03-08T19:12:30.641Z",
+    "imageUrl": "https://image.cnbcfm.com/api/v1/image/108275127-17729107222026-03-07t012950z_261061855_rc2azjamiemf_rtrmadp_0_usa-trump-law-firms-pix.jpeg?v=1772910741&w=1920&h=1080",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Cointelegraph",
+    "title": "Prediction market Kalshi sued over Khamenei trade carveout",
+    "url": "https://cointelegraph.com/news/kalshi-sued-khamenei-trade-carveout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "2026-03-07T04:12:30.641Z",
+    "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzZlOTYtODVjOC03ODg0LTk2NTQtZGMwMTcxNDY4NTM0LmpwZw==.jpg",
+    "category": "Crypto"
+  },
+  {
+    "websiteName": "The",
+    "title": "Iran war drives oil prices above $100 a barrel for first time since 2022",
+    "url": "https://www.theguardian.com/business/2026/mar/09/iran-war-drives-oil-price-above-100-a-barrel-for-first-time-since-2022",
+    "date": "2026-03-09T02:12:30.642Z",
+    "imageUrl": "https://i.guim.co.uk/img/media/c8a0ab6e8c72e5cf2b96772634eae8350d72cac6/960_0_4800_3840/master/4800.jpg?width=700&quality=85&auto=format&fit=max&s=66d7a9fdbd8069b05752df839c31dfff",
+    "category": "World News"
+  },
+  {
+    "websiteName": "France24",
+    "title": "Attacks spark huge fires in Tehran",
+    "url": "https://www.france24.com/en/attacks-spark-huge-fires-in-tehran",
+    "date": "2026-03-08T15:12:30.642Z",
+    "imageUrl": "https://s.france24.com/media/display/26c7b340-1b06-11f1-b333-005056bfb2b6/w:1024/p:16x9/EN-20260308-160958-161106-CS.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "FOX",
+    "title": "Valerie Jarrett reveals that President Trump isn't invited to Obama Presidential Center opening ceremony",
+    "url": "https://www.foxnews.com/media/valerie-jarrett-reveals-president-trump-isnt-invited-obama-presidential-center-opening-ceremony",
+    "date": "2026-03-08T23:12:30.642Z",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/valerie-jarrett-obama-center-1.jpg?ve=1&tl=1",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "South",
+    "title": "Beijing’s message is clear: Hong Kong must shape up and speed up",
+    "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3345732/beijings-message-clear-hong-kong-must-shape-and-speed?utm_source=rss_feed",
+    "date": "2026-03-09T01:12:30.642Z",
+    "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/08/5b2d0eb0-cf64-4ffc-9565-9469b4f79501_a3c11bd8.jpg?itok=IagoSLU0&v=1772960182",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Wired",
+    "title": "How to Run Ethernet Cables to Your Router and Keep Them Tidy",
+    "url": "https://www.wired.com/story/how-to-run-ethernet-cables-around-your-home/",
+    "date": "2026-03-08T11:12:30.642Z",
+    "imageUrl": "https://media.wired.com/photos/69ab8df77066ad25778082bb/master/pass/How%20to%20Run%20Ethernet%20Cables%20to%20Your%20Router%20and%20Keep%20Them%20Tidy.png",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "FT",
+    "title": "China consumer prices buoyed by oil surge and lunar new year",
+    "url": "https://www.ft.com/content/ea8d8fab-ec23-4fd7-84b6-0f2e15609b45",
+    "date": "2026-03-09T03:13:30.642Z",
+    "imageUrl": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5b6085c2-9181-482d-bf28-f5fd7e525d85.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Seeking",
+    "title": "Sociedad Química y Minera de Chile: Seeking Redemption After Fumbling My Lithium Trade Last Year",
+    "url": "https://seekingalpha.com/article/4879905-sqm-seeking-redemption-after-fumbling-my-lithium-trade-last-year?source=feed_all_articles",
+    "date": "2026-03-09T01:12:30.643Z",
+    "imageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2203824296/image_2203824296.jpg?io=getty-c-w1536",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Creative",
+    "title": "How KPop Demon Hunters' animation process was transformed by Unreal Engine 5",
+    "url": "https://www.creativebloq.com/art/animation/how-kpop-demon-hunters-animation-process-was-changed-by-unreal-engine-5",
+    "date": "2026-03-08T23:12:30.643Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/n9CbCeKKhRdTfD2cbKj3Xo-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Billboard",
+    "title": "Gorillaz Revive ‘Clint Eastwood’ and Perform New Track ‘The Moon Cave’ During ‘SNL’ Debut: Watch",
+    "url": "https://www.billboard.com/music/music-news/gorillaz-snl-clint-eastwood-the-moon-cave-mountain-album-1236195037/",
+    "date": "2026-03-08T15:12:30.643Z",
+    "imageUrl": "https://www.billboard.com/wp-content/uploads/2026/03/gorillaz-snl-2026-billboard-1800.jpg?w=1024",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Variety",
+    "title": "Country Joe McDonald, Woodstock Star Who Found Counterculture Fame With ‘I-Feel-Like-I’m-Fixin’-to-Die Rag,’ Dies at 84",
+    "url": "https://variety.com/2026/music/obituaries-people-news/country-joe-mcdonald-dead-fishwoodstock-singer-1236681876/",
+    "date": "2026-03-08T17:12:30.643Z",
+    "imageUrl": "https://variety.com/wp-content/uploads/2026/03/GettyImages-74220796-e1772989566456.jpg",
+    "category": "Entertainment"
+  },
+  {
+    "websiteName": "Good",
+    "title": "If Your Bathroom Has This Feature, It May Be Time for an Update",
+    "url": "https://www.goodhousekeeping.com/home/decorating-ideas/a70643115/bathroom-feature-time-to-update/",
+    "date": "2026-03-07T04:12:30.643Z",
+    "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-1322744009-69ab210d66c1c.jpg",
+    "category": "Home"
+  },
+  {
+    "websiteName": "BBC",
+    "title": "Oil prices surge above $110 and shares slide over Iran war",
+    "url": "https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-03-09T02:12:30.643Z",
+    "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/6b25/live/6d2ed840-1b56-11f1-b279-7d123f3cf8aa.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "The",
+    "title": "3 Things to Know About Starlink Before the Potential 2026 SpaceX IPO",
+    "url": "https://www.fool.com/investing/2026/03/08/3-things-to-know-about-starlink-before-the-potenti/",
+    "date": "2026-03-09T00:12:30.643Z",
+    "imageUrl": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F856110%2Fgettyimages-1037353112-copy.jpg&w=700",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Space.com",
+    "title": "Sigweis night vision binoculars review",
+    "url": "https://www.space.com/stargazing/skywatching-kit/sigweis-night-vision-binoculars-review",
+    "date": "2026-03-07T04:12:30.643Z",
+    "imageUrl": "https://pcdn.brave.com/brave-today/cache/1fd9dd947b0d44e14ff1d29b1eddbe3cce53a8e0ca18f9f7e014a12850992db1.jpg.pad",
+    "category": "Science"
+  },
+  {
+    "websiteName": "RawStory",
+    "title": "Meghan McCain begs Trump to cut ties with top surrogate: 'He's scaring people'",
+    "url": "https://www.rawstory.com/meghan-mccain-2675850873/",
+    "date": "2026-03-08T18:12:30.643Z",
+    "imageUrl": "https://www.rawstory.com/media-library/meghan-mccain-attends-the-2023-time100-gala-at-jazz-at-lincoln-center-on-april-26-2023-in-new-york-city-photo-by-arturo-holm.jpg?id=52978927&width=980",
+    "category": "Other"
+  },
+  {
+    "websiteName": "TechCrunch",
+    "title": "TechCrunch Mobility: Rivian’s R2 gambit",
+    "url": "https://techcrunch.com/2026/03/08/techcrunch-mobility-rivians-r2-gambit/",
+    "date": "2026-03-08T15:12:30.643Z",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/Rivian-R2-Getty.jpg?resize=1200,801",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Zerohedge",
+    "title": "Wisconsin Man Who Killed Parents To Fund 'Satanic' Trump Assassination Attempt Sentenced",
+    "url": "https://www.zerohedge.com/political/wisconsin-man-who-killed-parents-fund-satanic-trump-assassination-attempt-sentenced",
+    "date": "2026-03-08T20:12:30.643Z",
+    "imageUrl": "https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/HWWCql1f_80.jpg?itok=r3eBgAkj",
+    "category": "Business"
+  },
+  {
+    "websiteName": "CBSSports",
+    "title": "Michigan vs. Michigan State prediction, pick, odds, spread: Spartans, Wolverines meet in top 10 showdown",
+    "url": "https://www.cbssports.com/college-basketball/news/michigan-state-michigan-prediction-pick-odds-spread-tv-where-to-watch-live/",
+    "date": "2026-03-08T19:12:30.643Z",
+    "imageUrl": "https://pcdn.brave.com/brave-today/cache/272df80afd28f584ee40eda54a4e79292a04c1c80ed8da1b9ae73203aef11c84.jpg.pad",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "CBS",
+    "title": "Fears grow for American prisoners held in Iran",
+    "url": "https://www.cbsnews.com/video/fears-grow-for-american-prisoners-held-in-iran/",
+    "date": "2026-03-09T01:12:30.643Z",
+    "imageUrl": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/03/09/56306482-dfc3-4908-b09c-82790d6b7575/thumbnail/1200x630/91f4dbd068dfeda5eaed0b9aa36d0aa7/cbsn-fusion-fears-grow-for-american-prisoners-held-in-iran-thumbnail.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Inverse",
+    "title": "60 Kooky Things That Make Your Home Way More Amazing",
+    "url": "https://www.inverse.com/shopping/kooky-things-that-make-your-home-way-more-amazing",
+    "date": "2026-03-07T04:12:30.644Z",
+    "imageUrl": "https://imgix.bustle.com/uploads/image/2026/3/5/c91442c7/19.png?w=1200&fit=max",
+    "category": "Science"
+  },
+  {
+    "websiteName": "Live",
+    "title": "Why aren't mammals as colorful as reptiles, birds or fish?",
+    "url": "https://www.livescience.com/animals/why-arent-mammals-as-colorful-as-reptiles-birds-or-fish",
+    "date": "2026-03-08T08:12:30.644Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/diCz3gnhzWKE9XJeo7TTwf-1280-80.jpg",
+    "category": "Science"
+  },
+  {
+    "websiteName": "The",
+    "title": "What is Rove Miles? Everything you need to know about this new loyalty program",
+    "url": "https://thepointsguy.com/news/rove-miles-loyalty-program/",
+    "date": "2026-03-05T04:12:30.644Z",
+    "imageUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2023/06/two-friends-chat-on-airplane_Catherine-Falls-Commercial.jpg",
+    "category": "Travel"
+  },
+  {
+    "websiteName": "CNBC",
+    "title": "Oil surges above $110 a barrel; Trump says 'small price to pay' for defeating Iran",
+    "url": "https://www.cnbc.com/2026/03/08/crude-oil-prices-today-iran-war.html",
+    "date": "2026-03-09T01:12:30.644Z",
+    "imageUrl": "https://image.cnbcfm.com/api/v1/image/108272387-17724906672026-03-02t222955z_1440263201_rc2mwjal37zz_rtrmadp_0_iran-crisis-iraq.jpeg?v=1772490716&w=1920&h=1080",
+    "category": "Business"
+  },
+  {
+    "websiteName": "CitizenFreePress",
+    "title": "Iran launches new wave of missiles.",
+    "url": "https://citizenfreepress.com/breaking/iran-launches-new-wave-of-missiles/",
+    "date": "2026-03-09T01:12:30.644Z",
+    "imageUrl": "https://citizenfreepress.com/wp-content/uploads/2021/07/cropped-Citizen-4.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "CBS",
+    "title": "3/8: Face the Nation",
+    "url": "https://www.cbsnews.com/video/030826-face-the-nation-1/",
+    "date": "2026-03-09T02:12:30.644Z",
+    "imageUrl": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/03/08/21230a34-9dfa-487f-88c5-ea3e0bf632b3/thumbnail/1200x630/347ae3481c90ca33c0011b2a9652306c/gettyimages-2265286581-4428085-640x360.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "CBSSports",
+    "title": "Tomorrow's Top 25 Today: Florida jumps to No. 4; Louisville, Wisconsin enters projected AP Top 25",
+    "url": "https://www.cbssports.com/college-basketball/news/ap-top-25-projection-college-basketball-rankings-prediction-florida-wisconsin-louisville/",
+    "date": "2026-03-08T23:12:30.644Z",
+    "imageUrl": "https://pcdn.brave.com/brave-today/cache/cdd206976853ac7d3e25d7081a5fe45faf005051d3687212fdbbfaefad33dda5.jpg.pad",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "The",
+    "title": "TSA lines hit up to 3 hours at major hubs as partial government shutdown drags on",
+    "url": "https://thepointsguy.com/news/tsa-checkpoint-delays-partial-government-shutdown/",
+    "date": "2026-03-08T23:12:30.644Z",
+    "imageUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/02/20260205_TSA-No-ID_CHenderson-4.jpg",
+    "category": "Travel"
+  },
+  {
+    "websiteName": "CBR",
+    "title": "Criminal Minds' 6 Most Evil Unsubs, Ranked",
+    "url": "https://www.cbr.com/criminal-minds-dark-evil-villains/",
+    "date": "2026-03-09T03:39:30.644Z",
+    "imageUrl": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/03/criminal-minds-season-1-cast-photo.jpg",
+    "category": "Entertainment"
+  },
+  {
+    "websiteName": "BBC",
+    "title": "The Papers: 'Ayatollah's son chosen' and 'Iran threatens oil facilities'",
+    "url": "https://www.bbc.com/news/articles/cwy62z5p93zo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-03-08T23:12:30.644Z",
+    "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9a40/live/3ea90140-1b46-11f1-801d-ed3cff6bf876.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "FOX",
+    "title": "Trump admin turns Venezuela into major US oil supplier as global shipping crisis eases",
+    "url": "https://www.foxnews.com/media/trump-admin-turns-venezuela-major-us-oil-supplier-global-shipping-crisis-eases",
+    "date": "2026-03-08T20:12:30.644Z",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/venezuelan-oil.jpg?ve=1&tl=1",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "The",
+    "title": "Key Details of 13-Year-Old Trump Accuser’s Accounts Are Verified",
+    "url": "https://www.thedailybeast.com/key-details-of-13-year-old-trump-accusers-accounts-are-verified/",
+    "date": "2026-03-09T03:37:30.644Z",
+    "imageUrl": "https://thedailybeast-thedailybeast-prod.web.arc-cdn.net/resizer/v2/23DAV4SXGVC6RCKMTRSWU7V4DY.jpg?auth=fdfabd1621941ea17a9f0235216f036ab753e02359acc0e1b03ba3f54afb1979&smart=true&width=2880&height=1620",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Creative",
+    "title": "'Women don't need another inspirational slogan': the problem with International Women’s Day branding",
+    "url": "https://www.creativebloq.com/design/advertising/women-dont-need-another-inspirational-slogan-the-problem-with-international-womens-day-branding",
+    "date": "2026-03-08T12:12:30.644Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/TaLLTbEQAWnfKikmKLn7P8-1280-80.jpg",
+    "category": "Culture"
+  },
+  {
+    "websiteName": "Cointelegraph",
+    "title": "Bitcoin drops 2% as oil prices surge on energy shortage fears",
+    "url": "https://cointelegraph.com/news/bitcoin-falls-oil-rises-middle-eastern-conflict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "2026-03-08T23:12:30.644Z",
+    "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA4ZTUtNTk2Zi03NWE1LWJjOTMtYWExNjU1MTJiNTJm.jpg",
+    "category": "Crypto"
+  },
+  {
+    "websiteName": "CBSSports",
+    "title": "2026 NFL free agency tracker: Updates on top 100 free agents, including Trey Hendrickson",
+    "url": "https://www.cbssports.com/nfl/news/2026-nfl-free-agency-tracker-updates/",
+    "date": "2026-03-08T23:12:30.644Z",
+    "imageUrl": "https://sportshub.cbsistatic.com/i/2026/02/19/ba89b444-cc37-4837-8191-a969035ca794/tyler-linderbaum.jpg",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "CBS",
+    "title": "3/8: CBS Weekend News",
+    "url": "https://www.cbsnews.com/video/030826-cbs-weekend-news-1/",
+    "date": "2026-03-09T02:12:30.644Z",
+    "imageUrl": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/03/09/dfd626ab-5ff6-4378-9df7-bd1c08789492/thumbnail/1200x630/e885936b67ca73f80a1ab6b529a60baa/iran-4428556-640x360.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "PC",
+    "title": "A decade before Stalker, this obscure Ukrainian Quake clone was quietly breaking new ground for first-person shooters",
+    "url": "https://www.pcgamer.com/games/fps/a-decade-before-stalker-this-obscure-ukrainian-quake-clone-was-quietly-breaking-new-ground-for-first-person-shooters/",
+    "date": "2026-03-07T04:12:30.644Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/4ZDNXTf3dYqBvtNVW4fx9m-1280-80.jpg",
+    "category": "Gaming"
+  },
+  {
+    "websiteName": "CBC",
+    "title": "Carney calls byelections in Quebec riding of Terrebonne, 2 Toronto ridings",
+    "url": "https://www.cbc.ca/news/politics/carney-byelection-terrebonne-scarborough-southwest-university-rosedale-ndp-conservatives-9.7119497?cmp=rss",
+    "date": "2026-03-08T13:12:30.644Z",
+    "imageUrl": "https://i.cbc.ca/ais/9424a1f7-1ad3-4d80-8579-73d3692da826,1772975392954/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C63%2C8494%2C4777%29%3BResize%3D%28620%29",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "The",
+    "title": "Why Teradyne Stock Soared Last Month",
+    "url": "https://www.fool.com/investing/2026/03/08/why-teradyne-stock-soared-last-month/",
+    "date": "2026-03-08T23:12:30.644Z",
+    "imageUrl": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F859351%2Fperson-in-a-white-lab-coat-working-with-a-circuit-board.jpg&w=700",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Hollywood",
+    "title": "‘Yellowstone’ Skeletons Haunt Kayce Dutton in Second Episode of ‘Marshals’",
+    "url": "https://www.hollywoodreporter.com/tv/tv-features/marshals-yellowstone-train-station-zone-of-death-1236521500/",
+    "date": "2026-03-09T00:12:30.644Z",
+    "imageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/03/3098782_05311b.jpg?w=1440&h=810&crop=1",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Tom's",
+    "title": "Classic tiny LEGO computer brick design from 1979 made into full-scale working computer — Mac Mini implanted into this 10:1 scale inflated reimagining",
+    "url": "https://www.tomshardware.com/desktops/pc-building/classic-tiny-lego-computer-brick-design-from-1979-made-into-full-scale-working-computer-mac-mini-implanted-into-this-10-1-scale-inflated-reimagining",
+    "date": "2026-03-08T16:12:30.644Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/TLtDQpE2TSLL5qbFnqKnjf-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Reader's",
+    "title": "TSA PreCheck and Global Entry Are a Mess Right Now—Here’s What’s Going on and What You Should Do Before Your Next Flight",
+    "url": "https://www.rd.com/article/tsa-precheck-global-entry-problems/",
+    "date": "2026-03-06T04:12:30.644Z",
+    "imageUrl": "https://www.rd.com/wp-content/uploads/2026/03/Whats-Going-on-With-TSA-PreCheck-and-Global-Entry_GettyImages-2190861792_FT.jpg?fit=700,1024",
+    "category": "Health"
+  },
+  {
+    "websiteName": "ScienceDaily",
+    "title": "Engineers make magnets behave like graphene",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260307213230.htm",
+    "date": "2026-03-09T00:12:30.644Z",
+    "imageUrl": "https://www.sciencedaily.com/images/1920/spin-waves-on-thin-film-with-holes.webp",
+    "category": "Science"
+  },
+  {
+    "websiteName": "TechCrunch",
+    "title": "Palmer Luckey’s retro gaming startup ModRetro reportedly seeks funding at $1B valuation",
+    "url": "https://techcrunch.com/2026/03/08/palmer-luckeys-retro-gaming-startup-modretro-reportedly-seeks-funding-at-1b-valuation/",
+    "date": "2026-03-08T21:12:30.644Z",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2152504211-e.jpg?resize=1200,770",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "BMJ",
+    "title": "Tetris and PTSD symptoms: a medical perspective on benefits, limits, and escalation",
+    "url": "https://www.bmj.com/content/392/bmj.s387/rr-0",
+    "date": "2026-03-07T04:12:30.645Z",
+    "imageUrl": "chrome-extension://bmcgcefhjdglnomoppbfmnhooahhgpma/&target_size=508x269",
+    "category": "Health"
+  },
+  {
+    "websiteName": "Dailywire",
+    "title": "NYPD Search For Suspect Who Pushed Two Men Onto Subway Tracks",
+    "url": "https://www.dailywire.com/news/nypd-search-for-suspect-who-pushed-two-men-onto-subway-tracks",
+    "date": "2026-03-08T19:12:30.645Z",
+    "imageUrl": "https://dw-wp-production.imgix.net/2024/12/GettyImages-2190492401.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+    "category": "Other"
+  },
+  {
     "websiteName": "The Guardian",
     "title": "Middle East crisis live: Trump says Iran being ‘decimated’ as Gulf states hit with wave of strikes",
     "url": "https://www.theguardian.com/world/live/2026/mar/08/middle-east-crisis-live-china-warns-world-cannot-return-to-law-of-the-jungle-trump-says-iran-being-decimated",
