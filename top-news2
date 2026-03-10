@@ -1,5 +1,588 @@
 [
   {
+    "websiteName": "The Guardian",
+    "title": "Middle East crisis live: oil prices fall back sharply as Trump claims Iran war will be over ‘very soon’",
+    "url": "https://www.theguardian.com/world/live/2026/mar/09/iran-war-live-updates-new-supreme-leader-mojtaba-khamenei-oil-prices-soar",
+    "date": "2026-03-10T01:46:16.371Z",
+    "imageUrl": "https://i.guim.co.uk/img/media/0ca5e424b80ef23cfcac9c3ddf4d88efc0bdbfd5/441_0_2966_2372/master/2966.jpg?width=700&quality=85&auto=format&fit=max&s=b44d67974fa8e6fd0102bc0c48d70423",
+    "category": "World News"
+  },
+  {
+    "websiteName": "CNET",
+    "title": "Here's How to Track the Artemis II Mission in Real Time With NASA's New Tool",
+    "url": "https://www.cnet.com/science/space/mission-control-track-the-artemis-ii-mission-in-real-time-with-nasas-new-tool/",
+    "date": "2026-03-09T23:33:16.373Z",
+    "imageUrl": "https://www.cnet.com/a/img/resize/5d2c3f7e4d1b67dcd00e1a83251a6b9ef897ce6e/hub/2026/03/09/57ea8991-93da-45ba-b4cd-9eb564687414/artemis-ii-tool.jpg?auto=webp&fit=crop&height=614&width=1092",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "MarketWatch",
+    "title": "‘I find this very worrying’: A friend lost her home. Why are foreclosures in America on the rise?",
+    "url": "https://www.marketwatch.com/story/i-find-this-very-worrying-a-friends-home-fell-into-foreclosure-what-on-earth-is-going-on-6ca57472?mod=mw_rss_topstories",
+    "date": "2026-03-09T23:33:16.373Z",
+    "imageUrl": "https://images.mktw.net/im-56999396",
+    "category": "Business"
+  },
+  {
+    "websiteName": "NPR",
+    "title": "Tennessee GOP Rep says Muslims 'don't belong in American society'",
+    "url": "https://www.npr.org/2026/03/09/g-s1-113033/tennessee-gop-rep-says-muslims-dont-belong-in-american-society",
+    "date": "2026-03-09T20:33:16.373Z",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Cointelegraph",
+    "title": "Bitcoin price retags $69K as G7 oil plan hangs in the balance",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-retags-69k-g7-oil-plan-hangs-in-balance",
+    "date": "2026-03-09T15:33:16.373Z",
+    "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2QzNDctZmY1My03ODQzLWFkZDQtZWMzZWVlZDE4Nzg3LmpwZw==.jpg",
+    "category": "Crypto"
+  },
+  {
+    "websiteName": "Ars",
+    "title": "US blindsides states with surprise settlement in Live Nation/Ticketmaster trial",
+    "url": "https://arstechnica.com/tech-policy/2026/03/us-blindsides-states-with-surprise-settlement-in-live-nation-ticketmaster-trial/",
+    "date": "2026-03-09T19:33:16.373Z",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/ticketmaster-1152x648-1773084388.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Game",
+    "title": "Hardest Resident Evil Bosses, Ranked",
+    "url": "https://gamerant.com/hardest-resident-evil-bosses-ranked/",
+    "date": "2026-03-09T23:33:16.374Z",
+    "imageUrl": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/03/resident-evil-code-veronica-alexander-ashford-1.jpg",
+    "category": "Gaming"
+  },
+  {
+    "websiteName": "France24",
+    "title": "Jailed Istanbul mayor goes on trial in corruption case slammed as political",
+    "url": "https://www.france24.com/en/jailed-istanbul-mayor-goes-on-trial-in-corruption-case-slammed-as-political",
+    "date": "2026-03-09T15:33:16.374Z",
+    "imageUrl": "https://s.france24.com/media/display/1956632e-1bcd-11f1-9566-005056a90284/w:1024/p:16x9/EN-20260309-161940-162129-CS.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "MarketWatch",
+    "title": "Treasury yields halt climb after Trump reportedly signals Iran war may end soon",
+    "url": "https://www.marketwatch.com/story/treasury-yields-climb-as-investors-fear-stagflation-75212d5d?mod=mw_rss_topstories",
+    "date": "2026-03-09T20:33:16.374Z",
+    "imageUrl": "https://images.mktw.net/im-32340432",
+    "category": "Business"
+  },
+  {
+    "websiteName": "FOX",
+    "title": "The Hitchhiker’s Guide to the 'talking filibuster' and the SAVE Act",
+    "url": "https://www.foxnews.com/politics/hitchhikers-guide-talking-filibuster-save-act",
+    "date": "2026-03-10T00:33:16.374Z",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/01/931/523/232f24c6-capitol-building.png?ve=1&tl=1",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Tech",
+    "title": "Apple’s foldable iPhone: Everything we know so far",
+    "url": "https://www.techadvisor.com/article/739361/foldable-iphone-release-date-price-specs.html",
+    "date": "2026-03-09T16:33:16.374Z",
+    "imageUrl": "https://b2c-contenthub.com/wp-content/uploads/2023/09/iphone-15-pro-max-hero03.jpg?quality=50&strip=all&w=1200",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "9to5Mac",
+    "title": "ChatGPT returns to the top of the App Store after DoD deal controversy",
+    "url": "https://9to5mac.com/2026/03/09/chatgpt-returns-to-the-top-of-the-app-store-after-dod-deal-controversy/",
+    "date": "2026-03-09T23:33:16.374Z",
+    "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/chatgpt-app-icon-light.jpg?quality=82&strip=all&w=1600",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "CBR",
+    "title": "Netflix's Somebody Feed Phil Is Moving to YouTube After 8 Seasons",
+    "url": "https://www.cbr.com/somebody-feed-phil-leaves-netflix-youtube/",
+    "date": "2026-03-09T23:33:16.374Z",
+    "imageUrl": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/08/netflix-logo-lines.jpg",
+    "category": "Entertainment"
+  },
+  {
+    "websiteName": "CoinDesk",
+    "title": "How the war in Iran and trader positioning could be behind the surge in Circle's stock",
+    "url": "https://www.coindesk.com/markets/2026/03/09/how-the-war-in-iran-and-trader-positioning-could-be-behind-the-surge-in-circle-s-stock",
+    "date": "2026-03-09T20:33:16.374Z",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/931e8644825be936002872782d758b431d9af960-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "category": "Crypto"
+  },
+  {
+    "websiteName": "Scientific",
+    "title": "Daylight saving time hit you like a brick? Here’s how to cope better",
+    "url": "https://www.scientificamerican.com/article/daylight-saving-time-hit-you-like-a-brick-heres-how-to-cope-better/",
+    "date": "2026-03-08T02:33:16.374Z",
+    "imageUrl": "https://static.scientificamerican.com/dam/m/741e24bba5cd4dd6/original/clocks.jpg?m=1772834676.437&w=1200",
+    "category": "Science"
+  },
+  {
+    "websiteName": "CBSSports",
+    "title": "2026 World Baseball Classic scores, schedule: How to watch every game, including Team USA",
+    "url": "https://www.cbssports.com/mlb/news/2026-world-baseball-classic-scores-schedule-how-to-watch/",
+    "date": "2026-03-10T01:40:16.375Z",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "CBS",
+    "title": "Trump says Iran war will end \"very soon\" at Florida news conference",
+    "url": "https://www.cbsnews.com/news/trump-iran-news-conference-miami-watch-live-stream-today-2026-03-09/",
+    "date": "2026-03-09T23:33:16.375Z",
+    "imageUrl": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/03/09/5a4ab9bd-7ade-41fd-8e05-da4f0eb560fe/thumbnail/1200x630/a33bd78ff583cb4e55aaf5d5101211b9/ap26068791790331.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "The",
+    "title": "Democrats seek to impose political pain of Iran war on Trump",
+    "url": "https://thehill.com/homenews/administration/5775814-gas-prices-spike-trump-iran/",
+    "date": "2026-03-09T22:33:16.375Z",
+    "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/03/newsomegavin_71625upi01_w.jpg?w=900",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Inc.com",
+    "title": "At the 2026 Winter Paralympics, Startup‑Led AI Innovation Takes the World Stage",
+    "url": "https://www.inc.com/john-brandon/2026-winter-paralympics-startup-led-ai-innovation-takes-the-world-stage/91313857",
+    "date": "2026-03-09T16:33:16.375Z",
+    "imageUrl": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/03/paralympics-ai-startups-inc.jpg",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Screenrant",
+    "title": "10 Great Isekai Anime Series That Didn't Get The Love They Deserve",
+    "url": "https://screenrant.com/near-perfect-isekai-anime-no-one-remembers-list/",
+    "date": "2026-03-09T23:33:16.375Z",
+    "imageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/03/that-time-i-got-reincarnated-as-a-slime-s-rimuru-tempest-and-grimgar-s-haruhiro-stand-side-by-side.jpg",
+    "category": "Entertainment"
+  },
+  {
+    "websiteName": "Billboard",
+    "title": "What Do Bruno Mars’ & Harry Styles’ New Albums Tell Us About Where Each Pop Star Is in His Career?",
+    "url": "https://www.billboard.com/media/podcasts/harry-styles-bruno-mars-new-albums-pop-shop-podcasts-1236195603/",
+    "date": "2026-03-10T00:33:16.375Z",
+    "imageUrl": "https://www.billboard.com/wp-content/uploads/2026/03/bruno-mars-harry-styles-billboard-1800.jpg?w=1024",
+    "category": "Other"
+  },
+  {
+    "websiteName": "The",
+    "title": "12-year-old critically injured in second incident involving a child at a Maine ski resort in a week",
+    "url": "https://www.independent.co.uk/news/world/americas/black-mountain-ski-resort-maine-accident-child-b2935099.html",
+    "date": "2026-03-09T21:33:16.375Z",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Seeking",
+    "title": "Telix Pharmaceuticals Limited (TLX) Discusses ProstACT Global Phase 3 Study Part 1 Results and Safety Profile - Slideshow",
+    "url": "https://seekingalpha.com/article/4880305-telix-pharmaceuticals-limited-tlx-discusses-prostact-global-phase-3-study-part-1-results-and?source=feed_all_articles",
+    "date": "2026-03-10T01:38:16.375Z",
+    "imageUrl": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Insider",
+    "title": "Meet Jay Graber, who is stepping down as Bluesky's CEO to return to 'building new things' as chief innovation officer",
+    "url": "https://www.businessinsider.com/meet-jay-graber-ceo-bluesky-who-wants-change-social-media",
+    "date": "2026-03-09T22:33:16.375Z",
+    "imageUrl": "https://i.insider.com/68f19a021c1f80efbec5c232?format=jpeg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "WSJ",
+    "title": "America’s Natural-Gas Bounty Is Cushioning U.S. Markets From Global Shocks",
+    "url": "https://www.wsj.com/finance/commodities-futures/americas-natural-gas-bounty-is-cushioning-u-s-markets-from-global-shocks-4085f589?mod=rss_markets_main",
+    "date": "2026-03-09T05:33:16.375Z",
+    "imageUrl": "https://images.wsj.net/im-57216962",
+    "category": "Business"
+  },
+  {
+    "websiteName": "The",
+    "title": "How to earn and redeem the Atmos Summit's Global Companion Award",
+    "url": "https://thepointsguy.com/credit-cards/atmos-global-companion-award-certificate-guide/",
+    "date": "2026-03-09T13:33:16.375Z",
+    "imageUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/12/Port-of-SeattleSEA-Airport_Airport_190725_111.jpg",
+    "category": "Travel"
+  },
+  {
+    "websiteName": "Seeking",
+    "title": "Rates Spark: The Epic Fury Calms",
+    "url": "https://seekingalpha.com/article/4880296-rates-spark-epic-fury-calms?source=feed_all_articles",
+    "date": "2026-03-10T00:33:16.375Z",
+    "imageUrl": "chrome-extension://bmcgcefhjdglnomoppbfmnhooahhgpma/&target_size=96x64",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Conde",
+    "title": "Toronto's Best Family-Friendly Hotels, Tested by a Local Parent",
+    "url": "https://www.cntraveler.com/gallery/torontos-best-family-friendly-hotels-tested-by-a-local-parent",
+    "date": "2026-03-09T21:33:16.375Z",
+    "category": "Travel"
+  },
+  {
+    "websiteName": "Game",
+    "title": "Introducing Sekiguchi Walkthrough in Marathon",
+    "url": "https://gamerant.com/marathon-introducing-sekiguchi-necrotic-sample-scan-locations/",
+    "date": "2026-03-09T23:33:16.375Z",
+    "imageUrl": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/03/how-to-complete-introducing-sekiguchi-in-marathon.jpg",
+    "category": "Gaming"
+  },
+  {
+    "websiteName": "Mashable",
+    "title": "How to watch Monterrey vs. Cruz Azul online for free",
+    "url": "https://mashable.com/article/monterrey-cruz-azul-concacaf-champions-cup-2026-live-stream-for-free",
+    "date": "2026-03-10T00:33:16.375Z",
+    "imageUrl": "https://helios-i.mashable.com/imagery/articles/02bqxvPIn2LMQAn6NALdAPc/hero-image.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "LA",
+    "title": "Candidates scramble, one quits, after redistricting shakes up California's congressional races",
+    "url": "https://www.latimes.com/california/story/2026-03-09/candidates-scramble-after-redistricting-shakes-up-california-congressional-races",
+    "date": "2026-03-09T09:33:16.375Z",
+    "imageUrl": "https://ca-times.brightspotcdn.com/dims4/default/5b95787/2147483647/strip/true/crop/6328x3322+0+448/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1e%2F22%2F84a4d6a54951ae639990bd9d8b59%2F1540208-pol-noem-impeachment-presser-gxc-0050.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "BBC",
+    "title": "I had to travel 90 miles for care when postpartum psychosis set in",
+    "url": "https://www.bbc.com/news/articles/c78x14w295lo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-03-08T02:33:16.376Z",
+    "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f48e/live/5cdaf8a0-13ec-11f1-82ca-eb805bf206d6.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Daily",
+    "title": "Belgium is becoming a narco state, with drug crime so out of hand it is now a risk to social stability, top judge warns",
+    "url": "https://www.dailymail.co.uk/news/article-15628245/Belgium-narco-state-drug-crime-hand-risk-social-stability-judge-warns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+    "date": "2026-03-09T15:33:16.376Z",
+    "imageUrl": "https://i.dailymail.co.uk/1s/2026/03/09/14/106990085-0-image-a-8_1773068138111.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "The",
+    "title": "Sweetgreen Expects Another Challenging Year Ahead. Is the Stock Destined for More of a Decline?",
+    "url": "https://www.fool.com/investing/2026/03/09/sweetgreen-expects-another-challenging-year-ahead/",
+    "date": "2026-03-09T22:33:16.376Z",
+    "imageUrl": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F859745%2Finvestor-pointing-at-a-chart.jpg&w=700",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Variety",
+    "title": "‘The Fall and Rise of Reggie Dinkins’ Pilot Ratings Jump More Than 100%, Reaching Nearly 13 Million Viewers Since Premiere (EXCLUSIVE)",
+    "url": "https://variety.com/2026/tv/news/the-fall-and-rise-of-reggie-dinkins-pilot-ratings-1236682997/",
+    "date": "2026-03-09T22:33:16.376Z",
+    "imageUrl": "https://variety.com/wp-content/uploads/2026/03/NUP_207355_12531.jpg",
+    "category": "Entertainment"
+  },
+  {
+    "websiteName": "Variety",
+    "title": "‘Heated Rivalry’ Stars Hudson Williams and François Arnaud Say ‘Don’t Call Yourself a Fan’ If You Post Hate Comments: We ‘Are on the Same Side’",
+    "url": "https://variety.com/2026/tv/news/heated-rivalry-hudson-williams-francois-arnaud-online-hate-1236683060/",
+    "date": "2026-03-09T23:33:16.376Z",
+    "imageUrl": "https://variety.com/wp-content/uploads/2026/03/MixCollage-09-Mar-2026-04-37-PM-4196.jpg",
+    "category": "Entertainment"
+  },
+  {
+    "websiteName": "PCWorld",
+    "title": "Best PC computer deals: Top picks from desktops to all-in-ones",
+    "url": "https://www.pcworld.com/article/813362/best-pc-computer-deals.html",
+    "date": "2026-03-09T23:33:16.376Z",
+    "imageUrl": "https://b2c-contenthub.com/wp-content/uploads/2026/02/image_f6bc31.png",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "The",
+    "title": "Trump calls Iran war ‘excursion’ that will be done ‘very soon’",
+    "url": "https://thehill.com/homenews/administration/5775972-trump-iran-war-soon-finish/",
+    "date": "2026-03-09T23:33:16.376Z",
+    "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/03/Top-Trump_030926_AP_Mark-Schiefelbein.jpg?w=900",
+    "category": "Other"
+  },
+  {
+    "websiteName": "The",
+    "title": "Heartbroken mom files lawsuit against school after her 8-year-old son died choking on a piece of pineapple",
+    "url": "https://www.the-independent.com/news/world/americas/crime/las-vegas-lawsuit-child-death-b2935055.html",
+    "date": "2026-03-09T20:33:16.376Z",
+    "imageUrl": "https://static.independent.co.uk/2026/03/09/19/54/Cruzito-Ruiz.png?width=1200&auto=webp&trim=144%2C0%2C144%2C0",
+    "category": "World News"
+  },
+  {
+    "websiteName": "ScienceDaily",
+    "title": "Hidden metabolism found operating inside the cell nucleus",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260309183010.htm",
+    "date": "2026-03-09T23:33:16.376Z",
+    "imageUrl": "https://www.sciencedaily.com/images/1920/breast-vs-lung-cancer-metabolic-signal.webp",
+    "category": "Science"
+  },
+  {
+    "websiteName": "ABC",
+    "title": "Winning numbers drawn in Saturday’s Powerball",
+    "url": "https://abcnews.com/US/wireStory/winning-numbers-drawn-saturdays-powerball-130872079",
+    "date": "2026-03-08T02:33:16.376Z",
+    "imageUrl": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_1600.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "The",
+    "title": "5 takeaways from Trump’s Iran presser at Doral",
+    "url": "https://thehill.com/homenews/administration/5776101-trump-iran-war-timeline-takeaways/",
+    "date": "2026-03-10T00:33:16.376Z",
+    "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/03/AP26068760402656-e1773091044476.jpg?w=900",
+    "category": "Other"
+  },
+  {
+    "websiteName": "BBC",
+    "title": "Five Iranian footballers granted Australian visas after anthem protest",
+    "url": "https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-03-09T21:33:16.377Z",
+    "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/87eb/live/752fb980-1c1c-11f1-a39b-e900fed13cf7.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "WSJ",
+    "title": "U.S. and Iran Predicted a Very Different War Than the One Now Being Waged",
+    "url": "https://www.wsj.com/world/middle-east/us-iran-war-expectations-7f9d9229",
+    "date": "2026-03-09T23:33:16.377Z",
+    "imageUrl": "https://images.wsj.net/im-25024754",
+    "category": "World News"
+  },
+  {
+    "websiteName": "WSJ",
+    "title": "Canada Formally Reverses Ban on TikTok’s Business Unit",
+    "url": "https://www.wsj.com/world/americas/canada-formally-reverses-ban-on-tiktoks-business-unit-252677d2",
+    "date": "2026-03-09T22:33:16.377Z",
+    "imageUrl": "https://images.wsj.net/im-23488108",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Tom's",
+    "title": "How to watch 'Dunblane: How Britain Banned Handguns' online – stream the documentary from anywhere",
+    "url": "https://www.tomsguide.com/entertainment/streaming/watch-dunblane-how-britain-banned-handguns-online",
+    "date": "2026-03-09T19:33:16.377Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/7MVz8WYzyCSjpmbdL2am7G-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "How-To",
+    "title": "How to sideload apps on the Nvidia Shield TV",
+    "url": "https://www.howtogeek.com/how-to-sideload-apps-on-the-nvidia-shield-tv/",
+    "date": "2026-03-09T17:33:16.377Z",
+    "imageUrl": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/03/nvidia-shield-sideload-arrow.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "The",
+    "title": "Homemade Bombs in ISIS-Inspired Attack Were Deadly, N.Y.P.D. Says",
+    "url": "https://www.nytimes.com/2026/03/09/nyregion/gracie-mansion-bomb-mamdani-pennsylvania.html",
+    "date": "2026-03-10T00:33:16.377Z",
+    "imageUrl": "https://static01.nyt.com/images/2026/03/09/multimedia/09xp-gracie-klwz/09xp-gracie-klwz-mediumSquareAt3X.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "ZDNet",
+    "title": "I compared the 3 best XR display glasses right now - the winner was not the most expensive",
+    "url": "https://www.zdnet.com/article/xr-display-glasses-compared-viture-rayneo-xreal/",
+    "date": "2026-03-09T18:33:16.377Z",
+    "imageUrl": "https://www.zdnet.com/a/img/resize/b955484507c0be8f3baa971d84c503d07261984b/2026/02/09/3c9b1f13-b2c2-496b-bd79-4b9713573930/xr-glasses-by-xreal-viture-and-rayneo.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Bon",
+    "title": "I'm So Sick of Screens I Got an Old Fashioned Kitchen Timer",
+    "url": "https://www.bonappetit.com/story/caraway-mechanical-timer",
+    "date": "2026-03-10T01:49:16.377Z",
+    "imageUrl": "https://assets.bonappetit.com/photos/69af781d037e9e716fd7ff9b/master/pass/Carraway%20timer%202.5.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "The",
+    "title": "JUST IN: Obama Judge Ejects New Leaders in New Jersey US Attorney’s Office – DOJ Responds",
+    "url": "https://www.thegatewaypundit.com/2026/03/just-obama-judge-ejects-new-leaders-new-jersey/",
+    "date": "2026-03-09T20:33:16.377Z",
+    "imageUrl": "https://www.thegatewaypundit.com/wp-content/uploads/2026/03/img_3136-1200x630.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Creative",
+    "title": "Monster Hunter Stories 3: Twisted Reflection review: a vibrant sugar-rush I can't put down",
+    "url": "https://www.creativebloq.com/entertainment/gaming/i-just-cant-stop-playing-monster-hunter-stories-3-the-easiest-way-to-get-into-the-series",
+    "date": "2026-03-09T19:33:16.377Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/TYEAXp5VRoUhV7mu9FWUYi-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Delish",
+    "title": "Foods You Should Never Trust At A Vacation Rental, According To A Food Safety Expert",
+    "url": "https://www.delish.com/kitchen-tools/kitchen-secrets/a70645889/vacation-rental-kitchen-foods-to-avoid/",
+    "date": "2026-03-09T18:33:16.377Z",
+    "category": "Other"
+  },
+  {
+    "websiteName": "The",
+    "title": "Iran War Sends Tremors Through the Global Economy",
+    "url": "https://www.nytimes.com/2026/03/09/briefing/iran-war-oil-prices-gracie-mansion-attack.html",
+    "date": "2026-03-09T21:33:16.377Z",
+    "imageUrl": "https://static01.nyt.com/images/2026/03/09/multimedia/09evening-nl-iran-top-zhlc/09evening-nl-iran-top-zhlc-mediumSquareAt3X.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Roger",
+    "title": "The Unloved, Part 147: The House Bunny & Observe and Report",
+    "url": "https://www.rogerebert.com/the-unloved/the-unloved-part-147-the-house-bunny-observe-and-report",
+    "date": "2026-03-09T12:33:16.377Z",
+    "imageUrl": "chrome-extension://bmcgcefhjdglnomoppbfmnhooahhgpma/&target_size=508x269",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Android",
+    "title": "Pixel 11 Pro Fold renders suggest you shouldn’t get your hopes up for radical changes",
+    "url": "https://www.androidauthority.com/pixel-11-pro-fold-cad-renders-3647624/",
+    "date": "2026-03-09T17:33:16.377Z",
+    "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/03/Google-Pixel-11-Pro-Fold-CAD-image-6.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Good",
+    "title": "8 Best Kids' Water Tables for Outdoor Sensory Play",
+    "url": "https://www.goodhousekeeping.com/childrens-products/toy-reviews/g36741290/best-water-table/",
+    "date": "2026-03-10T01:53:16.378Z",
+    "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/water-tables-69af51b76a540.jpg",
+    "category": "Home"
+  },
+  {
+    "websiteName": "CBSSports",
+    "title": "Jon Jones requests UFC release, disputing Dana White's stance on health, White House negotiations",
+    "url": "https://www.cbssports.com/ufc/news/jon-jones-ufc-release-dana-white-health-white-house/",
+    "date": "2026-03-10T00:33:16.379Z",
+    "imageUrl": "https://sportshub.cbsistatic.com/i/2026/03/09/46356b82-833e-45cc-a47b-4ee5baaac48b/jon-jones-ufc-belt-smile.jpg",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "Psychology",
+    "title": "Why We Sometimes Hide Our Feelings From the People We Love Most",
+    "url": "https://www.psychologytoday.com/us/blog/when-therapy-meets-cultures/202603/why-we-sometimes-hide-our-feelings-from-the-people-we-love",
+    "date": "2026-03-09T18:30:00.000Z",
+    "imageUrl": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-03/pexels-annygantuss-4219535.jpg?h=242f035c&itok=Vxy-wsJ4",
+    "category": "Health"
+  },
+  {
+    "websiteName": "The",
+    "title": "Nvidia Is Investing Billions in These Two Artificial Intelligence (AI) Players. Now They're Joining the S&P 500",
+    "url": "https://www.fool.com/investing/2026/03/09/nvidia-is-investing-billions-in-these-two-artifici/",
+    "date": "2026-03-09T22:33:16.379Z",
+    "imageUrl": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F860050%2Fnvidia-headquarters-with-the-nvidia-logo-sign-in-front.png&w=700",
+    "category": "Business"
+  },
+  {
+    "websiteName": "BBC",
+    "title": "Smoky citrus & chipotle pulled pork",
+    "url": "https://www.bbcgoodfood.com/recipes/smoky-citrus-chipotle-pulled-pork",
+    "date": "2026-03-09T14:33:16.379Z",
+    "category": "Other"
+  },
+  {
+    "websiteName": "PC",
+    "title": "If you miss the old NBA Jam games, this new Harlem Globetrotters game looks like a slam dunk",
+    "url": "https://www.pcgamer.com/games/sports/if-you-miss-the-old-nba-jam-basketball-games-this-new-harlem-globetrotters-game-looks-like-a-slam-dunk/",
+    "date": "2026-03-09T17:33:16.379Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/LLetAK8JG2zLG48dR4zTxA-1280-80.jpg",
+    "category": "Gaming"
+  },
+  {
+    "websiteName": "Psychology",
+    "title": "Suffering: A Portal to Love",
+    "url": "https://www.psychologytoday.com/us/blog/the-stories-we-tell-ourselves/202603/suffering-a-portal-to-love",
+    "date": "2026-03-09T18:30:00.000Z",
+    "imageUrl": "https://cdn2.psychologytoday.com/assets/styles/min_1200px_wide/public/2024-06/Scott%20Gornto.png.jpg?itok=4rTspCUx",
+    "category": "Health"
+  },
+  {
+    "websiteName": "9to5Mac",
+    "title": "Here’s how much a MacBook Neo repair will cost you",
+    "url": "https://9to5mac.com/2026/03/09/heres-how-much-a-macbook-neo-repair-will-cost-you/",
+    "date": "2026-03-09T21:33:16.379Z",
+    "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/The-MacBook-Neo-is-built-down-to-a-price-%E2%80%93-but-is-phenomenal-value.webp?w=1500",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "CBR",
+    "title": "Square Enix's 10/10 Cult Classic Game Is Unplayable Today After 33 Years",
+    "url": "https://www.cbr.com/square-enixs-cult-classic-game-unplayable-7th-saga/",
+    "date": "2026-03-10T00:33:16.379Z",
+    "imageUrl": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/12/snes-with-games-1.jpg",
+    "category": "Entertainment"
+  },
+  {
+    "websiteName": "Delish",
+    "title": "This 5-Star Brownie Pan Is Designed To Give You More Crispy Edge Pieces",
+    "url": "https://www.delish.com/kitchen-tools/cookware-reviews/a70640466/brownie-pan-all-edges-amazon/",
+    "date": "2026-03-09T19:33:16.379Z",
+    "category": "Other"
+  },
+  {
+    "websiteName": "WSJ",
+    "title": "Basic Materials Roundup: Market Talk",
+    "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-0e711811?mod=pls_whats_news_us_business_f",
+    "date": "2026-03-09T20:33:16.379Z",
+    "imageUrl": "https://images.wsj.net/im-13922624",
+    "category": "Business"
+  },
+  {
+    "websiteName": "MakeUseOf",
+    "title": "6 live-action anime adaptations that actually weren't terrible",
+    "url": "https://www.makeuseof.com/6-live-action-anime-adaptations-one-piece-that-arent-terrible/",
+    "date": "2026-03-09T22:33:16.379Z",
+    "imageUrl": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2026/03/one-piece-season-2.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Vox",
+    "title": "The mysterious Redditor who’s changing the way we do laundry",
+    "url": "https://www.vox.com/life/481598/reddit-laundry-kismai-lipase-detergent-list-spa-day",
+    "date": "2026-03-09T14:33:16.379Z",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Al",
+    "title": "World reacts to appointment of Mojtaba Khamenei as Iran’s supreme leader",
+    "url": "https://www.aljazeera.com/news/2026/3/9/world-reacts-to-appointment-of-mojtaba-khamenei-as-irans-supreme-leader?traffic_source=rss",
+    "date": "2026-03-09T20:33:16.379Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/03/2026-03-09T114957Z_1850134958_RC2Z0KAW72EE_RTRMADP_3_IRAN-CRISIS-1773084686.jpg?resize=1920%2C1440",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "WSJ",
+    "title": "Iran’s Leadership Signals It Is Still in Control and Able to Fight",
+    "url": "https://www.wsj.com/world/middle-east/iran-regime-leadership-us-israel-war-82f80697",
+    "date": "2026-03-10T00:33:16.380Z",
+    "imageUrl": "https://images.wsj.net/im-25758744",
+    "category": "World News"
+  },
+  {
+    "websiteName": "FOX",
+    "title": "5 Iranian women's soccer players receive asylum in Australia after Trump pressure",
+    "url": "https://www.foxnews.com/sports/5-iranian-womens-soccer-players-receive-asylum-australia-after-trump-pressure",
+    "date": "2026-03-09T22:33:16.380Z",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/iran-womens-soccer-030926-5.jpg?ve=1&tl=1",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "The",
+    "title": "Business owner's pocket guide to Austin: Recommendations on where to stay and what to do",
+    "url": "https://thepointsguy.com/travel/austin-texas-pocket-guide-for-business-owners/",
+    "date": "2026-03-09T12:33:16.380Z",
+    "category": "Travel"
+  },
+  {
+    "websiteName": "Fortune",
+    "title": "Stocks stage massive upside reversal as oil plunges after Trump says Iran war could be over soon",
+    "url": "https://fortune.com/2026/03/09/stock-market-today-massive-upside-reversal-oil-prices-trump-iran-war-over-soon/",
+    "date": "2026-03-09T23:33:16.380Z",
+    "imageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2265154070-e1773086990399.jpg?w=2048",
+    "category": "Business"
+  },
+  {
     "websiteName": "The nytimes",
     "title": "Mojtaba Khamenei, Son of Iran’s Slain Supreme Leader, Is a Mysterious Figure",
     "url": "https://www.nytimes.com/2026/03/08/world/middleeast/mojtaba-khamenei-iran-leader.html",
@@ -140,7 +723,6 @@
     "title": "Sigweis night vision binoculars review",
     "url": "https://www.space.com/stargazing/skywatching-kit/sigweis-night-vision-binoculars-review",
     "date": "2026-03-07T04:12:30.643Z",
-    "imageUrl": "https://pcdn.brave.com/brave-today/cache/1fd9dd947b0d44e14ff1d29b1eddbe3cce53a8e0ca18f9f7e014a12850992db1.jpg.pad",
     "category": "Science"
   },
   {
