@@ -1,0 +1,1312 @@
+{
+  "#comment": "",
+  "html": {
+    "@lang": "en",
+    "head": {
+      "meta": [
+        {
+          "@charset": "UTF-8"
+        },
+        {
+          "@name": "viewport",
+          "@content": "width=device-width, initial-scale=1.0"
+        }
+      ],
+      "title": "INTELLIGENCE BRIEFING | Iran War Crisis Analysis",
+      "script": {
+        "@src": "https://cdn.tailwindcss.com"
+      },
+      "link": {
+        "@href": "https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&family=Inter:wght@400;500;600;700;800&display=swap",
+        "@rel": "stylesheet"
+      },
+      "style": "* { font-family: 'Inter', sans-serif; }\r\n .mono { font-family: 'JetBrains Mono', monospace; }\r\n .classified-stamp {\r\n background: repeating-linear-gradient(45deg, #dc2626, #dc2626 10px, #991b1b 10px, #991b1b 20px);\r\n color: white;\r\n font-weight: 800;\r\n letter-spacing: 0.2em;\r\n text-transform: uppercase;\r\n padding: 0.5rem 1rem;\r\n border: 3px solid #7f1d1d;\r\n box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3);\r\n transform: rotate(-5deg);\r\n display: inline-block;\r\n }\r\n .section-header {\r\n background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);\r\n border-left: 4px solid #dc2626;\r\n }\r\n .phase-card {\r\n background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);\r\n border: 1px solid #334155;\r\n transition: all 0.3s ease;\r\n }\r\n .phase-card:hover {\r\n border-color: #dc2626;\r\n transform: translateX(5px);\r\n }\r\n .signal-box {\r\n background: rgba(30, 41, 59, 0.8);\r\n border: 1px solid #475569;\r\n }\r\n .metric-card {\r\n background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);\r\n border: 1px solid #334155;\r\n }\r\n .scenario-a { border-left: 4px solid #22c55e; }\r\n .scenario-b { border-left: 4px solid #eab308; }\r\n .scenario-c { border-left: 4px solid #f97316; }\r\n .scenario-d { border-left: 4px solid #dc2626; }\r\n .pattern-card {\r\n background: linear-gradient(135deg, #312e81 0%, #1e1b4b 100%);\r\n border: 1px solid #4338ca;\r\n }\r\n .blink {\r\n animation: blink 2s infinite;\r\n }\r\n @keyframes blink {\r\n 0%, 50% { opacity: 1; }\r\n 51%, 100% { opacity: 0.3; }\r\n }\r\n .timeline-dot {\r\n width: 12px;\r\n height: 12px;\r\n background: #dc2626;\r\n border-radius: 50%;\r\n box-shadow: 0 0 10px #dc2626;\r\n }\r\n .timeline-line {\r\n width: 2px;\r\n background: linear-gradient(to bottom, #dc2626, #475569);\r\n }"
+    },
+    "body": {
+      "@class": "bg-slate-950 text-slate-200 min-h-screen",
+      "#comment": "",
+      "header": {
+        "@class": "bg-slate-900 border-b border-slate-800 sticky top-0 z-50",
+        "div": {
+          "@class": "max-w-7xl mx-auto px-4 py-4",
+          "div": {
+            "@class": "flex items-center justify-between",
+            "div": [
+              {
+                "@class": "flex items-center gap-4",
+                "div": [
+                  {
+                    "@class": "w-10 h-10 bg-red-600 rounded flex items-center justify-center",
+                    "svg": {
+                      "@class": "w-6 h-6 text-white",
+                      "@fill": "none",
+                      "@stroke": "currentColor",
+                      "@viewbox": "0 0 24 24",
+                      "path": {
+                        "@stroke-linecap": "round",
+                        "@stroke-linejoin": "round",
+                        "@stroke-width": "2",
+                        "@d": "M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"
+                      }
+                    }
+                  },
+                  {
+                    "h1": {
+                      "@class": "text-xl font-bold text-white tracking-wider",
+                      "#text": "OSINT ANALYSIS CENTER"
+                    },
+                    "p": {
+                      "@class": "text-xs text-slate-400 mono",
+                      "#text": "IRAN WAR CRISIS — STRAIT OF HORMUZ DISRUPTION"
+                    }
+                  }
+                ]
+              },
+              {
+                "@class": "flex items-center gap-4",
+                "div": [
+                  {
+                    "@class": "text-right",
+                    "p": [
+                      {
+                        "@class": "text-xs text-slate-400",
+                        "#text": "ANALYSIS DATE"
+                      },
+                      {
+                        "@class": "text-sm font-bold mono text-red-400",
+                        "#text": "2026-03-13"
+                      }
+                    ]
+                  },
+                  {
+                    "@class": "text-right",
+                    "p": [
+                      {
+                        "@class": "text-xs text-slate-400",
+                        "#text": "CONFLICT DAY"
+                      },
+                      {
+                        "@class": "text-sm font-bold mono text-red-400",
+                        "#text": "DAY 13"
+                      }
+                    ]
+                  },
+                  {
+                    "@class": "classified-stamp text-xs",
+                    "#text": "UNCLASSIFIED"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "main": {
+        "@class": "max-w-7xl mx-auto px-4 py-8",
+        "#comment": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "section": [
+          {
+            "@class": "mb-12",
+            "div": {
+              "@class": "bg-gradient-to-r from-red-900/20 to-slate-900 border border-red-800/50 rounded-lg p-6",
+              "div": {
+                "@class": "flex items-start gap-4",
+                "div": [
+                  {
+                    "@class": "w-2 h-2 bg-red-500 rounded-full blink mt-2"
+                  },
+                  {
+                    "h2": {
+                      "@class": "text-lg font-bold text-red-400 mb-2",
+                      "#text": "EXECUTIVE SUMMARY"
+                    },
+                    "p": {
+                      "@class": "text-slate-300 leading-relaxed",
+                      "strong": "asymmetric maritime interdiction campaign",
+                      "#text": [
+                        "Iran has executed a successful",
+                        "achieving 96% reduction in Strait of Hormuz traffic \r\n (138 → <5 vessels/day) through layered threat architecture. This represents the first major chokepoint seizure by asymmetric means in modern history. \r\n Economic damage to Western economies measured in billions; Iranian operational costs in millions. IEA coordinated release of 400 million barrels \r\n (historic maximum) insufficient to offset market psychology pricing prolonged conflict."
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "@class": "mb-12",
+            "div": [
+              {
+                "@class": "section-header p-4 rounded-t-lg",
+                "h2": {
+                  "@class": "text-xl font-bold text-white flex items-center gap-2",
+                  "span": {
+                    "@class": "text-red-500",
+                    "#text": "01"
+                  },
+                  "#text": "CORE EVENT"
+                }
+              },
+              {
+                "@class": "bg-slate-900 border border-slate-800 rounded-b-lg p-6",
+                "div": {
+                  "@class": "grid md:grid-cols-2 gap-6",
+                  "div": [
+                    {
+                      "h3": {
+                        "@class": "text-lg font-semibold text-red-400 mb-3",
+                        "#text": "PRIMARY VECTOR"
+                      },
+                      "p": {
+                        "@class": "text-slate-300 mb-4",
+                        "strong": "Asymmetric Maritime Interdiction Campaign",
+                        "span": {
+                          "@class": "text-red-400",
+                          "#text": "denial-through-threat paradigm"
+                        },
+                        "#text": [
+                          "— Iran has weaponized the Strait of Hormuz not through direct military closure \r\n but through a",
+                          "combining mine-laying, drone attacks, and declaratory policy."
+                        ]
+                      },
+                      "div": {
+                        "@class": "signal-box p-4 rounded",
+                        "h4": {
+                          "@class": "text-sm font-semibold text-slate-400 mb-2",
+                          "#text": "CASUALTY EVENT"
+                        },
+                        "p": {
+                          "@class": "text-sm text-slate-300",
+                          "strong": [
+                            "Ayatollah Ali Khamenei",
+                            "Mojtaba Khamenei"
+                          ],
+                          "#text": [
+                            "Original Supreme Leader",
+                            "killed in opening strikes (Feb 28). \r\n Succession to son",
+                            "creates dynastic consolidation—first hereditary transfer in Iranian history."
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "h3": {
+                        "@class": "text-lg font-semibold text-red-400 mb-3",
+                        "#text": "OPERATIONAL STATUS"
+                      },
+                      "div": {
+                        "@class": "space-y-3",
+                        "div": [
+                          {
+                            "@class": "flex justify-between items-center p-3 bg-slate-800 rounded",
+                            "span": [
+                              {
+                                "@class": "text-slate-400",
+                                "#text": "Daily Hormuz Transits"
+                              },
+                              {
+                                "@class": "mono text-red-400",
+                                "#text": "138 → <5 (-96%)"
+                              }
+                            ]
+                          },
+                          {
+                            "@class": "flex justify-between items-center p-3 bg-slate-800 rounded",
+                            "span": [
+                              {
+                                "@class": "text-slate-400",
+                                "#text": "Vessels Attacked"
+                              },
+                              {
+                                "@class": "mono text-red-400",
+                                "#text": "16+ confirmed"
+                              }
+                            ]
+                          },
+                          {
+                            "@class": "flex justify-between items-center p-3 bg-slate-800 rounded",
+                            "span": [
+                              {
+                                "@class": "text-slate-400",
+                                "#text": "Minelayers Sunk (U.S. claim)"
+                              },
+                              {
+                                "@class": "mono text-red-400",
+                                "#text": "16 Iranian vessels"
+                              }
+                            ]
+                          },
+                          {
+                            "@class": "flex justify-between items-center p-3 bg-slate-800 rounded",
+                            "span": [
+                              {
+                                "@class": "text-slate-400",
+                                "#text": "Global Supply Disruption"
+                              },
+                              {
+                                "@class": "mono text-red-400",
+                                "#text": "15-20M bbl/day"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "@class": "mb-12",
+            "div": [
+              {
+                "@class": "section-header p-4 rounded-t-lg",
+                "h2": {
+                  "@class": "text-xl font-bold text-white flex items-center gap-2",
+                  "span": {
+                    "@class": "text-red-500",
+                    "#text": "02"
+                  },
+                  "#text": "PHASE ANALYSIS"
+                }
+              },
+              {
+                "@class": "bg-slate-900 border border-slate-800 rounded-b-lg p-6",
+                "div": {
+                  "@class": "space-y-4",
+                  "#comment": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "div": [
+                    {
+                      "@class": "phase-card p-4 rounded-lg flex gap-4",
+                      "div": [
+                        {
+                          "@class": "flex flex-col items-center",
+                          "div": [
+                            {
+                              "@class": "timeline-dot"
+                            },
+                            {
+                              "@class": "timeline-line flex-1 my-2"
+                            }
+                          ]
+                        },
+                        {
+                          "@class": "flex-1",
+                          "div": {
+                            "@class": "flex items-center gap-3 mb-2",
+                            "span": [
+                              {
+                                "@class": "bg-red-600 text-white text-xs px-2 py-1 rounded mono",
+                                "#text": "PHASE 1"
+                              },
+                              {
+                                "@class": "text-slate-500 text-sm",
+                                "#text": "Feb 28 | Days 0-2"
+                              }
+                            ],
+                            "h3": {
+                              "@class": "font-bold text-white",
+                              "#text": "STRIKE & DECAPITATION"
+                            }
+                          },
+                          "p": {
+                            "@class": "text-slate-400 text-sm",
+                            "#text": "U.S.-Israeli joint airstrikes commence. Supreme Leader Ali Khamenei confirmed killed. Iranian retaliation begins with missile strikes on regional U.S. bases."
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "@class": "phase-card p-4 rounded-lg flex gap-4",
+                      "div": [
+                        {
+                          "@class": "flex flex-col items-center",
+                          "div": [
+                            {
+                              "@class": "timeline-dot"
+                            },
+                            {
+                              "@class": "timeline-line flex-1 my-2"
+                            }
+                          ]
+                        },
+                        {
+                          "@class": "flex-1",
+                          "div": {
+                            "@class": "flex items-center gap-3 mb-2",
+                            "span": [
+                              {
+                                "@class": "bg-red-600 text-white text-xs px-2 py-1 rounded mono",
+                                "#text": "PHASE 2"
+                              },
+                              {
+                                "@class": "text-slate-500 text-sm",
+                                "#text": "Days 3-5"
+                              }
+                            ],
+                            "h3": {
+                              "@class": "font-bold text-white",
+                              "#text": "MARITIME ESCALATION THRESHOLD"
+                            }
+                          },
+                          "p": {
+                            "@class": "text-slate-400 text-sm",
+                            "#text": "Transition from air war to sea denial. First tanker attacks reported. Insurance markets withdraw coverage. Maersk, Hapag-Lloyd suspend Mideast operations."
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "@class": "phase-card p-4 rounded-lg flex gap-4 border-red-600",
+                      "div": [
+                        {
+                          "@class": "flex flex-col items-center",
+                          "div": [
+                            {
+                              "@class": "timeline-dot"
+                            },
+                            {
+                              "@class": "timeline-line flex-1 my-2"
+                            }
+                          ]
+                        },
+                        {
+                          "@class": "flex-1",
+                          "div": {
+                            "@class": "flex items-center gap-3 mb-2",
+                            "span": [
+                              {
+                                "@class": "bg-red-600 text-white text-xs px-2 py-1 rounded mono",
+                                "#text": "PHASE 3"
+                              },
+                              {
+                                "@class": "text-slate-500 text-sm",
+                                "#text": "Days 6-10"
+                              }
+                            ],
+                            "h3": {
+                              "@class": "font-bold text-red-400",
+                              "#text": "STRAIT SEIZURE"
+                            }
+                          },
+                          "p": {
+                            "@class": "text-slate-400 text-sm",
+                            "#text": "De facto closure achieved. Traffic drops to \"trickles\" (<10% normal). Systematic mining operations begin. 16+ vessels attacked. Gulf producers forced to shut in production."
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "@class": "phase-card p-4 rounded-lg flex gap-4",
+                      "div": [
+                        {
+                          "@class": "flex flex-col items-center",
+                          "div": [
+                            {
+                              "@class": "timeline-dot"
+                            },
+                            {
+                              "@class": "timeline-line flex-1 my-2"
+                            }
+                          ]
+                        },
+                        {
+                          "@class": "flex-1",
+                          "div": {
+                            "@class": "flex items-center gap-3 mb-2",
+                            "span": [
+                              {
+                                "@class": "bg-red-600 text-white text-xs px-2 py-1 rounded mono",
+                                "#text": "PHASE 4"
+                              },
+                              {
+                                "@class": "text-slate-500 text-sm",
+                                "#text": "Days 11-13"
+                              }
+                            ],
+                            "h3": {
+                              "@class": "font-bold text-white",
+                              "#text": "ECONOMIC SHOCK TRANSMISSION"
+                            }
+                          },
+                          "p": {
+                            "@class": "text-slate-400 text-sm",
+                            "#text": "Brent breaches $100/bbl (peak $119.50). U.S. gasoline up $0.50+ to $3.57/gal. Dow drops 700+ points. Jet fuel prices double. S&P 500 worst day since war began."
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "@class": "phase-card p-4 rounded-lg flex gap-4 border-yellow-600",
+                      "div": [
+                        {
+                          "@class": "flex flex-col items-center",
+                          "div": [
+                            {
+                              "@class": "timeline-dot bg-yellow-600"
+                            },
+                            {
+                              "@class": "timeline-line flex-1 my-2"
+                            }
+                          ]
+                        },
+                        {
+                          "@class": "flex-1",
+                          "div": {
+                            "@class": "flex items-center gap-3 mb-2",
+                            "span": [
+                              {
+                                "@class": "bg-yellow-600 text-white text-xs px-2 py-1 rounded mono",
+                                "#text": "PHASE 5"
+                              },
+                              {
+                                "@class": "text-slate-500 text-sm",
+                                "#text": "Day 13 | CURRENT"
+                              }
+                            ],
+                            "h3": {
+                              "@class": "font-bold text-yellow-400",
+                              "#text": "COORDINATED COUNTERMEASURES"
+                            }
+                          },
+                          "p": {
+                            "@class": "text-slate-400 text-sm",
+                            "#text": "IEA announces record 400M barrel release (largest in history). U.S. commits 172M barrels from SPR. Japan 80M, Germany 19.5M, UK 13.5M, South Korea 22.5M. U.S. lifts Russian oil sanctions temporarily."
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "@class": "phase-card p-4 rounded-lg flex gap-4",
+                      "div": [
+                        {
+                          "@class": "flex flex-col items-center",
+                          "div": [
+                            {
+                              "@class": "timeline-dot"
+                            },
+                            {
+                              "@class": "timeline-line flex-1 my-2"
+                            }
+                          ]
+                        },
+                        {
+                          "@class": "flex-1",
+                          "div": {
+                            "@class": "flex items-center gap-3 mb-2",
+                            "span": [
+                              {
+                                "@class": "bg-red-600 text-white text-xs px-2 py-1 rounded mono",
+                                "#text": "PHASE 6"
+                              },
+                              {
+                                "@class": "text-slate-500 text-sm",
+                                "#text": "Days 13-14"
+                              }
+                            ],
+                            "h3": {
+                              "@class": "font-bold text-white",
+                              "#text": "SANCTIONS REALIGNMENT"
+                            }
+                          },
+                          "p": {
+                            "@class": "text-slate-400 text-sm",
+                            "#text": "U.S. Treasury grants 30-day license for Russian oil purchases (expires April 11). Kremlin confirms energy cooperation discussions. Russia's oil revenue at Ukraine-war lows; now positioned to benefit."
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "@class": "phase-card p-4 rounded-lg flex gap-4",
+                      "div": [
+                        {
+                          "@class": "flex flex-col items-center",
+                          "div": [
+                            {
+                              "@class": "timeline-dot"
+                            },
+                            {
+                              "@class": "timeline-line flex-1 my-2"
+                            }
+                          ]
+                        },
+                        {
+                          "@class": "flex-1",
+                          "div": {
+                            "@class": "flex items-center gap-3 mb-2",
+                            "span": [
+                              {
+                                "@class": "bg-red-600 text-white text-xs px-2 py-1 rounded mono",
+                                "#text": "PHASE 7"
+                              },
+                              {
+                                "@class": "text-slate-500 text-sm",
+                                "#text": "ONGOING"
+                              }
+                            ],
+                            "h3": {
+                              "@class": "font-bold text-white",
+                              "#text": "SUCCESSION CONSOLIDATION"
+                            }
+                          },
+                          "p": {
+                            "@class": "text-slate-400 text-sm",
+                            "#text": "Mojtaba Khamenei confirmed as new Supreme Leader (dynastic succession). First statement read on state TV (not personal appearance—suggests operational security concerns). Declares Hormuz closure \"must continue.\""
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "@class": "phase-card p-4 rounded-lg flex gap-4",
+                      "div": [
+                        {
+                          "@class": "flex flex-col items-center",
+                          "div": [
+                            {
+                              "@class": "timeline-dot"
+                            },
+                            {
+                              "@class": "timeline-line flex-1 my-2"
+                            }
+                          ]
+                        },
+                        {
+                          "@class": "flex-1",
+                          "div": {
+                            "@class": "flex items-center gap-3 mb-2",
+                            "span": [
+                              {
+                                "@class": "bg-red-600 text-white text-xs px-2 py-1 rounded mono",
+                                "#text": "PHASE 8"
+                              },
+                              {
+                                "@class": "text-slate-500 text-sm",
+                                "#text": "EMERGING"
+                              }
+                            ],
+                            "h3": {
+                              "@class": "font-bold text-white",
+                              "#text": "ALLIANCE STRESS FRACTURES"
+                            }
+                          },
+                          "p": {
+                            "@class": "text-slate-400 text-sm",
+                            "#text": "Qatar intercepts Iranian missiles; trust \"broken.\" UAE intercepted 1,500+ drones, 300+ missiles. Dubai building struck by debris. Thailand summons ambassador. Gulf banks (Citi, HSBC) closing branches."
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "@class": "phase-card p-4 rounded-lg flex gap-4",
+                      "div": [
+                        {
+                          "@class": "flex flex-col items-center",
+                          "div": [
+                            {
+                              "@class": "timeline-dot"
+                            },
+                            {
+                              "@class": "timeline-line flex-1 my-2"
+                            }
+                          ]
+                        },
+                        {
+                          "@class": "flex-1",
+                          "div": {
+                            "@class": "flex items-center gap-3 mb-2",
+                            "span": [
+                              {
+                                "@class": "bg-red-600 text-white text-xs px-2 py-1 rounded mono",
+                                "#text": "PHASE 9"
+                              },
+                              {
+                                "@class": "text-slate-500 text-sm",
+                                "#text": "DEEPENING"
+                              }
+                            ],
+                            "h3": {
+                              "@class": "font-bold text-white",
+                              "#text": "PHYSICAL SUPPLY CHAIN DISRUPTION"
+                            }
+                          },
+                          "p": {
+                            "@class": "text-slate-400 text-sm",
+                            "#text": "Aluminum: 21% of U.S. imports from Middle East. Fertilizer: 33% global trade transits Hormuz (urea up 43%). LNG: Qatar facilities damaged. Petrochemicals, plastics, rubber, electronics, batteries affected."
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "@class": "phase-card p-4 rounded-lg flex gap-4",
+                      "div": [
+                        {
+                          "@class": "flex flex-col items-center",
+                          "div": {
+                            "@class": "timeline-dot bg-orange-500"
+                          }
+                        },
+                        {
+                          "@class": "flex-1",
+                          "div": {
+                            "@class": "flex items-center gap-3 mb-2",
+                            "span": [
+                              {
+                                "@class": "bg-orange-600 text-white text-xs px-2 py-1 rounded mono",
+                                "#text": "PHASE 10"
+                              },
+                              {
+                                "@class": "text-slate-500 text-sm",
+                                "#text": "CURRENT"
+                              }
+                            ],
+                            "h3": {
+                              "@class": "font-bold text-orange-400",
+                              "#text": "MILITARY OPTIONS ASSESSMENT"
+                            }
+                          },
+                          "p": {
+                            "@class": "text-slate-400 text-sm",
+                            "#text": "U.S. Navy escort operations discussed but \"not ready\" per Energy Secretary Wright. Treasury Secretary Bessent: Navy will escort \"as soon as militarily possible.\" Iran: \"Any vessel belonging to U.S., Israel, or allies is legitimate target.\""
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "@class": "mb-12",
+            "div": [
+              {
+                "@class": "section-header p-4 rounded-t-lg",
+                "h2": {
+                  "@class": "text-xl font-bold text-white flex items-center gap-2",
+                  "span": {
+                    "@class": "text-red-500",
+                    "#text": "03"
+                  },
+                  "#text": "ECONOMIC & MARKET SIGNALS"
+                }
+              },
+              {
+                "@class": "bg-slate-900 border border-slate-800 rounded-b-lg p-6",
+                "h3": [
+                  {
+                    "@class": "text-lg font-semibold text-red-400 mb-4",
+                    "#text": "PRIMARY INDICATORS"
+                  },
+                  {
+                    "@class": "text-lg font-semibold text-red-400 mb-4",
+                    "#text": "IEA COORDINATED RELEASE BREAKDOWN"
+                  }
+                ],
+                "div": [
+                  {
+                    "@class": "grid md:grid-cols-3 gap-4 mb-8",
+                    "div": [
+                      {
+                        "@class": "metric-card p-4 rounded-lg",
+                        "p": [
+                          {
+                            "@class": "text-slate-400 text-sm mb-1",
+                            "#text": "Brent Crude"
+                          },
+                          {
+                            "@class": "text-xs text-red-400 mt-2",
+                            "#text": "+33-59% from pre-war ~$75"
+                          }
+                        ],
+                        "div": {
+                          "@class": "flex items-end gap-2",
+                          "span": [
+                            {
+                              "@class": "text-2xl font-bold text-white",
+                              "#text": "$100-119"
+                            },
+                            {
+                              "@class": "text-red-400 text-sm mb-1",
+                              "#text": "/bbl"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@class": "metric-card p-4 rounded-lg",
+                        "p": [
+                          {
+                            "@class": "text-slate-400 text-sm mb-1",
+                            "#text": "U.S. Gasoline"
+                          },
+                          {
+                            "@class": "text-xs text-red-400 mt-2",
+                            "#text": "+17% from pre-war ~$3.05"
+                          }
+                        ],
+                        "div": {
+                          "@class": "flex items-end gap-2",
+                          "span": [
+                            {
+                              "@class": "text-2xl font-bold text-white",
+                              "#text": "$3.57"
+                            },
+                            {
+                              "@class": "text-red-400 text-sm mb-1",
+                              "#text": "/gal"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@class": "metric-card p-4 rounded-lg",
+                        "p": [
+                          {
+                            "@class": "text-slate-400 text-sm mb-1",
+                            "#text": "Hormuz Traffic"
+                          },
+                          {
+                            "@class": "text-xs text-red-400 mt-2",
+                            "#text": "-96% from normal 138/day"
+                          }
+                        ],
+                        "div": {
+                          "@class": "flex items-end gap-2",
+                          "span": [
+                            {
+                              "@class": "text-2xl font-bold text-red-400",
+                              "#text": "<5"
+                            },
+                            {
+                              "@class": "text-slate-400 text-sm mb-1",
+                              "#text": "vessels/day"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@class": "bg-slate-800 rounded-lg p-4 mb-6",
+                    "div": [
+                      {
+                        "@class": "flex items-center justify-between mb-4",
+                        "span": [
+                          {
+                            "@class": "text-white font-bold",
+                            "#text": "Total Coordinated Release: 400 Million Barrels"
+                          },
+                          {
+                            "@class": "text-yellow-400 mono",
+                            "#text": "Largest in IEA History"
+                          }
+                        ]
+                      },
+                      {
+                        "@class": "space-y-2",
+                        "div": [
+                          {
+                            "@class": "flex items-center gap-4",
+                            "span": {
+                              "@class": "w-24 text-slate-400 text-sm",
+                              "#text": "United States"
+                            },
+                            "div": {
+                              "@class": "flex-1 h-6 bg-slate-700 rounded overflow-hidden",
+                              "div": {
+                                "@class": "h-full bg-blue-600 flex items-center justify-end px-2",
+                                "@style": "width: 43%",
+                                "span": {
+                                  "@class": "text-xs text-white font-bold",
+                                  "#text": "172M (43%)"
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "@class": "flex items-center gap-4",
+                            "span": {
+                              "@class": "w-24 text-slate-400 text-sm",
+                              "#text": "Japan"
+                            },
+                            "div": {
+                              "@class": "flex-1 h-6 bg-slate-700 rounded overflow-hidden",
+                              "div": {
+                                "@class": "h-full bg-red-500 flex items-center justify-end px-2",
+                                "@style": "width: 20%",
+                                "span": {
+                                  "@class": "text-xs text-white font-bold",
+                                  "#text": "80M (20%)"
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "@class": "flex items-center gap-4",
+                            "span": {
+                              "@class": "w-24 text-slate-400 text-sm",
+                              "#text": "South Korea"
+                            },
+                            "div": {
+                              "@class": "flex-1 h-6 bg-slate-700 rounded overflow-hidden",
+                              "div": {
+                                "@class": "h-full bg-green-600 flex items-center justify-end px-2",
+                                "@style": "width: 5.6%",
+                                "span": {
+                                  "@class": "text-xs text-white font-bold",
+                                  "#text": "22.5M"
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "@class": "flex items-center gap-4",
+                            "span": {
+                              "@class": "w-24 text-slate-400 text-sm",
+                              "#text": "Germany"
+                            },
+                            "div": {
+                              "@class": "flex-1 h-6 bg-slate-700 rounded overflow-hidden",
+                              "div": {
+                                "@class": "h-full bg-yellow-600 flex items-center justify-end px-2",
+                                "@style": "width: 4.9%",
+                                "span": {
+                                  "@class": "text-xs text-white font-bold",
+                                  "#text": "19.5M"
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "@class": "flex items-center gap-4",
+                            "span": {
+                              "@class": "w-24 text-slate-400 text-sm",
+                              "#text": "United Kingdom"
+                            },
+                            "div": {
+                              "@class": "flex-1 h-6 bg-slate-700 rounded overflow-hidden",
+                              "div": {
+                                "@class": "h-full bg-purple-600 flex items-center justify-end px-2",
+                                "@style": "width: 3.4%",
+                                "span": {
+                                  "@class": "text-xs text-white font-bold",
+                                  "#text": "13.5M"
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@class": "mt-4 p-3 bg-red-900/30 border border-red-800 rounded",
+                        "p": {
+                          "@class": "text-sm text-red-400",
+                          "strong": "CRITICAL:",
+                          "#text": "400M barrels = only 26 days of Hormuz transit volume. \r\n U.S. SPR delivery: 120 days. Market pricing prolonged conflict despite historic intervention."
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@class": "mb-12",
+            "div": [
+              {
+                "@class": "section-header p-4 rounded-t-lg",
+                "h2": {
+                  "@class": "text-xl font-bold text-white flex items-center gap-2",
+                  "span": {
+                    "@class": "text-red-500",
+                    "#text": "04"
+                  },
+                  "#text": "GEOPOLITICAL SIGNALS"
+                }
+              },
+              {
+                "@class": "bg-slate-900 border border-slate-800 rounded-b-lg p-6",
+                "div": [
+                  {
+                    "@class": "grid md:grid-cols-2 gap-6",
+                    "div": [
+                      {
+                        "@class": "signal-box p-4 rounded-lg border-l-4 border-red-600",
+                        "h3": {
+                          "@class": "text-lg font-bold text-red-400 mb-3",
+                          "#text": "IRAN: ASYMMETRIC ADVANTAGE"
+                        },
+                        "p": {
+                          "@class": "text-slate-300 text-sm",
+                          "#text": "Cost imposition ratio: Iranian operations cost thousands; Western economic damage measured in billions. Dynastic succession to Mojtaba suggests regime confidence in long-term survival."
+                        }
+                      },
+                      {
+                        "@class": "signal-box p-4 rounded-lg border-l-4 border-blue-600",
+                        "h3": {
+                          "@class": "text-lg font-bold text-blue-400 mb-3",
+                          "#text": "U.S.: STRATEGIC CONSTRAINTS"
+                        },
+                        "p": {
+                          "@class": "text-slate-300 text-sm",
+                          "#text": "Trump administration faces contradictory pressures: \"winning\" the war vs. containing gasoline prices before midterms. Russian sanctions relief represents tacit admission of policy limitations."
+                        }
+                      },
+                      {
+                        "@class": "signal-box p-4 rounded-lg border-l-4 border-yellow-600",
+                        "h3": {
+                          "@class": "text-lg font-bold text-yellow-400 mb-3",
+                          "#text": "RUSSIA: OPPORTUNISTIC REHABILITATION"
+                        },
+                        "p": {
+                          "@class": "text-slate-300 text-sm",
+                          "#text": "Moscow benefits from price spike without bearing conflict costs. Iran war indirectly rehabilitates Russian energy position while Ukraine sanctions regime erodes."
+                        }
+                      },
+                      {
+                        "@class": "signal-box p-4 rounded-lg border-l-4 border-purple-600",
+                        "h3": {
+                          "@class": "text-lg font-bold text-purple-400 mb-3",
+                          "#text": "GULF ALLIES: EROSION"
+                        },
+                        "p": {
+                          "@class": "text-slate-300 text-sm",
+                          "#text": "UAE intercepted 1,500+ drones; Qatar trust \"broken.\" Gulf banks (Citi, HSBC) evacuating. Long-term security realignment implications: acceleration of China/Russia diversification."
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@class": "mt-6 p-4 bg-red-900/20 border border-red-800 rounded-lg",
+                    "h4": {
+                      "@class": "text-red-400 font-bold mb-2",
+                      "#text": "⚠️ CRITICAL: THE CHINESE EXCEPTION"
+                    },
+                    "p": {
+                      "@class": "text-slate-300 text-sm",
+                      "#text": "Chinese-flagged vessels continue Hormuz transit while Western shipping halted. Beijing has negotiated de facto safe passage—a two-tier shipping system where Chinese energy security is maintained while Western access is denied."
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@class": "mb-12",
+            "div": [
+              {
+                "@class": "section-header p-4 rounded-t-lg",
+                "h2": {
+                  "@class": "text-xl font-bold text-white flex items-center gap-2",
+                  "span": {
+                    "@class": "text-red-500",
+                    "#text": "05"
+                  },
+                  "#text": "STRATEGIC IMPLICATIONS"
+                }
+              },
+              {
+                "@class": "bg-slate-900 border border-slate-800 rounded-b-lg p-6",
+                "div": {
+                  "@class": "grid md:grid-cols-3 gap-4",
+                  "div": [
+                    {
+                      "@class": "bg-slate-800 rounded-lg p-4",
+                      "div": {
+                        "@class": "flex items-center gap-2 mb-3",
+                        "div": {
+                          "@class": "w-3 h-3 bg-red-500 rounded-full"
+                        },
+                        "h3": {
+                          "@class": "font-bold text-white",
+                          "#text": "IMMEDIATE (0-30 Days)"
+                        }
+                      },
+                      "ul": {
+                        "@class": "space-y-2 text-sm text-slate-300",
+                        "li": [
+                          "→ Energy prices persist $90-100+ through Q2 2026",
+                          "→ Fed faces renewed inflation headwinds",
+                          "→ U.S. gasoline could reach $4.00+/gal by Memorial Day",
+                          "→ Navy escort ops create direct confrontation risk"
+                        ]
+                      }
+                    },
+                    {
+                      "@class": "bg-slate-800 rounded-lg p-4",
+                      "div": {
+                        "@class": "flex items-center gap-2 mb-3",
+                        "div": {
+                          "@class": "w-3 h-3 bg-yellow-500 rounded-full"
+                        },
+                        "h3": {
+                          "@class": "font-bold text-white",
+                          "#text": "MEDIUM-TERM (1-6 Months)"
+                        }
+                      },
+                      "ul": {
+                        "@class": "space-y-2 text-sm text-slate-300",
+                        "li": [
+                          "→ Russian sanctions relief becomes permanent",
+                          "→ Gulf security architecture questioned",
+                          "→ Alternative pipeline expansion urgent",
+                          "→ U.S. SPR falls below 250M barrels"
+                        ]
+                      }
+                    },
+                    {
+                      "@class": "bg-slate-800 rounded-lg p-4",
+                      "div": {
+                        "@class": "flex items-center gap-2 mb-3",
+                        "div": {
+                          "@class": "w-3 h-3 bg-orange-500 rounded-full"
+                        },
+                        "h3": {
+                          "@class": "font-bold text-white",
+                          "#text": "LONG-TERM (6+ Months)"
+                        }
+                      },
+                      "ul": {
+                        "@class": "space-y-2 text-sm text-slate-300",
+                        "li": [
+                          "→ Chokepoint vulnerability recognition drives diversification",
+                          "→ Renewable acceleration (security > cost)",
+                          "→ Maritime security doctrine revision",
+                          "→ Regional power realignment"
+                        ]
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "@class": "mb-12",
+            "div": [
+              {
+                "@class": "section-header p-4 rounded-t-lg",
+                "h2": {
+                  "@class": "text-xl font-bold text-white flex items-center gap-2",
+                  "span": {
+                    "@class": "text-red-500",
+                    "#text": "06"
+                  },
+                  "#text": "FUTURE SCENARIOS"
+                }
+              },
+              {
+                "@class": "bg-slate-900 border border-slate-800 rounded-b-lg p-6",
+                "div": {
+                  "@class": "space-y-4",
+                  "div": [
+                    {
+                      "@class": "scenario-a bg-slate-800 rounded-lg p-4",
+                      "div": {
+                        "@class": "flex items-center justify-between mb-2",
+                        "span": [
+                          {
+                            "@class": "bg-green-600 text-white text-xs px-2 py-1 rounded font-bold",
+                            "#text": "SCENARIO A: CONTROLLED DE-ESCALATION"
+                          },
+                          {
+                            "@class": "text-green-400 font-bold",
+                            "#text": "25%"
+                          }
+                        ]
+                      },
+                      "p": {
+                        "@class": "text-slate-300 text-sm",
+                        "#text": "Timeline: 2-4 weeks | Covert negotiations achieve face-saving Hormuz reopening. Iran maintains rhetoric while allowing limited transit."
+                      }
+                    },
+                    {
+                      "@class": "scenario-b bg-slate-800 rounded-lg p-4",
+                      "div": {
+                        "@class": "flex items-center justify-between mb-2",
+                        "span": [
+                          {
+                            "@class": "bg-yellow-600 text-white text-xs px-2 py-1 rounded font-bold",
+                            "#text": "SCENARIO B: PROLONGED STALEMATE"
+                          },
+                          {
+                            "@class": "text-yellow-400 font-bold",
+                            "#text": "45%"
+                          }
+                        ]
+                      },
+                      "p": {
+                        "@class": "text-slate-300 text-sm",
+                        "#text": "Timeline: 2-6 months | Iran maintains closure indefinitely. U.S. initiates naval escort operations; sporadic clashes. Global recession triggered."
+                      }
+                    },
+                    {
+                      "@class": "scenario-c bg-slate-800 rounded-lg p-4",
+                      "div": {
+                        "@class": "flex items-center justify-between mb-2",
+                        "span": [
+                          {
+                            "@class": "bg-orange-600 text-white text-xs px-2 py-1 rounded font-bold",
+                            "#text": "SCENARIO C: ESCALATION SPIRAL"
+                          },
+                          {
+                            "@class": "text-orange-400 font-bold",
+                            "#text": "20%"
+                          }
+                        ]
+                      },
+                      "p": {
+                        "@class": "text-slate-300 text-sm",
+                        "#text": "Timeline: 1-3 months | U.S. Navy escort operations result in direct combat losses. Regional war generalizes. Oil spikes to $150-200."
+                      }
+                    },
+                    {
+                      "@class": "scenario-d bg-slate-800 rounded-lg p-4",
+                      "div": {
+                        "@class": "flex items-center justify-between mb-2",
+                        "span": [
+                          {
+                            "@class": "bg-red-600 text-white text-xs px-2 py-1 rounded font-bold",
+                            "#text": "SCENARIO D: REGIME FRAGMENTATION"
+                          },
+                          {
+                            "@class": "text-red-400 font-bold",
+                            "#text": "10%"
+                          }
+                        ]
+                      },
+                      "p": {
+                        "@class": "text-slate-300 text-sm",
+                        "#text": "Timeline: 1-4 months | Sustained strikes degrade Iranian command/control. Internal opposition emerges; Revolutionary Guard fractures."
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "@class": "mb-12",
+            "div": [
+              {
+                "@class": "section-header p-4 rounded-t-lg",
+                "h2": {
+                  "@class": "text-xl font-bold text-white flex items-center gap-2",
+                  "span": {
+                    "@class": "text-red-500",
+                    "#text": "07"
+                  },
+                  "#text": "HIDDEN PATTERNS — MEDIA BLIND SPOTS"
+                }
+              },
+              {
+                "@class": "bg-slate-900 border border-slate-800 rounded-b-lg p-6",
+                "div": {
+                  "@class": "grid md:grid-cols-2 gap-4",
+                  "div": [
+                    {
+                      "@class": "pattern-card p-4 rounded-lg",
+                      "h3": {
+                        "@class": "font-bold text-indigo-300 mb-2",
+                        "#text": "1. THE RUSSIAN REALIGNMENT"
+                      },
+                      "p": {
+                        "@class": "text-slate-300 text-sm",
+                        "#text": "U.S.-Russia energy cooperation being rebuilt on Ukraine sanctions ashes. The 30-day Russian oil license is not temporary—it's a structural pivot."
+                      }
+                    },
+                    {
+                      "@class": "pattern-card p-4 rounded-lg",
+                      "h3": {
+                        "@class": "font-bold text-indigo-300 mb-2",
+                        "#text": "2. THE GULF ALLY CRISIS"
+                      },
+                      "p": {
+                        "@class": "text-slate-300 text-sm",
+                        "#text": "UAE, Qatar, Saudi under active Iranian attack despite not being belligerents. Trust in U.S. security guarantees eroding in real-time."
+                      }
+                    },
+                    {
+                      "@class": "pattern-card p-4 rounded-lg",
+                      "h3": {
+                        "@class": "font-bold text-indigo-300 mb-2",
+                        "#text": "3. THE DYNASTIC SIGNAL"
+                      },
+                      "p": {
+                        "@class": "text-slate-300 text-sm",
+                        "#text": "Iran has transitioned to hereditary rule (Mojtaba succession). Suggests regime confidence in long-term survival."
+                      }
+                    },
+                    {
+                      "@class": "pattern-card p-4 rounded-lg",
+                      "h3": {
+                        "@class": "font-bold text-indigo-300 mb-2",
+                        "#text": "4. THE INSURANCE WITHDRAWAL"
+                      },
+                      "p": {
+                        "@class": "text-slate-300 text-sm",
+                        "#text": "P&I Club withdrawals from Gulf shipping is the mechanism that actually stops trade—not Iranian threats alone. Market-driven blockade."
+                      }
+                    },
+                    {
+                      "@class": "pattern-card p-4 rounded-lg md:col-span-2",
+                      "h3": {
+                        "@class": "font-bold text-indigo-300 mb-2",
+                        "#text": "5. THE CHINESE EXCEPTION (Critical)"
+                      },
+                      "p": {
+                        "@class": "text-slate-300 text-sm",
+                        "#text": "Chinese-flagged vessels continue Hormuz transit. Beijing has negotiated de facto safe passage. Two-tier shipping system: Chinese energy security maintained while Western access denied—a strategic win for Beijing without cost."
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ],
+        "footer": {
+          "@class": "border-t border-slate-800 pt-6 pb-12",
+          "div": {
+            "@class": "flex flex-col md:flex-row justify-between items-center gap-4",
+            "div": [
+              {
+                "@class": "text-slate-500 text-sm",
+                "p": [
+                  "Analysis derived from 79 news headlines | March 12-13, 2026",
+                  "Open Source Intelligence (OSINT) product | Not classified"
+                ]
+              },
+              {
+                "@class": "classified-stamp text-xs",
+                "#text": "UNCLASSIFIED"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
