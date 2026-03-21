@@ -1,0 +1,448 @@
+{
+  "metadata": {
+    "title": "Iran War Crisis - Strait of Hormuz Disruption Intelligence Analysis",
+    "classification": "UNCLASSIFIED",
+    "source_type": "Open Source Intelligence (OSINT)",
+    "dataset_size": 79,
+    "analysis_date": "2026-03-13",
+    "conflict_start_date": "2026-02-28",
+    "conflict_day": 13,
+    "analyst_notes": "Asymmetric maritime interdiction campaign analysis"
+  },
+  "core_event": {
+    "event_type": "Asymmetric Maritime Interdiction Campaign",
+    "description": "Iran has weaponized the Strait of Hormuz through a denial-through-threat paradigm, achieving 96% traffic reduction without direct military blockade",
+    "strait_of_hormuz_stats": {
+      "normal_daily_transits": 138,
+      "current_daily_transits": "<5",
+      "percent_reduction": 96,
+      "global_oil_transit_percentage": 20,
+      "global_lng_transit_percentage": 25
+    },
+    "iranian_methodology": [
+      "Mine-laying operations in Strait approaches",
+      "Drone and missile swarm attacks on tankers",
+      "Declaratory policy from Supreme Leader",
+      "Insurance market deterrence"
+    ],
+    "strategic_intent": "Economic warfare targeting Western inflation vulnerabilities and electoral cycles rather than direct military confrontation",
+    "leadership_change": {
+      "former_supreme_leader": "Ayatollah Ali Khamenei",
+      "status": "Killed in opening strikes (Feb 28, 2026)",
+      "new_supreme_leader": "Mojtaba Khamenei",
+      "succession_type": "Dynastic (first hereditary transfer in Iranian history)",
+      "first_statement": "Read on state TV (not personal appearance - suggests operational security concerns)"
+    }
+  },
+  "phases": [
+    {
+      "phase_number": 1,
+      "name": "Strike & Decapitation",
+      "date_range": "February 28, 2026 (Days 0-2)",
+      "key_events": [
+        "U.S.-Israeli joint airstrikes commence",
+        "Supreme Leader Ali Khamenei confirmed killed",
+        "Iranian retaliation with missile strikes on regional U.S. bases and Gulf allies"
+      ],
+      "status": "Completed"
+    },
+    {
+      "phase_number": 2,
+      "name": "Maritime Escalation Threshold",
+      "date_range": "Days 3-5",
+      "key_events": [
+        "Transition from air war to sea denial",
+        "First tanker attacks reported in Persian Gulf",
+        "Revolutionary Guard issues threats against Hormuz transit",
+        "Insurance markets begin withdrawing coverage for Gulf routes",
+        "Shipping companies (Maersk, Hapag-Lloyd) suspend Mideast operations"
+      ],
+      "status": "Completed"
+    },
+    {
+      "phase_number": 3,
+      "name": "Strait Seizure",
+      "date_range": "Days 6-10",
+      "key_events": [
+        "De facto closure achieved",
+        "Traffic through Hormuz drops to 'trickles' (<10% of normal)",
+        "Iran begins systematic mining operations in Strait approaches",
+        "16+ commercial vessels attacked; at least 6 in final 48 hours",
+        "Gulf producers (Saudi, UAE, Qatar, Iraq) forced to shut in production as storage reaches capacity"
+      ],
+      "status": "Completed",
+      "critical": true
+    },
+    {
+      "phase_number": 4,
+      "name": "Economic Shock Transmission",
+      "date_range": "Days 11-13",
+      "key_events": [
+        "Brent crude breaches $100/barrel (first time since 2022)",
+        "Peak intraday: $119.50/barrel",
+        "U.S. retail gasoline up $0.50+/gallon to $3.57 national average",
+        "Dow Jones drops >700 points; S&P 500 worst day since war began",
+        "Jet fuel prices double (outpacing crude 2:1 ratio)"
+      ],
+      "status": "Completed"
+    },
+    {
+      "phase_number": 5,
+      "name": "Coordinated Countermeasures",
+      "date_range": "Day 13 - Current",
+      "key_events": [
+        "IEA announces record 400 million barrel emergency release (largest in agency history)",
+        "U.S. commits 172 million barrels from SPR (42% of total coordinated release)",
+        "Japan releases 80 million barrels",
+        "Germany releases 19.5 million barrels",
+        "UK releases 13.5 million barrels",
+        "South Korea releases 22.5 million barrels",
+        "U.S. temporarily lifts sanctions on Russian oil 'stranded at sea' (~130 million barrels)",
+        "Trump administration issues Jones Act waivers for domestic shipping"
+      ],
+      "status": "Active",
+      "critical": true
+    },
+    {
+      "phase_number": 6,
+      "name": "Sanctions Realignment",
+      "date_range": "Days 13-14",
+      "key_events": [
+        "U.S. Treasury grants 30-day license for Russian oil purchases (expires April 11, 2026)",
+        "Kremlin confirms energy cooperation discussions with Washington",
+        "Russia's oil export revenue had sunk to Ukraine-war lows; now positioned to benefit from price spike",
+        "Strategic implication: Iran war indirectly rehabilitates Russian energy position"
+      ],
+      "status": "Active"
+    },
+    {
+      "phase_number": 7,
+      "name": "Succession Consolidation",
+      "date_range": "Ongoing",
+      "key_events": [
+        "Mojtaba Khamenei confirmed as new Supreme Leader (dynastic succession)",
+        "First statement read on state TV (not personal appearance—suggests operational security concerns)",
+        "Declares Hormuz closure 'must continue as tool to pressure the enemy'",
+        "Threatens attacks on all regional U.S. bases; demands immediate closure"
+      ],
+      "status": "Active"
+    },
+    {
+      "phase_number": 8,
+      "name": "Alliance Stress Fractures",
+      "date_range": "Emerging",
+      "key_events": [
+        "Qatar intercepts Iranian missiles; trust with Tehran 'broken'",
+        "UAE has intercepted 1,500+ drones and 300+ missiles since Feb 28",
+        "Dubai building struck by interception debris (March 13, 2026)",
+        "Thailand summons Iranian ambassador after Thai-flagged vessel attacked; 3 crew missing",
+        "Gulf banks (Citi, HSBC) closing branches; evacuating staff from financial centers"
+      ],
+      "status": "Active"
+    },
+    {
+      "phase_number": 9,
+      "name": "Physical Supply Chain Disruption",
+      "date_range": "Deepening",
+      "key_events": [
+        "Aluminum: 21% of U.S. unwrought aluminum imports from Middle East",
+        "Fertilizer: 33% of global trade transits Hormuz; urea prices up 43% ($475→$680/metric ton)",
+        "LNG: Qatar facilities damaged; restart timeline weeks not days",
+        "Petrochemicals, plastics, rubber, electronics, batteries, pharmaceuticals affected"
+      ],
+      "status": "Active"
+    },
+    {
+      "phase_number": 10,
+      "name": "Military Options Assessment",
+      "date_range": "Current",
+      "key_events": [
+        "U.S. Navy escort operations discussed but 'not ready' per Energy Secretary Wright",
+        "Treasury Secretary Bessent: Navy will escort 'as soon as militarily possible'",
+        "U.S. claims 16 Iranian minelayers sunk in Strait approaches",
+        "Iran: 'Any vessel belonging to U.S., Israel, or allies is legitimate target'"
+      ],
+      "status": "Active",
+      "critical": true
+    }
+  ],
+  "economic_market_signals": {
+    "primary_indicators": {
+      "brent_crude": {
+        "pre_war": 75.0,
+        "current_low": 100.0,
+        "current_high": 119.5,
+        "unit": "USD per barrel",
+        "percent_change_low": 33,
+        "percent_change_high": 59
+      },
+      "wti_crude": {
+        "pre_war": 71.0,
+        "current": "94-95",
+        "unit": "USD per barrel",
+        "percent_change": 33
+      },
+      "us_gasoline": {
+        "pre_war": 3.05,
+        "current": 3.57,
+        "unit": "USD per gallon",
+        "percent_change": 17
+      },
+      "dow_jones": {
+        "pre_war": "~48,500",
+        "current": "<47,000",
+        "change": "-700+ points",
+        "percent_change": -3
+      },
+      "daily_hormuz_transits": {
+        "normal": 138,
+        "current": "<5",
+        "percent_reduction": 96
+      },
+      "global_supply_disruption": {
+        "volume_million_barrels_per_day": "15-20",
+        "description": "Largest supply disruption in history"
+      }
+    },
+    "iea_coordinated_release": {
+      "total_release_million_barrels": 400,
+      "historical_context": "Largest in IEA history (2x previous record of 182M barrels in 2022)",
+      "equivalent_hormuz_days": 26,
+      "us_spr_delivery_timeline_days": 120,
+      "market_response": "Tepid—prices remain elevated despite historic intervention",
+      "contributions": {
+        "united_states": {
+          "volume_million_barrels": 172,
+          "percent_of_total": 43,
+          "type": "Strategic Petroleum Reserve (SPR)"
+        },
+        "japan": {
+          "volume_million_barrels": 80,
+          "percent_of_total": 20
+        },
+        "south_korea": {
+          "volume_million_barrels": 22.5,
+          "percent_of_total": 5.6
+        },
+        "germany": {
+          "volume_million_barrels": 19.5,
+          "percent_of_total": 4.9
+        },
+        "united_kingdom": {
+          "volume_million_barrels": 13.5,
+          "percent_of_total": 3.4
+        },
+        "others": {
+          "volume_million_barrels": 92.5,
+          "percent_of_total": 23.1
+        }
+      },
+      "replenishment_plan": {
+        "volume_million_barrels": 200,
+        "timeline": "Over next year",
+        "net_effect": "28 million barrel increase to SPR"
+      }
+    },
+    "derivative_impacts": {
+      "aviation_sector": [
+        "Cathay Pacific fuel surcharges up 105% for U.S.-booked flights",
+        "Jet fuel prices doubled (2:1 ratio vs crude)",
+        "Hedging failures for unhedged carriers",
+        "United Airlines CEO: expects airfares to spike; personal assessment war lasts 'few more weeks'"
+      ],
+      "shipping_logistics": [
+        "Container rerouting creating 10-14 day initial delays",
+        "Cascading congestion: 2-5 weeks",
+        "Empty container shortages tightening export capacity in North America",
+        "Demurrage charges escalating at strained ports"
+      ],
+      "agriculture": [
+        "Fertilizer: 33% global trade transits Hormuz",
+        "Urea prices up 43% ($475→$680/metric ton)",
+        "Spring planting season vulnerability (Midwest soy/corn)",
+        "Food inflation secondary effect"
+      ],
+      "financial_markets": [
+        "Crude trading like 'meme stock until peace achieved'",
+        "Dow drops 700+ points; S&P worst day since war",
+        "Prices remain elevated despite IEA release",
+        "Traders pricing protracted conflict"
+      ]
+    }
+  },
+  "geopolitical_signals": {
+    "iran": {
+      "advantage_type": "Asymmetric",
+      "cost_imposition_ratio": "Thousands (Iranian ops) → Billions (Western damage)",
+      "time_horizon": "Months (regime survival)",
+      "succession_model": "Dynastic (Mojtaba Khamenei)",
+      "strategic_assessment": "Regime confidence in long-term survival; eliminates factional competition that enables diplomatic flexibility"
+    },
+    "united_states": {
+      "strategic_constraints": [
+        "Contradictory pressures: 'winning' war vs containing gasoline prices before midterms",
+        "Russian sanctions relief represents tacit admission of unilateral economic warfare limits",
+        "Military escort operations delayed despite political pressure—suggests risk assessment of naval losses"
+      ],
+      "navy_escort_status": "Not ready (Energy Secretary Wright); 'as soon as militarily possible' (Treasury Secretary Bessent)"
+    },
+    "russia": {
+      "opportunity_type": "Opportunistic Rehabilitation",
+      "oil_revenue_trajectory": "Ukraine-war lows → Price spike benefit",
+      "us_discussions": "Energy cooperation confirmed by Kremlin",
+      "sanctions_license": "30-day temporary license (expires April 11, 2026)",
+      "strategic_implication": "Iran war indirectly rehabilitates Russian energy position while Ukraine sanctions regime erodes"
+    },
+    "gulf_allies": {
+      "status": "Erosion of trust",
+      "uae_interceptions": {
+        "drones": 1500,
+        "missiles": 300,
+        "since_date": "February 28, 2026"
+      },
+      "qatar_status": "Trust with Tehran 'broken'",
+      "banking_sector": "Citi, HSBC closing branches; evacuating staff",
+      "long_term_implications": "Gulf states may accelerate China/Russia diversification"
+    },
+    "china": {
+      "observation": "Chinese-flagged vessels continue Hormuz transit",
+      "arrangement": "De facto safe passage negotiated with Beijing",
+      "strategic_effect": "Two-tier shipping system: Chinese energy security maintained while Western access denied",
+      "cost_to_china": "None",
+      "media_coverage": "Noted but not analyzed for structural implications"
+    }
+  },
+  "strategic_implications": {
+    "immediate_0_30_days": [
+      "Energy price persistence: $90-100+ oil through Q2 2026",
+      "Inflationary pressure: Fed faces renewed headwinds; rate cut expectations receding",
+      "Gasoline politics: U.S. average could reach $4.00+/gallon by peak driving season (Memorial Day)",
+      "Military escalation risk: Navy escort operations create direct U.S.-Iran naval confrontation potential"
+    ],
+    "medium_term_1_6_months": [
+      "Russian energy rehabilitation: Temporary sanctions relief likely becomes permanent",
+      "Gulf security architecture: Traditional U.S. security guarantees questioned; regional arms race acceleration",
+      "Alternative route development: Saudi East-West Pipeline and UAE Habshan-Fujairah Pipeline expansion urgent",
+      "Strategic reserve depletion: U.S. SPR falls below 250 million barrels; emergency buffer compromised"
+    ],
+    "long_term_6_plus_months": [
+      "Chokepoint vulnerability recognition: Global energy system exposed to single-point-of-failure risk",
+      "Renewable acceleration: Energy security concerns override cost considerations",
+      "Maritime security doctrine: International convoy systems for critical straits",
+      "Regional power realignment: Iran emerges as demonstrated capability to disrupt global economy"
+    ]
+  },
+  "future_scenarios": [
+    {
+      "scenario_id": "A",
+      "name": "Controlled De-escalation",
+      "probability_percent": 25,
+      "timeline": "2-4 weeks",
+      "description": "Covert negotiations achieve face-saving Hormuz reopening. Iran maintains 'lever' rhetoric while allowing limited transit under Chinese/Russian flagged vessels. U.S. scales back strikes in exchange for maritime passage. Oil prices retreat to $80-85 range.",
+      "indicators": [
+        "Chinese tankers resume Hormuz transit",
+        "Mojtaba Khamenei public appearance",
+        "Russian diplomatic mediation signals"
+      ]
+    },
+    {
+      "scenario_id": "B",
+      "name": "Prolonged Stalemate",
+      "probability_percent": 45,
+      "timeline": "2-6 months",
+      "description": "Iran maintains Hormuz closure as 'pressure tool' indefinitely. U.S. initiates naval escort operations; sporadic naval clashes occur. Global recession triggered by sustained $100+ oil. Trump administration faces domestic political crisis over gasoline prices. Russian oil sanctions relief becomes permanent fixture.",
+      "indicators": [
+        "IEA releases exhausted without price stabilization",
+        "U.S. gasoline exceeds $4.50/gallon",
+        "Major airline bankruptcies",
+        "Gulf allies publicly distance from U.S. policy"
+      ],
+      "most_probable": true
+    },
+    {
+      "scenario_id": "C",
+      "name": "Escalation Spiral",
+      "probability_percent": 20,
+      "timeline": "1-3 months to critical mass",
+      "description": "U.S. Navy escort operations result in direct combat losses. Iran expands attacks to Saudi/Gulf oil production infrastructure (not just transit). Regional war generalizes: Hezbollah-Israel conflict intensifies; Yemen Houthis enter. Nuclear facilities targeted; radiation release events. Oil prices spike to $150-200 range; global financial crisis.",
+      "indicators": [
+        "U.S. naval vessel damaged/sunk in Hormuz",
+        "Saudi Aramco facilities attacked",
+        "Israeli ground operation into Lebanon",
+        "IAEA confirms Iranian nuclear material release"
+      ]
+    },
+    {
+      "scenario_id": "D",
+      "name": "Regime Fragmentation",
+      "probability_percent": 10,
+      "timeline": "1-4 months",
+      "description": "Sustained strikes degrade Iranian command/control. Internal opposition emerges; Revolutionary Guard fractures. Regional ethnic separatism (Kurdish, Baloch, Arab) activated. Hormuz closure becomes unsustainable due to internal chaos. Post-regime stabilization mission required.",
+      "indicators": [
+        "Iranian military commanders defecting/being purged",
+        "Civil unrest in Tehran, Isfahan, Mashhad",
+        "Separatist attacks on Iranian infrastructure",
+        "Revolutionary Guard units operating autonomously"
+      ]
+    }
+  ],
+  "hidden_patterns_media_blind_spots": [
+    {
+      "pattern_id": 1,
+      "title": "The Russian Realignment",
+      "observation": "Media focuses on Iran-U.S. confrontation but misses the larger story: U.S.-Russia energy cooperation is being rebuilt on the ashes of Ukraine sanctions policy.",
+      "critical_detail": "The 30-day Russian oil license is not temporary—it's a structural pivot. Moscow gains leverage in both Washington and Tehran simultaneously."
+    },
+    {
+      "pattern_id": 2,
+      "title": "The Gulf Ally Crisis",
+      "observation": "Coverage emphasizes U.S.-Iran dynamics while underreporting Gulf state abandonment.",
+      "critical_detail": "UAE, Qatar, Saudi Arabia are under active Iranian attack despite not being belligerents. Trust in U.S. security guarantees is eroding in real-time; long-term geopolitical realignment implications are profound."
+    },
+    {
+      "pattern_id": 3,
+      "title": "The Dynastic Signal",
+      "observation": "Mojtaba Khamenei's succession is reported as fact but not analyzed strategically.",
+      "critical_detail": "Iran has transitioned to hereditary rule. This suggests regime confidence in long-term survival and eliminates the factional competition that often enables diplomatic flexibility."
+    },
+    {
+      "pattern_id": 4,
+      "title": "The Supply Chain Depth",
+      "observation": "Headlines focus on oil prices but miss non-energy commodity impacts.",
+      "critical_detail": "Aluminum, fertilizer, petrochemicals, LNG—these create second-order inflation and agricultural disruption that will outlast the immediate oil shock."
+    },
+    {
+      "pattern_id": 5,
+      "title": "The Strategic Reserve Depletion",
+      "observation": "U.S. SPR release of 172 million barrels (with 200 million barrel 'replenishment' plan) is reported positively.",
+      "critical_detail": "Unreported: Net SPR levels will remain historically low; U.S. loses emergency buffer precisely when Gulf stability is most questionable."
+    },
+    {
+      "pattern_id": 6,
+      "title": "The Insurance Market Withdrawal",
+      "observation": "Little coverage of P&I Club (protection and indemnity) withdrawals from Gulf shipping.",
+      "critical_detail": "This is the mechanism that actually stops trade—not Iranian threats alone. Commercial shipping cannot operate without insurance; insurance cannot operate without reinsurance; reinsurance markets are withdrawing. This is a market-driven blockade enabled by Iranian threat."
+    },
+    {
+      "pattern_id": 7,
+      "title": "The Chinese Exception",
+      "observation": "Noted but not analyzed: Chinese-flagged vessels continue Hormuz transit.",
+      "critical_detail": "Beijing has negotiated a de facto safe passage arrangement. This creates a two-tier shipping system where Chinese energy security is maintained while Western access is denied—a strategic win for Beijing without cost.",
+      "severity": "Critical"
+    }
+  ],
+  "intelligence_assessment_summary": {
+    "current_status": "Day 13 of conflict represents transition from kinetic opening phase to economic warfare of attrition",
+    "iranian_strategy_assessment": "Successful execution of asymmetric maritime interdiction achieving 96% traffic reduction with minimal force expenditure. Economic damage to West ($ billions) vastly exceeds cost of operations ($ millions).",
+    "western_response_assessment": "Unprecedented coordinated IEA release demonstrates institutional capacity for collective action, but physical supply constraints and market psychology limit effectiveness. Russian sanctions relief represents tacit admission of policy limitations.",
+    "critical_uncertainty": "Timeline for U.S. Navy escort operations and Iranian response to direct naval confrontation",
+    "strategic_outlook": "Prolonged stalemate (Scenario B) most probable (45%), with significant risk of escalation spiral (Scenario C, 20%). Controlled de-escalation (Scenario A, 25%) possible but requires face-saving diplomacy not currently evident.",
+    "long_term_consequences": [
+      "Strategic reserves depleted",
+      "Gulf alliances strained",
+      "Russian position rehabilitated",
+      "Chinese exceptionalism established",
+      "Post-crisis world will feature accelerated energy diversification, maritime security architecture revision, and reduced U.S. Middle East credibility"
+    ]
+  }
+}
