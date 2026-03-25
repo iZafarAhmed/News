@@ -1,5 +1,197 @@
 [
   {
+    "websiteName": "The Independent World News •",
+    "title": "Ukraine-Russia war latest: Moscow launches largest aerial attack over 24-hour period since war began",
+    "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-drone-strikes-putin-zelensky-b2945082.html",
+    "date": "2026-03-25T03:02:43.055Z",
+    "imageUrl": "https://static.independent.co.uk/2026/03/25/3/48/SEI290775600-(1).jpg?width=1200&auto=webp&trim=0%2C77%2C0%2C77",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Psychology Today •",
+    "title": "Debating About the Boundary Between Pain and Suffering",
+    "url": "https://www.psychologytoday.com/us/blog/psychiatrist-in-the-pain-clinic/202603/debating-about-the-boundary-between-pain-and-suffering",
+    "date": "2026-03-24T18:30:00.000Z",
+    "imageUrl": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-03/pexels-cottonbro-6542696.jpg?itok=a-KNVgwc",
+    "category": "Health"
+  },
+  {
+    "websiteName": "CBC •",
+    "title": "Porter to launch flights from revamped Montreal Metropolitan Airport",
+    "url": "https://www.cbc.ca/news/canada/montreal/porter-flights-montreal-9.7140629?cmp=rss",
+    "date": "2026-03-24T20:02:43.056Z",
+    "imageUrl": "https://i.cbc.ca/ais/c780d66f-ad8d-44d2-8062-904f37f1a739,1774383856742/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C393%2C7545%2C4244%29%3BResize%3D%28620%29",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "TechRepublic •",
+    "title": "Apple Announces WWDC 2026: What to Expect From iOS 27, Siri Revamp",
+    "url": "https://www.techrepublic.com/article/news-apple-wwdc-2026-ios-27-siri-ai-updates/",
+    "date": "2026-03-24T16:02:43.057Z",
+    "imageUrl": "chrome-extension://hndjdkkbeeoedlfiglebbkmffmbdnhdb/&target_size=508x269",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "ScienceDaily •",
+    "title": "This tiny implant, smaller than a grain of salt, can read your brain",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260324024249.htm",
+    "date": "2026-03-25T02:02:43.057Z",
+    "imageUrl": "https://www.sciencedaily.com/images/1920/cornell-neural-implant.webp",
+    "category": "Other"
+  },
+  {
+    "websiteName": "ScienceDaily •",
+    "title": "Fathers face rising depression risk a year after baby arrives",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260324230057.htm",
+    "date": "2026-03-25T03:02:43.057Z",
+    "imageUrl": "https://www.sciencedaily.com/images/1920/parents-couple-stress-crying-baby-boy.webp",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Good Housekeeping •",
+    "title": "Designers Swear by These Surprising Hotel Room Paint Colors",
+    "url": "https://www.goodhousekeeping.com/home/decorating-ideas/a70823427/unexpected-hotel-room-paint-colors/",
+    "date": "2026-03-24T17:02:43.057Z",
+    "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/e302c9e3-6126-4cd1-b1db-d7ac21b812df.jpeg",
+    "category": "Home"
+  },
+  {
+    "websiteName": "Sky News •",
+    "title": "Danish PM faces fight to stay in post after election losses",
+    "url": "https://news.sky.com/story/denmark-election-pm-frederiksen-faces-fight-to-stay-in-post-after-losses-13524098",
+    "date": "2026-03-25T01:02:43.057Z",
+    "imageUrl": "https://e3.365dm.com/26/03/1920x1080/skynews-mette-frederiksen-denmark_7202340.jpg?20260325023819",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "The Atlantic •",
+    "title": "Military Families Once Again Brace for a Knock",
+    "url": "https://www.theatlantic.com/national-security/2026/03/iran-war-military-families-grief/686480/?utm_source=feed",
+    "date": "2026-03-25T00:02:43.057Z",
+    "imageUrl": "https://cdn.theatlantic.com/thumbor/4B31XuAiVJDkzekE0_04RxObGCg=/media/img/mt/2026/03/2026_03_20_The_Answers_We_Seek_From_Grieving_Military_Families/original.jpg",
+    "category": "Culture"
+  },
+  {
+    "websiteName": "Scientific American •",
+    "title": "NASA announces nuclear-powered Mars mission by 2028",
+    "url": "https://www.scientificamerican.com/article/nasa-announces-nuclear-powered-mars-mission-by-2028/",
+    "date": "2026-03-24T13:02:43.057Z",
+    "imageUrl": "https://static.scientificamerican.com/dam/m/3d7c1c8e5ff2d1b6/original/Mars-crop.jpg?m=1774361121.178&w=1200",
+    "category": "Other"
+  },
+  {
+    "websiteName": "BBC World News •",
+    "title": "Pilots killed in LaGuardia plane crash named",
+    "url": "https://www.bbc.com/news/articles/cz67jq0enwpo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-03-24T20:02:43.057Z",
+    "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0098/live/44ce57b0-2770-11f1-82f7-f757ccb9d4bd.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Seeking Alpha •",
+    "title": "CoreWeave: A Compelling Risk/Reward Opportunity Despite Capex Backlog",
+    "url": "https://seekingalpha.com/article/4885597-coreweave-stock-compelling-risk-reward-opportunity-despite-capex-backlog?source=feed_all_articles",
+    "date": "2026-03-25T03:02:43.057Z",
+    "imageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1443076198/image_1443076198.jpg?io=getty-c-w1536",
+    "category": "Business"
+  },
+  {
+    "websiteName": "MarketWatch •",
+    "title": "7 software stocks set to thrive in the face of AI uncertainty",
+    "url": "https://www.marketwatch.com/story/7-software-stocks-set-to-thrive-in-the-face-of-ai-uncertainty-d810b6d1?mod=mw_rss_topstories",
+    "date": "2026-03-25T00:02:43.058Z",
+    "imageUrl": "https://images.mktw.net/im-99465391",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Al Jazeera •",
+    "title": "Building collapses after Iranian missile strike on Israel",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/24/building-collapses-after-iranian-missile-strike-on-israel?traffic_source=rss",
+    "date": "2026-03-24T21:02:43.058Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/03/BNEI-BRAK-WIDE-CLEAN-1774386402.jpg?resize=1920%2C1080&quality=80",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "CBS News •",
+    "title": "NASA to spend $20 billion on ambitious moon base",
+    "url": "https://www.cbsnews.com/news/nasa-moon-base-plan-lunar-south-pole/",
+    "date": "2026-03-24T23:02:43.058Z",
+    "imageUrl": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/03/24/cd2423b7-6773-4640-9398-d57588d1ee4f/thumbnail/1200x630/c4f96ca2863e681c311b1e5510975369/032426-moonbase-graphic.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "WSJ World News •",
+    "title": "A ‘Wannabe Strongman’ Rises in Iran as Trump Seeks a Dealmaker",
+    "url": "https://www.wsj.com/world/middle-east/iran-who-is-mohammad-bagher-ghalibaf-3c3ecf3e",
+    "date": "2026-03-25T01:02:43.058Z",
+    "imageUrl": "https://images.wsj.net/im-63363606",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Breitbart •",
+    "title": "White House Official: Reports of Iranians Wanting Vance to Lead Negotiations Are Part of a 'Foreign Propaganda Campaign'",
+    "url": "https://www.breitbart.com/the-media/2026/03/24/white-house-official-reports-of-iranians-wanting-vance-to-lead-negotiations-are-part-of-a-foreign-propaganda-campaign/",
+    "date": "2026-03-25T02:02:43.058Z",
+    "imageUrl": "https://media.breitbart.com/media/2026/03/AP26077669336877-640x335.png",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Techspot •",
+    "title": "Operation Alice: The dark web isn't as hidden as it seems, as global crackdown shows",
+    "url": "https://www.techspot.com/news/111789-operation-alice-dark-web-isnt-hidden-global-crackdown.html",
+    "date": "2026-03-23T06:02:43.058Z",
+    "imageUrl": "https://www.techspot.com/images2/news/ts3_thumbs/2026/03/2026-03-23-ts3_thumbs-727.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Tech Advisor •",
+    "title": "8 essential Google Gemini prompts for your Android phone",
+    "url": "https://www.techadvisor.com/article/3092557/8-essential-google-gemini-prompts-for-your-android-phone.html",
+    "date": "2026-03-24T17:02:43.058Z",
+    "imageUrl": "https://b2c-contenthub.com/wp-content/uploads/2026/03/custom_ring.jpg?quality=50&strip=all&w=1200",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Daily Mail World News •",
+    "title": "Canary Islands plead for military help amid mounting storm chaos: Dams 'close to overflowing' and villages cut off as video shows jet abort landing at last second in howling winds",
+    "url": "https://www.dailymail.co.uk/news/article-15673997/Canary-Islands-plead-military-help-amid-mounting-storm-chaos-Dams-close-overflowing-villages-cut-video-shows-jet-abort-landing-second-howling-winds.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+    "date": "2026-03-24T14:02:43.058Z",
+    "imageUrl": "https://i.dailymail.co.uk/1s/2026/03/24/12/107375321-0-image-a-25_1774353876374.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "9to5Mac •",
+    "title": "Apple Music now helps you keep up with concerts from your favorite artists",
+    "url": "https://9to5mac.com/2026/03/24/apple-music-now-helps-you-keep-up-with-concerts-from-your-favorite-artists/",
+    "date": "2026-03-24T22:02:43.058Z",
+    "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/apple-music-concerts.jpg?quality=82&strip=all&w=1600",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "ScienceDaily •",
+    "title": "Most Americans don’t know this food raises colon cancer risk",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260324024259.htm",
+    "date": "2026-03-25T04:02:43.058Z",
+    "imageUrl": "https://www.sciencedaily.com/images/1920/colon-cancer.webp",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Creative Bloq •",
+    "title": "How Croak is bringing hand-drawn animation back with a modern twist",
+    "url": "https://www.creativebloq.com/3d/video-game-design/how-croak-is-bringing-hand-drawn-animation-back-without-breaking-modern-gameplay",
+    "date": "2026-03-24T16:02:43.058Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/vmXdiLM9ipjVzK3zV58Tdc-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "WSJ World News •",
+    "title": "Danish Prime Minister in Limbo After Poor Election Result",
+    "url": "https://www.wsj.com/world/europe/danish-prime-minister-in-limbo-after-poor-election-result-78fa8e69",
+    "date": "2026-03-25T00:02:43.058Z",
+    "imageUrl": "https://images.wsj.net/im-53164297",
+    "category": "World News"
+  },
+  {
     "websiteName": "ESPN •",
     "title": "Hyo Joo Kim edges Nelly Korda for wire-to-wire Founders win",
     "url": "https://www.espn.com/golf/story/_/id/48284092/hyo-joo-kim-edges-nelly-korda-wins-lpga-tour-founders-cup",
