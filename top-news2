@@ -1,5 +1,197 @@
 [
   {
+    "websiteName": "How-To Geek",
+    "title": "3 Netflix Shows Perfect for Your Weekend Binge (April 3-5)",
+    "url": "https://www.howtogeek.com/netflix-shows-weekend-binge-april-3/",
+    "date": "2026-04-03T10:25:37.288Z",
+    "imageUrl": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/01/netflix-logo-centered-on-a-blurred-forest-and-blue-sky-background.png",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Axios",
+    "title": "House Speaker Delays Vote on Homeland Security Funding",
+    "url": "https://www.axios.com/2026/04/02/dhs-shutdown-house-vote-johnson",
+    "date": "2026-04-02T20:25:37.290Z",
+    "imageUrl": "https://images.axios.com/6w2CmpfV5uwE7FZLARnk-2YdiRw=/0x148:7476x4353/1366x768/2026/04/02/1775159091735.jpeg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Android Authority",
+    "title": "Gemini AI Rolls Out to Android Auto, Becoming Your New Driving Assistant",
+    "url": "https://www.androidauthority.com/android-auto-gemini-rollout-3654591/",
+    "date": "2026-04-02T20:25:37.290Z",
+    "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/11/Android-Auto-Gemini-5-Gemini-Live.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "RawStory",
+    "title": "Intelligence Report on Trump Raises Alarming Questions, Expert Warns",
+    "url": "https://www.rawstory.com/trump-iran-2676658868/",
+    "date": "2026-04-03T01:25:37.290Z",
+    "imageUrl": "https://www.rawstory.com/media-library/cnn-s-kaitlan-collins-and-sue-gordon-on-the-source.png?id=65455220&width=980",
+    "category": "Other"
+  },
+  {
+    "websiteName": "ESPN",
+    "title": "Josh Allen and Hailee Steinfeld Welcome Their First Child",
+    "url": "https://www.espn.com/nfl/story/_/id/48377774/josh-allen-hailee-steinfeld-birth-child-buffalo-bills",
+    "date": "2026-04-03T12:01:37.290Z",
+    "imageUrl": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0402%2Fr1637629_2_1296x729_16%2D9.jpg",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "Ars Technica",
+    "title": "Google Unveils Gemma 4 AI Models with Fully Open Apache 2.0 License",
+    "url": "https://arstechnica.com/ai/2026/04/google-announces-gemma-4-open-ai-models-switches-to-apache-2-0-license/",
+    "date": "2026-04-02T15:25:37.291Z",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemma-4_keyart_header-dark_16_9-1152x648.png",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Tom's Guide",
+    "title": "This Obstacle-Climbing Robot Vacuum Changes Everything",
+    "url": "https://www.tomsguide.com/home/im-a-robot-vacuum-expert-and-after-seeing-this-vacuum-that-can-climb-over-obstacles-its-the-only-feature-i-care-about",
+    "date": "2026-04-03T09:25:37.291Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/PLgLdB4mdbrfYDcuCSbNdC-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "The Hill",
+    "title": "Trump Warns US Military Action Against Iran Is Just Beginning",
+    "url": "https://thehill.com/policy/defense/5814545-trump-us-military-iran-attacks/",
+    "date": "2026-04-03T11:39:37.291Z",
+    "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/04/AP26092085601685-e1775215724288.jpg?w=900",
+    "category": "Other"
+  },
+  {
+    "websiteName": "RawStory",
+    "title": "Ex-GOP Insider Links Disturbing Search Trends to 'Collapse of MAGA Self-Image'",
+    "url": "https://www.rawstory.com/noem-2676659940/",
+    "date": "2026-04-03T11:48:37.291Z",
+    "imageUrl": "https://www.rawstory.com/media-library/image.jpg?id=53776834&width=980",
+    "category": "Other"
+  },
+  {
+    "websiteName": "CBS News",
+    "title": "Senator Urges TSA to End 'Shoes-On' Policy Over Safety Concerns",
+    "url": "https://www.cbsnews.com/news/senate-democrat-demands-tsa-lift-shoes-on-policy-safety-risk/",
+    "date": "2026-04-03T09:25:37.292Z",
+    "imageUrl": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/01/30/b20e8a3f-09fb-4c29-9f5c-d8c4376ee47d/thumbnail/1200x630g4/b137bc75572f554190a629575fcc86da/gettyimages-2196127734.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "WSJ US Business",
+    "title": "Berkeley Group Stock Plunges to 9-Year Low as Land Deals Freeze",
+    "url": "https://www.wsj.com/business/earnings/berkeley-group-pauses-new-land-deals-due-to-market-uncertainty-b7c7b6f5?mod=pls_whats_news_us_business_f",
+    "date": "2026-03-31T12:25:37.292Z",
+    "imageUrl": "https://images.wsj.net/im-52910105",
+    "category": "Business"
+  },
+  {
+    "websiteName": "AndroidCentral",
+    "title": "Six Surprising Things I Discovered After Three Weeks with the Galaxy S26 Ultra",
+    "url": "https://www.androidcentral.com/phones/samsung-galaxy/i-used-the-galaxy-s26-ultra-for-three-weeks-here-are-six-things-i-learned",
+    "date": "2026-04-03T08:25:37.292Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/hSmSLqsuvyeawhGHAtQwo6-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "GSMArena",
+    "title": "Infinix GT 50 Pro Gaming Phone Leaks in Two Colors",
+    "url": "https://www.gsmarena.com/more_details_about_the_infinix_gt_50_pro_surface_see_it_in_two_colors_in_fresh_renders-news-72225.php",
+    "date": "2026-04-03T09:25:37.292Z",
+    "imageUrl": "https://fdn.gsmarena.com/imgroot/news/26/04/infinix-gt-50-pro-leak/-952x498w6/gsmarena_000.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Inverse",
+    "title": "Darth Maul Series 'Shadow Lord' Renewed for Season 2 Before Premiere",
+    "url": "https://www.inverse.com/entertainment/maul-shadow-lord-season-2",
+    "date": "2026-04-02T18:25:37.292Z",
+    "imageUrl": "https://imgix.bustle.com/uploads/image/2026/4/2/c9946976/darth-maul-image.jpeg?w=1200&fit=max",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Insider",
+    "title": "Deutsche Bank's 21 'Fresh Money' Stock Picks That Outperform the S&P 500",
+    "url": "https://www.businessinsider.com/deutsche-bank-stocks-investing-wall-street-ai-avgo-amat-sbux-2026-4",
+    "date": "2026-04-03T09:25:37.292Z",
+    "imageUrl": "https://pcdn.brave.com/brave-today/cache/a1fc92578eae4e9edc25ea6d342cfca64c6c292694641cb1bda680521f0251e6.jpg.pad",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Zerohedge",
+    "title": "Trump Issues New Warning to Iran as Hormuz Strait Reopening Talks Begin",
+    "url": "https://www.zerohedge.com/geopolitical/irans-highest-bridge-middle-east-destroyed-after-trumps-back-stone-age-threat",
+    "date": "2026-04-02T19:25:37.292Z",
+    "imageUrl": "https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/bfmD85E_2.jpg?itok=MC9UxLQe",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Delish",
+    "title": "Professional Baker Reveals the 4 Best Non-Dairy Milks for Desserts",
+    "url": "https://www.delish.com/kitchen-tools/kitchen-secrets/a70920052/best-non-dairy-milks-for-desserts/",
+    "date": "2026-04-02T20:25:37.292Z",
+    "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/vanilla-cake-index-64b741d111282.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "LA Times",
+    "title": "How Los Angeles Artists Are Quietly Powering New York's Biggest Cultural Institutions",
+    "url": "https://www.latimes.com/entertainment-arts/story/2026-04-03/la-invades-new-york-philharmonic-met-park-avenue-armory",
+    "date": "2026-04-03T09:25:37.292Z",
+    "imageUrl": "https://ca-times.brightspotcdn.com/dims4/default/0d8aece/2147483647/strip/true/crop/3600x1890+0+468/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4d%2F9b%2F0786897741228b19c836dbdaa75c%2Ftristan-fd-5599-c.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Windows Central",
+    "title": "Speechify for Windows Converted This AI Skeptic—Here's Why It's Addictive",
+    "url": "https://www.windowscentral.com/software-apps/im-skeptical-of-ai-writing-tools-but-speechify-for-windows-won-me-over-heres-why-this-new-voice-writing-app-is-fast-simple-and-weirdly-addictive",
+    "date": "2026-04-01T12:25:37.292Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/9jvJpmFkF99PQWvyeXfXki-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Tom's Guide",
+    "title": "Where to Watch 'The Young Offenders' Season 5 Free Online",
+    "url": "https://www.tomsguide.com/entertainment/streaming/how-to-watch-the-young-offenders-season-5-for-free",
+    "date": "2026-04-03T08:25:37.292Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/siBBMazmNuiwqzddSUnXTC-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Tom's Hardware",
+    "title": "Build a PC for Under $500: Newegg's $490 AMD Ryzen Combo Deal",
+    "url": "https://www.tomshardware.com/pc-components/amazing-usd490-newegg-combo-includes-an-amd-ryzen-5-9600x-cpu-16gb-of-g-skill-ddr5-6000-ram-msi-pro-b850-s-motherboard-and-240mm-msi-mag-coreliquid-a13-aio-cpu-cooler-all-for-under-usd500",
+    "date": "2026-04-01T12:25:37.293Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/YphyicCze7sPAY6Ze3WaCo-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Gizmodo",
+    "title": "Oscar Isaac Regrets 'X-Men: Apocalypse': Promised Co-Stars, Got a Tent",
+    "url": "https://gizmodo.com/oscar-isaac-did-x-men-apocalypse-to-work-with-top-tier-actors-instead-he-got-a-cooling-tent-2000741861",
+    "date": "2026-04-03T10:25:37.293Z",
+    "imageUrl": "https://gizmodo.com/app/uploads/2026/04/x-men-apocalypse-oscar-isaac-1280x853.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Seeking Alpha",
+    "title": "Unlock 10-13% Yields: The Overlooked Strategy for Retirement Diversification",
+    "url": "https://seekingalpha.com/article/4888279-misunderstood-10minus-13-percent-yields-for-important-retirement-portfolio-diversification?source=feed_all_articles",
+    "date": "2026-04-03T10:25:37.293Z",
+    "imageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2183540279/image_2183540279.jpg?io=getty-c-w1536",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Sky News",
+    "title": "Myanmar's Coup Leader Consolidates Power with Presidential 'Election'",
+    "url": "https://news.sky.com/story/head-of-myanmars-ruling-junta-who-led-coup-against-nobel-peace-prize-winner-aung-san-suu-kyi-becomes-president-13527465",
+    "date": "2026-04-03T06:25:37.293Z",
+    "imageUrl": "https://e3.365dm.com/26/04/1920x1080/skynews-min-aung-hlaing-myanmar_7209962.jpg?20260403074340",
+    "category": "Top News"
+  },
+  {
     "websiteName": "FOX News",
     "title": "US Interim Attorney General Todd Blanche calls speculation surrounding Bondi's firing 'simply not true'",
     "url": "https://www.foxnews.com/media/us-interim-attorney-general-todd-blanche-calls-speculation-surrounding-bondis-firing-simply-not-true",
