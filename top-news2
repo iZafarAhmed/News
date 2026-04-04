@@ -1,5 +1,197 @@
 [
   {
+    "websiteName": "The New York Times",
+    "title": "Epstein Posed as Trump Insider to Influence Indian Billionaire Ambani",
+    "url": "https://www.nytimes.com/2026/04/04/world/asia/epstein-india-ambani.html",
+    "date": "2026-04-04T04:01:09.556Z",
+    "imageUrl": "https://static01.nyt.com/images/2026/03/17/multimedia/17INT-EPSTEIN-INDIA-AMBANI-01-kwcb/17INT-EPSTEIN-INDIA-AMBANI-01-kwcb-mediumSquareAt3X.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "France24",
+    "title": "'Yellow Letters': A Gripping Drama of Artists vs. the Powerful",
+    "url": "https://www.france24.com/en/tv-shows/arts24/20260403-filmmaker-ilker-catak-s-yellow-letters-pits-artists-against-the-powerful",
+    "date": "2026-04-03T13:38:09.558Z",
+    "imageUrl": "https://s.france24.com/media/display/4019329c-2f5b-11f1-af78-005056bf30b7/w:1024/p:16x9/capture-3123817769cfb6d6613371-02941036.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Zerohedge",
+    "title": "Trailer Orders Plunge 43% in February as Industry Demand Craters",
+    "url": "https://www.zerohedge.com/markets/february-net-trailer-orders-down-43-bookings-fall-26",
+    "date": "2026-04-03T22:38:09.558Z",
+    "imageUrl": "https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/Screenshot%202026-04-02%20at%2007.06.31.jpg?itok=PyMHrIef",
+    "category": "Business"
+  },
+  {
+    "websiteName": "9to5Mac",
+    "title": "Apple Drops Public Betas for iPadOS 26.5 and watchOS 26.5",
+    "url": "https://9to5mac.com/2026/04/03/apple-releases-public-betas-for-ipados-26-5-watchos-26-5-and-more/",
+    "date": "2026-04-03T19:38:09.559Z",
+    "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iPadOS-26.5-public-beta.jpg?quality=82&strip=all&w=1600",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "The New York Times",
+    "title": "Trump Proposes Historic $1.5 Trillion Military Budget",
+    "url": "https://www.nytimes.com/2026/04/03/us/politics/white-house-defense-budget.html",
+    "date": "2026-04-03T17:38:09.559Z",
+    "imageUrl": "https://static01.nyt.com/images/2026/03/30/multimedia/00dc-trump-budget-wvfb/00dc-trump-budget-wvfb-mediumSquareAt3X.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "CitizenFreePress",
+    "title": "Trump's Latest Post Sparks Confusion With Missing 'Bueller' Reference",
+    "url": "https://citizenfreepress.com/breaking/post-from-the-donald-is-missing-bueller-at-the-end/",
+    "date": "2026-04-03T21:38:09.559Z",
+    "imageUrl": "https://citizenfreepress.com/wp-content/uploads/2021/07/cropped-Citizen-4.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "ZDNet",
+    "title": "How to Stop Your TV From Spying on You (Beyond Just Disabling ACR)",
+    "url": "https://www.zdnet.com/home-and-office/home-entertainment/how-to-turn-off-hdmi-cec-on-your-tv/",
+    "date": "2026-04-03T14:38:09.559Z",
+    "imageUrl": "https://www.zdnet.com/a/img/resize/7796640193cd63da23abae5127abed96f4984192/2025/12/11/a1a8b615-c7b5-46e1-9192-96f276ffa0d8/4.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "The Guardian World News",
+    "title": "Southern California Wildfires Force Mass Evacuations",
+    "url": "https://www.theguardian.com/us-news/2026/apr/03/wildfires-southern-california",
+    "date": "2026-04-04T01:38:09.559Z",
+    "imageUrl": "https://i.guim.co.uk/img/media/4e8d84bd9c67f1e4aa0fc4f1f407322b3377dada/97_0_722_578/master/722.jpg?width=700&quality=85&auto=format&fit=max&s=3bb303d722a02d73eec4b604d477327a",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Variety",
+    "title": "'Love on the Spectrum' Renewed for Season 5 as Fan Favorite Connor Tomlinson Departs",
+    "url": "https://variety.com/2026/tv/awards/love-on-the-spectrum-renewed-season-5-connor-tomlinson-exits-1236705978/",
+    "date": "2026-04-04T02:38:09.559Z",
+    "imageUrl": "https://variety.com/wp-content/uploads/2026/04/Love-on-the-spectrum.jpg",
+    "category": "Entertainment"
+  },
+  {
+    "websiteName": "South China Morning Post",
+    "title": "Singapore Opposition Leader Cleared After Party Investigation",
+    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3349015/singapores-workers-party-finishes-investigation-chief-pritam-singhs-conduct?utm_source=rss_feed",
+    "date": "2026-04-04T03:43:09.560Z",
+    "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/04/04/7c0d1219-8ae5-4cc9-a703-2e8c286f9531_6bb52017.jpg?itok=BbAZhGzY&v=1775274189",
+    "category": "World News"
+  },
+  {
+    "websiteName": "The Atlantic",
+    "title": "7 Unconventional Novels That Explore Ordinary Lives",
+    "url": "https://www.theatlantic.com/newsletters/2026/04/books-briefing-unconventional-novels-about-conventional-people/686689/?utm_source=feed",
+    "date": "2026-04-03T18:38:09.560Z",
+    "imageUrl": "https://pcdn.brave.com/brave-today/cache/3406b6aa02f438654a4d3476dc4bc53587101d93648d255c095ab71bbb04f28a.jpg.pad",
+    "category": "Culture"
+  },
+  {
+    "websiteName": "FOX News",
+    "title": "Legendary Coaches Dawn Staley and Geno Auriemma in Courtside Clash",
+    "url": "https://www.foxnews.com/sports/legendary-womens-basketball-coaches-dawn-staley-geno-auriemma-get-heated-shouting-match",
+    "date": "2026-04-04T02:38:09.560Z",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/dawn-staley-geno-auriemma-final-four-fox-news-001.jpeg?ve=1&tl=1",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "MakeUseOf",
+    "title": "Switching From ChatGPT to Claude: Why It Finally Felt Like Home",
+    "url": "https://www.makeuseof.com/copied-my-chatgpt-personal-context-into-claude/",
+    "date": "2026-04-03T16:38:09.560Z",
+    "imageUrl": "https://pcdn.brave.com/brave-today/cache/360a279940aa60c64fd62a5cad70755a97d12d8da50489e0f39ea4c7d66bb534.jpg.pad",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Sky News",
+    "title": "Saharan Dust Storm Turns Greek Island's Blue Skies Blood Red",
+    "url": "https://news.sky.com/story/greek-island-of-crete-is-cloaked-by-saharan-dust-storm-turning-its-blue-skies-blood-red-13527132",
+    "date": "2026-04-02T04:38:09.560Z",
+    "imageUrl": "https://e3.365dm.com/26/04/1920x1080/skynews-sahara-crete-heraklion_7209171.jpg?20260402074321",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Conde Nast Traveler",
+    "title": "Why Travel Agents Are Essential During Global Disruptions",
+    "url": "https://www.cntraveler.com/story/the-importance-of-travel-specialists-during-times-of-disruption",
+    "date": "2026-04-02T04:38:09.560Z",
+    "imageUrl": "https://pcdn.brave.com/brave-today/cache/dd31615db4bec13708e0f4780b7a7cdb275a8c9b3b89680c64a041c619c418ad.jpg.pad",
+    "category": "Travel"
+  },
+  {
+    "websiteName": "The Gateway Pundit",
+    "title": "White House Proposes Historic Military Spending Hike in 2027 Budget",
+    "url": "https://www.thegatewaypundit.com/2026/04/white-house-calls-historic-increase-military-spending-2027/",
+    "date": "2026-04-03T23:38:09.560Z",
+    "imageUrl": "https://www.thegatewaypundit.com/wp-content/uploads/2025/09/pentagon-aerial-view-copy-1200x630.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Zerohedge",
+    "title": "Has Hormuz Crisis Overshadowed the Red Sea Threat?",
+    "url": "https://www.zerohedge.com/geopolitical/has-concern-over-hormuz-made-us-forget-red-sea",
+    "date": "2026-04-04T02:38:09.560Z",
+    "imageUrl": "https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/image%20-%202026-04-03T111155.826.jpg?itok=cMEeccXr",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Quartz",
+    "title": "Is Gray Media (GTN) a Smart Buy? What Analysts Aren't Telling You",
+    "url": "https://qz.com/wall-street-analysts-think-gray-media-gtn-is-a-good-investment-is-it",
+    "date": "2026-04-03T23:38:09.560Z",
+    "imageUrl": "chrome-extension://hndjdkkbeeoedlfiglebbkmffmbdnhdb/&target_size=96x64",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Cointelegraph",
+    "title": "Malta vs. ESMA: The Crypto Battle That Could Reshape European Finance",
+    "url": "https://cointelegraph.com/news/centralizing-crypto-why-malta-clash-with-esma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "2026-04-03T12:38:09.560Z",
+    "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDUzMjktODNjYS03NmY5LTliZDUtZTEyNTE4NGY1YjZkLmpwZw==.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Tom's Guide",
+    "title": "3 Fresh Hulu Movies to Stream This Weekend (April 3-5)",
+    "url": "https://www.tomsguide.com/entertainment/hulu/3-new-to-hulu-movies-you-need-to-stream-this-weekend-april-3-5-2026",
+    "date": "2026-04-03T16:38:09.560Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/GrKEecZatbpVd3b9zibwtQ-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Inc.com",
+    "title": "NASA Can Reach the Moon But Can't Fix Outlook Sync Issues",
+    "url": "https://www.inc.com/amaya-nichole/nasa-can-fly-humans-to-the-moon-but-it-still-cant-make-outlook-sync/91326794",
+    "date": "2026-04-03T18:38:09.560Z",
+    "imageUrl": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/04/nasa-artemis-ii-inc.jpg",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Game Rant",
+    "title": "Baldur's Gate 3 Guide: How to Rescue Barcus Wroot and Recover His Pack",
+    "url": "https://gamerant.com/baldurs-gate-3-bg3-save-barcus-wroot-find-pack-location-rescue-gnome-quest-walkthrough/",
+    "date": "2026-04-03T23:38:09.560Z",
+    "imageUrl": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/09/baldurs-gate-3-how-to-save-barcus-wroot-find-his-pack-rescue-gnome-quest.jpg",
+    "category": "Gaming"
+  },
+  {
+    "websiteName": "TechCrunch",
+    "title": "Anonymous Social App Tests Boundaries in Saudi Arabia",
+    "url": "https://techcrunch.com/2026/04/03/the-anonymous-social-app-that-thinks-it-can-work-in-saudi-arabia/",
+    "date": "2026-04-03T21:38:09.560Z",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/54890622985_4720c56f3b_k.jpg?resize=1200,800",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Android Authority",
+    "title": "CarPlay Outpaces Android Auto With New Google Meet Integration",
+    "url": "https://www.androidauthority.com/google-meet-apple-carplay-android-auto-3654720/",
+    "date": "2026-04-03T09:38:09.561Z",
+    "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2020/08/google-maps-carplay.jpg",
+    "category": "Technology"
+  },
+  {
     "websiteName": "CBR",
     "title": "Supergirl's Latest Trailer Ends the DCU's James Gunn Era",
     "url": "https://www.cbr.com/supergirl-end-of-james-gunn-era-dcu/",
