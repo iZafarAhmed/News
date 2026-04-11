@@ -1,5 +1,197 @@
 [
   {
+    "websiteName": "The New York Times",
+    "title": "NASA's Artemis II Mission: A Visual Journey Through All 10 Days of Lunar Exploration",
+    "url": "https://www.nytimes.com/2026/04/10/science/nasa-artemis-ii-moon-mission-photos-earth-eclipse.html",
+    "date": "2026-04-11T00:37:03.421Z",
+    "imageUrl": "https://static01.nyt.com/images/2026/04/09/10HS-ARTEMIS-MISSION-PHOTOS-43756-cover/10HS-ARTEMIS-MISSION-PHOTOS-43756-cover-mediumSquareAt3X.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Seeking Alpha",
+    "title": "Wallbridge Mining Presents Strategic Outlook at John Tumazos Virtual Research Conference",
+    "url": "https://seekingalpha.com/article/4889942-wallbridge-mining-company-limited-wm-ca-presents-at-john-tumazos-very-independent-research?source=feed_all_articles",
+    "date": "2026-04-10T22:37:03.422Z",
+    "imageUrl": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Creative Bloq",
+    "title": "Adobe May Have Cracked AI Video's Most Persistent Challenge",
+    "url": "https://www.creativebloq.com/ai/has-adobe-just-solved-one-of-ai-videos-biggest-problems",
+    "date": "2026-04-10T15:37:03.422Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/w8LH5TJyb7b35F3kkr5ZBc-1280-80.png",
+    "category": "Culture"
+  },
+  {
+    "websiteName": "BBC Good Food",
+    "title": "Discover 13 Science-Backed Health Benefits of Broad Beans (Fava Beans)",
+    "url": "https://www.bbcgoodfood.com/health/13-health-benefits-of-broad-beans-fava-beans",
+    "date": "2026-04-10T10:37:03.423Z",
+    "imageUrl": "https://pcdn.brave.com/brave-today/cache/0689c5141f4ab960e6c530343d79bd75871724f71aa2f8ecfe959e1e86554e9e.jpg.pad",
+    "category": "Other"
+  },
+  {
+    "websiteName": "France24",
+    "title": "Beirut Residents Face Renewed Fear as Airstrikes Target Residential Neighborhoods",
+    "url": "https://www.france24.com/en/relentless-airstrikes-on-beirut-s-residential-areas-remind-lebanese-that-israel-is-enemy-as-well",
+    "date": "2026-04-10T14:37:03.423Z",
+    "imageUrl": "https://s.france24.com/media/display/c14c0ffc-34e1-11f1-bc2e-005056bfb2b6/w:1024/p:16x9/capture-72745540769d8fbfb941947-77254286.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "CitizenFreePress",
+    "title": "Strait of Hormuz Traffic Drops to Just Two Vessels Amid Regional Tensions",
+    "url": "https://citizenfreepress.com/breaking/only-2-ships-passed-through-hormuz-today/",
+    "date": "2026-04-11T01:44:03.423Z",
+    "imageUrl": "https://citizenfreepress.com/wp-content/uploads/2021/07/cropped-Citizen-4.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Al Jazeera",
+    "title": "Diplomatic Tensions Rise Ahead of Critical US-Iran Ceasefire Negotiations in Pakistan",
+    "url": "https://www.aljazeera.com/news/2026/4/10/new-tensions-emerge-before-us-iran-war-ceasefire-talks-in-pakistan?traffic_source=rss",
+    "date": "2026-04-10T18:37:03.423Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/04/ap_69d9451a36303-1775846682.jpg?resize=1920%2C1440",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "CNET News",
+    "title": "Grand National 2026: Your Complete Guide to Streaming Aintree's Iconic Horse Race Worldwide",
+    "url": "https://www.cnet.com/tech/services-and-software/grand-national-2026-livestream-how-to-watch-aintree-horse-racing-from-anywhere/",
+    "date": "2026-04-10T22:37:03.423Z",
+    "imageUrl": "https://www.cnet.com/a/img/resize/cfb0fbb9bf6b0e13185f75f50cee7daff634a736/hub/2026/04/10/e00bf083-fab4-403c-bbb4-8e05c066b293/gettyimages-2208666780.jpg?auto=webp&fit=crop&height=614&width=1092",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Al Jazeera",
+    "title": "Kamala Harris Hints at 2028 Presidential Run After Reflecting on Election Defeat",
+    "url": "https://www.aljazeera.com/news/2026/4/10/democrat-kamala-harris-teases-2028-presidential-bid-following-trump-loss?traffic_source=rss",
+    "date": "2026-04-10T19:37:03.424Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/04/afp_69d9467891cc-1775847032.jpg?resize=1920%2C1440",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "CNET News",
+    "title": "Microsoft Begins Phasing Out 'Copilot' Branding Across Select Windows 11 Applications",
+    "url": "https://www.cnet.com/tech/services-and-software/microsoft-starts-removing-copilot-branding-from-windows-11-but-the-ai-remains/",
+    "date": "2026-04-10T16:37:03.424Z",
+    "imageUrl": "https://www.cnet.com/a/img/resize/b47b513c461d95e8bccd24aadde5faa83bfe205f/hub/2026/04/09/ba93e5cb-f2e3-4933-9f30-e510b2f7c856/gettyimages-2251534549.jpg?auto=webp&fit=crop&height=614&width=1092",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "CBC",
+    "title": "Kamala Harris Leaves Door Open for Potential 2028 Presidential Campaign",
+    "url": "https://www.cbc.ca/news/world/kamala-harris-2028-presidential-election-consideration-9.7160142?cmp=rss",
+    "date": "2026-04-10T23:37:03.424Z",
+    "imageUrl": "https://i.cbc.ca/ais/4613f910-e19c-464a-b2d9-82f2d3110c62,1775865338728/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C66%2C4000%2C2250%29%3BResize%3D%28620%29",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "TechCrunch",
+    "title": "Battery Recycling Firm Ascend Elements Files for Chapter 11 Bankruptcy Protection",
+    "url": "https://techcrunch.com/2026/04/10/battery-recycler-ascend-elements-files-for-bankruptcy/",
+    "date": "2026-04-10T18:37:03.424Z",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/Ascend-Elements-Apex-1_med-2048x1365-1.jpg?resize=1200,800",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Rolling Stone",
+    "title": "Cardi B Seeks Significant Financial Penalties Against Blogger Tasha K Over Alleged Harassment Campaign",
+    "url": "https://www.rollingstone.com/music/music-news/cardi-b-offset-tasha-k-sanctions-alleged-harassment-1235545253/",
+    "date": "2026-04-11T00:37:03.424Z",
+    "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2026/04/cardi-b-Tasha-K-bankruptcy.jpg?w=1600&h=900&crop=1",
+    "category": "Culture"
+  },
+  {
+    "websiteName": "CBS News",
+    "title": "Architectural Renderings Reveal Controversial 'Arc de Trump' Monument Proposal",
+    "url": "https://www.cbsnews.com/video/new-drawings-show-proposed-arc-de-trump/",
+    "date": "2026-04-10T22:37:03.424Z",
+    "imageUrl": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/04/10/9f9e71d8-e55b-4e21-96d5-66bb42b13301/thumbnail/1200x630/b7a0ce79920d8a30206563c9d6762a06/cbsn-fusion-new-drawings-show-proposed-arc-de-trump-thumbnail.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "The Sun US Edition",
+    "title": "Bank of America Executives Issue Dire Four-Word Forecast on Economic Outlook",
+    "url": "https://www.the-sun.com/money/16207900/bank-of-america-boss-warning-future-economy/",
+    "date": "2026-04-10T21:37:03.424Z",
+    "imageUrl": "https://pcdn.brave.com/brave-today/cache/32220af7a660237a37950b49bbcda90e37b4dccf73b560c5b34efa0e9a81bfa6.jpg.pad",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Gizmodo",
+    "title": "Artemis 2 Return: Four Make-or-Break Moments to Follow During Today's Reentry",
+    "url": "https://gizmodo.com/artemis-2-is-coming-in-hot-today-here-are-the-4-critical-phases-to-watch-2000745006",
+    "date": "2026-04-10T15:37:03.424Z",
+    "imageUrl": "https://gizmodo.com/app/uploads/2026/04/Orion-reentry-1280x853.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "NBC News",
+    "title": "Acting CDC Director Accused of Delaying Publication of Pro-Vaccine Efficacy Study",
+    "url": "https://www.nbcnews.com/health/health-news/acting-cdc-director-delayed-release-study-showing-benefit-covid-vaccin-rcna273724",
+    "date": "2026-04-10T20:37:03.424Z",
+    "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/260410-jay-Bhattacharya-ew-352p-79d16e.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Tom's Hardware",
+    "title": "Microsoft Streamlines Windows Insider Program: Easier Channel Switching Without Data Loss",
+    "url": "https://www.tomshardware.com/software/windows/microsoft-simplifies-windows-insider-program-fewer-channels-and-switching-without-wiping-your-device",
+    "date": "2026-04-10T17:37:03.424Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/A3bqjPsbEd6W9WtTAebSpJ-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "NPR",
+    "title": "Hungary's Election: 5 Key Facts Every Voter Should Understand",
+    "url": "https://www.npr.org/2026/04/10/nx-s1-5779931/hungary-election-orban-challenger",
+    "date": "2026-04-10T13:37:03.424Z",
+    "imageUrl": "https://pcdn.brave.com/brave-today/cache/70cbdf39def211758e7f33d8921e6c5a41cf8bda4c0e5982b9bca9b218805379.jpg.pad",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Yahoo Sports",
+    "title": "Detroit Tigers' Parker Meadows Placed on IL With Arm Fracture and Concussion After On-Field Collision",
+    "url": "https://sports.yahoo.com/mlb/article/tigers-parker-meadows-lands-on-10-day-il-with-arm-fracture-concussion-after-collision-sent-of-to-hospital-002733392.html",
+    "date": "2026-04-09T02:37:03.424Z",
+    "imageUrl": "https://s.yimg.com/ny/api/res/1.2/yM2rzmuXOaa4lkMIj_RvDg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-04/71cd78b8-75c8-4a57-8393-4ac9fe62d4c1",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "The Independent World News",
+    "title": "NYC Mayor Eric Adams Granted Honorary Albanian Citizenship in Diplomatic Gesture",
+    "url": "https://www.independent.co.uk/news/world/americas/eric-adams-nyc-mayor-edi-rama-american-b2955601.html",
+    "date": "2026-04-10T19:37:03.424Z",
+    "imageUrl": "https://static.independent.co.uk/2026/03/17/22/Mayor_Sexual_Assault_Lawsuit_46602.jpg?width=1200&auto=webp&crop=3%3A2",
+    "category": "World News"
+  },
+  {
+    "websiteName": "ESPN",
+    "title": "Atlanta Falcons Exercise Fifth-Year Contract Option for Running Back Bijan Robinson",
+    "url": "https://www.espn.com/nfl/story/_/id/48450986/falcons-pick-fifth-year-option-rb-bijan-robinson",
+    "date": "2026-04-11T02:01:03.424Z",
+    "imageUrl": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1013%2Fr1559557_1296x729_16%2D9.jpg",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "Time",
+    "title": "Rep. Jamie Raskin to Brief Democrats on Constitutional Paths: 25th Amendment vs. Impeachment",
+    "url": "https://time.com/article/2026/04/10/rep-jamie-raskin-explains-prospects-of-impeaching-trump-25th-amendment/",
+    "date": "2026-04-10T15:37:03.424Z",
+    "imageUrl": "https://gcp-na-images.contentstack.com/v3/assets/bltea6093859af6183b/blt77bcae76d9abc99b/69d90e1cf9a0bf0b84fde3b2/GettyImages-2260916605.jpg?branch=production&format=jpg&width=1024",
+    "category": "Other"
+  },
+  {
+    "websiteName": "CBR",
+    "title": "How the Dandadan x Chainsaw Man Crossover Helped Both Series Overcome Recent Controversy",
+    "url": "https://www.cbr.com/dandadan-volume-23-chainsaw-man-crossover-sales-data/",
+    "date": "2026-04-10T23:37:03.424Z",
+    "imageUrl": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/04/2246fbfc-e794-493f-9b74-90afb2cd28c3.jpeg",
+    "category": "Entertainment"
+  },
+  {
     "websiteName": "Polygon",
     "title": "Sam Witwer Open to Returning as Starkiller in Future Star Wars Projects",
     "url": "https://www.polygon.com/star-wars-starkiller-canon-sam-witwer/",
