@@ -1,6 +1,46 @@
 [
   {
     "websiteName": "The New York Times",
+    "title": "Live Updates: NASA Says Artemis II Astronauts Are ‘Happy and Healthy’ After Splashdown",
+    "url": "https://www.nytimes.com/live/2026/04/10/science/nasa-artemis-ii-splashdown-return",
+    "date": "2026-04-10T20:00:00Z",
+    "imageUrl": "https://static01.nyt.com/images/2026/04/10/multimedia/10artemis-splashdown-01/10artemis-splashdown-01-mediumSquareAt3X.jpg",
+    "category": "Science"
+  },
+  {
+    "websiteName": "NBC News",
+    "title": "Artemis II astronauts splash down safely after NASA moon mission",
+    "url": "https://www.nbcnews.com/science/space/live-blog/nasa-artemis-ii-splashdown-time-astronauts-live-updates-rcna266591",
+    "date": "2026-04-10T23:30:00Z",
+    "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2026-04/240410-artemis-splashdown-ew-2x1.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "AP News",
+    "title": "US and Iran prepare for high-level talks as Israel and Hezbollah trade more fire",
+    "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-10-2026-1acfb8e733e476b0919689e0682cbb05",
+    "date": "2026-04-10T20:00:00Z",
+    "imageUrl": "https://storage.googleapis.com/afs-prod/media/2026/04/10/iran-us-talks-pakistan.jpg",
+    "category": "World"
+  },
+  {
+    "websiteName": "The New York Times",
+    "title": "Inflation Surges as Effects of the Iran War Show in Prices",
+    "url": "https://www.nytimes.com/live/2026/04/10/business/inflation-cpi-report",
+    "date": "2026-04-10T13:36:00Z",
+    "imageUrl": "https://static01.nyt.com/images/2026/04/10/business/10inflation/10inflation-mediumSquareAt3X.jpg",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Reuters",
+    "title": "Pictures of the Day | April 10, 2026",
+    "url": "https://www.reuters.com/pictures/pictures-day-april-10-2026-2026-04-10/",
+    "date": "2026-04-10T10:53:00Z",
+    "imageUrl": "https://www.reuters.com/resizer/v2/PAKISTAN-IRAN-US-DIPLOMACY.jpg?auth=... (example from gallery)",
+    "category": "World"
+  },
+  {
+    "websiteName": "The New York Times",
     "title": "NASA's Artemis II Mission: A Visual Journey Through All 10 Days of Lunar Exploration",
     "url": "https://www.nytimes.com/2026/04/10/science/nasa-artemis-ii-moon-mission-photos-earth-eclipse.html",
     "date": "2026-04-11T00:37:03.421Z",
