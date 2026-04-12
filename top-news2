@@ -1,5 +1,421 @@
 [
   {
+    "websiteName": "Salon.com",
+    "title": "SNL Skit Highlights Trump's Criticism of Melania's Epstein Remarks",
+    "url": "https://www.salon.com/2026/04/12/who-are-you-me-trump-trashes-melanias-insane-epstein-speech-on-saturday-night-live/",
+    "date": "2026-04-12T15:47:53.784Z",
+    "imageUrl": "https://www.salon.com/app/uploads/2026/04/NUP_210335_00009.jpg",
+    "category": "Culture"
+  },
+  {
+    "websiteName": "CBS News",
+    "title": "Vice President Vance Confirms No Agreement Reached in Lengthy U.S.-Iran Negotiations",
+    "url": "https://www.cbsnews.com/video/vance-says-us-and-iran-did-not-make-a-deal-after-marathon-talks-in-pakistan/",
+    "date": "2026-04-12T14:40:53.785Z",
+    "imageUrl": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/04/12/832fbcd6-7e96-456b-be6e-1832e885ded3/thumbnail/1200x630/15af3ecbcd52bc2d60b6c2b13600552b/cbsn-fusion-vance-says-us-and-iran-did-not-make-a-deal-after-marathon-talks-in-pakistan-thumbnail.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Zerohedge",
+    "title": "Saudi Arabia Reopens Vital Oil Pipeline Following Drone Strike Repairs",
+    "url": "https://www.zerohedge.com/energy/saudi-arabias-most-critical-pipeline-restored-after-drone-attack",
+    "date": "2026-04-12T12:40:53.785Z",
+    "imageUrl": "https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/Snag_4989546c.png?itok=0RO3NdnM",
+    "category": "Business"
+  },
+  {
+    "websiteName": "CoinDesk",
+    "title": "Tether-Linked Super PAC Launches Initial Advertising Campaign with CEO-Founded Agency",
+    "url": "https://www.coindesk.com/policy/2026/04/10/super-pac-tied-to-tether-makes-first-ad-buy-from-firm-founded-by-tether-s-u-s-ceo",
+    "date": "2026-04-12T12:40:53.785Z",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/99dc294f833b46c672b0cdc7f4decad2cdcd8126-4030x2267.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Insider",
+    "title": "Converting a $350M Nuclear Silo Into a Modern Data Hub",
+    "url": "https://www.businessinsider.com/inside-350-million-missile-silo-that-could-become-data-center-2026-4",
+    "date": "2026-04-12T14:40:53.785Z",
+    "imageUrl": "https://i.insider.com/69d668e6cc468aeec524ce48?format=jpeg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Bon Appétit",
+    "title": "The Surprising Appeal of Eating Asparagus Raw",
+    "url": "https://www.bonappetit.com/story/a-delicious-raw-asparagus-salad",
+    "date": "2026-04-12T09:40:53.785Z",
+    "imageUrl": "https://pcdn.brave.com/brave-today/cache/559cfe6c7768579d03802589c2550b91dd0fc8f3c8d4e14939b8f2f35fcf1c79.jpg.pad",
+    "category": "Other"
+  },
+  {
+    "websiteName": "The Motley Fool",
+    "title": "April’s Top Three Dividend Aristocrats Delivering Strong Yields",
+    "url": "https://www.fool.com/investing/2026/04/12/the-3-highest-yielding-dividend-kings-in-april/",
+    "date": "2026-04-12T13:40:53.785Z",
+    "imageUrl": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F864604%2F23_08_01-a-hand-writing-top-3-on-a-clear-screen-_mf-dload.jpg&w=700",
+    "category": "Business"
+  },
+  {
+    "websiteName": "ESPN",
+    "title": "NBA Playoffs Preview: Key Storylines for Lakers, Celtics, Warriors, and More",
+    "url": "https://www.espn.com/nba/story/_/id/48443792/nba-playoffs-intel-lebron-lakers-chances-curry-warriors-issues-major-questions",
+    "date": "2026-04-12T14:40:53.785Z",
+    "imageUrl": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0410%2Fr1641262_1296x729_16%2D9.jpg",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "WSJ Markets",
+    "title": "Expert Picks: Top Emerging Market ETFs for Investors Right Now",
+    "url": "https://www.wsj.com/finance/investing/investing-emerging-market-etfs-mag-7-4f03dd17?mod=rss_markets_main",
+    "date": "2026-04-09T16:40:53.786Z",
+    "imageUrl": "https://images.wsj.net/im-97581342",
+    "category": "Business"
+  },
+  {
+    "websiteName": "How-To Geek",
+    "title": "Reliability Breakdown: Vehicles With the Most Recalls vs. the Most Dependable Models",
+    "url": "https://www.howtogeek.com/most-recalled-cars-vs-ones-rarely-go-back-to-the-shop/",
+    "date": "2026-04-12T13:40:53.786Z",
+    "imageUrl": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/11/2024-ford-f-150-lariat_01-4096x2374.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Cointelegraph",
+    "title": "Daily Crypto Roundup: Today’s Key Market Moves and News",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "2026-04-12T12:40:53.786Z",
+    "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY2NjktN2UxNi03ZmI0LTlmNjItOTIxNWU3YTcwZmIwLmpwZw==.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "NBC News",
+    "title": "Breakdown in U.S.-Iran Diplomacy: Implications for Ongoing Conflict",
+    "url": "https://www.today.com/video/us-and-iran-fail-to-reach-peace-deal-what-it-means-for-the-war-261196869621",
+    "date": "2026-04-12T11:40:53.786Z",
+    "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/mpx/2704722219/2026_04/tdy_welker_260412-9ox4su.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "The Gateway Pundit",
+    "title": "Trump Directs Naval Blockade of Strait of Hormuz Following Iranian Nuclear Standoff",
+    "url": "https://www.thegatewaypundit.com/2026/04/president-trump-orders-u-s-navy-block-any/",
+    "date": "2026-04-12T15:59:53.786Z",
+    "imageUrl": "https://www.thegatewaypundit.com/wp-content/uploads/2026/04/image-from-rawpixel-id-26239725-original-1200x630.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "XDA Developers",
+    "title": "Rockstar Games Hit by Second Major Hack, This Time Demanding Ransom",
+    "url": "https://www.xda-developers.com/gta-vi-developer-rockstar-hacked-again-this-time-for-ransom/",
+    "date": "2026-04-12T13:40:53.786Z",
+    "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/04/gta-vi-screenshot-2.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "NBC News",
+    "title": "Artemis II Leader Reid Wiseman Shares Insights on Upcoming Lunar Journey",
+    "url": "https://www.nbcnews.com/video/shorts/artemis-ii-commander-reid-wiseman-reflects-on-mission-261177925625",
+    "date": "2026-04-11T21:40:53.786Z",
+    "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_04/Reid_Wiseman_Thumb_Vert-2l2xuf.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "TechRadar",
+    "title": "Global Streaming Guide: Where to Watch Euphoria Season 3 Online",
+    "url": "https://www.techradar.com/how-to-watch/tv-shows/euphoria-season-3",
+    "date": "2026-04-12T03:40:53.786Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/z8JtnyHWJY3Ei4yvTzmGtP-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "CoinDesk",
+    "title": "Bitcoin Stabilizes Near $65K as Short-Term Traders Exit Market",
+    "url": "https://www.coindesk.com/markets/2026/04/07/oil-at-usd100-vs-bitcoin-at-usd70k-the-wild-ride-that-fidelity-strategist-says-is-a-real-buying-opportunity",
+    "date": "2026-04-12T14:40:53.786Z",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/19be7778374a432a1d25e3cc4f6c1334f21f9e4d-4368x2912.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "category": "Other"
+  },
+  {
+    "websiteName": "FOX Business",
+    "title": "Reports Emerge of Multiple Injuries Following Shooting at New Jersey Restaurant",
+    "url": "https://www.foxbusiness.com/fox-news-crime/multiple-people-injured-after-mass-shooting-new-jersey-chick-fil-a-report",
+    "date": "2026-04-12T03:40:53.786Z",
+    "imageUrl": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/03/chick-fil-a-restaurant-with-drive-thru.jpg",
+    "category": "Business"
+  },
+  {
+    "websiteName": "The New York Times",
+    "title": "Key Obstacles in U.S.-Iran Negotiations: Hormuz Access and Uranium Reserves",
+    "url": "https://www.nytimes.com/2026/04/11/world/middleeast/iran-strait-of-hormuz-uranium-stockpile-sticking-points.html",
+    "date": "2026-04-12T11:40:53.786Z",
+    "imageUrl": "https://static01.nyt.com/images/2026/04/11/multimedia/11israel-iran-talks-iranian-side-fzvh/11israel-iran-talks-iranian-side-fzvh-mediumSquareAt3X.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "The Independent World News",
+    "title": "AI-Generated Campaign Ad Depicts Trump Turning White House Grounds Into Fighting Arena",
+    "url": "https://www.independent.co.uk/tv/news/trump-ai-ufc-white-house-video-b2956117.html",
+    "date": "2026-04-12T14:40:53.786Z",
+    "imageUrl": "https://static.independent.co.uk/2026/04/12/14/45/Video-News-Graphic-Designs-(57).jpg?width=1200&auto=webp&trim=0%2C100%2C0%2C100",
+    "category": "World News"
+  },
+  {
+    "websiteName": "The Guardian World News",
+    "title": "Behind the Scenes of the 21-Hour U.S.-Iran Diplomatic Sprint",
+    "url": "https://www.theguardian.com/world/2026/apr/12/us-iran-21-hours-talks-war-vance-pakistan",
+    "date": "2026-04-12T13:40:53.786Z",
+    "imageUrl": "https://i.guim.co.uk/img/media/81ad6b6cf0692f0756b29bb8031774ec5358da5e/342_0_3409_2729/master/3409.jpg?width=700&quality=85&auto=format&fit=max&s=a51e78620d5e332946ccf186ff867990",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Mashable",
+    "title": "Tax Day Perks: Free Donuts and Deals to Ease the Financial Burden",
+    "url": "https://mashable.com/article/tax-day-free-food-deals-krispy-kreme-2026",
+    "date": "2026-04-10T16:40:53.786Z",
+    "imageUrl": "https://helios-i.mashable.com/imagery/articles/00zQ7nIovShAX9YQloIAKfL/hero-image.png",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Healthline",
+    "title": "Misdiagnosed as Diet Issues, Patient’s Struggle Leads to Crohn’s Disease Revelation",
+    "url": "https://www.healthline.com/health-news/crohns-disease-pain-not-diet",
+    "date": "2026-04-12T15:48:53.786Z",
+    "imageUrl": "https://media.post.rvohealth.io/wp-content/uploads/2026/04/Diet-Crohns-Jamie-and-Mom-Header.jpg",
+    "category": "Health"
+  },
+  {
+    "websiteName": "The New York Times",
+    "title": "Live Updates: NASA Says Artemis II Astronauts Are ‘Happy and Healthy’ After Splashdown",
+    "url": "https://www.nytimes.com/live/2026/04/10/science/nasa-artemis-ii-splashdown-return",
+    "date": "2026-04-10T20:00:00Z",
+    "imageUrl": "https://static01.nyt.com/images/2026/04/10/multimedia/10artemis-splashdown-01/10artemis-splashdown-01-mediumSquareAt3X.jpg",
+    "category": "Science"
+  },
+  {
+    "websiteName": "NBC News",
+    "title": "Artemis II astronauts splash down safely after NASA moon mission",
+    "url": "https://www.nbcnews.com/science/space/live-blog/nasa-artemis-ii-splashdown-time-astronauts-live-updates-rcna266591",
+    "date": "2026-04-10T23:30:00Z",
+    "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2026-04/240410-artemis-splashdown-ew-2x1.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "AP News",
+    "title": "US and Iran prepare for high-level talks as Israel and Hezbollah trade more fire",
+    "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-10-2026-1acfb8e733e476b0919689e0682cbb05",
+    "date": "2026-04-10T20:00:00Z",
+    "imageUrl": "https://storage.googleapis.com/afs-prod/media/2026/04/10/iran-us-talks-pakistan.jpg",
+    "category": "World"
+  },
+  {
+    "websiteName": "The New York Times",
+    "title": "Inflation Surges as Effects of the Iran War Show in Prices",
+    "url": "https://www.nytimes.com/live/2026/04/10/business/inflation-cpi-report",
+    "date": "2026-04-10T13:36:00Z",
+    "imageUrl": "https://static01.nyt.com/images/2026/04/10/business/10inflation/10inflation-mediumSquareAt3X.jpg",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Reuters",
+    "title": "Pictures of the Day | April 10, 2026",
+    "url": "https://www.reuters.com/pictures/pictures-day-april-10-2026-2026-04-10/",
+    "date": "2026-04-10T10:53:00Z",
+    "imageUrl": "https://www.reuters.com/resizer/v2/PAKISTAN-IRAN-US-DIPLOMACY.jpg?auth=... (example from gallery)",
+    "category": "World"
+  },
+  {
+    "websiteName": "The New York Times",
+    "title": "NASA's Artemis II Mission: A Visual Journey Through All 10 Days of Lunar Exploration",
+    "url": "https://www.nytimes.com/2026/04/10/science/nasa-artemis-ii-moon-mission-photos-earth-eclipse.html",
+    "date": "2026-04-11T00:37:03.421Z",
+    "imageUrl": "https://static01.nyt.com/images/2026/04/09/10HS-ARTEMIS-MISSION-PHOTOS-43756-cover/10HS-ARTEMIS-MISSION-PHOTOS-43756-cover-mediumSquareAt3X.jpg",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Seeking Alpha",
+    "title": "Wallbridge Mining Presents Strategic Outlook at John Tumazos Virtual Research Conference",
+    "url": "https://seekingalpha.com/article/4889942-wallbridge-mining-company-limited-wm-ca-presents-at-john-tumazos-very-independent-research?source=feed_all_articles",
+    "date": "2026-04-10T22:37:03.422Z",
+    "imageUrl": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Creative Bloq",
+    "title": "Adobe May Have Cracked AI Video's Most Persistent Challenge",
+    "url": "https://www.creativebloq.com/ai/has-adobe-just-solved-one-of-ai-videos-biggest-problems",
+    "date": "2026-04-10T15:37:03.422Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/w8LH5TJyb7b35F3kkr5ZBc-1280-80.png",
+    "category": "Culture"
+  },
+  {
+    "websiteName": "BBC Good Food",
+    "title": "Discover 13 Science-Backed Health Benefits of Broad Beans (Fava Beans)",
+    "url": "https://www.bbcgoodfood.com/health/13-health-benefits-of-broad-beans-fava-beans",
+    "date": "2026-04-10T10:37:03.423Z",
+    "imageUrl": "https://pcdn.brave.com/brave-today/cache/0689c5141f4ab960e6c530343d79bd75871724f71aa2f8ecfe959e1e86554e9e.jpg.pad",
+    "category": "Other"
+  },
+  {
+    "websiteName": "France24",
+    "title": "Beirut Residents Face Renewed Fear as Airstrikes Target Residential Neighborhoods",
+    "url": "https://www.france24.com/en/relentless-airstrikes-on-beirut-s-residential-areas-remind-lebanese-that-israel-is-enemy-as-well",
+    "date": "2026-04-10T14:37:03.423Z",
+    "imageUrl": "https://s.france24.com/media/display/c14c0ffc-34e1-11f1-bc2e-005056bfb2b6/w:1024/p:16x9/capture-72745540769d8fbfb941947-77254286.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "CitizenFreePress",
+    "title": "Strait of Hormuz Traffic Drops to Just Two Vessels Amid Regional Tensions",
+    "url": "https://citizenfreepress.com/breaking/only-2-ships-passed-through-hormuz-today/",
+    "date": "2026-04-11T01:44:03.423Z",
+    "imageUrl": "https://citizenfreepress.com/wp-content/uploads/2021/07/cropped-Citizen-4.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Al Jazeera",
+    "title": "Diplomatic Tensions Rise Ahead of Critical US-Iran Ceasefire Negotiations in Pakistan",
+    "url": "https://www.aljazeera.com/news/2026/4/10/new-tensions-emerge-before-us-iran-war-ceasefire-talks-in-pakistan?traffic_source=rss",
+    "date": "2026-04-10T18:37:03.423Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/04/ap_69d9451a36303-1775846682.jpg?resize=1920%2C1440",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "CNET News",
+    "title": "Grand National 2026: Your Complete Guide to Streaming Aintree's Iconic Horse Race Worldwide",
+    "url": "https://www.cnet.com/tech/services-and-software/grand-national-2026-livestream-how-to-watch-aintree-horse-racing-from-anywhere/",
+    "date": "2026-04-10T22:37:03.423Z",
+    "imageUrl": "https://www.cnet.com/a/img/resize/cfb0fbb9bf6b0e13185f75f50cee7daff634a736/hub/2026/04/10/e00bf083-fab4-403c-bbb4-8e05c066b293/gettyimages-2208666780.jpg?auto=webp&fit=crop&height=614&width=1092",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Al Jazeera",
+    "title": "Kamala Harris Hints at 2028 Presidential Run After Reflecting on Election Defeat",
+    "url": "https://www.aljazeera.com/news/2026/4/10/democrat-kamala-harris-teases-2028-presidential-bid-following-trump-loss?traffic_source=rss",
+    "date": "2026-04-10T19:37:03.424Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/04/afp_69d9467891cc-1775847032.jpg?resize=1920%2C1440",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "CNET News",
+    "title": "Microsoft Begins Phasing Out 'Copilot' Branding Across Select Windows 11 Applications",
+    "url": "https://www.cnet.com/tech/services-and-software/microsoft-starts-removing-copilot-branding-from-windows-11-but-the-ai-remains/",
+    "date": "2026-04-10T16:37:03.424Z",
+    "imageUrl": "https://www.cnet.com/a/img/resize/b47b513c461d95e8bccd24aadde5faa83bfe205f/hub/2026/04/09/ba93e5cb-f2e3-4933-9f30-e510b2f7c856/gettyimages-2251534549.jpg?auto=webp&fit=crop&height=614&width=1092",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "CBC",
+    "title": "Kamala Harris Leaves Door Open for Potential 2028 Presidential Campaign",
+    "url": "https://www.cbc.ca/news/world/kamala-harris-2028-presidential-election-consideration-9.7160142?cmp=rss",
+    "date": "2026-04-10T23:37:03.424Z",
+    "imageUrl": "https://i.cbc.ca/ais/4613f910-e19c-464a-b2d9-82f2d3110c62,1775865338728/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C66%2C4000%2C2250%29%3BResize%3D%28620%29",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "TechCrunch",
+    "title": "Battery Recycling Firm Ascend Elements Files for Chapter 11 Bankruptcy Protection",
+    "url": "https://techcrunch.com/2026/04/10/battery-recycler-ascend-elements-files-for-bankruptcy/",
+    "date": "2026-04-10T18:37:03.424Z",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/Ascend-Elements-Apex-1_med-2048x1365-1.jpg?resize=1200,800",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "Rolling Stone",
+    "title": "Cardi B Seeks Significant Financial Penalties Against Blogger Tasha K Over Alleged Harassment Campaign",
+    "url": "https://www.rollingstone.com/music/music-news/cardi-b-offset-tasha-k-sanctions-alleged-harassment-1235545253/",
+    "date": "2026-04-11T00:37:03.424Z",
+    "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2026/04/cardi-b-Tasha-K-bankruptcy.jpg?w=1600&h=900&crop=1",
+    "category": "Culture"
+  },
+  {
+    "websiteName": "CBS News",
+    "title": "Architectural Renderings Reveal Controversial 'Arc de Trump' Monument Proposal",
+    "url": "https://www.cbsnews.com/video/new-drawings-show-proposed-arc-de-trump/",
+    "date": "2026-04-10T22:37:03.424Z",
+    "imageUrl": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/04/10/9f9e71d8-e55b-4e21-96d5-66bb42b13301/thumbnail/1200x630/b7a0ce79920d8a30206563c9d6762a06/cbsn-fusion-new-drawings-show-proposed-arc-de-trump-thumbnail.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "The Sun US Edition",
+    "title": "Bank of America Executives Issue Dire Four-Word Forecast on Economic Outlook",
+    "url": "https://www.the-sun.com/money/16207900/bank-of-america-boss-warning-future-economy/",
+    "date": "2026-04-10T21:37:03.424Z",
+    "imageUrl": "https://pcdn.brave.com/brave-today/cache/32220af7a660237a37950b49bbcda90e37b4dccf73b560c5b34efa0e9a81bfa6.jpg.pad",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Gizmodo",
+    "title": "Artemis 2 Return: Four Make-or-Break Moments to Follow During Today's Reentry",
+    "url": "https://gizmodo.com/artemis-2-is-coming-in-hot-today-here-are-the-4-critical-phases-to-watch-2000745006",
+    "date": "2026-04-10T15:37:03.424Z",
+    "imageUrl": "https://gizmodo.com/app/uploads/2026/04/Orion-reentry-1280x853.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "NBC News",
+    "title": "Acting CDC Director Accused of Delaying Publication of Pro-Vaccine Efficacy Study",
+    "url": "https://www.nbcnews.com/health/health-news/acting-cdc-director-delayed-release-study-showing-benefit-covid-vaccin-rcna273724",
+    "date": "2026-04-10T20:37:03.424Z",
+    "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/260410-jay-Bhattacharya-ew-352p-79d16e.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Tom's Hardware",
+    "title": "Microsoft Streamlines Windows Insider Program: Easier Channel Switching Without Data Loss",
+    "url": "https://www.tomshardware.com/software/windows/microsoft-simplifies-windows-insider-program-fewer-channels-and-switching-without-wiping-your-device",
+    "date": "2026-04-10T17:37:03.424Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/A3bqjPsbEd6W9WtTAebSpJ-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "NPR",
+    "title": "Hungary's Election: 5 Key Facts Every Voter Should Understand",
+    "url": "https://www.npr.org/2026/04/10/nx-s1-5779931/hungary-election-orban-challenger",
+    "date": "2026-04-10T13:37:03.424Z",
+    "imageUrl": "https://pcdn.brave.com/brave-today/cache/70cbdf39def211758e7f33d8921e6c5a41cf8bda4c0e5982b9bca9b218805379.jpg.pad",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Yahoo Sports",
+    "title": "Detroit Tigers' Parker Meadows Placed on IL With Arm Fracture and Concussion After On-Field Collision",
+    "url": "https://sports.yahoo.com/mlb/article/tigers-parker-meadows-lands-on-10-day-il-with-arm-fracture-concussion-after-collision-sent-of-to-hospital-002733392.html",
+    "date": "2026-04-09T02:37:03.424Z",
+    "imageUrl": "https://s.yimg.com/ny/api/res/1.2/yM2rzmuXOaa4lkMIj_RvDg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-04/71cd78b8-75c8-4a57-8393-4ac9fe62d4c1",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "The Independent World News",
+    "title": "NYC Mayor Eric Adams Granted Honorary Albanian Citizenship in Diplomatic Gesture",
+    "url": "https://www.independent.co.uk/news/world/americas/eric-adams-nyc-mayor-edi-rama-american-b2955601.html",
+    "date": "2026-04-10T19:37:03.424Z",
+    "imageUrl": "https://static.independent.co.uk/2026/03/17/22/Mayor_Sexual_Assault_Lawsuit_46602.jpg?width=1200&auto=webp&crop=3%3A2",
+    "category": "World News"
+  },
+  {
+    "websiteName": "ESPN",
+    "title": "Atlanta Falcons Exercise Fifth-Year Contract Option for Running Back Bijan Robinson",
+    "url": "https://www.espn.com/nfl/story/_/id/48450986/falcons-pick-fifth-year-option-rb-bijan-robinson",
+    "date": "2026-04-11T02:01:03.424Z",
+    "imageUrl": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1013%2Fr1559557_1296x729_16%2D9.jpg",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "Time",
+    "title": "Rep. Jamie Raskin to Brief Democrats on Constitutional Paths: 25th Amendment vs. Impeachment",
+    "url": "https://time.com/article/2026/04/10/rep-jamie-raskin-explains-prospects-of-impeaching-trump-25th-amendment/",
+    "date": "2026-04-10T15:37:03.424Z",
+    "imageUrl": "https://gcp-na-images.contentstack.com/v3/assets/bltea6093859af6183b/blt77bcae76d9abc99b/69d90e1cf9a0bf0b84fde3b2/GettyImages-2260916605.jpg?branch=production&format=jpg&width=1024",
+    "category": "Other"
+  },
+  {
+    "websiteName": "CBR",
+    "title": "How the Dandadan x Chainsaw Man Crossover Helped Both Series Overcome Recent Controversy",
+    "url": "https://www.cbr.com/dandadan-volume-23-chainsaw-man-crossover-sales-data/",
+    "date": "2026-04-10T23:37:03.424Z",
+    "imageUrl": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/04/2246fbfc-e794-493f-9b74-90afb2cd28c3.jpeg",
+    "category": "Entertainment"
+  },
+  {
     "websiteName": "Polygon",
     "title": "Sam Witwer Open to Returning as Starkiller in Future Star Wars Projects",
     "url": "https://www.polygon.com/star-wars-starkiller-canon-sam-witwer/",
