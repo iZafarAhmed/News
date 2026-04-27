@@ -1,5 +1,197 @@
 [
   {
+    "websiteName": "CBS News",
+    "title": "What we know about the suspect in shooting at White House Correspondents' Dinner",
+    "url": "https://www.cbsnews.com/news/white-house-correspondents-dinner-shooting-suspect-cole-allen/",
+    "date": "2026-04-27T00:28:56.391Z",
+    "imageUrl": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/04/26/426f2aa4-adf5-4a94-bb7e-c930bd991ce0/thumbnail/1200x630/d3747183999571f0ff10444d0ad03085/gettyimages-2272613170.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "Screenrant",
+    "title": "How Supergirl Expands The DC Universe On A Cosmic Scale With Its Most Complex Character Yet",
+    "url": "https://screenrant.com/supergirl-director-craig-gillespie-on-kara-zor-els/",
+    "date": "2026-04-27T02:33:56.392Z",
+    "imageUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/04/milly-alcock-as-kara-zor-el-mid-fight-in-dcu-s-supergirl-movie.jpg",
+    "category": "Entertainment"
+  },
+  {
+    "websiteName": "Wired",
+    "title": "What Type of Mattress Is Right for You? (2026)",
+    "url": "https://www.wired.com/story/mattress-types-explained/",
+    "date": "2026-04-26T08:28:56.393Z",
+    "imageUrl": "https://media.wired.com/photos/69ebdc736307fcedb3d74cac/master/pass/What%E2%80%99s-Your-Ideal-Mattress-Type-.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "ESPN",
+    "title": "Enzo Fernández helps Chelsea book FA Cup final spot",
+    "url": "https://www.espn.com/soccer/story/_/id/48601375/liam-rosenior-villain-turns-chelsea-hero-enzo-fernandez-books-fa-cup-final-spot-leeds-united",
+    "date": "2026-04-26T22:28:56.393Z",
+    "imageUrl": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0426%2Fr1649524_1296x729_16%2D9.jpg",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "The Daily Beast",
+    "title": "Last Remaining Member of Historic Girl Group Dies at 80",
+    "url": "https://www.thedailybeast.com/last-remaining-member-of-historic-girl-group-the-ronettes-nedra-talley-ross-dies-at-80/",
+    "date": "2026-04-26T23:28:56.393Z",
+    "imageUrl": "https://thedailybeast-thedailybeast-prod.web.arc-cdn.net/resizer/v2/P3AB3CUWKZF3HG26KMMXXVJDDI.jpg?auth=337b594ecaec5a9ad23238e7be45ccbee6612804c86a8efbc1ab82fc22a26513&smart=true&width=2400&height=1350",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "TechRadar",
+    "title": "Stop the financial bleed! How Orbit fights back against the dreaded 'Subscription Creep'",
+    "url": "https://www.techradar.com/computing/websites-apps/orbit",
+    "date": "2026-04-26T17:28:56.393Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/cik8AtYUXGzpxGqAM9RhaB-1280-80.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "WSJ World News",
+    "title": "King Charles Is on a Mission to Salvage U.K. Relations With Trump",
+    "url": "https://www.wsj.com/world/uk/king-charles-is-on-a-mission-to-salvage-u-k-relations-with-trump-5df933e3",
+    "date": "2026-04-26T23:28:56.393Z",
+    "imageUrl": "https://images.wsj.net/im-11166172",
+    "category": "World News"
+  },
+  {
+    "websiteName": "CBC",
+    "title": "Pro rock climber dies after falling 20 metres from Stawamus Chief in Squamish, B.C.",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/man-dies-after-falling-from-stawamus-chief-9.7177477?cmp=rss",
+    "date": "2026-04-25T03:28:56.393Z",
+    "imageUrl": "https://i.cbc.ca/ais/1.5186652,1561252589000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C18%2C640%2C360%29%3BResize%3D%28620%29",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Mashable",
+    "title": "Hurdle hints and answers for April 26, 2026",
+    "url": "https://mashable.com/article/hurdle-hints-answers-april-26-2026",
+    "date": "2026-04-26T03:28:56.393Z",
+    "imageUrl": "https://helios-i.mashable.com/imagery/articles/02mTqbcBRJpmXjQAsxZsV2i/hero-image.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "CBSSports",
+    "title": "In defense of Diego Pavia: Separating narrative from reality as Vandy QB goes undrafted in 2026 NFL Draft",
+    "url": "https://www.cbssports.com/college-football/news/diego-pavia-nfl-draft-2026-vanderbilt-snub-narrative/",
+    "date": "2026-04-26T21:28:56.393Z",
+    "imageUrl": "https://pcdn.brave.com/brave-today/cache/cb848dd3bda0772ff35e0983fabcf27478f639106861fac47a1e590728bd2d38.jpg.pad",
+    "category": "Sports"
+  },
+  {
+    "websiteName": "The Motley Fool",
+    "title": "Why More Institutional Investors Are Adding Bitcoin to Their Balance Sheets",
+    "url": "https://www.fool.com/investing/2026/04/26/institutional-investors-add-bitcoin-balance-sheet/",
+    "date": "2026-04-26T21:28:56.394Z",
+    "imageUrl": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F864904%2Fbitcoin-logo-in-front-of-wall-street-sign.jpg&w=700",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Axios",
+    "title": "Trump condemns Correspondents' Dinner shooter, says WH ballroom needed",
+    "url": "https://www.axios.com/2026/04/26/trump-white-house-correspondents-dinner-shooting",
+    "date": "2026-04-25T03:28:56.394Z",
+    "imageUrl": "https://images.axios.com/CjhxsQsLjmExaHtYs_YFGWtxMWQ=/0x267:4000x2517/1366x768/2026/04/26/1777172673547.jpeg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Space.com",
+    "title": "The 'Oscars of Science': Breakthrough Prize 2026 awards over $18 million for discoveries across space, physics and more",
+    "url": "https://www.space.com/technology/the-oscars-of-science-breakthrough-prize-2026-awards-over-usd18-million-for-discoveries-across-space-physics-and-more",
+    "date": "2026-04-26T13:28:56.394Z",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/NJDws8rLJ9tQv5PYEDXxSi-1280-80.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Comicbook",
+    "title": "I Can’t Believe The Boys Just Robbed Us of 1 Happy Ending We’ve Wanted for 7 Years",
+    "url": "https://comicbook.com/tv-shows/feature/i-cant-believe-the-boys-just-robbed-us-of-1-happy-ending-weve-wanted-for-7-years/",
+    "date": "2026-04-27T01:28:56.394Z",
+    "imageUrl": "https://comicbook.com/wp-content/uploads/sites/4/2026/04/The-Boys-Team-Season-5.jpg?w=1056",
+    "category": "Gaming"
+  },
+  {
+    "websiteName": "Fortune",
+    "title": "The ‘obscene economics’ of modern warfare show how the race to military supremacy is transforming, while U.S. rearmament relies on China",
+    "url": "https://fortune.com/2026/04/26/obscene-economics-warfare-iran-war-ukraine-military-supremacy-us-china/",
+    "date": "2026-04-26T23:28:56.394Z",
+    "imageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/04/9545931-e1777237780639.jpg?w=2048",
+    "category": "Business"
+  },
+  {
+    "websiteName": "Mashable",
+    "title": "NYT Strands hints, answers for April 27, 2026",
+    "url": "https://mashable.com/article/strands-nyt-hint-april-27-2026",
+    "date": "2026-04-27T01:28:56.394Z",
+    "imageUrl": "https://helios-i.mashable.com/imagery/articles/07MhM9NcTxVNT0VsaOLiUat/hero-image.jpg",
+    "category": "Technology"
+  },
+  {
+    "websiteName": "WSJ World News",
+    "title": "Trump’s Fears on the Iran War",
+    "url": "https://www.wsj.com/politics/trumps-fears-on-the-iran-war-2a28b672",
+    "date": "2026-04-26T15:28:56.394Z",
+    "imageUrl": "https://images.wsj.net/im-37539748",
+    "category": "World News"
+  },
+  {
+    "websiteName": "The Sun US Edition",
+    "title": "Trump recalls terrifying moment he was surrounded by agents and forced to crawl on the floor as shots rang out at dinner",
+    "url": "https://www.the-sun.com/news/16277497/trump-recalls-terrifying-moment-forced-crawl-shots-rang-out/",
+    "date": "2026-04-27T00:28:56.394Z",
+    "imageUrl": "https://www.the-sun.com/wp-content%2Fuploads%2Fsites%2F6%2F2026%2F04%2F2026-screen-capture-video-reuters-1076268706.jpg?quality%3D90%26strip%3Dall",
+    "category": "Other"
+  },
+  {
+    "websiteName": "CBS News",
+    "title": "Deadly tornadoes pummel North Texas",
+    "url": "https://www.cbsnews.com/video/deadly-tornadoes-pummel-north-texas/",
+    "date": "2026-04-27T00:28:56.394Z",
+    "imageUrl": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/04/27/3ce3ed4e-0695-4922-bc32-b26467cb820d/thumbnail/1200x630/df989da561debdeff7da43d30ab251b1/cbsn-fusion-deadly-tornadoes-pummel-north-texas-thumbnail.jpg",
+    "category": "World News"
+  },
+  {
+    "websiteName": "The Gateway Pundit",
+    "title": "WHCD Shooting Should Force a Serious Conversation About Teacher Bias in K–12 Education",
+    "url": "https://www.thegatewaypundit.com/2026/04/whcd-shooting-should-force-serious-conversation-about-teacher/",
+    "date": "2026-04-26T23:28:56.394Z",
+    "imageUrl": "https://www.thegatewaypundit.com/wp-content/uploads/2026/04/untitled-design-2026-04-26t183855.689-1200x630.png",
+    "category": "Other"
+  },
+  {
+    "websiteName": "FOX News",
+    "title": "Hormuz crisis spurs $24B Iraq trade corridor as Gulf routes shift",
+    "url": "https://www.foxnews.com/world/hormuz-crisis-spurs-24b-iraq-trade-corridor-gulf-routes-shift",
+    "date": "2026-04-27T00:28:56.394Z",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/07/931/523/GettyImages-1238914604.jpg?ve=1&tl=1",
+    "category": "Top News"
+  },
+  {
+    "websiteName": "Breitbart",
+    "title": "Exclusive — Rachel Bovard: Senate Republicans 'Waiting to Be Led' to Pass SAVE America Act",
+    "url": "https://www.breitbart.com/politics/2026/04/26/exclusive-rachel-bovard-senate-republicans-waiting-led-pass-save-america-act/",
+    "date": "2026-04-27T00:28:56.394Z",
+    "imageUrl": "https://media.breitbart.com/media/2026/04/Rachel-Bovard-Conservative-Partnership-Institute-file2022-getty-640x335.jpg",
+    "category": "Other"
+  },
+  {
+    "websiteName": "Comicbook",
+    "title": "5 Anime Where the Side Characters Are More Interesting Than the Leads",
+    "url": "https://comicbook.com/anime/list/5-anime-where-the-side-characters-are-more-interesting-than-the-leads/",
+    "date": "2026-04-27T00:28:56.394Z",
+    "imageUrl": "https://comicbook.com/wp-content/uploads/sites/4/2026/02/Demon-Slayer-Tanjiro-Kamado.jpeg?w=1056",
+    "category": "Gaming"
+  },
+  {
+    "websiteName": "Sportingnews",
+    "title": "Savannah Bananas TV schedule 2026: Dates, times, channels, live streams to watch Banana Ball games",
+    "url": "https://www.sportingnews.com/us/tsn/news/savannah-bananas-tv-schedule-2026-dates-times-channels-streams-watch/326cf4383af42cca66b4ef84",
+    "date": "2026-04-27T00:28:56.394Z",
+    "imageUrl": "https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2026-02/Savannah%20Bananas%20022526.jpg.webp?itok=01NBbz8j",
+    "category": "Sports"
+  },
+  {
     "websiteName": "Variety",
     "title": "Wim Wenders Presents Yakusho Koji With Far East Film Festival’s Golden Mulberry, Describes Shooting ‘Perfect Days’ With the Discipline of a Documentary",
     "url": "https://variety.com/2026/film/festivals/wim-wenders-yakusho-koji-far-east-film-festival-honor-1236730767/",
